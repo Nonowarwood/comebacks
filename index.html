@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NONOWARWOOD — Comeback Tracker</title>
+<meta name="description" content="Comeback Tracker — le planning des prochains comebacks kpop, tenu par Nonowarwood.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800;900&family=Archivo+Narrow:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f1eee6;
+    --paper-2: #eae6db;
+    --navy: #1e2a4a;
+    --navy-soft: rgba(30, 42, 74, .55);
+    --red: #8b2318;
+    --line: rgba(30, 42, 74, .35);
+    --ease: cubic-bezier(.16, 1, .3, 1);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--navy);
+    font-family: "Archivo", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100svh;
+  }
+
+  /* grain papier */
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 999;
+    opacity: .5;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3CfeComponentTransfer%3E%3CfeFuncA type='linear' slope='0.06'/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  .wrap {
+    width: min(860px, 100%);
+    margin: 0 auto;
+    padding: clamp(24px, 5vw, 56px) 20px calc(clamp(24px, 5vw, 56px) + 52px);
+  }
+
+  .rise { animation: rise .8s var(--ease) both; }
+
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: none; }
+  }
+
+  /* bandeau haut façon fiche technique */
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 16px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--navy);
+  }
+
+  .masthead .b { font-weight: 800; text-transform: uppercase; font-size: 15px; letter-spacing: -.01em; }
+  .masthead .m {
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 11.5px; letter-spacing: .16em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+  .masthead .r { font-weight: 800; text-transform: uppercase; font-size: 15px; color: var(--red); }
+
+  h1 {
+    margin-top: 26px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: -.02em;
+    line-height: .95;
+    font-size: clamp(38px, 9vw, 64px);
+  }
+
+  h1 .thin { color: transparent; -webkit-text-stroke: 1.6px var(--navy); }
+
+  .sub {
+    margin-top: 10px;
+    padding-bottom: 18px;
+    border-bottom: 1px solid var(--line);
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 11.5px; letter-spacing: .16em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  /* prochain comeback */
+  .hero {
+    margin-top: 22px;
+    border: 1px solid var(--navy);
+    background: color-mix(in srgb, var(--paper) 82%, transparent);
+    box-shadow: 6px 6px 0 rgba(30, 42, 74, .12);
+    padding: clamp(18px, 4vw, 28px);
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 18px;
+    align-items: center;
+  }
+
+  .hero .tag {
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 11px; letter-spacing: .16em;
+    text-transform: uppercase; color: var(--red);
+  }
+
+  .hero .artist {
+    margin-top: 8px;
+    font-weight: 900; text-transform: uppercase; letter-spacing: -.01em;
+    line-height: 1;
+    font-size: clamp(24px, 6vw, 38px);
+  }
+
+  .hero .album {
+    margin-top: 6px;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 13px; letter-spacing: .1em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  .hero .when {
+    margin-top: 12px;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 11px; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  .hero .dday {
+    text-align: right;
+    border-left: 1px solid var(--line);
+    padding-left: 18px;
+  }
+
+  .hero .dday .d {
+    font-weight: 900;
+    font-size: clamp(34px, 8vw, 56px);
+    letter-spacing: -.02em;
+    color: var(--red);
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .hero .dday .clock {
+    margin-top: 8px;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 12px; letter-spacing: .14em;
+    color: var(--navy-soft);
+    font-variant-numeric: tabular-nums;
+  }
+
+  @media (max-width: 560px) {
+    .hero { grid-template-columns: 1fr; }
+    .hero .dday { text-align: left; border-left: 0; padding-left: 0; border-top: 1px solid var(--line); padding-top: 14px; }
+  }
+
+  /* sections mois */
+  .month {
+    margin-top: 36px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--navy);
+  }
+
+  .month h2 { font-weight: 900; text-transform: uppercase; letter-spacing: -.01em; font-size: 20px; }
+  .month .count {
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 11px; letter-spacing: .14em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  /* lignes de comebacks */
+  .row {
+    display: grid;
+    grid-template-columns: 34px 44px 1fr auto;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 2px;
+    border-bottom: 1px solid var(--line);
+    background: linear-gradient(var(--paper-2), var(--paper-2)) left / 0 100% no-repeat;
+    transition: background-size .4s var(--ease), padding-left .4s var(--ease);
+  }
+
+  .row:hover { background-size: 100% 100%; padding-left: 10px; }
+
+  .row .num {
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 11px; letter-spacing: .1em;
+    color: var(--navy-soft);
+  }
+
+  .row .day {
+    font-weight: 900; font-size: 19px; letter-spacing: -.01em;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .row .who .a {
+    font-weight: 800; text-transform: uppercase; font-size: 15px; letter-spacing: .01em;
+  }
+
+  .row .who .t {
+    margin-top: 2px;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 11px; letter-spacing: .1em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  .row .badge {
+    font-weight: 800; text-transform: uppercase;
+    font-size: 12px; letter-spacing: .06em;
+    border: 1px solid var(--line);
+    padding: 5px 9px;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .row .badge.soon { color: var(--red); border-color: color-mix(in srgb, var(--red) 45%, transparent); }
+  .row .badge.out { color: var(--paper); background: var(--red); border-color: var(--red); }
+  .row.released .who .a { color: var(--navy-soft); }
+
+  /* pied de page */
+  .foot {
+    margin-top: 40px;
+    padding-top: 14px;
+    border-top: 1px solid var(--navy);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 10.5px; letter-spacing: .14em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  .foot a { color: var(--red); text-decoration: none; }
+
+  /* rubalise bas de page */
+  .marquee {
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    background: var(--paper);
+    border-top: 1px solid var(--line);
+    overflow: hidden;
+    padding: 12px 0;
+    animation: marquee-in .8s ease 1s both;
+  }
+
+  .marquee .track {
+    display: flex;
+    width: max-content;
+    animation: slide 50s linear infinite;
+  }
+
+  .marquee .track span {
+    flex: none;
+    white-space: nowrap;
+    font-weight: 800; text-transform: uppercase;
+    letter-spacing: .06em; font-size: 13px;
+    color: var(--red);
+    padding-right: 12px;
+  }
+
+  @keyframes slide {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+
+  @keyframes marquee-in {
+    from { opacity: 0; transform: translateY(100%); }
+    to { opacity: 1; transform: none; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation: none !important; transition: none !important; }
+    .rise, .marquee { opacity: 1; transform: none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <header class="masthead rise">
+    <span class="b">Comeback Tracker</span>
+    <span class="m">Édition 2026</span>
+    <span class="r">Nonowarwood</span>
+  </header>
+
+  <h1 class="rise" style="animation-delay:.1s">Come<span class="thin">back</span><br>Tracker</h1>
+  <p class="sub rise" style="animation-delay:.18s">Les prochaines sorties kpop · Comptes à rebours en direct</p>
+
+  <section class="hero rise" style="animation-delay:.28s" id="hero" hidden>
+    <div>
+      <div class="tag">Prochain comeback</div>
+      <div class="artist" id="hero-artist"></div>
+      <div class="album" id="hero-album"></div>
+      <div class="when" id="hero-when"></div>
+    </div>
+    <div class="dday">
+      <div class="d" id="hero-dday"></div>
+      <div class="clock" id="hero-clock"></div>
+    </div>
+  </section>
+
+  <div id="schedule"></div>
+
+  <footer class="foot">
+    <span>nonowarwood.github.io/comebacks</span>
+    <span>Sources · kpopofficial.com</span>
+    <span><a href="https://nonowarwood.github.io/links/">← Mes liens</a></span>
+  </footer>
+
+</div>
+
+<div class="marquee" aria-hidden="true">
+  <div class="track" id="marquee-track"></div>
+</div>
+
+<script src="data.js"></script>
+<script>
+(() => {
+  const now = () => new Date();
+  const DAY = 864e5;
+  const startOfDay = d => new Date(d.getFullYear(), d.getMonth(), d.getDate());
+
+  const monthName = d => d.toLocaleDateString("fr-FR", { month: "long", year: "numeric" });
+  const cap = s => s.charAt(0).toUpperCase() + s.slice(1);
+
+  const dated = COMEBACKS.filter(c => c.date).map(c => ({ ...c, when: new Date(c.date) }))
+    .sort((a, b) => a.when - b.when);
+  const tba = COMEBACKS.filter(c => !c.date);
+
+  const dday = when => Math.round((startOfDay(when) - startOfDay(now())) / DAY);
+  const ddayLabel = n => n === 0 ? "D-DAY" : n > 0 ? "D-" + n : "OUT";
+
+  /* ---- prochain comeback ---- */
+  const next = dated.find(c => c.when > now());
+  if (next) {
+    document.getElementById("hero").hidden = false;
+    document.getElementById("hero-artist").textContent = next.artist;
+    document.getElementById("hero-album").textContent =
+      (next.title || "Titre à venir") + " · " + next.type;
+    document.getElementById("hero-when").textContent =
+      cap(next.when.toLocaleDateString("fr-FR", { weekday: "long", day: "numeric", month: "long" })) +
+      " · " + next.when.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }) + " heure française";
+
+    const dEl = document.getElementById("hero-dday");
+    const cEl = document.getElementById("hero-clock");
+    const pad = n => String(n).padStart(2, "0");
+    const tick = () => {
+      const ms = next.when - now();
+      if (ms <= 0) { dEl.textContent = "OUT NOW"; cEl.textContent = ""; return; }
+      dEl.textContent = ddayLabel(dday(next.when));
+      const h = Math.floor(ms / 36e5), m = Math.floor(ms / 6e4) % 60, s = Math.floor(ms / 1e3) % 60;
+      cEl.textContent = pad(h) + " : " + pad(m) + " : " + pad(s);
+      setTimeout(tick, 1000);
+    };
+    tick();
+  }
+
+  /* ---- planning par mois ---- */
+  const schedule = document.getElementById("schedule");
+  let num = 0, lastMonth = "";
+  const monthCount = {};
+  dated.forEach(c => {
+    const k = cap(monthName(c.when));
+    monthCount[k] = (monthCount[k] || 0) + 1;
+  });
+
+  const addMonth = (label, countText) => {
+    const h = document.createElement("div");
+    h.className = "month rise";
+    h.innerHTML = `<h2>${label}</h2><span class="count">${countText}</span>`;
+    schedule.appendChild(h);
+  };
+
+  const addRow = (c, badge, badgeClass, dayText) => {
+    num++;
+    const released = badgeClass === "out";
+    const row = document.createElement("div");
+    row.className = "row rise" + (released ? " released" : "");
+    row.style.animationDelay = Math.min(.3 + num * .04, 1) + "s";
+    row.innerHTML =
+      `<span class="num">${String(num).padStart(2, "0")}</span>` +
+      `<span class="day">${dayText}</span>` +
+      `<span class="who"><span class="a">${c.artist}</span><br>` +
+      `<span class="t">${c.title || "Titre à venir"} · ${c.type}</span></span>` +
+      `<span class="badge ${badgeClass}">${badge}</span>`;
+    schedule.appendChild(row);
+  };
+
+  dated.forEach(c => {
+    const label = cap(monthName(c.when));
+    if (label !== lastMonth) {
+      const n = monthCount[label];
+      addMonth(label, n + (n > 1 ? " sorties" : " sortie"));
+      lastMonth = label;
+    }
+    const n = dday(c.when);
+    const released = c.when <= now();
+    addRow(
+      c,
+      released ? "Out now" : ddayLabel(n),
+      released ? "out" : (n <= 7 ? "soon" : ""),
+      String(c.when.getDate()).padStart(2, "0")
+    );
+  });
+
+  if (tba.length) {
+    addMonth("Date à confirmer", tba.length + " en attente");
+    tba.forEach(c => addRow(c, c.tba, "soon", "··"));
+  }
+
+  /* ---- rubalise ---- */
+  const upcoming = dated.filter(c => c.when > now()).slice(0, 4);
+  const line = upcoming.map(c => `${ddayLabel(dday(c.when))} ${c.artist} · ${c.title || c.type}`).join(" — ") + " — ";
+  const track = document.getElementById("marquee-track");
+  for (let i = 0; i < 2; i++) {
+    const s = document.createElement("span");
+    s.textContent = (line + " " + line + " " + line).trim() + " ";
+    track.appendChild(s);
+  }
+})();
+</script>
+
+</body>
+</html>
