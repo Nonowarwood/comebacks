@@ -121,8 +121,8 @@ def parse_year_page(src):
 
 
 def parse_album_page(src):
-    """Fiche album -> artiste exact, date+heure, tracklist, photos, réseaux."""
-    out = {"tracklist": [], "photos": [], "links": []}
+    """Fiche album -> artiste exact, date+heure, tracklist, réseaux."""
+    out = {"tracklist": [], "links": []}
     txt = re.sub(r"<script.*?</script>", "", src, flags=re.S)
     txt = re.sub(r"<style.*?</style>", "", txt, flags=re.S)
     body = txt[txt.find("Album Details"):] if "Album Details" in txt else txt
@@ -148,12 +148,6 @@ def parse_album_page(src):
             if "To Be Announced" not in line and len(line) < 120:
                 out["tracklist"].append(re.sub(r"^\d+[.)]\s*", "", line))
             i += 1
-    photos = re.findall(r'data-orig-file="(https://kpopofficial\.com/wp-content/uploads/[^"]+)"', src)
-    seen = []
-    for p in photos:
-        if p not in seen and "LOGO" not in p and "logo" not in p:
-            seen.append(p)
-    out["photos"] = seen[:8]
     zone = src[src.find("Official Source"): src.find("Official Source") + 4000] if "Official Source" in src else ""
     for u in re.findall(r'href="(https://(?:x\.com|twitter\.com|www\.instagram\.com|www\.youtube\.com|www\.tiktok\.com)/[^"]+)"', zone):
         if u not in out["links"]:

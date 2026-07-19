@@ -58,7 +58,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
     gap: 6px 16px;
     padding-bottom: 14px;
     border-bottom: 1px solid var(--navy);
@@ -70,7 +70,60 @@
     font-weight: 600; font-size: 11.5px; letter-spacing: .16em;
     text-transform: uppercase; color: var(--navy-soft);
   }
+  .masthead .right { display: flex; align-items: center; gap: 12px; }
   .masthead .r { font-weight: 800; text-transform: uppercase; font-size: 15px; color: var(--red); }
+
+  .gear {
+    background: none;
+    border: 1px solid var(--line);
+    color: var(--navy);
+    width: 30px; height: 30px;
+    display: grid; place-items: center;
+    cursor: pointer;
+    transition: all .25s var(--ease);
+  }
+
+  .gear svg { width: 15px; height: 15px; }
+  .gear:hover, .gear.on { border-color: var(--navy); background: var(--paper-2); }
+
+  /* panneau réglages */
+  .settings[hidden] { display: none; }
+
+  .settings {
+    margin-top: 14px;
+    border: 1px solid var(--navy);
+    background: color-mix(in srgb, var(--paper) 82%, transparent);
+    box-shadow: 6px 6px 0 rgba(30, 42, 74, .12);
+    padding: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px 40px;
+    animation: rise .4s var(--ease) both;
+  }
+
+  .settings .group .lbl {
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 10.5px; letter-spacing: .14em;
+    text-transform: uppercase; color: var(--navy-soft);
+    margin-bottom: 8px;
+  }
+
+  .settings .opts { display: flex; flex-wrap: wrap; gap: 6px; }
+
+  .chip {
+    font-family: "Archivo", sans-serif;
+    font-weight: 800; text-transform: uppercase;
+    font-size: 12px; letter-spacing: .06em;
+    color: var(--navy);
+    background: none;
+    border: 1px solid var(--line);
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: all .25s var(--ease);
+  }
+
+  .chip:hover { border-color: var(--navy); }
+  .chip.on { background: var(--navy); border-color: var(--navy); color: var(--paper); }
 
   .titleblock {
     display: flex;
@@ -100,23 +153,7 @@
     text-transform: uppercase; color: var(--navy-soft);
   }
 
-  /* filtres */
   .filters { display: flex; flex-wrap: wrap; gap: 8px; }
-
-  .chip {
-    font-family: "Archivo", sans-serif;
-    font-weight: 800; text-transform: uppercase;
-    font-size: 12px; letter-spacing: .06em;
-    color: var(--navy);
-    background: none;
-    border: 1px solid var(--line);
-    padding: 8px 12px;
-    cursor: pointer;
-    transition: all .25s var(--ease);
-  }
-
-  .chip:hover { border-color: var(--navy); }
-  .chip.on { background: var(--navy); border-color: var(--navy); color: var(--paper); }
 
   /* prochain comeback */
   .hero {
@@ -383,12 +420,6 @@
     text-transform: uppercase; color: var(--navy-soft);
   }
 
-  .num {
-    font-family: "Archivo Narrow", sans-serif;
-    font-weight: 600; font-size: 11px; letter-spacing: .1em;
-    color: var(--navy-soft);
-  }
-
   /* fiche produit */
   .overlay {
     position: fixed;
@@ -406,7 +437,7 @@
   @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
 
   .sheet {
-    width: min(880px, 100%);
+    width: min(820px, 100%);
     max-height: min(88svh, 900px);
     overflow-y: auto;
     background: var(--paper);
@@ -442,7 +473,7 @@
   .sheet-body {
     margin-top: 18px;
     display: grid;
-    grid-template-columns: minmax(200px, 300px) 1fr;
+    grid-template-columns: minmax(200px, 280px) 1fr;
     gap: clamp(18px, 3vw, 30px);
   }
 
@@ -526,23 +557,6 @@
     text-transform: uppercase; color: var(--navy-soft);
   }
 
-  .shots {
-    margin-top: 12px;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
-    gap: 8px;
-  }
-
-  .shots img {
-    width: 100%;
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
-    border: 1px solid var(--line);
-    transition: transform .4s var(--ease), filter .4s ease;
-  }
-
-  .shots img:hover { transform: scale(1.04); filter: saturate(1.15); }
-
   .sheet-actions {
     margin-top: 18px;
     display: flex;
@@ -623,7 +637,7 @@
 
   @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after { animation: none !important; transition: none !important; }
-    .rise, .marquee, .overlay, .sheet { opacity: 1; transform: none; }
+    .rise, .marquee, .overlay, .sheet, .settings { opacity: 1; transform: none; }
   }
 </style>
 </head>
@@ -633,14 +647,24 @@
 
   <header class="masthead rise">
     <span class="b">Comeback Tracker</span>
-    <span class="m" id="maj">Édition 2026</span>
-    <span class="r">Nonowarwood</span>
+    <span class="m" id="maj"></span>
+    <span class="right">
+      <span class="r">Nonowarwood</span>
+      <button class="gear" id="gear" aria-label="Réglages">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <circle cx="12" cy="12" r="3.2"/>
+          <path d="M19.4 15a1.7 1.7 0 0 0 .34 1.87l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.7 1.7 0 0 0-1.87-.34 1.7 1.7 0 0 0-1.03 1.56V21a2 2 0 1 1-4 0v-.09a1.7 1.7 0 0 0-1.11-1.56 1.7 1.7 0 0 0-1.87.34l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.7 1.7 0 0 0 .34-1.87 1.7 1.7 0 0 0-1.56-1.03H3a2 2 0 1 1 0-4h.09A1.7 1.7 0 0 0 4.65 8.9a1.7 1.7 0 0 0-.34-1.87l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.7 1.7 0 0 0 1.87.34h.09a1.7 1.7 0 0 0 1.03-1.56V3a2 2 0 1 1 4 0v.09a1.7 1.7 0 0 0 1.03 1.56 1.7 1.7 0 0 0 1.87-.34l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.7 1.7 0 0 0-.34 1.87v.09a1.7 1.7 0 0 0 1.56 1.03H21a2 2 0 1 1 0 4h-.09a1.7 1.7 0 0 0-1.51 1.87z"/>
+        </svg>
+      </button>
+    </span>
   </header>
+
+  <div class="settings" id="settings" hidden></div>
 
   <div class="titleblock rise" style="animation-delay:.1s">
     <div>
       <h1>Come<span class="thin">back</span> Tracker</h1>
-      <p class="sub">Les prochaines sorties kpop · MAJ automatique toutes les 6 h</p>
+      <p class="sub" id="sub"></p>
     </div>
     <div class="filters" id="filters"></div>
   </div>
@@ -651,9 +675,9 @@
     <aside class="calpanel rise" style="animation-delay:.3s">
       <div class="cal">
         <div class="cal-head">
-          <button id="cal-prev" aria-label="Mois précédent">‹</button>
+          <button id="cal-prev" aria-label="&lt;">‹</button>
           <span class="title" id="cal-title"></span>
-          <button id="cal-next" aria-label="Mois suivant">›</button>
+          <button id="cal-next" aria-label="&gt;">›</button>
         </div>
         <div class="cal-grid" id="cal-grid"></div>
         <div class="day-panel" id="day-panel" hidden></div>
@@ -665,8 +689,8 @@
 
   <footer class="foot">
     <span>nonowarwood.github.io/comebacks</span>
-    <span>Sources · kpopofficial.com</span>
-    <span><a href="https://nonowarwood.github.io/links/">← Mes liens</a></span>
+    <span id="foot-src"></span>
+    <span><a href="https://nonowarwood.github.io/links/" id="foot-links"></a></span>
   </footer>
 
 </div>
@@ -682,18 +706,122 @@
   const $ = id => document.getElementById(id);
   const esc = s => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
   const now = () => new Date();
-  const startOfDay = d => new Date(d.getFullYear(), d.getMonth(), d.getDate());
-  const cap = s => s.charAt(0).toUpperCase() + s.slice(1);
-  const monthLabel = d => cap(d.toLocaleDateString("fr-FR", { month: "long", year: "numeric" }));
   const pad = n => String(n).padStart(2, "0");
 
-  const FILTERS = [
-    ["all", "Tout"], ["gg", "Girl groups"], ["bg", "Boy groups"], ["solo", "Solistes"], ["mixte", "Mixte"],
-  ];
+  /* ---------- réglages : langue + fuseau ---------- */
+  const ZONES = { fr: "Europe/Paris", kst: "Asia/Seoul", jst: "Asia/Tokyo" };
+  const LOCALES = { fr: "fr-FR", en: "en-GB", ko: "ko-KR", ja: "ja-JP" };
+  const LANG_NAMES = { fr: "Français", en: "English", ko: "한국어", ja: "日本語" };
 
-  const state = { entries: [], tba: [], filter: "all", cal: startOfMonth(now()), selected: null, timer: null };
+  const I18N = {
+    fr: {
+      sub: "Les prochaines sorties kpop · MAJ automatique toutes les 6 h",
+      filters: { all: "Tout", gg: "Girl groups", bg: "Boy groups", solo: "Solistes", mixte: "Mixte" },
+      next: "Prochain comeback", tba_title: "Titre à venir", out: "Out now", dday: "D-DAY",
+      count: n => n + (n > 1 ? " sorties" : " sortie"),
+      tba_month: "Date à confirmer", pending: n => n + " en attente",
+      none: "Aucune sortie", none_day: "Aucune sortie ce jour",
+      release: "Sortie", status: "Statut", title_track: "Title track", tracklist: "Tracklist",
+      tba: "À annoncer (TBA)", ics: "+ Mon agenda (.ics)", full: "Fiche complète",
+      sheet: t => "Fiche " + t,
+      links: "← Mes liens", sources: "Sources · kpopofficial.com",
+      maj: (d, mo, h, mi) => `MAJ ${d}.${mo} · ${h}:${mi}`, no_data: "Données indisponibles",
+      tz_label: { fr: "heure française", kst: "KST", jst: "JST" },
+      set_lang: "Langue", set_tz: "Fuseau horaire",
+      tz_names: { fr: "France", kst: "Corée (KST)", jst: "Japon (JST)" },
+      weekdays: ["L", "M", "M", "J", "V", "S", "D"],
+    },
+    en: {
+      sub: "Upcoming kpop releases · auto-updated every 6 h",
+      filters: { all: "All", gg: "Girl groups", bg: "Boy groups", solo: "Soloists", mixte: "Co-ed" },
+      next: "Next comeback", tba_title: "Title TBA", out: "Out now", dday: "D-DAY",
+      count: n => n + (n > 1 ? " releases" : " release"),
+      tba_month: "Date TBA", pending: n => n + " pending",
+      none: "No releases", none_day: "No release this day",
+      release: "Release", status: "Status", title_track: "Title track", tracklist: "Tracklist",
+      tba: "To be announced (TBA)", ics: "+ My calendar (.ics)", full: "Full page",
+      sheet: t => t + " · Details",
+      links: "← My links", sources: "Sources · kpopofficial.com",
+      maj: (d, mo, h, mi) => `Updated ${mo}.${d} · ${h}:${mi}`, no_data: "Data unavailable",
+      tz_label: { fr: "French time", kst: "KST", jst: "JST" },
+      set_lang: "Language", set_tz: "Time zone",
+      tz_names: { fr: "France", kst: "Korea (KST)", jst: "Japan (JST)" },
+      weekdays: ["M", "T", "W", "T", "F", "S", "S"],
+    },
+    ko: {
+      sub: "다가오는 케이팝 컴백 · 6시간마다 자동 업데이트",
+      filters: { all: "전체", gg: "걸그룹", bg: "보이그룹", solo: "솔로", mixte: "혼성" },
+      next: "다음 컴백", tba_title: "타이틀 미정", out: "발매 완료", dday: "D-DAY",
+      count: n => n + "개 발매",
+      tba_month: "날짜 미정", pending: n => n + "개 대기 중",
+      none: "발매 없음", none_day: "이 날은 발매가 없어요",
+      release: "발매일", status: "상태", title_track: "타이틀곡", tracklist: "트랙리스트",
+      tba: "미공개 (TBA)", ics: "+ 내 캘린더 (.ics)", full: "상세 보기",
+      sheet: t => t + " · 정보",
+      links: "← 내 링크", sources: "출처 · kpopofficial.com",
+      maj: (d, mo, h, mi) => `업데이트 ${mo}.${d} · ${h}:${mi}`, no_data: "데이터를 불러올 수 없어요",
+      tz_label: { fr: "프랑스 시간", kst: "KST", jst: "JST" },
+      set_lang: "언어", set_tz: "시간대",
+      tz_names: { fr: "프랑스", kst: "한국 (KST)", jst: "일본 (JST)" },
+      weekdays: ["월", "화", "수", "목", "금", "토", "일"],
+    },
+    ja: {
+      sub: "今後のK-POPリリース · 6時間ごとに自動更新",
+      filters: { all: "すべて", gg: "ガールズグループ", bg: "ボーイズグループ", solo: "ソロ", mixte: "男女混合" },
+      next: "次のカムバック", tba_title: "タイトル未定", out: "リリース済み", dday: "D-DAY",
+      count: n => n + "件",
+      tba_month: "日付未定", pending: n => n + "件待ち",
+      none: "リリースなし", none_day: "この日はリリースがありません",
+      release: "発売日", status: "ステータス", title_track: "タイトル曲", tracklist: "トラックリスト",
+      tba: "未発表（TBA）", ics: "+ カレンダーに追加 (.ics)", full: "詳細ページ",
+      sheet: t => t + " · 詳細",
+      links: "← リンク一覧", sources: "出典 · kpopofficial.com",
+      maj: (d, mo, h, mi) => `更新 ${mo}.${d} · ${h}:${mi}`, no_data: "データを取得できません",
+      tz_label: { fr: "フランス時間", kst: "KST", jst: "JST" },
+      set_lang: "言語", set_tz: "タイムゾーン",
+      tz_names: { fr: "フランス", kst: "韓国 (KST)", jst: "日本 (JST)" },
+      weekdays: ["月", "火", "水", "木", "金", "土", "日"],
+    },
+  };
 
-  function startOfMonth(d) { return new Date(d.getFullYear(), d.getMonth(), 1); }
+  const saved = JSON.parse(localStorage.getItem("cbt-settings") || "{}");
+  const qs = new URLSearchParams(location.search);
+  if (I18N[qs.get("lang")]) saved.lang = qs.get("lang");
+  if (ZONES[qs.get("tz")]) saved.tz = qs.get("tz");
+  const state = {
+    entries: [], tba: [], filter: "all",
+    lang: I18N[saved.lang] ? saved.lang : "fr",
+    tz: ZONES[saved.tz] ? saved.tz : "fr",
+    cal: null, selected: null, timer: null, generated: null, loadError: false,
+  };
+  const t = () => I18N[state.lang];
+  const zone = () => ZONES[state.tz];
+  const locale = () => LOCALES[state.lang];
+  const saveSettings = () => localStorage.setItem("cbt-settings", JSON.stringify({ lang: state.lang, tz: state.tz }));
+
+  /* ---------- dates civiles dans le fuseau choisi ---------- */
+  function civil(d) {
+    const p = new Intl.DateTimeFormat("en-CA", {
+      timeZone: zone(), year: "numeric", month: "2-digit", day: "2-digit",
+      hour: "2-digit", minute: "2-digit", hourCycle: "h23",
+    }).formatToParts(d);
+    const g = k => +p.find(x => x.type === k).value;
+    return { y: g("year"), m: g("month") - 1, d: g("day"), hh: g("hour"), mi: g("minute") };
+  }
+
+  const dayNum = d => { const c = civil(d); return Date.UTC(c.y, c.m, c.d) / DAY; };
+  const dday = when => dayNum(when) - dayNum(now());
+  const ddayLabel = n => n === 0 ? t().dday : n > 0 ? "D-" + n : "OUT";
+
+  const monthTitle = (y, m) =>
+    new Date(Date.UTC(y, m, 1)).toLocaleDateString(locale(), { month: "long", year: "numeric", timeZone: "UTC" })
+      .replace(/^./, c => c.toUpperCase());
+
+  const fmtDate = (d, opts) =>
+    d.toLocaleDateString(locale(), { timeZone: zone(), ...opts }).replace(/^./, c => c.toUpperCase());
+  const fmtTime = d => d.toLocaleTimeString(locale(), { timeZone: zone(), hour: "2-digit", minute: "2-digit" });
+  const whenLine = d => fmtDate(d, { weekday: "long", day: "numeric", month: "long" }) +
+    " · " + fmtTime(d) + " " + t().tz_label[state.tz];
 
   function catOf(artist) {
     const key = artist.toLowerCase().replace(/\s*\((jp|kr|japan)\)\s*/gi, " ").trim();
@@ -704,8 +832,6 @@
   }
 
   const visible = () => state.entries.filter(e => state.filter === "all" || e.cat === state.filter);
-  const dday = when => Math.round((startOfDay(when) - startOfDay(now())) / DAY);
-  const ddayLabel = n => n === 0 ? "D-DAY" : n > 0 ? "D-" + n : "OUT";
 
   /* ---------- chargement + auto-refresh ---------- */
   async function loadData() {
@@ -715,12 +841,11 @@
       state.entries = data.entries.filter(e => e.date).map(e => ({
         ...e, when: new Date(e.date), cat: catOf(e.artist),
       }));
-      const gen = new Date(data.generated);
-      $("maj").textContent = "MAJ " + pad(gen.getDate()) + "." + pad(gen.getMonth() + 1) +
-        " · " + pad(gen.getHours()) + ":" + pad(gen.getMinutes());
+      state.generated = new Date(data.generated);
+      state.loadError = false;
     } catch (err) {
       state.entries = [];
-      $("maj").textContent = "Données indisponibles";
+      state.loadError = true;
     }
     (MANUAL_COMEBACKS || []).forEach(m => {
       if (m.date) state.entries.push({ ...m, when: new Date(m.date), cat: catOf(m.artist) });
@@ -737,6 +862,10 @@
 
   /* ---------- rendu global ---------- */
   function renderAll() {
+    document.documentElement.lang = state.lang;
+    if (!state.cal) { const c = civil(now()); state.cal = { y: c.y, m: c.m }; }
+    renderChrome();
+    renderSettings();
     renderFilters();
     renderHero();
     renderList();
@@ -745,9 +874,43 @@
     renderMarquee();
   }
 
+  function renderChrome() {
+    $("sub").textContent = t().sub;
+    $("foot-src").textContent = t().sources;
+    $("foot-links").textContent = t().links;
+    if (state.loadError) { $("maj").textContent = t().no_data; }
+    else if (state.generated) {
+      const g = civil(state.generated);
+      $("maj").textContent = t().maj(pad(g.d), pad(g.m + 1), pad(g.hh), pad(g.mi));
+    }
+  }
+
+  function renderSettings() {
+    const box = $("settings");
+    box.innerHTML = `
+      <div class="group"><div class="lbl">${esc(t().set_lang)}</div><div class="opts">
+        ${Object.keys(I18N).map(l =>
+          `<button class="chip ${state.lang === l ? "on" : ""}" data-lang="${l}">${esc(LANG_NAMES[l])}</button>`).join("")}
+      </div></div>
+      <div class="group"><div class="lbl">${esc(t().set_tz)}</div><div class="opts">
+        ${Object.keys(ZONES).map(z =>
+          `<button class="chip ${state.tz === z ? "on" : ""}" data-tz="${z}">${esc(t().tz_names[z])}</button>`).join("")}
+      </div></div>`;
+    box.querySelectorAll("[data-lang]").forEach(b =>
+      b.addEventListener("click", () => { state.lang = b.dataset.lang; saveSettings(); renderAll(); }));
+    box.querySelectorAll("[data-tz]").forEach(b =>
+      b.addEventListener("click", () => { state.tz = b.dataset.tz; saveSettings(); renderAll(); }));
+  }
+
+  $("gear").addEventListener("click", () => {
+    const box = $("settings");
+    box.hidden = !box.hidden;
+    $("gear").classList.toggle("on", !box.hidden);
+  });
+
   function renderFilters() {
-    $("filters").innerHTML = FILTERS.map(([id, label]) =>
-      `<button class="chip ${state.filter === id ? "on" : ""}" data-f="${id}">${label}</button>`).join("");
+    $("filters").innerHTML = Object.entries(t().filters).map(([id, label]) =>
+      `<button class="chip ${state.filter === id ? "on" : ""}" data-f="${id}">${esc(label)}</button>`).join("");
     $("filters").querySelectorAll(".chip").forEach(b =>
       b.addEventListener("click", () => { state.filter = b.dataset.f; renderAll(); }));
   }
@@ -762,11 +925,10 @@
     hero.innerHTML =
       thumbHTML(next, "cover") +
       `<div>
-        <div class="tag">Prochain comeback</div>
+        <div class="tag">${esc(t().next)}</div>
         <div class="artist">${esc(next.artist)}</div>
-        <div class="album">${esc(next.title || "Titre à venir")} · ${esc(next.type)}</div>
-        <div class="when">${esc(cap(next.when.toLocaleDateString("fr-FR", { weekday: "long", day: "numeric", month: "long" })))}
-          · ${esc(next.when.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }))} heure française</div>
+        <div class="album">${esc(next.title || t().tba_title)} · ${esc(next.type)}</div>
+        <div class="when">${esc(whenLine(next.when))}</div>
       </div>
       <div class="dday"><div class="d" id="hero-d"></div><div class="clock" id="hero-clock"></div></div>`;
     hero.onclick = () => openSheet(next);
@@ -796,14 +958,14 @@
   function rowHTML(e, i, inPanel) {
     const n = dday(e.when);
     const released = e.when <= now();
-    const badge = released ? "Out now" : ddayLabel(n);
+    const badge = released ? t().out : ddayLabel(n);
     const badgeCls = released ? "out" : (n <= 7 ? "soon" : "");
     return `<button class="row ${released ? "released" : ""} ${inPanel ? "" : "rise"}" data-i="${i}"
       ${inPanel ? "" : `style="animation-delay:${Math.min(.25 + (i % 20) * .04, 1)}s"`}>
       ${thumbHTML(e)}
-      <span class="day">${pad(e.when.getDate())}</span>
+      <span class="day">${pad(civil(e.when).d)}</span>
       <span class="who"><span class="a">${esc(e.artist)}</span><br>
-      <span class="t">${esc(e.title || "Titre à venir")} · ${esc(e.type)}</span></span>
+      <span class="t">${esc(e.title || t().tba_title)} · ${esc(e.type)}</span></span>
       <span class="badge ${badgeCls}">${esc(badge)}</span>
     </button>`;
   }
@@ -811,52 +973,54 @@
   function renderList() {
     const list = visible();
     const box = $("schedule");
-    let html = "", lastMonth = "";
+    let html = "", lastKey = null;
     const counts = {};
-    list.forEach(e => { const k = monthLabel(e.when); counts[k] = (counts[k] || 0) + 1; });
+    list.forEach(e => { const c = civil(e.when); const k = c.y * 12 + c.m; counts[k] = (counts[k] || 0) + 1; });
     list.forEach((e, i) => {
-      const label = monthLabel(e.when);
-      if (label !== lastMonth) {
-        const c = counts[label];
-        html += `<div class="month rise"><h2>${label}</h2><span class="count">${c} sortie${c > 1 ? "s" : ""}</span></div>`;
-        lastMonth = label;
+      const c = civil(e.when);
+      const key = c.y * 12 + c.m;
+      if (key !== lastKey) {
+        html += `<div class="month rise"><h2>${esc(monthTitle(c.y, c.m))}</h2><span class="count">${esc(t().count(counts[key]))}</span></div>`;
+        lastKey = key;
       }
       html += rowHTML(e, i, false);
     });
     if (state.tba.length && state.filter === "all") {
-      html += `<div class="month rise"><h2>Date à confirmer</h2><span class="count">${state.tba.length} en attente</span></div>`;
-      state.tba.forEach(t => {
-        html += `<div class="row"><span class="mono">${esc(t.artist.slice(0, 2).toUpperCase())}</span>
+      html += `<div class="month rise"><h2>${esc(t().tba_month)}</h2><span class="count">${esc(t().pending(state.tba.length))}</span></div>`;
+      state.tba.forEach(x => {
+        html += `<div class="row"><span class="mono">${esc(x.artist.slice(0, 2).toUpperCase())}</span>
           <span class="day">··</span>
-          <span class="who"><span class="a">${esc(t.artist)}</span><br>
-          <span class="t">${esc(t.title || "Titre à venir")} · ${esc(t.type)}</span></span>
-          <span class="badge soon">${esc(t.tba)}</span></div>`;
+          <span class="who"><span class="a">${esc(x.artist)}</span><br>
+          <span class="t">${esc(x.title || t().tba_title)} · ${esc(x.type)}</span></span>
+          <span class="badge soon">${esc(x.tba)}</span></div>`;
       });
     }
-    box.innerHTML = html || `<div class="month"><h2>Aucune sortie</h2></div>`;
+    box.innerHTML = html || `<div class="month"><h2>${esc(t().none)}</h2></div>`;
     box.querySelectorAll(".row[data-i]").forEach(r =>
       r.addEventListener("click", () => openSheet(visible()[+r.dataset.i])));
   }
 
   /* ---------- calendrier ---------- */
   function renderCalendar() {
-    const first = state.cal;
-    $("cal-title").textContent = monthLabel(first);
-    const daysInMonth = new Date(first.getFullYear(), first.getMonth() + 1, 0).getDate();
-    const lead = (first.getDay() + 6) % 7; // semaine qui commence lundi
+    const { y, m } = state.cal;
+    $("cal-title").textContent = monthTitle(y, m);
+    const daysInMonth = new Date(Date.UTC(y, m + 1, 0)).getUTCDate();
+    const lead = (new Date(Date.UTC(y, m, 1)).getUTCDay() + 6) % 7; // semaine qui commence lundi
     const byDay = {};
     visible().forEach(e => {
-      if (e.when.getFullYear() === first.getFullYear() && e.when.getMonth() === first.getMonth())
-        (byDay[e.when.getDate()] = byDay[e.when.getDate()] || []).push(e);
+      const c = civil(e.when);
+      if (c.y === y && c.m === m) (byDay[c.d] = byDay[c.d] || []).push(e);
     });
-    const today = startOfDay(now()).getTime();
-    let html = ["L", "M", "M", "J", "V", "S", "D"].map(w => `<span class="wd">${w}</span>`).join("");
+    const tc = civil(now());
+    const todayNum = tc.y === y && tc.m === m ? tc.d : null;
+    let html = t().weekdays.map(w => `<span class="wd">${esc(w)}</span>`).join("");
     for (let i = 0; i < lead; i++) html += `<span class="day off"></span>`;
     for (let d = 1; d <= daysInMonth; d++) {
-      const t = new Date(first.getFullYear(), first.getMonth(), d).getTime();
       const has = byDay[d];
-      const cls = ["day", has ? "has" : "", t === today ? "today" : "", t < today ? "past" : "",
-        state.selected && t === state.selected.getTime() ? "sel" : ""].filter(Boolean).join(" ");
+      const isPast = (y * 12 + m) * 40 + d < (tc.y * 12 + tc.m) * 40 + tc.d;
+      const isSel = state.selected && state.selected.y === y && state.selected.m === m && state.selected.d === d;
+      const cls = ["day", has ? "has" : "", d === todayNum ? "today" : "", isPast ? "past" : "", isSel ? "sel" : ""]
+        .filter(Boolean).join(" ");
       html += has
         ? `<button class="${cls}" data-d="${d}">${d}<span class="n">${has.length}</span></button>`
         : `<span class="${cls}">${d}</span>`;
@@ -864,19 +1028,22 @@
     $("cal-grid").innerHTML = html;
     $("cal-grid").querySelectorAll(".day.has").forEach(b =>
       b.addEventListener("click", () => {
-        const t = new Date(first.getFullYear(), first.getMonth(), +b.dataset.d);
-        state.selected = (state.selected && state.selected.getTime() === t.getTime()) ? null : t;
+        const d = +b.dataset.d;
+        const isSame = state.selected && state.selected.y === y && state.selected.m === m && state.selected.d === d;
+        state.selected = isSame ? null : { y, m, d };
         renderCalendar();
         renderDayPanel();
       }));
   }
 
   $("cal-prev").addEventListener("click", () => {
-    state.cal = new Date(state.cal.getFullYear(), state.cal.getMonth() - 1, 1);
+    const { y, m } = state.cal;
+    state.cal = m === 0 ? { y: y - 1, m: 11 } : { y, m: m - 1 };
     state.selected = null; renderCalendar(); renderDayPanel();
   });
   $("cal-next").addEventListener("click", () => {
-    state.cal = new Date(state.cal.getFullYear(), state.cal.getMonth() + 1, 1);
+    const { y, m } = state.cal;
+    state.cal = m === 11 ? { y: y + 1, m: 0 } : { y, m: m + 1 };
     state.selected = null; renderCalendar(); renderDayPanel();
   });
 
@@ -885,12 +1052,16 @@
     if (!state.selected) { panel.hidden = true; return; }
     panel.hidden = false;
     const sel = state.selected;
-    const items = visible().filter(e => startOfDay(e.when).getTime() === sel.getTime());
-    const label = cap(sel.toLocaleDateString("fr-FR", { weekday: "long", day: "numeric", month: "long" }));
+    const items = visible().filter(e => {
+      const c = civil(e.when);
+      return c.y === sel.y && c.m === sel.m && c.d === sel.d;
+    });
+    const label = new Date(Date.UTC(sel.y, sel.m, sel.d)).toLocaleDateString(locale(),
+      { weekday: "long", day: "numeric", month: "long", timeZone: "UTC" }).replace(/^./, c => c.toUpperCase());
     panel.innerHTML = `<div class="dp-title">${esc(label)}</div>` +
       (items.length
         ? items.map((e, i) => rowHTML(e, i, true)).join("")
-        : `<div class="dp-empty">Aucune sortie ce jour</div>`);
+        : `<div class="dp-empty">${esc(t().none_day)}</div>`);
     panel.querySelectorAll(".row[data-i]").forEach(r =>
       r.addEventListener("click", () => openSheet(items[+r.dataset.i])));
   }
@@ -900,9 +1071,8 @@
     if (!e) return;
     const released = e.when <= now();
     const n = dday(e.when);
-    const photos = (e.photos || []).filter(p => p !== e.img).slice(0, 6);
     const tracks = e.tracklist || [];
-    const isTitle = t => e.titleTrack && t.toLowerCase().includes(e.titleTrack.toLowerCase());
+    const isTitle = x => e.titleTrack && x.toLowerCase().includes(e.titleTrack.toLowerCase());
     const seen = new Set();
     const links = (e.links || []).map(u => {
       const label = u.includes("instagram") ? "Instagram" : u.includes("youtube") ? "YouTube" :
@@ -916,32 +1086,30 @@
     ov.innerHTML = `<div class="sheet" role="dialog" aria-modal="true">
       <div class="sheet-top">
         <span class="l">${esc(e.artist)}</span>
-        <span class="r"><span class="fiche">Fiche ${esc(e.type)}</span>
-        <button class="close" aria-label="Fermer">✕</button></span>
+        <span class="r"><span class="fiche">${esc(t().sheet(e.type))}</span>
+        <button class="close" aria-label="✕">✕</button></span>
       </div>
       <div class="sheet-body">
-        <div>${e.img ? `<img class="cover" src="${esc(e.img)}" alt="Pochette" referrerpolicy="no-referrer">` : ""}
-          ${photos.length ? `<div class="shots">${photos.map(p =>
-            `<img src="${esc(p)}" alt="" loading="lazy" referrerpolicy="no-referrer">`).join("")}</div>` : ""}
-        </div>
+        <div>${e.img ? `<img class="cover" src="${esc(e.img)}" alt="" referrerpolicy="no-referrer" onerror="this.style.display='none'">` : ""}</div>
         <div>
-          <div class="s-artist">${esc(e.title || "Titre à venir")}</div>
+          <div class="s-artist">${esc(e.title || t().tba_title)}</div>
           <div class="s-album">${esc(e.artist)} · ${esc(e.type)}</div>
           <div class="s-meta">
-            <div class="kv"><span class="k">Sortie</span><span class="v">${esc(cap(e.when.toLocaleDateString("fr-FR",
-              { weekday: "long", day: "numeric", month: "long", year: "numeric" })))} ·
-              ${esc(e.when.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }))}</span></div>
-            <div class="kv"><span class="k">Statut</span><span class="v red">${released ? "Out now" : ddayLabel(n)}</span></div>
-            ${e.titleTrack ? `<div class="kv"><span class="k">Title track</span><span class="v">« ${esc(e.titleTrack)} »</span></div>` : ""}
+            <div class="kv"><span class="k">${esc(t().release)}</span>
+              <span class="v">${esc(fmtDate(e.when, { weekday: "long", day: "numeric", month: "long", year: "numeric" }))} ·
+              ${esc(fmtTime(e.when))} ${esc(t().tz_label[state.tz])}</span></div>
+            <div class="kv"><span class="k">${esc(t().status)}</span>
+              <span class="v red">${released ? esc(t().out) : esc(ddayLabel(n))}</span></div>
+            ${e.titleTrack ? `<div class="kv"><span class="k">${esc(t().title_track)}</span><span class="v">« ${esc(e.titleTrack)} »</span></div>` : ""}
           </div>
-          <h3>Tracklist</h3>
+          <h3>${esc(t().tracklist)}</h3>
           ${tracks.length
-            ? `<ol class="tracks">${tracks.map((t, i) =>
-                `<li class="${isTitle(t) ? "title-track" : ""}"><span class="no">${pad(i + 1)}</span><span>${esc(t)}</span></li>`).join("")}</ol>`
-            : `<div class="none">À annoncer (TBA)</div>`}
+            ? `<ol class="tracks">${tracks.map((x, i) =>
+                `<li class="${isTitle(x) ? "title-track" : ""}"><span class="no">${pad(i + 1)}</span><span>${esc(x)}</span></li>`).join("")}</ol>`
+            : `<div class="none">${esc(t().tba)}</div>`}
           <div class="sheet-actions">
-            <button class="btn red" data-ics>+ Mon agenda (.ics)</button>
-            ${e.url ? `<a class="btn" href="${esc(e.url)}" target="_blank" rel="noopener">Fiche complète ↗</a>` : ""}
+            <button class="btn red" data-ics>${esc(t().ics)}</button>
+            ${e.url ? `<a class="btn" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(t().full)} ↗</a>` : ""}
             ${links}
           </div>
         </div>
