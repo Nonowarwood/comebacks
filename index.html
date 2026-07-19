@@ -16,10 +16,31 @@
     --navy-soft: rgba(30, 42, 74, .55);
     --red: #8b2318;
     --line: rgba(30, 42, 74, .35);
+    --line-strong: var(--navy);
+    --shadow: 6px 6px 0 rgba(30, 42, 74, .12);
+    --shadow-big: 10px 10px 0 rgba(30, 42, 74, .16);
+    --glass: color-mix(in srgb, var(--paper) 82%, transparent);
     --ease: cubic-bezier(.16, 1, .3, 1);
   }
 
+  [data-theme="ink"] {
+    --paper: #0e1528;
+    --paper-2: #16203c;
+    --navy: #ece7d9;
+    --navy-soft: rgba(236, 231, 217, .55);
+    --red: #d8503e;
+    --line: rgba(236, 231, 217, .28);
+    --line-strong: var(--navy);
+    --shadow: 6px 6px 0 rgba(0, 0, 0, .4);
+    --shadow-big: 10px 10px 0 rgba(0, 0, 0, .5);
+    --glass: color-mix(in srgb, var(--paper) 82%, transparent);
+  }
+
   * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  ::selection { background: var(--red); color: #f1eee6; }
+
+  html { scroll-behavior: smooth; }
 
   body {
     background: var(--paper);
@@ -27,6 +48,7 @@
     font-family: "Archivo", system-ui, sans-serif;
     -webkit-font-smoothing: antialiased;
     min-height: 100svh;
+    transition: background .4s ease, color .4s ease;
   }
 
   /* grain papier */
@@ -39,6 +61,106 @@
     opacity: .5;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3CfeComponentTransfer%3E%3CfeFuncA type='linear' slope='0.06'/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
   }
+
+  /* ----- intro « tampon » ----- */
+  .intro {
+    position: fixed;
+    inset: 0;
+    z-index: 2000;
+    background: var(--paper);
+    display: grid;
+    place-items: center;
+    animation: intro-lift .7s var(--ease) 1.55s both;
+    cursor: pointer;
+  }
+
+  .intro.done { display: none; }
+
+  @keyframes intro-lift {
+    from { transform: none; }
+    to { transform: translateY(-101%); }
+  }
+
+  .intro .kicker {
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 12px; letter-spacing: .34em;
+    text-transform: uppercase; color: var(--navy-soft);
+    animation: intro-fade .5s ease .15s both;
+  }
+
+  @keyframes intro-fade { from { opacity: 0; } }
+
+  .intro .logo {
+    margin-top: 14px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: -.02em;
+    line-height: .9;
+    text-align: center;
+    font-size: clamp(44px, 9vw, 110px);
+    animation: intro-stamp .55s cubic-bezier(.2, 1.4, .4, 1) .35s both;
+  }
+
+  .intro .logo .thin { color: transparent; -webkit-text-stroke: 2px var(--navy); }
+
+  @keyframes intro-stamp {
+    from { opacity: 0; transform: scale(1.7) rotate(-4deg); filter: blur(3px); }
+    60% { opacity: 1; transform: scale(.97) rotate(.6deg); filter: none; }
+    to { opacity: 1; transform: none; }
+  }
+
+  .intro .bar {
+    margin-top: 26px;
+    width: min(280px, 60vw);
+    height: 4px;
+    background: var(--red);
+    transform-origin: left;
+    animation: intro-bar .8s var(--ease) .6s both;
+  }
+
+  @keyframes intro-bar { from { transform: scaleX(0); } }
+
+  .intro .stamp-note {
+    position: absolute;
+    bottom: 8vh;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 10px; letter-spacing: .3em;
+    text-transform: uppercase; color: var(--navy-soft);
+    animation: intro-fade .5s ease .9s both;
+  }
+
+  /* ----- mobilier d'imprimerie ----- */
+  .reg {
+    position: fixed;
+    width: 16px; height: 16px;
+    z-index: 900;
+    pointer-events: none;
+    opacity: .55;
+    border: 1px solid var(--line);
+    border-radius: 50%;
+    background:
+      linear-gradient(var(--line), var(--line)) center / 100% 1px no-repeat,
+      linear-gradient(var(--line), var(--line)) center / 1px 100% no-repeat;
+  }
+
+  .reg.tl { top: 12px; left: 12px; }
+  .reg.tr { top: 12px; right: 12px; }
+  .reg.bl { bottom: 12px; left: 12px; }
+  .reg.br { bottom: 12px; right: 12px; }
+
+  .edge {
+    position: fixed;
+    left: 14px; bottom: 90px;
+    z-index: 900;
+    pointer-events: none;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 10px; letter-spacing: .32em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  @media (max-width: 1719px) { .reg, .edge { display: none; } }
 
   .wrap {
     width: min(1600px, 100%);
@@ -53,7 +175,16 @@
     to { opacity: 1; transform: none; }
   }
 
-  /* bandeau haut façon fiche technique */
+  /* révélation au scroll */
+  .rv {
+    opacity: 0;
+    transform: translateY(22px);
+    transition: opacity .7s var(--ease), transform .7s var(--ease);
+  }
+
+  .rv.in { opacity: 1; transform: none; }
+
+  /* ----- bandeau haut ----- */
   .masthead {
     display: flex;
     flex-wrap: wrap;
@@ -61,7 +192,7 @@
     align-items: center;
     gap: 6px 16px;
     padding-bottom: 14px;
-    border-bottom: 1px solid var(--navy);
+    border-bottom: 1px solid var(--line-strong);
   }
 
   .masthead .b { font-weight: 800; text-transform: uppercase; font-size: 15px; letter-spacing: -.01em; }
@@ -80,10 +211,11 @@
     width: 30px; height: 30px;
     display: grid; place-items: center;
     cursor: pointer;
-    transition: all .25s var(--ease);
+    transition: all .3s var(--ease);
   }
 
-  .gear svg { width: 15px; height: 15px; }
+  .gear svg { width: 15px; height: 15px; transition: transform .5s var(--ease); }
+  .gear:hover svg, .gear.on svg { transform: rotate(90deg); }
   .gear:hover, .gear.on { border-color: var(--navy); background: var(--paper-2); }
 
   /* panneau réglages */
@@ -91,9 +223,9 @@
 
   .settings {
     margin-top: 14px;
-    border: 1px solid var(--navy);
-    background: color-mix(in srgb, var(--paper) 82%, transparent);
-    box-shadow: 6px 6px 0 rgba(30, 42, 74, .12);
+    border: 1px solid var(--line-strong);
+    background: var(--glass);
+    box-shadow: var(--shadow);
     padding: 16px;
     display: flex;
     flex-wrap: wrap;
@@ -122,9 +254,10 @@
     transition: all .25s var(--ease);
   }
 
-  .chip:hover { border-color: var(--navy); }
+  .chip:hover { border-color: var(--navy); transform: translateY(-1px); }
   .chip.on { background: var(--navy); border-color: var(--navy); color: var(--paper); }
 
+  /* ----- titre ----- */
   .titleblock {
     display: flex;
     flex-wrap: wrap;
@@ -155,79 +288,154 @@
 
   .filters { display: flex; flex-wrap: wrap; gap: 8px; }
 
-  /* prochain comeback */
+  /* ----- héros monumental ----- */
   .hero {
-    margin-top: 22px;
-    border: 1px solid var(--navy);
-    background: color-mix(in srgb, var(--paper) 82%, transparent);
-    box-shadow: 6px 6px 0 rgba(30, 42, 74, .12);
-    padding: clamp(16px, 3vw, 26px);
+    position: relative;
+    margin-top: clamp(24px, 3vw, 36px);
+    border: 1px solid var(--line-strong);
+    background: var(--glass);
+    box-shadow: var(--shadow-big);
+    padding: clamp(20px, 3.5vw, 44px);
     display: grid;
-    grid-template-columns: auto 1fr auto;
-    gap: clamp(14px, 3vw, 26px);
+    grid-template-columns: auto 1fr;
+    gap: clamp(20px, 4vw, 56px);
     align-items: center;
     cursor: pointer;
+    overflow: hidden;
+    transition: box-shadow .4s var(--ease), transform .4s var(--ease);
   }
 
+  .hero:hover { transform: translate(-2px, -2px); box-shadow: 14px 14px 0 rgba(30, 42, 74, .18); }
+  [data-theme="ink"] .hero:hover { box-shadow: 14px 14px 0 rgba(0, 0, 0, .5); }
+
+  .hero .wm {
+    position: absolute;
+    right: -10px; bottom: -34px;
+    font-weight: 900;
+    font-size: clamp(100px, 16vw, 230px);
+    line-height: 1;
+    letter-spacing: -.04em;
+    color: transparent;
+    -webkit-text-stroke: 1px var(--line);
+    pointer-events: none;
+    user-select: none;
+    white-space: nowrap;
+  }
+
+  .hero-media { position: relative; }
+
   .hero .cover {
-    width: clamp(84px, 12vw, 148px);
+    width: clamp(120px, 20vw, 280px);
     aspect-ratio: 1 / 1;
     object-fit: cover;
-    border: 1px solid var(--navy);
+    border: 1px solid var(--line-strong);
+    box-shadow: var(--shadow);
+    display: block;
+  }
+
+  .stamp {
+    position: absolute;
+    top: -14px; right: -18px;
+    transform: rotate(8deg);
+    border: 2.5px solid var(--red);
+    color: var(--red);
+    border-radius: 6px;
+    padding: 6px 12px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    font-size: clamp(13px, 1.6vw, 18px);
+    background: var(--glass);
+    box-shadow: 3px 3px 0 rgba(30, 42, 74, .12);
+    white-space: nowrap;
   }
 
   .hero .tag {
+    display: flex;
+    align-items: center;
+    gap: 10px;
     font-family: "Archivo Narrow", sans-serif;
-    font-weight: 600; font-size: 11px; letter-spacing: .16em;
+    font-weight: 600; font-size: 12px; letter-spacing: .22em;
     text-transform: uppercase; color: var(--red);
   }
 
+  .hero .tag::after { content: ""; flex: 0 1 120px; height: 1px; background: var(--red); opacity: .5; }
+
   .hero .artist {
-    margin-top: 8px;
-    font-weight: 900; text-transform: uppercase; letter-spacing: -.01em;
-    line-height: 1;
-    font-size: clamp(22px, 4.5vw, 36px);
+    margin-top: 12px;
+    font-weight: 900; text-transform: uppercase; letter-spacing: -.025em;
+    line-height: .92;
+    font-size: clamp(34px, 6.5vw, 92px);
+    overflow-wrap: anywhere;
   }
 
   .hero .album, .hero .when {
-    margin-top: 7px;
+    margin-top: 10px;
     font-family: "Archivo Narrow", sans-serif;
-    font-weight: 600; font-size: 12px; letter-spacing: .1em;
+    font-weight: 600; font-size: clamp(12px, 1.4vw, 14px); letter-spacing: .12em;
     text-transform: uppercase; color: var(--navy-soft);
   }
 
-  .hero .dday {
-    text-align: right;
-    border-left: 1px solid var(--line);
-    padding-left: clamp(14px, 2vw, 24px);
+  .hero-count {
+    margin-top: clamp(16px, 2vw, 26px);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: clamp(14px, 2.5vw, 30px);
   }
 
-  .hero .dday .d {
+  .hero-count .big {
     font-weight: 900;
-    font-size: clamp(30px, 6vw, 52px);
-    letter-spacing: -.02em;
+    line-height: .85;
+    letter-spacing: -.03em;
     color: var(--red);
-    line-height: 1;
+    font-size: clamp(56px, 9vw, 130px);
     font-variant-numeric: tabular-nums;
     white-space: nowrap;
   }
 
-  .hero .dday .clock {
-    margin-top: 8px;
-    font-family: "Archivo Narrow", sans-serif;
-    font-weight: 600; font-size: 12px; letter-spacing: .14em;
-    color: var(--navy-soft);
+  .segs { display: flex; gap: 8px; padding-bottom: 8px; }
+
+  .seg {
+    border: 1px solid var(--line);
+    background: var(--glass);
+    padding: 8px 10px 6px;
+    text-align: center;
+    min-width: 58px;
+  }
+
+  .seg b {
+    display: block;
+    font-weight: 900;
+    font-size: clamp(20px, 2.6vw, 30px);
     font-variant-numeric: tabular-nums;
+    line-height: 1;
   }
 
-  @media (max-width: 640px) {
-    .hero { grid-template-columns: auto 1fr; }
-    .hero .dday { grid-column: 1 / -1; text-align: left; border-left: 0; padding-left: 0; border-top: 1px solid var(--line); padding-top: 12px; }
+  .seg b.tick { animation: tickpop .35s var(--ease); }
+
+  @keyframes tickpop {
+    from { transform: translateY(-45%); opacity: 0; }
+    to { transform: none; opacity: 1; }
   }
 
-  /* disposition calendrier + liste */
+  .seg i {
+    display: block;
+    margin-top: 4px;
+    font-style: normal;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 9.5px; letter-spacing: .22em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  @media (max-width: 720px) {
+    .hero { grid-template-columns: 1fr; }
+    .hero-media { justify-self: start; }
+  }
+
+  /* ----- disposition calendrier + liste ----- */
   .layout {
-    margin-top: clamp(24px, 3vw, 36px);
+    margin-top: clamp(24px, 3vw, 40px);
     display: grid;
     grid-template-columns: minmax(320px, 400px) 1fr;
     gap: clamp(24px, 3vw, 48px);
@@ -240,9 +448,9 @@
   @media (max-width: 980px) { .calpanel { position: static; } }
 
   .cal {
-    border: 1px solid var(--navy);
-    background: color-mix(in srgb, var(--paper) 82%, transparent);
-    box-shadow: 6px 6px 0 rgba(30, 42, 74, .12);
+    border: 1px solid var(--line-strong);
+    background: var(--glass);
+    box-shadow: var(--shadow);
     padding: 16px;
   }
 
@@ -304,15 +512,15 @@
     transition: all .2s var(--ease);
   }
 
-  .cal-grid .day.has:hover { border-color: var(--navy); background: var(--paper-2); }
+  .cal-grid .day.has:hover { border-color: var(--navy); background: var(--paper-2); transform: translateY(-1px); }
   .cal-grid .day.has .n { position: absolute; top: 3px; right: 5px; font-size: 9px; color: var(--red); font-weight: 800; }
   .cal-grid .day.today { border-color: var(--red); }
   .cal-grid .day.sel { background: var(--navy); color: var(--paper); border-color: var(--navy); }
   .cal-grid .day.sel .n { color: var(--paper); }
-  .cal-grid .day.off { color: rgba(30, 42, 74, .25); }
+  .cal-grid .day.off { color: color-mix(in srgb, var(--navy) 25%, transparent); }
   .cal-grid .day.past { color: var(--navy-soft); }
 
-  .day-panel { margin-top: 14px; border-top: 1px solid var(--navy); }
+  .day-panel { margin-top: 14px; border-top: 1px solid var(--line-strong); }
 
   .day-panel .dp-title {
     padding: 10px 0 4px;
@@ -328,7 +536,7 @@
     text-transform: uppercase; color: var(--navy-soft);
   }
 
-  /* lignes de sorties (liste + panneau jour) */
+  /* ----- lignes de sorties ----- */
   .row {
     width: 100%;
     text-align: left;
@@ -353,7 +561,10 @@
     object-fit: cover;
     border: 1px solid var(--line);
     display: block;
+    transition: transform .4s var(--ease);
   }
+
+  .row:hover .thumb { transform: scale(1.12) rotate(-2deg); }
 
   .row .mono {
     width: 46px; height: 46px;
@@ -395,57 +606,93 @@
   }
 
   .row .badge.soon { color: var(--red); border-color: color-mix(in srgb, var(--red) 45%, transparent); }
-  .row .badge.out { color: var(--paper); background: var(--red); border-color: var(--red); }
+  .row .badge.out { color: #f1eee6; background: var(--red); border-color: var(--red); }
   .row.released .who .a { color: var(--navy-soft); }
 
   .day-panel .row { grid-template-columns: 46px 1fr auto; }
   .day-panel .row .day { display: none; }
 
-  /* sections mois */
+  /* ----- sections mois ----- */
   .month {
-    margin-top: 30px;
+    position: relative;
+    margin-top: 38px;
     display: flex;
-    align-items: baseline;
+    align-items: flex-end;
     justify-content: space-between;
     gap: 12px;
     padding-bottom: 10px;
-    border-bottom: 1px solid var(--navy);
+    border-bottom: 1px solid var(--line-strong);
   }
 
   .month:first-child { margin-top: 0; }
-  .month h2 { font-weight: 900; text-transform: uppercase; letter-spacing: -.01em; font-size: 20px; }
+
+  .month .part {
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 10.5px; letter-spacing: .26em;
+    text-transform: uppercase; color: var(--red);
+  }
+
+  .month h2 { font-weight: 900; text-transform: uppercase; letter-spacing: -.01em; font-size: 22px; margin-top: 3px; }
+
   .month .count {
+    position: relative;
+    z-index: 1;
+    background: var(--paper);
+    padding: 2px 6px;
     font-family: "Archivo Narrow", sans-serif;
     font-weight: 600; font-size: 11px; letter-spacing: .14em;
     text-transform: uppercase; color: var(--navy-soft);
   }
 
-  /* fiche produit */
+  .month .wm {
+    position: absolute;
+    right: 0; bottom: 4px;
+    font-weight: 900;
+    font-size: 74px;
+    line-height: .8;
+    letter-spacing: -.04em;
+    color: transparent;
+    -webkit-text-stroke: 1px var(--line);
+    pointer-events: none;
+    user-select: none;
+  }
+
+  /* ----- fiche produit ----- */
   .overlay {
     position: fixed;
     inset: 0;
     z-index: 1000;
-    background: rgba(30, 42, 74, .45);
-    backdrop-filter: blur(3px);
-    -webkit-backdrop-filter: blur(3px);
+    background: color-mix(in srgb, var(--navy) 45%, transparent);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
     display: grid;
     place-items: center;
     padding: 18px;
     animation: fade .25s ease both;
   }
 
+  [data-theme="ink"] .overlay { background: rgba(0, 0, 0, .55); }
+
   @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
 
   .sheet {
-    width: min(820px, 100%);
+    width: min(840px, 100%);
     max-height: min(88svh, 900px);
     overflow-y: auto;
     background: var(--paper);
-    border: 1px solid var(--navy);
-    box-shadow: 8px 8px 0 rgba(30, 42, 74, .25);
-    padding: clamp(18px, 3vw, 28px);
-    animation: rise .5s var(--ease) both;
+    border: 1px solid var(--line-strong);
+    box-shadow: var(--shadow-big);
+    padding: clamp(18px, 3vw, 30px);
+    animation: sheet-in .55s var(--ease) both;
   }
+
+  @keyframes sheet-in {
+    from { opacity: 0; transform: translateY(36px) scale(.98); }
+    to { opacity: 1; transform: none; }
+  }
+
+  .sheet::-webkit-scrollbar { width: 8px; }
+  .sheet::-webkit-scrollbar-thumb { background: var(--line); }
 
   .sheet-top {
     display: flex;
@@ -453,7 +700,7 @@
     align-items: baseline;
     gap: 14px;
     padding-bottom: 12px;
-    border-bottom: 1px solid var(--navy);
+    border-bottom: 1px solid var(--line-strong);
   }
 
   .sheet-top .l { font-weight: 800; text-transform: uppercase; font-size: 14px; }
@@ -466,31 +713,54 @@
     color: var(--navy);
     width: 28px; height: 28px;
     cursor: pointer;
+    transition: all .25s var(--ease);
   }
 
-  .sheet-top .close:hover { border-color: var(--navy); }
+  .sheet-top .close:hover { border-color: var(--red); color: var(--red); transform: rotate(90deg); }
 
   .sheet-body {
     margin-top: 18px;
     display: grid;
-    grid-template-columns: minmax(200px, 280px) 1fr;
+    grid-template-columns: minmax(200px, 300px) 1fr;
     gap: clamp(18px, 3vw, 30px);
   }
 
   @media (max-width: 640px) { .sheet-body { grid-template-columns: 1fr; } }
 
-  .sheet-body .cover {
+  .cover3d {
+    position: relative;
+    perspective: 900px;
+  }
+
+  .cover3d .cover {
     width: 100%;
     aspect-ratio: 1 / 1;
     object-fit: cover;
-    border: 1px solid var(--navy);
-    box-shadow: 6px 6px 0 rgba(30, 42, 74, .12);
+    border: 1px solid var(--line-strong);
+    box-shadow: var(--shadow);
+    display: block;
+    transition: transform .18s ease-out, box-shadow .3s ease;
+    will-change: transform;
   }
+
+  .cover3d .glare {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: radial-gradient(circle at var(--gx, 50%) var(--gy, 50%),
+      rgba(255, 255, 255, .28), transparent 55%);
+    opacity: 0;
+    transition: opacity .3s ease;
+  }
+
+  .cover3d:hover .glare { opacity: 1; }
+
+  .cover3d .stamp { top: -12px; right: -12px; }
 
   .sheet .s-artist {
     font-weight: 900; text-transform: uppercase;
     letter-spacing: -.01em; line-height: .95;
-    font-size: clamp(24px, 5vw, 38px);
+    font-size: clamp(24px, 5vw, 40px);
   }
 
   .sheet .s-album {
@@ -528,7 +798,7 @@
     font-weight: 900; text-transform: uppercase;
     font-size: 14px; letter-spacing: .02em;
     padding-bottom: 8px;
-    border-bottom: 1px solid var(--navy);
+    border-bottom: 1px solid var(--line-strong);
   }
 
   .tracks { list-style: none; }
@@ -540,6 +810,12 @@
     padding: 7px 2px;
     border-bottom: 1px solid var(--line);
     font-weight: 700; font-size: 13px;
+    animation: track-in .5s var(--ease) both;
+  }
+
+  @keyframes track-in {
+    from { opacity: 0; transform: translateX(-8px); }
+    to { opacity: 1; transform: none; }
   }
 
   .tracks li .no {
@@ -578,27 +854,45 @@
     transition: all .25s var(--ease);
   }
 
-  .btn:hover { background: var(--navy); color: var(--paper); }
+  .btn:hover { background: var(--navy); color: var(--paper); transform: translateY(-2px); }
   .btn.red { border-color: var(--red); color: var(--red); }
-  .btn.red:hover { background: var(--red); color: var(--paper); }
+  .btn.red:hover { background: var(--red); color: #f1eee6; }
 
-  /* pied de page */
+  /* ----- pied de page ----- */
   .foot {
-    margin-top: 40px;
-    padding-top: 14px;
-    border-top: 1px solid var(--navy);
+    margin-top: 46px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line-strong);
     display: flex;
     justify-content: space-between;
+    align-items: center;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 14px 24px;
     font-family: "Archivo Narrow", sans-serif;
     font-weight: 600; font-size: 10.5px; letter-spacing: .14em;
     text-transform: uppercase; color: var(--navy-soft);
   }
 
   .foot a { color: var(--red); text-decoration: none; }
+  .foot .credits { max-width: 420px; line-height: 1.7; }
 
-  /* rubalise bas de page */
+  .barcode { text-align: center; }
+
+  .barcode .bars {
+    height: 30px;
+    width: 130px;
+    margin: 0 auto;
+    color: var(--navy);
+    background: repeating-linear-gradient(90deg,
+      currentColor 0 2px, transparent 2px 5px,
+      currentColor 5px 6px, transparent 6px 8px,
+      currentColor 8px 11px, transparent 11px 13px,
+      currentColor 13px 14px, transparent 14px 18px);
+  }
+
+  .barcode .digits { margin-top: 4px; letter-spacing: .3em; font-size: 9.5px; }
+
+  /* ----- rubalise ----- */
   .marquee {
     position: fixed;
     left: 0; right: 0; bottom: 0;
@@ -606,7 +900,7 @@
     border-top: 1px solid var(--line);
     overflow: hidden;
     padding: 12px 0;
-    animation: marquee-in .8s ease 1s both;
+    animation: marquee-in .8s ease 2s both;
     z-index: 500;
   }
 
@@ -638,10 +932,22 @@
   @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after { animation: none !important; transition: none !important; }
     .rise, .marquee, .overlay, .sheet, .settings { opacity: 1; transform: none; }
+    .rv { opacity: 1; transform: none; }
+    .intro { display: none; }
   }
 </style>
 </head>
 <body>
+
+<div class="intro" id="intro" hidden>
+  <div class="kicker">Nonowarwood presents</div>
+  <div class="logo">Come<span class="thin">back</span><br>Tracker</div>
+  <div class="bar"></div>
+  <div class="stamp-note">Édition 2026 · Print № 001</div>
+</div>
+
+<span class="reg tl"></span><span class="reg tr"></span><span class="reg bl"></span><span class="reg br"></span>
+<span class="edge">Comeback Tracker — Édition 2026 · Nonowarwood · Print № 001</span>
 
 <div class="wrap">
 
@@ -688,8 +994,11 @@
   </div>
 
   <footer class="foot">
-    <span>nonowarwood.github.io/comebacks</span>
-    <span id="foot-src"></span>
+    <span class="credits">(P)&amp;(C) 2026 Nonowarwood · <span id="foot-src"></span> · Unauthorized duplication is prohibited · Country of origin : France</span>
+    <span class="barcode" aria-hidden="true">
+      <span class="bars"></span>
+      <span class="digits">8 809932 072026</span>
+    </span>
     <span><a href="https://nonowarwood.github.io/links/" id="foot-links"></a></span>
   </footer>
 
@@ -707,11 +1016,13 @@
   const esc = s => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
   const now = () => new Date();
   const pad = n => String(n).padStart(2, "0");
+  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-  /* ---------- réglages : langue + fuseau ---------- */
+  /* ---------- réglages : langue + fuseau + thème ---------- */
   const ZONES = { fr: "Europe/Paris", kst: "Asia/Seoul", jst: "Asia/Tokyo" };
   const LOCALES = { fr: "fr-FR", en: "en-GB", ko: "ko-KR", ja: "ja-JP" };
   const LANG_NAMES = { fr: "Français", en: "English", ko: "한국어", ja: "日本語" };
+  const THEMES = ["paper", "ink"];
 
   const I18N = {
     fr: {
@@ -723,12 +1034,14 @@
       none: "Aucune sortie", none_day: "Aucune sortie ce jour",
       release: "Sortie", status: "Statut", title_track: "Title track", tracklist: "Tracklist",
       tba: "À annoncer (TBA)", ics: "+ Mon agenda (.ics)", full: "Fiche complète",
-      sheet: t => "Fiche " + t,
-      links: "← Mes liens", sources: "Sources · kpopofficial.com",
+      sheet: t => "Fiche " + t, part: "Part",
+      links: "← Mes liens", sources: "Sources kpopofficial.com",
       maj: (d, mo, h, mi) => `MAJ ${d}.${mo} · ${h}:${mi}`, no_data: "Données indisponibles",
       tz_label: { fr: "heure française", kst: "KST", jst: "JST" },
-      set_lang: "Langue", set_tz: "Fuseau horaire",
+      set_lang: "Langue", set_tz: "Fuseau horaire", set_theme: "Thème",
       tz_names: { fr: "France", kst: "Corée (KST)", jst: "Japon (JST)" },
+      theme_names: { paper: "Papier", ink: "Encre" },
+      units: ["J", "H", "M", "S"],
       weekdays: ["L", "M", "M", "J", "V", "S", "D"],
     },
     en: {
@@ -740,12 +1053,14 @@
       none: "No releases", none_day: "No release this day",
       release: "Release", status: "Status", title_track: "Title track", tracklist: "Tracklist",
       tba: "To be announced (TBA)", ics: "+ My calendar (.ics)", full: "Full page",
-      sheet: t => t + " · Details",
-      links: "← My links", sources: "Sources · kpopofficial.com",
+      sheet: t => t + " · Details", part: "Part",
+      links: "← My links", sources: "Sources kpopofficial.com",
       maj: (d, mo, h, mi) => `Updated ${mo}.${d} · ${h}:${mi}`, no_data: "Data unavailable",
       tz_label: { fr: "French time", kst: "KST", jst: "JST" },
-      set_lang: "Language", set_tz: "Time zone",
+      set_lang: "Language", set_tz: "Time zone", set_theme: "Theme",
       tz_names: { fr: "France", kst: "Korea (KST)", jst: "Japan (JST)" },
+      theme_names: { paper: "Paper", ink: "Ink" },
+      units: ["D", "H", "M", "S"],
       weekdays: ["M", "T", "W", "T", "F", "S", "S"],
     },
     ko: {
@@ -757,12 +1072,14 @@
       none: "발매 없음", none_day: "이 날은 발매가 없어요",
       release: "발매일", status: "상태", title_track: "타이틀곡", tracklist: "트랙리스트",
       tba: "미공개 (TBA)", ics: "+ 내 캘린더 (.ics)", full: "상세 보기",
-      sheet: t => t + " · 정보",
-      links: "← 내 링크", sources: "출처 · kpopofficial.com",
+      sheet: t => t + " · 정보", part: "Part",
+      links: "← 내 링크", sources: "출처 kpopofficial.com",
       maj: (d, mo, h, mi) => `업데이트 ${mo}.${d} · ${h}:${mi}`, no_data: "데이터를 불러올 수 없어요",
       tz_label: { fr: "프랑스 시간", kst: "KST", jst: "JST" },
-      set_lang: "언어", set_tz: "시간대",
+      set_lang: "언어", set_tz: "시간대", set_theme: "테마",
       tz_names: { fr: "프랑스", kst: "한국 (KST)", jst: "일본 (JST)" },
+      theme_names: { paper: "종이", ink: "잉크" },
+      units: ["일", "시", "분", "초"],
       weekdays: ["월", "화", "수", "목", "금", "토", "일"],
     },
     ja: {
@@ -774,12 +1091,14 @@
       none: "リリースなし", none_day: "この日はリリースがありません",
       release: "発売日", status: "ステータス", title_track: "タイトル曲", tracklist: "トラックリスト",
       tba: "未発表（TBA）", ics: "+ カレンダーに追加 (.ics)", full: "詳細ページ",
-      sheet: t => t + " · 詳細",
-      links: "← リンク一覧", sources: "出典 · kpopofficial.com",
+      sheet: t => t + " · 詳細", part: "Part",
+      links: "← リンク一覧", sources: "出典 kpopofficial.com",
       maj: (d, mo, h, mi) => `更新 ${mo}.${d} · ${h}:${mi}`, no_data: "データを取得できません",
       tz_label: { fr: "フランス時間", kst: "KST", jst: "JST" },
-      set_lang: "言語", set_tz: "タイムゾーン",
+      set_lang: "言語", set_tz: "タイムゾーン", set_theme: "テーマ",
       tz_names: { fr: "フランス", kst: "韓国 (KST)", jst: "日本 (JST)" },
+      theme_names: { paper: "紙", ink: "インク" },
+      units: ["日", "時", "分", "秒"],
       weekdays: ["月", "火", "水", "木", "金", "土", "日"],
     },
   };
@@ -788,16 +1107,34 @@
   const qs = new URLSearchParams(location.search);
   if (I18N[qs.get("lang")]) saved.lang = qs.get("lang");
   if (ZONES[qs.get("tz")]) saved.tz = qs.get("tz");
+  if (THEMES.includes(qs.get("theme"))) saved.theme = qs.get("theme");
   const state = {
     entries: [], tba: [], filter: "all",
     lang: I18N[saved.lang] ? saved.lang : "fr",
     tz: ZONES[saved.tz] ? saved.tz : "fr",
+    theme: THEMES.includes(saved.theme) ? saved.theme : "paper",
     cal: null, selected: null, timer: null, generated: null, loadError: false,
   };
   const t = () => I18N[state.lang];
   const zone = () => ZONES[state.tz];
   const locale = () => LOCALES[state.lang];
-  const saveSettings = () => localStorage.setItem("cbt-settings", JSON.stringify({ lang: state.lang, tz: state.tz }));
+  const saveSettings = () =>
+    localStorage.setItem("cbt-settings", JSON.stringify({ lang: state.lang, tz: state.tz, theme: state.theme }));
+  const applyTheme = () => {
+    if (state.theme === "ink") document.documentElement.dataset.theme = "ink";
+    else delete document.documentElement.dataset.theme;
+  };
+  applyTheme();
+
+  /* ---------- intro ---------- */
+  const intro = $("intro");
+  if (!reduced && !sessionStorage.getItem("cbt-intro")) {
+    intro.hidden = false;
+    sessionStorage.setItem("cbt-intro", "1");
+    const kill = () => intro.classList.add("done");
+    intro.addEventListener("click", kill);
+    setTimeout(kill, 2400);
+  }
 
   /* ---------- dates civiles dans le fuseau choisi ---------- */
   function civil(d) {
@@ -833,6 +1170,19 @@
 
   const visible = () => state.entries.filter(e => state.filter === "all" || e.cat === state.filter);
 
+  /* ---------- révélation au scroll ---------- */
+  const io = reduced ? null : new IntersectionObserver(entries => {
+    entries.forEach(en => { if (en.isIntersecting) { en.target.classList.add("in"); io.unobserve(en.target); } });
+  }, { rootMargin: "0px 0px -4% 0px", threshold: .05 });
+
+  function observeReveals(root) {
+    root.querySelectorAll(".rv").forEach((el, i) => {
+      if (reduced) { el.classList.add("in"); return; }
+      el.style.transitionDelay = (i % 10) * .04 + "s";
+      io.observe(el);
+    });
+  }
+
   /* ---------- chargement + auto-refresh ---------- */
   async function loadData() {
     try {
@@ -863,6 +1213,7 @@
   /* ---------- rendu global ---------- */
   function renderAll() {
     document.documentElement.lang = state.lang;
+    applyTheme();
     if (!state.cal) { const c = civil(now()); state.cal = { y: c.y, m: c.m }; }
     renderChrome();
     renderSettings();
@@ -895,11 +1246,17 @@
       <div class="group"><div class="lbl">${esc(t().set_tz)}</div><div class="opts">
         ${Object.keys(ZONES).map(z =>
           `<button class="chip ${state.tz === z ? "on" : ""}" data-tz="${z}">${esc(t().tz_names[z])}</button>`).join("")}
+      </div></div>
+      <div class="group"><div class="lbl">${esc(t().set_theme)}</div><div class="opts">
+        ${THEMES.map(th =>
+          `<button class="chip ${state.theme === th ? "on" : ""}" data-theme-pick="${th}">${esc(t().theme_names[th])}</button>`).join("")}
       </div></div>`;
     box.querySelectorAll("[data-lang]").forEach(b =>
       b.addEventListener("click", () => { state.lang = b.dataset.lang; saveSettings(); renderAll(); }));
     box.querySelectorAll("[data-tz]").forEach(b =>
       b.addEventListener("click", () => { state.tz = b.dataset.tz; saveSettings(); renderAll(); }));
+    box.querySelectorAll("[data-theme-pick]").forEach(b =>
+      b.addEventListener("click", () => { state.theme = b.dataset.themePick; saveSettings(); renderAll(); }));
   }
 
   $("gear").addEventListener("click", () => {
@@ -915,29 +1272,51 @@
       b.addEventListener("click", () => { state.filter = b.dataset.f; renderAll(); }));
   }
 
-  /* ---------- hero ---------- */
+  /* ---------- héros monumental ---------- */
   function renderHero() {
     if (state.timer) { clearTimeout(state.timer); state.timer = null; }
     const next = visible().find(e => e.when > now());
     const hero = $("hero");
     if (!next) { hero.hidden = true; return; }
     hero.hidden = false;
+    const u = t().units;
     hero.innerHTML =
-      thumbHTML(next, "cover") +
-      `<div>
+      `<span class="wm" aria-hidden="true">${esc(ddayLabel(dday(next.when)))}</span>
+      <div class="hero-media">
+        ${thumbHTML(next, "cover")}
+        <span class="stamp">${esc(ddayLabel(dday(next.when)))}</span>
+      </div>
+      <div>
         <div class="tag">${esc(t().next)}</div>
         <div class="artist">${esc(next.artist)}</div>
         <div class="album">${esc(next.title || t().tba_title)} · ${esc(next.type)}</div>
         <div class="when">${esc(whenLine(next.when))}</div>
-      </div>
-      <div class="dday"><div class="d" id="hero-d"></div><div class="clock" id="hero-clock"></div></div>`;
+        <div class="hero-count">
+          <span class="big" id="hero-d"></span>
+          <span class="segs">
+            <span class="seg"><b id="cd-0">··</b><i>${esc(u[0])}</i></span>
+            <span class="seg"><b id="cd-1">··</b><i>${esc(u[1])}</i></span>
+            <span class="seg"><b id="cd-2">··</b><i>${esc(u[2])}</i></span>
+            <span class="seg"><b id="cd-3">··</b><i>${esc(u[3])}</i></span>
+          </span>
+        </div>
+      </div>`;
     hero.onclick = () => openSheet(next);
+    const setSeg = (id, val) => {
+      const el = $(id);
+      if (el.textContent !== val) {
+        el.textContent = val;
+        if (!reduced) { el.classList.remove("tick"); void el.offsetWidth; el.classList.add("tick"); }
+      }
+    };
     const tick = () => {
       const ms = next.when - now();
       if (ms <= 0) { loadData(); return; }
       $("hero-d").textContent = ddayLabel(dday(next.when));
-      const h = Math.floor(ms / 36e5), m = Math.floor(ms / 6e4) % 60, s = Math.floor(ms / 1e3) % 60;
-      $("hero-clock").textContent = pad(h) + " : " + pad(m) + " : " + pad(s);
+      setSeg("cd-0", pad(Math.floor(ms / DAY)));
+      setSeg("cd-1", pad(Math.floor(ms / 36e5) % 24));
+      setSeg("cd-2", pad(Math.floor(ms / 6e4) % 60));
+      setSeg("cd-3", pad(Math.floor(ms / 1e3) % 60));
       state.timer = setTimeout(tick, 1000);
     };
     tick();
@@ -960,8 +1339,7 @@
     const released = e.when <= now();
     const badge = released ? t().out : ddayLabel(n);
     const badgeCls = released ? "out" : (n <= 7 ? "soon" : "");
-    return `<button class="row ${released ? "released" : ""} ${inPanel ? "" : "rise"}" data-i="${i}"
-      ${inPanel ? "" : `style="animation-delay:${Math.min(.25 + (i % 20) * .04, 1)}s"`}>
+    return `<button class="row ${released ? "released" : ""} ${inPanel ? "" : "rv"}" data-i="${i}">
       ${thumbHTML(e)}
       <span class="day">${pad(civil(e.when).d)}</span>
       <span class="who"><span class="a">${esc(e.artist)}</span><br>
@@ -969,6 +1347,10 @@
       <span class="badge ${badgeCls}">${esc(badge)}</span>
     </button>`;
   }
+
+  const monthHeadHTML = (kicker, title, count, wm) =>
+    `<div class="month rv"><div><div class="part">${esc(kicker)}</div><h2>${esc(title)}</h2></div>
+    <span class="count">${esc(count)}</span><span class="wm" aria-hidden="true">${esc(wm)}</span></div>`;
 
   function renderList() {
     const list = visible();
@@ -980,13 +1362,13 @@
       const c = civil(e.when);
       const key = c.y * 12 + c.m;
       if (key !== lastKey) {
-        html += `<div class="month rise"><h2>${esc(monthTitle(c.y, c.m))}</h2><span class="count">${esc(t().count(counts[key]))}</span></div>`;
+        html += monthHeadHTML(t().part + " " + pad(c.m + 1), monthTitle(c.y, c.m), t().count(counts[key]), pad(c.m + 1));
         lastKey = key;
       }
       html += rowHTML(e, i, false);
     });
     if (state.tba.length && state.filter === "all") {
-      html += `<div class="month rise"><h2>${esc(t().tba_month)}</h2><span class="count">${esc(t().pending(state.tba.length))}</span></div>`;
+      html += monthHeadHTML(t().part + " ··", t().tba_month, t().pending(state.tba.length), "··");
       state.tba.forEach(x => {
         html += `<div class="row"><span class="mono">${esc(x.artist.slice(0, 2).toUpperCase())}</span>
           <span class="day">··</span>
@@ -998,6 +1380,7 @@
     box.innerHTML = html || `<div class="month"><h2>${esc(t().none)}</h2></div>`;
     box.querySelectorAll(".row[data-i]").forEach(r =>
       r.addEventListener("click", () => openSheet(visible()[+r.dataset.i])));
+    observeReveals(box);
   }
 
   /* ---------- calendrier ---------- */
@@ -1090,7 +1473,11 @@
         <button class="close" aria-label="✕">✕</button></span>
       </div>
       <div class="sheet-body">
-        <div>${e.img ? `<img class="cover" src="${esc(e.img)}" alt="" referrerpolicy="no-referrer" onerror="this.style.display='none'">` : ""}</div>
+        <div>${e.img ? `<div class="cover3d">
+            <img class="cover" src="${esc(e.img)}" alt="" referrerpolicy="no-referrer" onerror="this.parentElement.style.display='none'">
+            <span class="glare"></span>
+            <span class="stamp">${released ? esc(t().out) : esc(ddayLabel(n))}</span>
+          </div>` : ""}</div>
         <div>
           <div class="s-artist">${esc(e.title || t().tba_title)}</div>
           <div class="s-album">${esc(e.artist)} · ${esc(e.type)}</div>
@@ -1105,7 +1492,8 @@
           <h3>${esc(t().tracklist)}</h3>
           ${tracks.length
             ? `<ol class="tracks">${tracks.map((x, i) =>
-                `<li class="${isTitle(x) ? "title-track" : ""}"><span class="no">${pad(i + 1)}</span><span>${esc(x)}</span></li>`).join("")}</ol>`
+                `<li class="${isTitle(x) ? "title-track" : ""}" style="animation-delay:${.1 + i * .05}s">
+                <span class="no">${pad(i + 1)}</span><span>${esc(x)}</span></li>`).join("")}</ol>`
             : `<div class="none">${esc(t().tba)}</div>`}
           <div class="sheet-actions">
             <button class="btn red" data-ics>${esc(t().ics)}</button>
@@ -1122,6 +1510,19 @@
     ov.querySelector("[data-ics]").addEventListener("click", () => downloadICS(e));
     document.addEventListener("keydown", onKey);
     document.body.appendChild(ov);
+    /* pochette 3D qui suit la souris */
+    const c3d = ov.querySelector(".cover3d");
+    if (c3d && !reduced) {
+      const img = c3d.querySelector(".cover");
+      c3d.addEventListener("mousemove", ev => {
+        const r = c3d.getBoundingClientRect();
+        const px = (ev.clientX - r.left) / r.width, py = (ev.clientY - r.top) / r.height;
+        img.style.transform = `rotateY(${(px - .5) * 14}deg) rotateX(${(py - .5) * -14}deg) scale(1.02)`;
+        c3d.style.setProperty("--gx", px * 100 + "%");
+        c3d.style.setProperty("--gy", py * 100 + "%");
+      });
+      c3d.addEventListener("mouseleave", () => { img.style.transform = ""; });
+    }
   }
 
   /* ---------- export agenda ---------- */
