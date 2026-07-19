@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>NONOWARWOOD — Comeback Tracker</title>
-<meta name="description" content="Comeback Tracker — le planning des prochains comebacks kpop, tenu par Nonowarwood.">
+<meta name="description" content="Comeback Tracker — le planning des prochains comebacks kpop, mis à jour automatiquement. Par Nonowarwood.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800;900&family=Archivo+Narrow:wght@500;600;700&display=swap" rel="stylesheet">
@@ -41,9 +41,9 @@
   }
 
   .wrap {
-    width: min(860px, 100%);
+    width: min(1600px, 100%);
     margin: 0 auto;
-    padding: clamp(24px, 5vw, 56px) 20px calc(clamp(24px, 5vw, 56px) + 52px);
+    padding: clamp(20px, 3vw, 40px) clamp(16px, 3vw, 40px) calc(40px + 52px);
   }
 
   .rise { animation: rise .8s var(--ease) both; }
@@ -56,9 +56,10 @@
   /* bandeau haut façon fiche technique */
   .masthead {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: baseline;
-    gap: 16px;
+    gap: 6px 16px;
     padding-bottom: 14px;
     border-bottom: 1px solid var(--navy);
   }
@@ -71,25 +72,51 @@
   }
   .masthead .r { font-weight: 800; text-transform: uppercase; font-size: 15px; color: var(--red); }
 
+  .titleblock {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 18px;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 18px;
+  }
+
   h1 {
-    margin-top: 26px;
+    margin-top: 22px;
     font-weight: 900;
     text-transform: uppercase;
     letter-spacing: -.02em;
     line-height: .95;
-    font-size: clamp(38px, 9vw, 64px);
+    font-size: clamp(34px, 6vw, 58px);
   }
 
   h1 .thin { color: transparent; -webkit-text-stroke: 1.6px var(--navy); }
 
   .sub {
-    margin-top: 10px;
-    padding-bottom: 18px;
-    border-bottom: 1px solid var(--line);
+    margin-top: 8px;
     font-family: "Archivo Narrow", sans-serif;
     font-weight: 600; font-size: 11.5px; letter-spacing: .16em;
     text-transform: uppercase; color: var(--navy-soft);
   }
+
+  /* filtres */
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; }
+
+  .chip {
+    font-family: "Archivo", sans-serif;
+    font-weight: 800; text-transform: uppercase;
+    font-size: 12px; letter-spacing: .06em;
+    color: var(--navy);
+    background: none;
+    border: 1px solid var(--line);
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: all .25s var(--ease);
+  }
+
+  .chip:hover { border-color: var(--navy); }
+  .chip.on { background: var(--navy); border-color: var(--navy); color: var(--paper); }
 
   /* prochain comeback */
   .hero {
@@ -97,11 +124,19 @@
     border: 1px solid var(--navy);
     background: color-mix(in srgb, var(--paper) 82%, transparent);
     box-shadow: 6px 6px 0 rgba(30, 42, 74, .12);
-    padding: clamp(18px, 4vw, 28px);
+    padding: clamp(16px, 3vw, 26px);
     display: grid;
-    grid-template-columns: 1fr auto;
-    gap: 18px;
+    grid-template-columns: auto 1fr auto;
+    gap: clamp(14px, 3vw, 26px);
     align-items: center;
+    cursor: pointer;
+  }
+
+  .hero .cover {
+    width: clamp(84px, 12vw, 148px);
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border: 1px solid var(--navy);
   }
 
   .hero .tag {
@@ -114,36 +149,30 @@
     margin-top: 8px;
     font-weight: 900; text-transform: uppercase; letter-spacing: -.01em;
     line-height: 1;
-    font-size: clamp(24px, 6vw, 38px);
+    font-size: clamp(22px, 4.5vw, 36px);
   }
 
-  .hero .album {
-    margin-top: 6px;
+  .hero .album, .hero .when {
+    margin-top: 7px;
     font-family: "Archivo Narrow", sans-serif;
-    font-weight: 600; font-size: 13px; letter-spacing: .1em;
-    text-transform: uppercase; color: var(--navy-soft);
-  }
-
-  .hero .when {
-    margin-top: 12px;
-    font-family: "Archivo Narrow", sans-serif;
-    font-weight: 600; font-size: 11px; letter-spacing: .12em;
+    font-weight: 600; font-size: 12px; letter-spacing: .1em;
     text-transform: uppercase; color: var(--navy-soft);
   }
 
   .hero .dday {
     text-align: right;
     border-left: 1px solid var(--line);
-    padding-left: 18px;
+    padding-left: clamp(14px, 2vw, 24px);
   }
 
   .hero .dday .d {
     font-weight: 900;
-    font-size: clamp(34px, 8vw, 56px);
+    font-size: clamp(30px, 6vw, 52px);
     letter-spacing: -.02em;
     color: var(--red);
     line-height: 1;
     font-variant-numeric: tabular-nums;
+    white-space: nowrap;
   }
 
   .hero .dday .clock {
@@ -154,56 +183,161 @@
     font-variant-numeric: tabular-nums;
   }
 
-  @media (max-width: 560px) {
-    .hero { grid-template-columns: 1fr; }
-    .hero .dday { text-align: left; border-left: 0; padding-left: 0; border-top: 1px solid var(--line); padding-top: 14px; }
+  @media (max-width: 640px) {
+    .hero { grid-template-columns: auto 1fr; }
+    .hero .dday { grid-column: 1 / -1; text-align: left; border-left: 0; padding-left: 0; border-top: 1px solid var(--line); padding-top: 12px; }
   }
 
-  /* sections mois */
-  .month {
-    margin-top: 36px;
+  /* disposition calendrier + liste */
+  .layout {
+    margin-top: clamp(24px, 3vw, 36px);
+    display: grid;
+    grid-template-columns: minmax(320px, 400px) 1fr;
+    gap: clamp(24px, 3vw, 48px);
+    align-items: start;
+  }
+
+  @media (max-width: 980px) { .layout { grid-template-columns: 1fr; } }
+
+  .calpanel { position: sticky; top: 16px; }
+  @media (max-width: 980px) { .calpanel { position: static; } }
+
+  .cal {
+    border: 1px solid var(--navy);
+    background: color-mix(in srgb, var(--paper) 82%, transparent);
+    box-shadow: 6px 6px 0 rgba(30, 42, 74, .12);
+    padding: 16px;
+  }
+
+  .cal-head {
     display: flex;
-    align-items: baseline;
     justify-content: space-between;
-    gap: 12px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid var(--navy);
+    align-items: center;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--line);
   }
 
-  .month h2 { font-weight: 900; text-transform: uppercase; letter-spacing: -.01em; font-size: 20px; }
-  .month .count {
+  .cal-head .title { font-weight: 900; text-transform: uppercase; font-size: 17px; letter-spacing: -.01em; }
+
+  .cal-head button {
+    background: none;
+    border: 1px solid var(--line);
+    color: var(--navy);
+    width: 30px; height: 30px;
+    font-weight: 900; font-size: 15px;
+    cursor: pointer;
+    transition: all .25s var(--ease);
+  }
+
+  .cal-head button:hover { border-color: var(--navy); background: var(--paper-2); }
+
+  .cal-grid {
+    margin-top: 12px;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 4px;
+  }
+
+  .cal-grid .wd {
+    text-align: center;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 10px; letter-spacing: .1em;
+    text-transform: uppercase; color: var(--navy-soft);
+    padding: 4px 0;
+  }
+
+  .cal-grid .day {
+    position: relative;
+    aspect-ratio: 1 / 1;
+    display: grid;
+    place-items: center;
+    background: none;
+    border: 1px solid transparent;
+    font-family: "Archivo", sans-serif;
+    font-weight: 700; font-size: 13px;
+    color: var(--navy);
+    font-variant-numeric: tabular-nums;
+    cursor: default;
+  }
+
+  .cal-grid .day.has {
+    cursor: pointer;
+    border-color: var(--line);
+    font-weight: 900;
+    transition: all .2s var(--ease);
+  }
+
+  .cal-grid .day.has:hover { border-color: var(--navy); background: var(--paper-2); }
+  .cal-grid .day.has .n { position: absolute; top: 3px; right: 5px; font-size: 9px; color: var(--red); font-weight: 800; }
+  .cal-grid .day.today { border-color: var(--red); }
+  .cal-grid .day.sel { background: var(--navy); color: var(--paper); border-color: var(--navy); }
+  .cal-grid .day.sel .n { color: var(--paper); }
+  .cal-grid .day.off { color: rgba(30, 42, 74, .25); }
+  .cal-grid .day.past { color: var(--navy-soft); }
+
+  .day-panel { margin-top: 14px; border-top: 1px solid var(--navy); }
+
+  .day-panel .dp-title {
+    padding: 10px 0 4px;
     font-family: "Archivo Narrow", sans-serif;
     font-weight: 600; font-size: 11px; letter-spacing: .14em;
     text-transform: uppercase; color: var(--navy-soft);
   }
 
-  /* lignes de comebacks */
+  .day-panel .dp-empty {
+    padding: 8px 0 4px;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 11px; letter-spacing: .1em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  /* lignes de sorties (liste + panneau jour) */
   .row {
+    width: 100%;
+    text-align: left;
+    font-family: inherit;
+    color: inherit;
     display: grid;
-    grid-template-columns: 34px 44px 1fr auto;
+    grid-template-columns: 46px 34px 1fr auto;
     align-items: center;
     gap: 12px;
-    padding: 12px 2px;
+    padding: 10px 2px;
+    border: 0;
     border-bottom: 1px solid var(--line);
     background: linear-gradient(var(--paper-2), var(--paper-2)) left / 0 100% no-repeat;
     transition: background-size .4s var(--ease), padding-left .4s var(--ease);
+    cursor: pointer;
   }
 
   .row:hover { background-size: 100% 100%; padding-left: 10px; }
 
-  .row .num {
-    font-family: "Archivo Narrow", sans-serif;
-    font-weight: 600; font-size: 11px; letter-spacing: .1em;
-    color: var(--navy-soft);
+  .row .thumb {
+    width: 46px; height: 46px;
+    object-fit: cover;
+    border: 1px solid var(--line);
+    display: block;
+  }
+
+  .row .mono {
+    width: 46px; height: 46px;
+    border: 1px solid var(--line);
+    display: grid;
+    place-items: center;
+    font-weight: 900; font-size: 15px;
+    color: var(--red);
+    background: var(--paper-2);
   }
 
   .row .day {
-    font-weight: 900; font-size: 19px; letter-spacing: -.01em;
+    font-weight: 900; font-size: 18px; letter-spacing: -.01em;
     font-variant-numeric: tabular-nums;
   }
 
+  .row .who { min-width: 0; }
+
   .row .who .a {
     font-weight: 800; text-transform: uppercase; font-size: 15px; letter-spacing: .01em;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   }
 
   .row .who .t {
@@ -211,6 +345,7 @@
     font-family: "Archivo Narrow", sans-serif;
     font-weight: 600; font-size: 11px; letter-spacing: .1em;
     text-transform: uppercase; color: var(--navy-soft);
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   }
 
   .row .badge {
@@ -225,6 +360,213 @@
   .row .badge.soon { color: var(--red); border-color: color-mix(in srgb, var(--red) 45%, transparent); }
   .row .badge.out { color: var(--paper); background: var(--red); border-color: var(--red); }
   .row.released .who .a { color: var(--navy-soft); }
+
+  .day-panel .row { grid-template-columns: 46px 1fr auto; }
+  .day-panel .row .day { display: none; }
+
+  /* sections mois */
+  .month {
+    margin-top: 30px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--navy);
+  }
+
+  .month:first-child { margin-top: 0; }
+  .month h2 { font-weight: 900; text-transform: uppercase; letter-spacing: -.01em; font-size: 20px; }
+  .month .count {
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 11px; letter-spacing: .14em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  .num {
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 11px; letter-spacing: .1em;
+    color: var(--navy-soft);
+  }
+
+  /* fiche produit */
+  .overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    background: rgba(30, 42, 74, .45);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    display: grid;
+    place-items: center;
+    padding: 18px;
+    animation: fade .25s ease both;
+  }
+
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+
+  .sheet {
+    width: min(880px, 100%);
+    max-height: min(88svh, 900px);
+    overflow-y: auto;
+    background: var(--paper);
+    border: 1px solid var(--navy);
+    box-shadow: 8px 8px 0 rgba(30, 42, 74, .25);
+    padding: clamp(18px, 3vw, 28px);
+    animation: rise .5s var(--ease) both;
+  }
+
+  .sheet-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 14px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--navy);
+  }
+
+  .sheet-top .l { font-weight: 800; text-transform: uppercase; font-size: 14px; }
+  .sheet-top .r { display: flex; gap: 14px; align-items: baseline; }
+  .sheet-top .fiche { font-weight: 800; text-transform: uppercase; font-size: 14px; color: var(--red); }
+
+  .sheet-top .close {
+    background: none; border: 1px solid var(--line);
+    font-weight: 900; font-size: 13px;
+    color: var(--navy);
+    width: 28px; height: 28px;
+    cursor: pointer;
+  }
+
+  .sheet-top .close:hover { border-color: var(--navy); }
+
+  .sheet-body {
+    margin-top: 18px;
+    display: grid;
+    grid-template-columns: minmax(200px, 300px) 1fr;
+    gap: clamp(18px, 3vw, 30px);
+  }
+
+  @media (max-width: 640px) { .sheet-body { grid-template-columns: 1fr; } }
+
+  .sheet-body .cover {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border: 1px solid var(--navy);
+    box-shadow: 6px 6px 0 rgba(30, 42, 74, .12);
+  }
+
+  .sheet .s-artist {
+    font-weight: 900; text-transform: uppercase;
+    letter-spacing: -.01em; line-height: .95;
+    font-size: clamp(24px, 5vw, 38px);
+  }
+
+  .sheet .s-album {
+    margin-top: 8px;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 13px; letter-spacing: .1em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  .sheet .s-meta {
+    margin-top: 14px;
+    border-top: 1px solid var(--line);
+  }
+
+  .sheet .s-meta .kv {
+    display: grid;
+    grid-template-columns: 110px 1fr;
+    gap: 10px;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .sheet .s-meta .k {
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 10.5px; letter-spacing: .14em;
+    text-transform: uppercase; color: var(--navy-soft);
+    padding-top: 2px;
+  }
+
+  .sheet .s-meta .v { font-weight: 700; font-size: 13px; }
+  .sheet .s-meta .v.red { color: var(--red); font-weight: 800; text-transform: uppercase; }
+
+  .sheet h3 {
+    margin-top: 18px;
+    font-weight: 900; text-transform: uppercase;
+    font-size: 14px; letter-spacing: .02em;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--navy);
+  }
+
+  .tracks { list-style: none; }
+
+  .tracks li {
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    gap: 10px;
+    padding: 7px 2px;
+    border-bottom: 1px solid var(--line);
+    font-weight: 700; font-size: 13px;
+  }
+
+  .tracks li .no {
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 11px; color: var(--navy-soft);
+    padding-top: 1px;
+  }
+
+  .tracks li.title-track { color: var(--red); }
+
+  .sheet .none {
+    padding: 8px 0;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 11px; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  .shots {
+    margin-top: 12px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+    gap: 8px;
+  }
+
+  .shots img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border: 1px solid var(--line);
+    transition: transform .4s var(--ease), filter .4s ease;
+  }
+
+  .shots img:hover { transform: scale(1.04); filter: saturate(1.15); }
+
+  .sheet-actions {
+    margin-top: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .btn {
+    font-family: "Archivo", sans-serif;
+    font-weight: 800; text-transform: uppercase;
+    font-size: 12px; letter-spacing: .06em;
+    color: var(--navy);
+    background: none;
+    border: 1px solid var(--navy);
+    padding: 9px 13px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: all .25s var(--ease);
+  }
+
+  .btn:hover { background: var(--navy); color: var(--paper); }
+  .btn.red { border-color: var(--red); color: var(--red); }
+  .btn.red:hover { background: var(--red); color: var(--paper); }
 
   /* pied de page */
   .foot {
@@ -251,6 +593,7 @@
     overflow: hidden;
     padding: 12px 0;
     animation: marquee-in .8s ease 1s both;
+    z-index: 500;
   }
 
   .marquee .track {
@@ -280,7 +623,7 @@
 
   @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after { animation: none !important; transition: none !important; }
-    .rise, .marquee { opacity: 1; transform: none; }
+    .rise, .marquee, .overlay, .sheet { opacity: 1; transform: none; }
   }
 </style>
 </head>
@@ -290,27 +633,35 @@
 
   <header class="masthead rise">
     <span class="b">Comeback Tracker</span>
-    <span class="m">Édition 2026</span>
+    <span class="m" id="maj">Édition 2026</span>
     <span class="r">Nonowarwood</span>
   </header>
 
-  <h1 class="rise" style="animation-delay:.1s">Come<span class="thin">back</span><br>Tracker</h1>
-  <p class="sub rise" style="animation-delay:.18s">Les prochaines sorties kpop · Comptes à rebours en direct</p>
-
-  <section class="hero rise" style="animation-delay:.28s" id="hero" hidden>
+  <div class="titleblock rise" style="animation-delay:.1s">
     <div>
-      <div class="tag">Prochain comeback</div>
-      <div class="artist" id="hero-artist"></div>
-      <div class="album" id="hero-album"></div>
-      <div class="when" id="hero-when"></div>
+      <h1>Come<span class="thin">back</span> Tracker</h1>
+      <p class="sub">Les prochaines sorties kpop · MAJ automatique toutes les 6 h</p>
     </div>
-    <div class="dday">
-      <div class="d" id="hero-dday"></div>
-      <div class="clock" id="hero-clock"></div>
-    </div>
-  </section>
+    <div class="filters" id="filters"></div>
+  </div>
 
-  <div id="schedule"></div>
+  <section class="hero rise" style="animation-delay:.22s" id="hero" hidden></section>
+
+  <div class="layout">
+    <aside class="calpanel rise" style="animation-delay:.3s">
+      <div class="cal">
+        <div class="cal-head">
+          <button id="cal-prev" aria-label="Mois précédent">‹</button>
+          <span class="title" id="cal-title"></span>
+          <button id="cal-next" aria-label="Mois suivant">›</button>
+        </div>
+        <div class="cal-grid" id="cal-grid"></div>
+        <div class="day-panel" id="day-panel" hidden></div>
+      </div>
+    </aside>
+
+    <main id="schedule"></main>
+  </div>
 
   <footer class="foot">
     <span>nonowarwood.github.io/comebacks</span>
@@ -327,107 +678,319 @@
 <script src="data.js"></script>
 <script>
 (() => {
-  const now = () => new Date();
   const DAY = 864e5;
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  const now = () => new Date();
   const startOfDay = d => new Date(d.getFullYear(), d.getMonth(), d.getDate());
-
-  const monthName = d => d.toLocaleDateString("fr-FR", { month: "long", year: "numeric" });
   const cap = s => s.charAt(0).toUpperCase() + s.slice(1);
+  const monthLabel = d => cap(d.toLocaleDateString("fr-FR", { month: "long", year: "numeric" }));
+  const pad = n => String(n).padStart(2, "0");
 
-  const dated = COMEBACKS.filter(c => c.date).map(c => ({ ...c, when: new Date(c.date) }))
-    .sort((a, b) => a.when - b.when);
-  const tba = COMEBACKS.filter(c => !c.date);
+  const FILTERS = [
+    ["all", "Tout"], ["gg", "Girl groups"], ["bg", "Boy groups"], ["solo", "Solistes"], ["mixte", "Mixte"],
+  ];
 
+  const state = { entries: [], tba: [], filter: "all", cal: startOfMonth(now()), selected: null, timer: null };
+
+  function startOfMonth(d) { return new Date(d.getFullYear(), d.getMonth(), 1); }
+
+  function catOf(artist) {
+    const key = artist.toLowerCase().replace(/\s*\((jp|kr|japan)\)\s*/gi, " ").trim();
+    for (const [name, cat] of Object.entries(ARTIST_CATS)) {
+      if (key === name || key.startsWith(name + " ") || key.startsWith(name + "-")) return cat;
+    }
+    return null;
+  }
+
+  const visible = () => state.entries.filter(e => state.filter === "all" || e.cat === state.filter);
   const dday = when => Math.round((startOfDay(when) - startOfDay(now())) / DAY);
   const ddayLabel = n => n === 0 ? "D-DAY" : n > 0 ? "D-" + n : "OUT";
 
-  /* ---- prochain comeback ---- */
-  const next = dated.find(c => c.when > now());
-  if (next) {
-    document.getElementById("hero").hidden = false;
-    document.getElementById("hero-artist").textContent = next.artist;
-    document.getElementById("hero-album").textContent =
-      (next.title || "Titre à venir") + " · " + next.type;
-    document.getElementById("hero-when").textContent =
-      cap(next.when.toLocaleDateString("fr-FR", { weekday: "long", day: "numeric", month: "long" })) +
-      " · " + next.when.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }) + " heure française";
+  /* ---------- chargement + auto-refresh ---------- */
+  async function loadData() {
+    try {
+      const r = await fetch("comebacks.json?v=" + Date.now(), { cache: "no-store" });
+      const data = await r.json();
+      state.entries = data.entries.filter(e => e.date).map(e => ({
+        ...e, when: new Date(e.date), cat: catOf(e.artist),
+      }));
+      const gen = new Date(data.generated);
+      $("maj").textContent = "MAJ " + pad(gen.getDate()) + "." + pad(gen.getMonth() + 1) +
+        " · " + pad(gen.getHours()) + ":" + pad(gen.getMinutes());
+    } catch (err) {
+      state.entries = [];
+      $("maj").textContent = "Données indisponibles";
+    }
+    (MANUAL_COMEBACKS || []).forEach(m => {
+      if (m.date) state.entries.push({ ...m, when: new Date(m.date), cat: catOf(m.artist) });
+    });
+    state.tba = (MANUAL_COMEBACKS || []).filter(m => !m.date);
+    state.entries.sort((a, b) => a.when - b.when);
+    renderAll();
+    const deep = location.hash.match(/^#f(\d+)$/);
+    if (deep && !document.querySelector(".overlay")) openSheet(state.entries[+deep[1]]);
+  }
 
-    const dEl = document.getElementById("hero-dday");
-    const cEl = document.getElementById("hero-clock");
-    const pad = n => String(n).padStart(2, "0");
+  setInterval(loadData, 30 * 60 * 1000);
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) loadData(); });
+
+  /* ---------- rendu global ---------- */
+  function renderAll() {
+    renderFilters();
+    renderHero();
+    renderList();
+    renderCalendar();
+    renderDayPanel();
+    renderMarquee();
+  }
+
+  function renderFilters() {
+    $("filters").innerHTML = FILTERS.map(([id, label]) =>
+      `<button class="chip ${state.filter === id ? "on" : ""}" data-f="${id}">${label}</button>`).join("");
+    $("filters").querySelectorAll(".chip").forEach(b =>
+      b.addEventListener("click", () => { state.filter = b.dataset.f; renderAll(); }));
+  }
+
+  /* ---------- hero ---------- */
+  function renderHero() {
+    if (state.timer) { clearTimeout(state.timer); state.timer = null; }
+    const next = visible().find(e => e.when > now());
+    const hero = $("hero");
+    if (!next) { hero.hidden = true; return; }
+    hero.hidden = false;
+    hero.innerHTML =
+      thumbHTML(next, "cover") +
+      `<div>
+        <div class="tag">Prochain comeback</div>
+        <div class="artist">${esc(next.artist)}</div>
+        <div class="album">${esc(next.title || "Titre à venir")} · ${esc(next.type)}</div>
+        <div class="when">${esc(cap(next.when.toLocaleDateString("fr-FR", { weekday: "long", day: "numeric", month: "long" })))}
+          · ${esc(next.when.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }))} heure française</div>
+      </div>
+      <div class="dday"><div class="d" id="hero-d"></div><div class="clock" id="hero-clock"></div></div>`;
+    hero.onclick = () => openSheet(next);
     const tick = () => {
       const ms = next.when - now();
-      if (ms <= 0) { dEl.textContent = "OUT NOW"; cEl.textContent = ""; return; }
-      dEl.textContent = ddayLabel(dday(next.when));
+      if (ms <= 0) { loadData(); return; }
+      $("hero-d").textContent = ddayLabel(dday(next.when));
       const h = Math.floor(ms / 36e5), m = Math.floor(ms / 6e4) % 60, s = Math.floor(ms / 1e3) % 60;
-      cEl.textContent = pad(h) + " : " + pad(m) + " : " + pad(s);
-      setTimeout(tick, 1000);
+      $("hero-clock").textContent = pad(h) + " : " + pad(m) + " : " + pad(s);
+      state.timer = setTimeout(tick, 1000);
     };
     tick();
   }
 
-  /* ---- planning par mois ---- */
-  const schedule = document.getElementById("schedule");
-  let num = 0, lastMonth = "";
-  const monthCount = {};
-  dated.forEach(c => {
-    const k = cap(monthName(c.when));
-    monthCount[k] = (monthCount[k] || 0) + 1;
-  });
+  /* ---------- vignette / monogramme ---------- */
+  function thumbHTML(e, cls) {
+    const initials = e.artist.replace(/[^A-Za-z0-9&]/g, "").slice(0, 2).toUpperCase() || "K";
+    const mono = `<span class="mono" aria-hidden="true">${esc(initials)}</span>`;
+    if (!e.img) return cls === "cover" ? "" : mono;
+    const fallback = cls === "cover"
+      ? "this.style.display='none'"
+      : `this.replaceWith(Object.assign(document.createElement('span'),{className:'mono',textContent:'${initials}'}))`;
+    return `<img class="${cls === "cover" ? "cover" : "thumb"}" src="${esc(e.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="${fallback}">`;
+  }
 
-  const addMonth = (label, countText) => {
-    const h = document.createElement("div");
-    h.className = "month rise";
-    h.innerHTML = `<h2>${label}</h2><span class="count">${countText}</span>`;
-    schedule.appendChild(h);
-  };
+  /* ---------- liste ---------- */
+  function rowHTML(e, i, inPanel) {
+    const n = dday(e.when);
+    const released = e.when <= now();
+    const badge = released ? "Out now" : ddayLabel(n);
+    const badgeCls = released ? "out" : (n <= 7 ? "soon" : "");
+    return `<button class="row ${released ? "released" : ""} ${inPanel ? "" : "rise"}" data-i="${i}"
+      ${inPanel ? "" : `style="animation-delay:${Math.min(.25 + (i % 20) * .04, 1)}s"`}>
+      ${thumbHTML(e)}
+      <span class="day">${pad(e.when.getDate())}</span>
+      <span class="who"><span class="a">${esc(e.artist)}</span><br>
+      <span class="t">${esc(e.title || "Titre à venir")} · ${esc(e.type)}</span></span>
+      <span class="badge ${badgeCls}">${esc(badge)}</span>
+    </button>`;
+  }
 
-  const addRow = (c, badge, badgeClass, dayText) => {
-    num++;
-    const released = badgeClass === "out";
-    const row = document.createElement("div");
-    row.className = "row rise" + (released ? " released" : "");
-    row.style.animationDelay = Math.min(.3 + num * .04, 1) + "s";
-    row.innerHTML =
-      `<span class="num">${String(num).padStart(2, "0")}</span>` +
-      `<span class="day">${dayText}</span>` +
-      `<span class="who"><span class="a">${c.artist}</span><br>` +
-      `<span class="t">${c.title || "Titre à venir"} · ${c.type}</span></span>` +
-      `<span class="badge ${badgeClass}">${badge}</span>`;
-    schedule.appendChild(row);
-  };
-
-  dated.forEach(c => {
-    const label = cap(monthName(c.when));
-    if (label !== lastMonth) {
-      const n = monthCount[label];
-      addMonth(label, n + (n > 1 ? " sorties" : " sortie"));
-      lastMonth = label;
+  function renderList() {
+    const list = visible();
+    const box = $("schedule");
+    let html = "", lastMonth = "";
+    const counts = {};
+    list.forEach(e => { const k = monthLabel(e.when); counts[k] = (counts[k] || 0) + 1; });
+    list.forEach((e, i) => {
+      const label = monthLabel(e.when);
+      if (label !== lastMonth) {
+        const c = counts[label];
+        html += `<div class="month rise"><h2>${label}</h2><span class="count">${c} sortie${c > 1 ? "s" : ""}</span></div>`;
+        lastMonth = label;
+      }
+      html += rowHTML(e, i, false);
+    });
+    if (state.tba.length && state.filter === "all") {
+      html += `<div class="month rise"><h2>Date à confirmer</h2><span class="count">${state.tba.length} en attente</span></div>`;
+      state.tba.forEach(t => {
+        html += `<div class="row"><span class="mono">${esc(t.artist.slice(0, 2).toUpperCase())}</span>
+          <span class="day">··</span>
+          <span class="who"><span class="a">${esc(t.artist)}</span><br>
+          <span class="t">${esc(t.title || "Titre à venir")} · ${esc(t.type)}</span></span>
+          <span class="badge soon">${esc(t.tba)}</span></div>`;
+      });
     }
-    const n = dday(c.when);
-    const released = c.when <= now();
-    addRow(
-      c,
-      released ? "Out now" : ddayLabel(n),
-      released ? "out" : (n <= 7 ? "soon" : ""),
-      String(c.when.getDate()).padStart(2, "0")
-    );
+    box.innerHTML = html || `<div class="month"><h2>Aucune sortie</h2></div>`;
+    box.querySelectorAll(".row[data-i]").forEach(r =>
+      r.addEventListener("click", () => openSheet(visible()[+r.dataset.i])));
+  }
+
+  /* ---------- calendrier ---------- */
+  function renderCalendar() {
+    const first = state.cal;
+    $("cal-title").textContent = monthLabel(first);
+    const daysInMonth = new Date(first.getFullYear(), first.getMonth() + 1, 0).getDate();
+    const lead = (first.getDay() + 6) % 7; // semaine qui commence lundi
+    const byDay = {};
+    visible().forEach(e => {
+      if (e.when.getFullYear() === first.getFullYear() && e.when.getMonth() === first.getMonth())
+        (byDay[e.when.getDate()] = byDay[e.when.getDate()] || []).push(e);
+    });
+    const today = startOfDay(now()).getTime();
+    let html = ["L", "M", "M", "J", "V", "S", "D"].map(w => `<span class="wd">${w}</span>`).join("");
+    for (let i = 0; i < lead; i++) html += `<span class="day off"></span>`;
+    for (let d = 1; d <= daysInMonth; d++) {
+      const t = new Date(first.getFullYear(), first.getMonth(), d).getTime();
+      const has = byDay[d];
+      const cls = ["day", has ? "has" : "", t === today ? "today" : "", t < today ? "past" : "",
+        state.selected && t === state.selected.getTime() ? "sel" : ""].filter(Boolean).join(" ");
+      html += has
+        ? `<button class="${cls}" data-d="${d}">${d}<span class="n">${has.length}</span></button>`
+        : `<span class="${cls}">${d}</span>`;
+    }
+    $("cal-grid").innerHTML = html;
+    $("cal-grid").querySelectorAll(".day.has").forEach(b =>
+      b.addEventListener("click", () => {
+        const t = new Date(first.getFullYear(), first.getMonth(), +b.dataset.d);
+        state.selected = (state.selected && state.selected.getTime() === t.getTime()) ? null : t;
+        renderCalendar();
+        renderDayPanel();
+      }));
+  }
+
+  $("cal-prev").addEventListener("click", () => {
+    state.cal = new Date(state.cal.getFullYear(), state.cal.getMonth() - 1, 1);
+    state.selected = null; renderCalendar(); renderDayPanel();
+  });
+  $("cal-next").addEventListener("click", () => {
+    state.cal = new Date(state.cal.getFullYear(), state.cal.getMonth() + 1, 1);
+    state.selected = null; renderCalendar(); renderDayPanel();
   });
 
-  if (tba.length) {
-    addMonth("Date à confirmer", tba.length + " en attente");
-    tba.forEach(c => addRow(c, c.tba, "soon", "··"));
+  function renderDayPanel() {
+    const panel = $("day-panel");
+    if (!state.selected) { panel.hidden = true; return; }
+    panel.hidden = false;
+    const sel = state.selected;
+    const items = visible().filter(e => startOfDay(e.when).getTime() === sel.getTime());
+    const label = cap(sel.toLocaleDateString("fr-FR", { weekday: "long", day: "numeric", month: "long" }));
+    panel.innerHTML = `<div class="dp-title">${esc(label)}</div>` +
+      (items.length
+        ? items.map((e, i) => rowHTML(e, i, true)).join("")
+        : `<div class="dp-empty">Aucune sortie ce jour</div>`);
+    panel.querySelectorAll(".row[data-i]").forEach(r =>
+      r.addEventListener("click", () => openSheet(items[+r.dataset.i])));
   }
 
-  /* ---- rubalise ---- */
-  const upcoming = dated.filter(c => c.when > now()).slice(0, 4);
-  const line = upcoming.map(c => `${ddayLabel(dday(c.when))} ${c.artist} · ${c.title || c.type}`).join(" — ") + " — ";
-  const track = document.getElementById("marquee-track");
-  for (let i = 0; i < 2; i++) {
-    const s = document.createElement("span");
-    s.textContent = (line + " " + line + " " + line).trim() + " ";
-    track.appendChild(s);
+  /* ---------- fiche produit ---------- */
+  function openSheet(e) {
+    if (!e) return;
+    const released = e.when <= now();
+    const n = dday(e.when);
+    const photos = (e.photos || []).filter(p => p !== e.img).slice(0, 6);
+    const tracks = e.tracklist || [];
+    const isTitle = t => e.titleTrack && t.toLowerCase().includes(e.titleTrack.toLowerCase());
+    const seen = new Set();
+    const links = (e.links || []).map(u => {
+      const label = u.includes("instagram") ? "Instagram" : u.includes("youtube") ? "YouTube" :
+        u.includes("tiktok") ? "TikTok" : "X";
+      if (seen.has(label)) return "";
+      seen.add(label);
+      return `<a class="btn" href="${esc(u)}" target="_blank" rel="noopener">${label} ↗</a>`;
+    }).join("");
+    const ov = document.createElement("div");
+    ov.className = "overlay";
+    ov.innerHTML = `<div class="sheet" role="dialog" aria-modal="true">
+      <div class="sheet-top">
+        <span class="l">${esc(e.artist)}</span>
+        <span class="r"><span class="fiche">Fiche ${esc(e.type)}</span>
+        <button class="close" aria-label="Fermer">✕</button></span>
+      </div>
+      <div class="sheet-body">
+        <div>${e.img ? `<img class="cover" src="${esc(e.img)}" alt="Pochette" referrerpolicy="no-referrer">` : ""}
+          ${photos.length ? `<div class="shots">${photos.map(p =>
+            `<img src="${esc(p)}" alt="" loading="lazy" referrerpolicy="no-referrer">`).join("")}</div>` : ""}
+        </div>
+        <div>
+          <div class="s-artist">${esc(e.title || "Titre à venir")}</div>
+          <div class="s-album">${esc(e.artist)} · ${esc(e.type)}</div>
+          <div class="s-meta">
+            <div class="kv"><span class="k">Sortie</span><span class="v">${esc(cap(e.when.toLocaleDateString("fr-FR",
+              { weekday: "long", day: "numeric", month: "long", year: "numeric" })))} ·
+              ${esc(e.when.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }))}</span></div>
+            <div class="kv"><span class="k">Statut</span><span class="v red">${released ? "Out now" : ddayLabel(n)}</span></div>
+            ${e.titleTrack ? `<div class="kv"><span class="k">Title track</span><span class="v">« ${esc(e.titleTrack)} »</span></div>` : ""}
+          </div>
+          <h3>Tracklist</h3>
+          ${tracks.length
+            ? `<ol class="tracks">${tracks.map((t, i) =>
+                `<li class="${isTitle(t) ? "title-track" : ""}"><span class="no">${pad(i + 1)}</span><span>${esc(t)}</span></li>`).join("")}</ol>`
+            : `<div class="none">À annoncer (TBA)</div>`}
+          <div class="sheet-actions">
+            <button class="btn red" data-ics>+ Mon agenda (.ics)</button>
+            ${e.url ? `<a class="btn" href="${esc(e.url)}" target="_blank" rel="noopener">Fiche complète ↗</a>` : ""}
+            ${links}
+          </div>
+        </div>
+      </div>
+    </div>`;
+    const close = () => { ov.remove(); document.removeEventListener("keydown", onKey); };
+    const onKey = ev => { if (ev.key === "Escape") close(); };
+    ov.addEventListener("click", ev => { if (ev.target === ov) close(); });
+    ov.querySelector(".close").addEventListener("click", close);
+    ov.querySelector("[data-ics]").addEventListener("click", () => downloadICS(e));
+    document.addEventListener("keydown", onKey);
+    document.body.appendChild(ov);
   }
+
+  /* ---------- export agenda ---------- */
+  function downloadICS(e) {
+    const utc = d => d.getUTCFullYear() + pad(d.getUTCMonth() + 1) + pad(d.getUTCDate()) +
+      "T" + pad(d.getUTCHours()) + pad(d.getUTCMinutes()) + "00Z";
+    const name = `${e.artist} — ${e.title || e.type}`;
+    const ics = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//nonowarwood//comeback-tracker//FR",
+      "BEGIN:VEVENT",
+      "UID:" + e.when.getTime() + "@nonowarwood.github.io",
+      "DTSTAMP:" + utc(new Date()),
+      "DTSTART:" + utc(e.when),
+      "DTEND:" + utc(new Date(e.when.getTime() + 36e5)),
+      "SUMMARY:" + name.replace(/[,;]/g, " "),
+      "DESCRIPTION:" + (e.type + " · via nonowarwood.github.io/comebacks").replace(/[,;]/g, " "),
+      "END:VEVENT", "END:VCALENDAR"].join("\r\n");
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([ics], { type: "text/calendar" }));
+    a.download = name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + ".ics";
+    a.click();
+    URL.revokeObjectURL(a.href);
+  }
+
+  /* ---------- rubalise ---------- */
+  function renderMarquee() {
+    const upcoming = state.entries.filter(e => e.when > now()).slice(0, 4);
+    const line = upcoming.map(e => `${ddayLabel(dday(e.when))} ${e.artist} · ${e.title || e.type}`).join(" — ") + " — ";
+    const track = $("marquee-track");
+    track.innerHTML = "";
+    for (let i = 0; i < 2; i++) {
+      const s = document.createElement("span");
+      s.textContent = (line + " " + line + " " + line).trim() + " ";
+      track.appendChild(s);
+    }
+  }
+
+  loadData();
 })();
 </script>
 
