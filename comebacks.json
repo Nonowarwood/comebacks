@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-19T17:56:11+00:00",
+ "generated": "2026-07-19T19:31:51+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -259,6 +259,33 @@
    ]
   },
   {
+   "artist": "fromis_9",
+   "type": "2nd Album",
+   "title": "Glow ME",
+   "titleTrack": "Vitamin ME",
+   "date": "2026-07-21T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-fromis-9-members-for-Glow-ME.webp",
+   "url": "https://kpopofficial.com/album/fromis-9-glow-me/",
+   "tracklist": [
+    "ETERNAL",
+    "Vitamin ME – (Title)",
+    "Pocket Treat",
+    "Blue Heart",
+    "Screen Time",
+    "Teacher",
+    "Cold Blood (CHAEYOUNG X NAGYUNG X JIHEON)",
+    "Why do I cry? (HAYOUNG X JIWON)",
+    "Day 1",
+    "Wonderland"
+   ],
+   "links": [
+    "https://x.com/realfromis_9",
+    "https://www.instagram.com/officialfromis_9",
+    "https://www.youtube.com/@fromis9_official",
+    "https://www.tiktok.com/@official_fromis9"
+   ]
+  },
+  {
    "artist": "WONHO",
    "type": "EP",
    "title": "CORE",
@@ -296,33 +323,6 @@
     "https://www.instagram.com/8turn.official",
     "https://www.youtube.com/@8TURN.official/videos",
     "https://www.tiktok.com/@8turn_official"
-   ]
-  },
-  {
-   "artist": "fromis_9",
-   "type": "2nd Album",
-   "title": "Glow ME",
-   "titleTrack": "Vitamin ME",
-   "date": "2026-07-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-fromis-9-members-for-Glow-ME.webp",
-   "url": "https://kpopofficial.com/album/fromis-9-glow-me/",
-   "tracklist": [
-    "ETERNAL",
-    "Vitamin ME – (Title)",
-    "Pocket Treat",
-    "Blue Heart",
-    "Screen Time",
-    "Teacher",
-    "Cold Blood (CHAEYOUNG X NAGYUNG X JIHEON)",
-    "Why do I cry? (HAYOUNG X JIWON)",
-    "Day 1",
-    "Wonderland"
-   ],
-   "links": [
-    "https://x.com/realfromis_9",
-    "https://www.instagram.com/officialfromis_9",
-    "https://www.youtube.com/@fromis9_official",
-    "https://www.tiktok.com/@official_fromis9"
    ]
   },
   {
@@ -436,6 +436,27 @@
    ]
   },
   {
+   "artist": "NouerA",
+   "type": "4th Mini Album",
+   "title": ".exe",
+   "titleTrack": ".exe",
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-Members.webp",
+   "url": "https://kpopofficial.com/album/nouera-exe/",
+   "tracklist": [
+    ".exe",
+    "LOCKED IN",
+    "W.T.F(un)",
+    "LIFE IN COLOR"
+   ],
+   "links": [
+    "https://x.com/nouera_official",
+    "https://www.instagram.com/nouera_official/",
+    "https://www.youtube.com/@nouera_official",
+    "https://www.tiktok.com/@nouera_official"
+   ]
+  },
+  {
    "artist": "Young K (DAY6)",
    "type": "2nd Full Album",
    "title": "YOUNGEST",
@@ -468,44 +489,6 @@
    ]
   },
   {
-   "artist": "NouerA",
-   "type": "4th Mini Album",
-   "title": ".exe",
-   "titleTrack": ".exe",
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-Members.webp",
-   "url": "https://kpopofficial.com/album/nouera-exe/",
-   "tracklist": [
-    ".exe",
-    "LOCKED IN",
-    "W.T.F(un)",
-    "LIFE IN COLOR"
-   ],
-   "links": [
-    "https://x.com/nouera_official",
-    "https://www.instagram.com/nouera_official/",
-    "https://www.youtube.com/@nouera_official",
-    "https://www.tiktok.com/@nouera_official"
-   ]
-  },
-  {
-   "artist": "POW",
-   "type": "Single Album",
-   "title": "FLAVOR",
-   "titleTrack": "FLAVOR",
-   "date": "2026-07-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-POW-Members.webp",
-   "url": "https://kpopofficial.com/album/pow-flavor/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/POW_grid",
-    "https://www.instagram.com/pow_grid/",
-    "https://www.youtube.com/@POW_Official",
-    "https://www.youtube.com/@GRIDEntertainment",
-    "https://www.tiktok.com/@pow_grid"
-   ]
-  },
-  {
    "artist": "KARD",
    "type": "1st Album",
    "title": "Where To Now? (Part.2) : NOWHERE",
@@ -533,20 +516,20 @@
    ]
   },
   {
-   "artist": "P1Harmony",
-   "type": "Mini Album",
-   "title": "UNIQUE Japan Edition",
-   "titleTrack": null,
-   "date": "2026-07-29T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-P1Harmony-UNIQUE-Japan-Edition.webp",
-   "url": "https://kpopofficial.com/album/p1harmony-unique-japan-edition/",
+   "artist": "POW",
+   "type": "Single Album",
+   "title": "FLAVOR",
+   "titleTrack": "FLAVOR",
+   "date": "2026-07-28T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-POW-Members.webp",
+   "url": "https://kpopofficial.com/album/pow-flavor/",
    "tracklist": [],
    "links": [
-    "https://x.com/P1H_official",
-    "https://x.com/P1H_official_jp",
-    "https://www.instagram.com/p1h_official",
-    "https://www.youtube.com/@P1Harmonyofficial",
-    "https://www.tiktok.com/@p1harmony"
+    "https://x.com/POW_grid",
+    "https://www.instagram.com/pow_grid/",
+    "https://www.youtube.com/@POW_Official",
+    "https://www.youtube.com/@GRIDEntertainment",
+    "https://www.tiktok.com/@pow_grid"
    ]
   },
   {
@@ -581,6 +564,23 @@
     "https://www.youtube.com/@ATEEZofficial",
     "https://www.youtube.com/@KQENT",
     "https://www.tiktok.com/@ateez_official_"
+   ]
+  },
+  {
+   "artist": "P1Harmony",
+   "type": "Mini Album",
+   "title": "UNIQUE Japan Edition",
+   "titleTrack": null,
+   "date": "2026-07-29T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-P1Harmony-UNIQUE-Japan-Edition.webp",
+   "url": "https://kpopofficial.com/album/p1harmony-unique-japan-edition/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/P1H_official",
+    "https://x.com/P1H_official_jp",
+    "https://www.instagram.com/p1h_official",
+    "https://www.youtube.com/@P1Harmonyofficial",
+    "https://www.tiktok.com/@p1harmony"
    ]
   },
   {
