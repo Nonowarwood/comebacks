@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-20T14:33:24+00:00",
+ "generated": "2026-07-20T19:56:17+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -249,27 +249,6 @@
    "mv": "https://www.youtube.com/watch?v=2CsQyB-Psys"
   },
   {
-   "artist": "U-KNOW (TVXQ YUNHO)",
-   "type": "1st Single",
-   "title": "Time’s Tickin’",
-   "titleTrack": "Time’s Tickin'",
-   "date": "2026-07-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-TVXQ-U-KNOW-Time-s-Tickin.webp",
-   "url": "https://kpopofficial.com/album/u-know-times-tickin/",
-   "tracklist": [
-    "Time’s Tickin’",
-    "An Ordinary Story"
-   ],
-   "links": [
-    "https://x.com/TVXQ",
-    "https://www.instagram.com/tvxq.official/",
-    "https://www.youtube.com/@TVXQ",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@tvxq_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=2CsQyB-Psys"
-  },
-  {
    "artist": "WONHO",
    "type": "EP",
    "title": "CORE",
@@ -320,7 +299,7 @@
     "https://www.youtube.com/@fromis9_official",
     "https://www.tiktok.com/@official_fromis9"
    ],
-   "mv": "https://www.youtube.com/watch?v=D7kzSaRnnD4"
+   "mv": "https://www.youtube.com/watch?v=J1uP0xa2AFA"
   },
   {
    "artist": "8TURN",
@@ -357,7 +336,8 @@
     "https://www.youtube.com/@LUN8_Official",
     "https://www.youtube.com/@fantagio",
     "https://www.tiktok.com/@lun8_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=4N7yiKWrd90"
   },
   {
    "artist": "HYOLYN",
@@ -454,7 +434,8 @@
     "https://www.youtube.com/@aespa",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@aespa_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=kAIAp5GMOB0"
   },
   {
    "artist": "ARTMS",
@@ -504,7 +485,8 @@
     "https://www.youtube.com/@ILLIT_official",
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@illit_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=BNOwZyEYBNU"
   },
   {
    "artist": "Young K (DAY6)",
@@ -678,7 +660,7 @@
    "title": "CONNECT",
    "titleTrack": null,
    "date": "2026-07-31T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-EMOTIM-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/EMOTIM-Members.webp",
    "url": "https://kpopofficial.com/album/emotim-connect/",
    "tracklist": [],
    "links": [
@@ -712,8 +694,16 @@
    "titleTrack": null,
    "date": "2026-08-03T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-SEVENTEEN-DINO-PiCheolin-1st-Mini-Album-BOARD.webp",
-   "url": "https://kpopofficial.com/album/picheolin-gil-board/",
-   "tracklist": [],
+   "url": "https://kpopofficial.com/album/picheolin-gilboard/",
+   "tracklist": [
+    "짠 (feat. Dino)",
+    "놀아보세",
+    "정말",
+    "미쳐 미쳐",
+    "Love Sick (Narr. Lee Moon-sae)",
+    "정으로 사랑으로",
+    "Like It (Song by Dino)"
+   ],
    "links": [
     "https://x.com/pledis_17",
     "https://www.instagram.com/saythename_17/",
