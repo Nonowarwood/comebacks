@@ -1,32 +1,7 @@
 {
- "generated": "2026-07-19T19:31:51+00:00",
+ "generated": "2026-07-20T01:19:42+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "YEONJUN (TXT)",
-   "type": "2nd Mini Album",
-   "title": "NO LABELS: PART 02",
-   "titleTrack": "ICE CREAM",
-   "date": "2026-07-10T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/YEONJUN-NO-LABEL-PART-2-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/yeonjun-no-labels-part-02/",
-   "tracklist": [
-    "VANILLA",
-    "ICE CREAM – (Title)",
-    "BABY WASSUP?",
-    "NO MORE DISCO",
-    "FXXKING STAR",
-    "LONG WAY LONG RIDE"
-   ],
-   "links": [
-    "https://x.com/TXT_bighit",
-    "https://www.instagram.com/txt_bighit",
-    "https://www.instagram.com/yawnzzn/",
-    "https://www.youtube.com/@TXT_bighit",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@txt.bighitent"
-   ]
-  },
   {
    "artist": "NCT WISH (JP)",
    "type": "Japan Double A-Side Single",
@@ -41,7 +16,8 @@
     "https://www.instagram.com/nctwish_official",
     "https://www.youtube.com/@NCTWISH",
     "https://www.youtube.com/@SMTOWN"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=E1d8dVSs0Bg"
   },
   {
    "artist": "WOOAH",
@@ -60,7 +36,8 @@
     "https://www.instagram.com/wooah_nv/",
     "https://www.youtube.com/@wooah",
     "https://www.tiktok.com/@wooah_hm"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=8DwTAa5hPsA"
   },
   {
    "artist": "DAILY:DIRECTION",
@@ -79,7 +56,8 @@
     "https://www.instagram.com/daily_direction_official",
     "https://www.youtube.com/@DAILYDIRECTION_official/videos",
     "https://www.tiktok.com/@daily_direction"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=X8lCOhyxxEc"
   },
   {
    "artist": "idntt (itsnot5ver)",
@@ -103,7 +81,8 @@
     "https://www.instagram.com/idntt_cosmo",
     "https://www.youtube.com/@idntt_cosmo",
     "https://www.tiktok.com/@idntt_cosmo"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=Ot1wUyuE3Vo"
   },
   {
    "artist": "SUPER JUNIOR-83z",
@@ -126,7 +105,8 @@
     "https://www.instagram.com/superjunior/",
     "https://www.youtube.com/@SUPERJUNIOR",
     "https://www.youtube.com/@SMTOWN"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=JebaOMAuIyw"
   },
   {
    "artist": "YOUNG POSSE",
@@ -155,7 +135,8 @@
     "https://www.instagram.com/youngposseup",
     "https://www.youtube.com/@YOUNGPOSSEUP",
     "https://www.tiktok.com/@youngposseup"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=lFxXpXk35Eo"
   },
   {
    "artist": "SUNMI",
@@ -170,7 +151,8 @@
     "https://x.com/official_sunmi_",
     "https://www.instagram.com/miyayeah/",
     "https://www.youtube.com/@sunmi_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=M6EyUZ3ANuM"
   },
   {
    "artist": "Picheolin (SEVENTEEN DINO)",
@@ -187,7 +169,8 @@
     "https://www.youtube.com/@pledis17",
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@seventeen17_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=Zt_37l7NiJw"
   },
   {
    "artist": "HUTA (BTOB LEE MIN HYUK)",
@@ -207,7 +190,8 @@
     "https://www.instagram.com/btob_company/",
     "https://www.youtube.com/@BTOB_COMPANY",
     "https://www.tiktok.com/@btob.company"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=wVDb6xpA75E"
   },
   {
    "artist": "BBGIRLS",
@@ -223,7 +207,8 @@
     "https://www.instagram.com/weare_bbgirls/",
     "https://www.youtube.com/@weare_bbgirls",
     "https://www.tiktok.com/@weare_bbgirls"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=ZWzO50OCbqs"
   },
   {
    "artist": "ASC2NT",
@@ -239,13 +224,32 @@
     "https://www.instagram.com/asc2nt_official/",
     "https://www.youtube.com/@asc2nt_official",
     "https://www.tiktok.com/@asc2nt_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=QRO3GeLK9go"
   },
   {
    "artist": "U-KNOW (TVXQ YUNHO)",
    "type": "1st Single",
    "title": "Time’s Tickin’",
-   "titleTrack": null,
+   "titleTrack": "Time's Tickin'",
+   "date": "2026-07-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-TVXQ-U-KNOW-Time-s-Tickin.webp",
+   "url": "https://kpopofficial.com/album/u-know-times-tickin/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TVXQ",
+    "https://www.instagram.com/tvxq.official/",
+    "https://www.youtube.com/@TVXQ",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@tvxq_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=y_kCB3ydyVU"
+  },
+  {
+   "artist": "U-KNOW (TVXQ YUNHO)",
+   "type": "1st Single",
+   "title": "Time’s Tickin’",
+   "titleTrack": "Time's Tickin'",
    "date": "2026-07-20T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-TVXQ-U-KNOW-Time-s-Tickin.webp",
    "url": "https://kpopofficial.com/album/u-know-times-tickin/",
@@ -256,7 +260,53 @@
     "https://www.youtube.com/@TVXQ",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@tvxq_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=y_kCB3ydyVU"
+  },
+  {
+   "artist": "WONHO",
+   "type": "EP",
+   "title": "CORE",
+   "titleTrack": "Don’t Wake Me Up!",
+   "date": "2026-07-21T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-WONHO-Teaser-for-EP-CORE-1.webp",
+   "url": "https://kpopofficial.com/album/wonho-core/",
+   "tracklist": [
+    "Answer",
+    "Don’t Wake Me Up! – (Title)",
+    "Can’t Get Enough",
+    "Summer Blue",
+    "Down",
+    "Test Drive",
+    "Promises (feat. Brother Su)"
+   ],
+   "links": [
+    "https://x.com/official__wonho",
+    "https://www.instagram.com/iwonhoyou",
+    "https://www.youtube.com/@WONHOofficial",
+    "https://www.tiktok.com/@official_wonho"
+   ],
+   "mv": "https://www.youtube.com/watch?v=o_UAIwNlDmY"
+  },
+  {
+   "artist": "8TURN",
+   "type": "3rd Single Album",
+   "title": "8.X",
+   "titleTrack": "Stagefright",
+   "date": "2026-07-21T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/8TURN-Members-for-Single-Album-8X.webp",
+   "url": "https://kpopofficial.com/album/8turn-8x/",
+   "tracklist": [
+    "Stagefright – (Title)",
+    "8PM"
+   ],
+   "links": [
+    "https://x.com/8TURN_official",
+    "https://www.instagram.com/8turn.official",
+    "https://www.youtube.com/@8TURN.official/videos",
+    "https://www.tiktok.com/@8turn_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=ZNldM9_IWPY"
   },
   {
    "artist": "fromis_9",
@@ -283,47 +333,26 @@
     "https://www.instagram.com/officialfromis_9",
     "https://www.youtube.com/@fromis9_official",
     "https://www.tiktok.com/@official_fromis9"
-   ]
-  },
-  {
-   "artist": "WONHO",
-   "type": "EP",
-   "title": "CORE",
-   "titleTrack": "Don’t Wake Me Up!",
-   "date": "2026-07-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-WONHO-Teaser-for-EP-CORE-1.webp",
-   "url": "https://kpopofficial.com/album/wonho-core/",
-   "tracklist": [
-    "Answer",
-    "Don’t Wake Me Up! – (Title)",
-    "Can’t Get Enough",
-    "Summer Blue",
-    "Down",
-    "Test Drive",
-    "Promises (feat. Brother Su)"
    ],
-   "links": [
-    "https://x.com/official__wonho",
-    "https://www.instagram.com/iwonhoyou",
-    "https://www.youtube.com/@WONHOofficial",
-    "https://www.tiktok.com/@official_wonho"
-   ]
+   "mv": "https://www.youtube.com/watch?v=D7kzSaRnnD4"
   },
   {
-   "artist": "8TURN",
-   "type": "3rd Single Album",
-   "title": "8.X",
+   "artist": "OURBIRTHDAY",
+   "type": "1st Digital Single",
+   "title": "HUNGRY (Side A)",
    "titleTrack": null,
-   "date": "2026-07-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/8TURN-Members-for-Single-Album-8X.webp",
-   "url": "https://kpopofficial.com/album/8turn-8x/",
+   "date": "2026-07-22T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/OURBIRTHDAY-Members.webp",
+   "url": "https://kpopofficial.com/album/ourbirthday-hungry-side-a/",
    "tracklist": [],
    "links": [
-    "https://x.com/8TURN_official",
-    "https://www.instagram.com/8turn.official",
-    "https://www.youtube.com/@8TURN.official/videos",
-    "https://www.tiktok.com/@8turn_official"
-   ]
+    "https://x.com/OBD_offcl",
+    "https://www.instagram.com/ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@ourbirthday_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=PmbSk_aTp-o"
   },
   {
    "artist": "Picheolin (SEVENTEEN DINO)",
@@ -340,7 +369,8 @@
     "https://www.youtube.com/@pledis17",
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@seventeen17_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=hkAsbIkQRMk"
   },
   {
    "artist": "LUN8",
@@ -381,7 +411,8 @@
     "https://www.instagram.com/xhyolynx/",
     "https://www.youtube.com/@OfficialHyolyn",
     "https://www.tiktok.com/@_hyolyn_"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=PBswvv676X8"
   },
   {
    "artist": "aespa (JP)",
@@ -436,27 +467,6 @@
    ]
   },
   {
-   "artist": "NouerA",
-   "type": "4th Mini Album",
-   "title": ".exe",
-   "titleTrack": ".exe",
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-Members.webp",
-   "url": "https://kpopofficial.com/album/nouera-exe/",
-   "tracklist": [
-    ".exe",
-    "LOCKED IN",
-    "W.T.F(un)",
-    "LIFE IN COLOR"
-   ],
-   "links": [
-    "https://x.com/nouera_official",
-    "https://www.instagram.com/nouera_official/",
-    "https://www.youtube.com/@nouera_official",
-    "https://www.tiktok.com/@nouera_official"
-   ]
-  },
-  {
    "artist": "Young K (DAY6)",
    "type": "2nd Full Album",
    "title": "YOUNGEST",
@@ -489,6 +499,44 @@
    ]
   },
   {
+   "artist": "NouerA",
+   "type": "4th Mini Album",
+   "title": ".exe",
+   "titleTrack": ".exe",
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-Members.webp",
+   "url": "https://kpopofficial.com/album/nouera-exe/",
+   "tracklist": [
+    ".exe",
+    "LOCKED IN",
+    "W.T.F(un)",
+    "LIFE IN COLOR"
+   ],
+   "links": [
+    "https://x.com/nouera_official",
+    "https://www.instagram.com/nouera_official/",
+    "https://www.youtube.com/@nouera_official",
+    "https://www.tiktok.com/@nouera_official"
+   ]
+  },
+  {
+   "artist": "POW",
+   "type": "Single Album",
+   "title": "FLAVOR",
+   "titleTrack": "FLAVOR",
+   "date": "2026-07-28T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-POW-Members.webp",
+   "url": "https://kpopofficial.com/album/pow-flavor/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/POW_grid",
+    "https://www.instagram.com/pow_grid/",
+    "https://www.youtube.com/@POW_Official",
+    "https://www.youtube.com/@GRIDEntertainment",
+    "https://www.tiktok.com/@pow_grid"
+   ]
+  },
+  {
    "artist": "KARD",
    "type": "1st Album",
    "title": "Where To Now? (Part.2) : NOWHERE",
@@ -516,20 +564,20 @@
    ]
   },
   {
-   "artist": "POW",
-   "type": "Single Album",
-   "title": "FLAVOR",
-   "titleTrack": "FLAVOR",
-   "date": "2026-07-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-POW-Members.webp",
-   "url": "https://kpopofficial.com/album/pow-flavor/",
+   "artist": "P1Harmony",
+   "type": "Mini Album",
+   "title": "UNIQUE Japan Edition",
+   "titleTrack": null,
+   "date": "2026-07-29T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-P1Harmony-UNIQUE-Japan-Edition.webp",
+   "url": "https://kpopofficial.com/album/p1harmony-unique-japan-edition/",
    "tracklist": [],
    "links": [
-    "https://x.com/POW_grid",
-    "https://www.instagram.com/pow_grid/",
-    "https://www.youtube.com/@POW_Official",
-    "https://www.youtube.com/@GRIDEntertainment",
-    "https://www.tiktok.com/@pow_grid"
+    "https://x.com/P1H_official",
+    "https://x.com/P1H_official_jp",
+    "https://www.instagram.com/p1h_official",
+    "https://www.youtube.com/@P1Harmonyofficial",
+    "https://www.tiktok.com/@p1harmony"
    ]
   },
   {
@@ -567,23 +615,6 @@
    ]
   },
   {
-   "artist": "P1Harmony",
-   "type": "Mini Album",
-   "title": "UNIQUE Japan Edition",
-   "titleTrack": null,
-   "date": "2026-07-29T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-P1Harmony-UNIQUE-Japan-Edition.webp",
-   "url": "https://kpopofficial.com/album/p1harmony-unique-japan-edition/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/P1H_official",
-    "https://x.com/P1H_official_jp",
-    "https://www.instagram.com/p1h_official",
-    "https://www.youtube.com/@P1Harmonyofficial",
-    "https://www.tiktok.com/@p1harmony"
-   ]
-  },
-  {
    "artist": "EMOTI:M",
    "type": "1st Single Album",
    "title": "CONNECT",
@@ -601,12 +632,12 @@
   },
   {
    "artist": "UNIS (JP)",
-   "type": "1st Mini Album",
-   "title": null,
+   "type": "Japan 1st Mini Album",
+   "title": "UNI☆Sparkle!",
    "titleTrack": null,
    "date": "2026-07-31T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-UNIS-Japan-1st-Mini-Album.webp",
-   "url": "https://kpopofficial.com/album/unis-japan-1st-mini-album/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-UNIS-Japan-UNI-Sparkle-Teaser.webp",
+   "url": "https://kpopofficial.com/album/unis-uni-sparkle/",
    "tracklist": [],
    "links": [
     "https://x.com/UNIS_offcl",
@@ -614,7 +645,8 @@
     "https://www.instagram.com/unis_offcl/",
     "https://www.youtube.com/@UNIS_Offcl",
     "https://www.tiktok.com/@unis_offcl"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=sqYNGZJWNcw"
   },
   {
    "artist": "Red Velvet",
@@ -622,7 +654,7 @@
    "title": "Velvet Summer",
    "titleTrack": null,
    "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-Red-Velvet-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-Red-Velvet-Members.webp",
    "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
    "tracklist": [],
    "links": [
@@ -648,7 +680,8 @@
     "https://www.youtube.com/@pledis17",
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@seventeen17_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=Zt_37l7NiJw"
   },
   {
    "artist": "TWS (JP)",
@@ -682,7 +715,8 @@
     "https://www.instagram.com/kissoflife_s2",
     "https://www.youtube.com/@KISSOFLIFE_official",
     "https://www.tiktok.com/@kissoflife_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=fFsiruVvgGg"
   },
   {
    "artist": "AEN",
@@ -736,7 +770,8 @@
     "https://www.youtube.com/@StrayKids",
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@jypestraykids"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=Q7IFjVUUb_E"
   },
   {
    "artist": "ARTMS",
@@ -930,7 +965,8 @@
     "https://www.youtube.com/@andTEAM_official",
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@andteam_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=D4a4oaELqwI"
   }
  ]
 }

@@ -8,6 +8,14 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800;900&family=Archivo+Narrow:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#f1eee6">
+<meta property="og:title" content="Comeback Tracker — Nonowarwood">
+<meta property="og:description" content="Les prochains comebacks kpop : comptes à rebours, calendrier interactif, fiches albums. FR · EN · KO · JA.">
+<meta property="og:url" content="https://nonowarwood.github.io/comebacks/">
+<meta property="og:image" content="https://nonowarwood.github.io/comebacks/og.png">
+<meta name="twitter:card" content="summary_large_image">
 <style>
   :root {
     --paper: #f1eee6;
@@ -537,13 +545,27 @@
   }
 
   /* ----- lignes de sorties ----- */
+  .favstar {
+    font-size: 17px;
+    line-height: 1;
+    color: transparent;
+    -webkit-text-stroke: 1.2px var(--navy-soft);
+    cursor: pointer;
+    transition: transform .25s var(--ease);
+    user-select: none;
+  }
+
+  .favstar:hover { transform: scale(1.25) rotate(12deg); -webkit-text-stroke-color: var(--red); }
+  .favstar.on { color: var(--red); -webkit-text-stroke: 0; }
+  .favstar.big { font-size: 22px; }
+
   .row {
     width: 100%;
     text-align: left;
     font-family: inherit;
     color: inherit;
     display: grid;
-    grid-template-columns: 46px 34px 1fr auto;
+    grid-template-columns: 46px 34px 1fr auto auto;
     align-items: center;
     gap: 12px;
     padding: 10px 2px;
@@ -609,7 +631,7 @@
   .row .badge.out { color: #f1eee6; background: var(--red); border-color: var(--red); }
   .row.released .who .a { color: var(--navy-soft); }
 
-  .day-panel .row { grid-template-columns: 46px 1fr auto; }
+  .day-panel .row { grid-template-columns: 46px 1fr auto auto; }
   .day-panel .row .day { display: none; }
 
   /* ----- sections mois ----- */
@@ -999,7 +1021,8 @@
       <span class="bars"></span>
       <span class="digits">8 809932 072026</span>
     </span>
-    <span><a href="https://nonowarwood.github.io/links/" id="foot-links"></a></span>
+    <span><a href="webcal://nonowarwood.github.io/comebacks/comebacks.ics" id="foot-cal"></a> ·
+    <a href="https://nonowarwood.github.io/links/" id="foot-links"></a></span>
   </footer>
 
 </div>
@@ -1035,6 +1058,7 @@
       release: "Sortie", status: "Statut", title_track: "Title track", tracklist: "Tracklist",
       tba: "À annoncer (TBA)", ics: "+ Mon agenda (.ics)", full: "Fiche complète",
       sheet: t => "Fiche " + t, part: "Part",
+      fav: "★ Mes artistes", subscribe: "S'abonner au calendrier", share: "Carte de partage", mv: "▶ MV",
       links: "← Mes liens", sources: "Sources kpopofficial.com",
       maj: (d, mo, h, mi) => `MAJ ${d}.${mo} · ${h}:${mi}`, no_data: "Données indisponibles",
       tz_label: { fr: "heure française", kst: "KST", jst: "JST" },
@@ -1054,6 +1078,7 @@
       release: "Release", status: "Status", title_track: "Title track", tracklist: "Tracklist",
       tba: "To be announced (TBA)", ics: "+ My calendar (.ics)", full: "Full page",
       sheet: t => t + " · Details", part: "Part",
+      fav: "★ My artists", subscribe: "Subscribe (calendar)", share: "Share card", mv: "▶ MV",
       links: "← My links", sources: "Sources kpopofficial.com",
       maj: (d, mo, h, mi) => `Updated ${mo}.${d} · ${h}:${mi}`, no_data: "Data unavailable",
       tz_label: { fr: "French time", kst: "KST", jst: "JST" },
@@ -1073,6 +1098,7 @@
       release: "발매일", status: "상태", title_track: "타이틀곡", tracklist: "트랙리스트",
       tba: "미공개 (TBA)", ics: "+ 내 캘린더 (.ics)", full: "상세 보기",
       sheet: t => t + " · 정보", part: "Part",
+      fav: "★ 내 아티스트", subscribe: "캘린더 구독", share: "공유 카드", mv: "▶ MV",
       links: "← 내 링크", sources: "출처 kpopofficial.com",
       maj: (d, mo, h, mi) => `업데이트 ${mo}.${d} · ${h}:${mi}`, no_data: "데이터를 불러올 수 없어요",
       tz_label: { fr: "프랑스 시간", kst: "KST", jst: "JST" },
@@ -1092,6 +1118,7 @@
       release: "発売日", status: "ステータス", title_track: "タイトル曲", tracklist: "トラックリスト",
       tba: "未発表（TBA）", ics: "+ カレンダーに追加 (.ics)", full: "詳細ページ",
       sheet: t => t + " · 詳細", part: "Part",
+      fav: "★ 推し", subscribe: "カレンダー購読", share: "シェアカード", mv: "▶ MV",
       links: "← リンク一覧", sources: "出典 kpopofficial.com",
       maj: (d, mo, h, mi) => `更新 ${mo}.${d} · ${h}:${mi}`, no_data: "データを取得できません",
       tz_label: { fr: "フランス時間", kst: "KST", jst: "JST" },
@@ -1125,6 +1152,17 @@
     else delete document.documentElement.dataset.theme;
   };
   applyTheme();
+
+  /* ---------- favoris ---------- */
+  const normArtist = a => a.toLowerCase().replace(/\s*\((jp|kr|japan)\)\s*/gi, " ").trim();
+  const favs = new Set(JSON.parse(localStorage.getItem("cbt-favs") || "[]"));
+  const isFav = a => favs.has(normArtist(a));
+  const toggleFav = a => {
+    const k = normArtist(a);
+    favs.has(k) ? favs.delete(k) : favs.add(k);
+    localStorage.setItem("cbt-favs", JSON.stringify([...favs]));
+    renderAll();
+  };
 
   /* ---------- intro ---------- */
   const intro = $("intro");
@@ -1161,14 +1199,17 @@
     " · " + fmtTime(d) + " " + t().tz_label[state.tz];
 
   function catOf(artist) {
-    const key = artist.toLowerCase().replace(/\s*\((jp|kr|japan)\)\s*/gi, " ").trim();
+    const key = normArtist(artist);
     for (const [name, cat] of Object.entries(ARTIST_CATS)) {
       if (key === name || key.startsWith(name + " ") || key.startsWith(name + "-")) return cat;
     }
     return null;
   }
 
-  const visible = () => state.entries.filter(e => state.filter === "all" || e.cat === state.filter);
+  const visible = () => state.entries.filter(e =>
+    state.filter === "all" ? true :
+    state.filter === "fav" ? isFav(e.artist) :
+    e.cat === state.filter);
 
   /* ---------- révélation au scroll ---------- */
   const io = reduced ? null : new IntersectionObserver(entries => {
@@ -1229,6 +1270,7 @@
     $("sub").textContent = t().sub;
     $("foot-src").textContent = t().sources;
     $("foot-links").textContent = t().links;
+    $("foot-cal").textContent = "📅 " + t().subscribe;
     if (state.loadError) { $("maj").textContent = t().no_data; }
     else if (state.generated) {
       const g = civil(state.generated);
@@ -1266,7 +1308,8 @@
   });
 
   function renderFilters() {
-    $("filters").innerHTML = Object.entries(t().filters).map(([id, label]) =>
+    const opts = [...Object.entries(t().filters), ["fav", t().fav]];
+    $("filters").innerHTML = opts.map(([id, label]) =>
       `<button class="chip ${state.filter === id ? "on" : ""}" data-f="${id}">${esc(label)}</button>`).join("");
     $("filters").querySelectorAll(".chip").forEach(b =>
       b.addEventListener("click", () => { state.filter = b.dataset.f; renderAll(); }));
@@ -1327,10 +1370,12 @@
     const initials = e.artist.replace(/[^A-Za-z0-9&]/g, "").slice(0, 2).toUpperCase() || "K";
     const mono = `<span class="mono" aria-hidden="true">${esc(initials)}</span>`;
     if (!e.img) return cls === "cover" ? "" : mono;
-    const fallback = cls === "cover"
-      ? "this.style.display='none'"
-      : `this.replaceWith(Object.assign(document.createElement('span'),{className:'mono',textContent:'${initials}'}))`;
-    return `<img class="${cls === "cover" ? "cover" : "thumb"}" src="${esc(e.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="${fallback}">`;
+    if (cls === "cover")
+      return `<img class="cover" src="${esc(e.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">`;
+    /* vignette : variante WordPress 150x150, repli sur l'originale puis le monogramme */
+    const small = e.img.replace(/(\.[a-z]{3,4})$/i, "-150x150$1");
+    const fallback = `if(!this.dataset.f){this.dataset.f=1;this.src='${esc(e.img)}'}else{this.replaceWith(Object.assign(document.createElement('span'),{className:'mono',textContent:'${initials}'}))}`;
+    return `<img class="thumb" src="${esc(small)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="${fallback}">`;
   }
 
   /* ---------- liste ---------- */
@@ -1344,8 +1389,14 @@
       <span class="day">${pad(civil(e.when).d)}</span>
       <span class="who"><span class="a">${esc(e.artist)}</span><br>
       <span class="t">${esc(e.title || t().tba_title)} · ${esc(e.type)}</span></span>
+      <span class="favstar ${isFav(e.artist) ? "on" : ""}" data-fav="${esc(e.artist)}" role="button" aria-label="★">★</span>
       <span class="badge ${badgeCls}">${esc(badge)}</span>
     </button>`;
+  }
+
+  function bindFavs(root) {
+    root.querySelectorAll("[data-fav]").forEach(s =>
+      s.addEventListener("click", ev => { ev.stopPropagation(); toggleFav(s.dataset.fav); }));
   }
 
   const monthHeadHTML = (kicker, title, count, wm) =>
@@ -1380,6 +1431,7 @@
     box.innerHTML = html || `<div class="month"><h2>${esc(t().none)}</h2></div>`;
     box.querySelectorAll(".row[data-i]").forEach(r =>
       r.addEventListener("click", () => openSheet(visible()[+r.dataset.i])));
+    bindFavs(box);
     observeReveals(box);
   }
 
@@ -1447,6 +1499,7 @@
         : `<div class="dp-empty">${esc(t().none_day)}</div>`);
     panel.querySelectorAll(".row[data-i]").forEach(r =>
       r.addEventListener("click", () => openSheet(items[+r.dataset.i])));
+    bindFavs(panel);
   }
 
   /* ---------- fiche produit ---------- */
@@ -1469,7 +1522,8 @@
     ov.innerHTML = `<div class="sheet" role="dialog" aria-modal="true">
       <div class="sheet-top">
         <span class="l">${esc(e.artist)}</span>
-        <span class="r"><span class="fiche">${esc(t().sheet(e.type))}</span>
+        <span class="r"><span class="favstar big ${isFav(e.artist) ? "on" : ""}" data-sfav role="button" aria-label="★">★</span>
+        <span class="fiche">${esc(t().sheet(e.type))}</span>
         <button class="close" aria-label="✕">✕</button></span>
       </div>
       <div class="sheet-body">
@@ -1496,7 +1550,9 @@
                 <span class="no">${pad(i + 1)}</span><span>${esc(x)}</span></li>`).join("")}</ol>`
             : `<div class="none">${esc(t().tba)}</div>`}
           <div class="sheet-actions">
+            ${e.mv ? `<a class="btn red" href="${esc(e.mv)}" target="_blank" rel="noopener">${esc(t().mv)}</a>` : ""}
             <button class="btn red" data-ics>${esc(t().ics)}</button>
+            <button class="btn" data-share>${esc(t().share)}</button>
             ${e.url ? `<a class="btn" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(t().full)} ↗</a>` : ""}
             ${links}
           </div>
@@ -1508,6 +1564,11 @@
     ov.addEventListener("click", ev => { if (ev.target === ov) close(); });
     ov.querySelector(".close").addEventListener("click", close);
     ov.querySelector("[data-ics]").addEventListener("click", () => downloadICS(e));
+    ov.querySelector("[data-share]").addEventListener("click", () => shareCard(e));
+    ov.querySelector("[data-sfav]").addEventListener("click", ev => {
+      toggleFav(e.artist);
+      ev.target.classList.toggle("on", isFav(e.artist));
+    });
     document.addEventListener("keydown", onKey);
     document.body.appendChild(ov);
     /* pochette 3D qui suit la souris */
@@ -1523,6 +1584,66 @@
       });
       c3d.addEventListener("mouseleave", () => { img.style.transform = ""; });
     }
+  }
+
+  /* ---------- carte de partage (canvas, DA print) ---------- */
+  async function shareCard(e) {
+    try {
+      await document.fonts.load('900 200px "Archivo"');
+      await document.fonts.load('600 40px "Archivo Narrow"');
+    } catch (err) { /* on dessine avec la police de secours */ }
+    const W = 1080, H = 1350;
+    const cv = document.createElement("canvas");
+    cv.width = W; cv.height = H;
+    const x = cv.getContext("2d");
+    const P = "#f1eee6", N = "#1e2a4a", R = "#8b2318";
+    x.fillStyle = P; x.fillRect(0, 0, W, H);
+    for (let i = 0; i < 5000; i++) {
+      x.fillStyle = "rgba(30,42,74," + Math.random() * .05 + ")";
+      x.fillRect(Math.random() * W, Math.random() * H, 2, 2);
+    }
+    x.strokeStyle = N; x.lineWidth = 3; x.strokeRect(44, 44, W - 88, H - 88);
+    x.textBaseline = "top";
+    x.fillStyle = N; x.font = '800 32px "Archivo"';
+    x.fillText("COMEBACK TRACKER", 88, 92);
+    x.fillStyle = R; x.textAlign = "right"; x.fillText("NONOWARWOOD", W - 88, 92); x.textAlign = "left";
+    x.fillStyle = N; x.fillRect(88, 152, W - 176, 3);
+    const released = e.when <= now();
+    const lbl = (released ? t().out : ddayLabel(dday(e.when))).toUpperCase();
+    let fs = 300;
+    do { x.font = `900 ${fs}px "Archivo"`; fs -= 10; } while (x.measureText(lbl).width > W - 176 && fs > 60);
+    x.fillStyle = R; x.fillText(lbl, 84, 220);
+    let y = 220 + fs + 70;
+    x.fillStyle = N; x.font = '900 84px "Archivo"';
+    let line = "";
+    const lines = [];
+    e.artist.toUpperCase().split(" ").forEach(w => {
+      const test = line ? line + " " + w : w;
+      if (x.measureText(test).width > W - 176 && line) { lines.push(line); line = w; } else line = test;
+    });
+    lines.push(line);
+    lines.forEach(l => { x.fillText(l, 88, y); y += 94; });
+    y += 14;
+    x.fillStyle = "rgba(30,42,74,.62)"; x.font = '600 36px "Archivo Narrow"';
+    x.fillText(((e.title || t().tba_title) + " · " + e.type).toUpperCase().slice(0, 52), 88, y); y += 52;
+    x.fillText(whenLine(e.when).toUpperCase(), 88, y);
+    x.fillStyle = N;
+    const seq = [2, 3, 1, 4, 2, 2, 3, 1, 2, 4, 1, 3];
+    for (let i = 0, bx = 88; bx < 420; i++) {
+      const w = seq[i % seq.length] * 2;
+      x.fillRect(bx, H - 190, w, 62);
+      bx += w + 6;
+    }
+    x.font = '600 26px "Archivo Narrow"'; x.fillStyle = "rgba(30,42,74,.62)";
+    x.fillText("NONOWARWOOD.GITHUB.IO/COMEBACKS", 88, H - 104);
+    x.textAlign = "right"; x.fillText("(P)&(C) 2026", W - 88, H - 104); x.textAlign = "left";
+    cv.toBlob(b => {
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(b);
+      a.download = (lbl + "-" + e.artist).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + ".png";
+      a.click();
+      URL.revokeObjectURL(a.href);
+    });
   }
 
   /* ---------- export agenda ---------- */
@@ -1558,6 +1679,9 @@
       track.appendChild(s);
     }
   }
+
+  if ("serviceWorker" in navigator && location.hostname.endsWith("github.io"))
+    navigator.serviceWorker.register("sw.js");
 
   loadData();
 })();

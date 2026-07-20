@@ -148,6 +148,9 @@ def parse_album_page(src):
             if "To Be Announced" not in line and len(line) < 120:
                 out["tracklist"].append(re.sub(r"^\d+[.)]\s*", "", line))
             i += 1
+    mv = re.search(r'youtube\.com/embed/([A-Za-z0-9_-]{6,15})', src)
+    if mv:
+        out["mv"] = "https://www.youtube.com/watch?v=" + mv.group(1)
     zone = src[src.find("Official Source"): src.find("Official Source") + 4000] if "Official Source" in src else ""
     for u in re.findall(r'href="(https://(?:x\.com|twitter\.com|www\.instagram\.com|www\.youtube\.com|www\.tiktok\.com)/[^"]+)"', zone):
         if u not in out["links"]:
@@ -200,7 +203,40 @@ def main():
         "entries": kept,
     }
     OUT.write_text(json.dumps(data, ensure_ascii=False, indent=1))
-    print(f"{len(kept)} sorties gardées, {fetched} fiches album lues -> {OUT.name}")
+    write_ics(kept)
+    print(f"{len(kept)} sorties gardées, {fetched} fiches album lues -> {OUT.name} + comebacks.ics")
+
+
+def write_ics(entries):
+    """Calendrier abonnable : un VEVENT par sortie, UID stable."""
+    def utc(dt):
+        return dt.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+    def slug(s):
+        return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
+
+    def escape(s):
+        return s.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,")
+
+    lines = ["BEGIN:VCALENDAR", "VERSION:2.0",
+             "PRODID:-//nonowarwood//comeback-tracker//FR",
+             "X-WR-CALNAME:Comeback Tracker — Nonowarwood",
+             "X-WR-CALDESC:Les prochaines sorties kpop · nonowarwood.github.io/comebacks",
+             "REFRESH-INTERVAL;VALUE=DURATION:PT6H"]
+    stamp = utc(datetime.now(timezone.utc))
+    for e in entries:
+        when = datetime.fromisoformat(e["date"])
+        title = e["title"] or e["type"]
+        lines += ["BEGIN:VEVENT",
+                  f"UID:{slug(e['artist'])}-{when.strftime('%Y%m%d')}@nonowarwood.github.io",
+                  "DTSTAMP:" + stamp,
+                  "DTSTART:" + utc(when),
+                  "DTEND:" + utc(when + timedelta(hours=1)),
+                  "SUMMARY:" + escape(f"{e['artist']} — {title}"),
+                  "DESCRIPTION:" + escape(f"{e['type']} · nonowarwood.github.io/comebacks"),
+                  "END:VEVENT"]
+    lines.append("END:VCALENDAR")
+    (OUT.parent / "comebacks.ics").write_text("\r\n".join(lines))
 
 
 if __name__ == "__main__":

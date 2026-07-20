@@ -1,0 +1,13 @@
+{
+  "name": "Comeback Tracker — Nonowarwood",
+  "short_name": "Comebacks",
+  "description": "Les prochains comebacks kpop : comptes à rebours, calendrier, fiches albums.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f1eee6",
+  "theme_color": "#f1eee6",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

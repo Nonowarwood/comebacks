@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#f1eee6"/>
+  <rect x="26" y="26" width="460" height="460" rx="76" fill="none" stroke="#1e2a4a" stroke-width="14"/>
+  <g transform="rotate(-8 256 256)">
+    <rect x="92" y="170" width="328" height="172" rx="18" fill="none" stroke="#8b2318" stroke-width="16"/>
+    <text x="256" y="305" text-anchor="middle" font-family="Archivo, 'Arial Black', sans-serif" font-size="132" font-weight="900" fill="#8b2318">CT</text>
+  </g>
+</svg>

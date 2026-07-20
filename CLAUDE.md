@@ -71,21 +71,21 @@ compte à rebours segmenté · reveals scroll · pochette 3D · code-barres/rep�
 
 ## Roadmap validée par Noah (« ajoute tout »)
 
-- [ ] **Mes artistes (favoris)** — étoile sur chaque ligne + dans la fiche ; clé = artiste
+- [x] **Mes artistes (favoris)** — étoile sur chaque ligne + dans la fiche ; clé = artiste
   normalisé (minuscules, sans `(JP)` etc.) ; localStorage `cbt-favs` (array) ; chip de filtre
   « ★ » ajouté aux filtres → `visible()` filtre dessus, le héros suit automatiquement.
-- [ ] **Calendrier abonnable** — `update_data.py` génère aussi `comebacks.ics` (un VEVENT par
+- [x] **Calendrier abonnable** — `update_data.py` génère aussi `comebacks.ics` (un VEVENT par
   sortie, UID stable `artiste+date`, durée 1 h) ; bouton « S'abonner » (webcal://…/comebacks.ics)
   dans le footer/réglages, traduit dans les 4 langues.
-- [ ] **PWA + favicon + OG** — `icon.svg` (tampon « CT » rouge sur papier), `manifest.json`,
+- [x] **PWA + favicon + OG** — `icon.svg` (tampon « CT » rouge sur papier), `manifest.json`,
   `sw.js` minimal (network-first, fallback cache), meta OG + twitter card avec une image
   `og.png` (capture 1200×630 du site, thème papier).
-- [ ] **Teaser / MV** — vérifier si les fiches album kpopofficial contiennent des embeds YouTube
+- [x] **Teaser / MV** — vérifier si les fiches album kpopofficial contiennent des embeds YouTube
   (`youtube.com/embed/…`) ; si oui les scraper (`e.mv`) et bouton « ▶ MV » dans la fiche.
-- [ ] **Carte de partage** — bouton dans la fiche : canvas 1080×1350 dans la DA (papier, navy,
+- [x] **Carte de partage** — bouton dans la fiche : canvas 1080×1350 dans la DA (papier, navy,
   tampon D-x, nom artiste, titre, date, code-barres, URL) → téléchargement PNG. Attendre
   `document.fonts.ready` avant de dessiner.
-- [ ] **Perf vignettes** — les thumbs 46px chargent des images 800px+ ; utiliser la variante
+- [x] **Perf vignettes** — les thumbs 46px chargent des images 800px+ ; utiliser la variante
   WordPress `-150x150` (insérer avant l'extension), avec repli sur l'originale via `onerror`
   (flag data-* pour éviter les boucles).
 
