@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-20T09:34:10+00:00",
+ "generated": "2026-07-20T14:33:24+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -231,11 +231,14 @@
    "artist": "U-KNOW (TVXQ YUNHO)",
    "type": "1st Single",
    "title": "Time’s Tickin’",
-   "titleTrack": "Time's Tickin'",
+   "titleTrack": "Time’s Tickin'",
    "date": "2026-07-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-TVXQ-U-KNOW-Time-s-Tickin.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/TVXQ-U-KNOW-Times-Tickin.webp",
    "url": "https://kpopofficial.com/album/u-know-times-tickin/",
-   "tracklist": [],
+   "tracklist": [
+    "Time’s Tickin’",
+    "An Ordinary Story"
+   ],
    "links": [
     "https://x.com/TVXQ",
     "https://www.instagram.com/tvxq.official/",
@@ -249,11 +252,14 @@
    "artist": "U-KNOW (TVXQ YUNHO)",
    "type": "1st Single",
    "title": "Time’s Tickin’",
-   "titleTrack": "Time's Tickin'",
+   "titleTrack": "Time’s Tickin'",
    "date": "2026-07-20T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-TVXQ-U-KNOW-Time-s-Tickin.webp",
    "url": "https://kpopofficial.com/album/u-know-times-tickin/",
-   "tracklist": [],
+   "tracklist": [
+    "Time’s Tickin’",
+    "An Ordinary Story"
+   ],
    "links": [
     "https://x.com/TVXQ",
     "https://www.instagram.com/tvxq.official/",
@@ -289,26 +295,6 @@
    "mv": "https://www.youtube.com/watch?v=o_UAIwNlDmY"
   },
   {
-   "artist": "8TURN",
-   "type": "3rd Single Album",
-   "title": "8.X",
-   "titleTrack": "Stagefright",
-   "date": "2026-07-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/8TURN-Members-for-Single-Album-8X.webp",
-   "url": "https://kpopofficial.com/album/8turn-8x/",
-   "tracklist": [
-    "Stagefright – (Title)",
-    "8PM"
-   ],
-   "links": [
-    "https://x.com/8TURN_official",
-    "https://www.instagram.com/8turn.official",
-    "https://www.youtube.com/@8TURN.official/videos",
-    "https://www.tiktok.com/@8turn_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=ZNldM9_IWPY"
-  },
-  {
    "artist": "fromis_9",
    "type": "2nd Album",
    "title": "Glow ME",
@@ -337,40 +323,24 @@
    "mv": "https://www.youtube.com/watch?v=D7kzSaRnnD4"
   },
   {
-   "artist": "OURBIRTHDAY",
-   "type": "1st Digital Single",
-   "title": "HUNGRY (Side A)",
-   "titleTrack": null,
-   "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/OURBIRTHDAY-Members.webp",
-   "url": "https://kpopofficial.com/album/ourbirthday-hungry-side-a/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/OBD_offcl",
-    "https://www.instagram.com/ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@ourbirthday_official"
+   "artist": "8TURN",
+   "type": "3rd Single Album",
+   "title": "8.X",
+   "titleTrack": "Stagefright",
+   "date": "2026-07-21T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/8TURN-Members-for-Single-Album-8X.webp",
+   "url": "https://kpopofficial.com/album/8turn-8x/",
+   "tracklist": [
+    "Stagefright – (Title)",
+    "8PM"
    ],
-   "mv": "https://www.youtube.com/watch?v=PmbSk_aTp-o"
-  },
-  {
-   "artist": "Picheolin (SEVENTEEN DINO)",
-   "type": "1st Mini Album",
-   "title": "吉BOARD",
-   "titleTrack": null,
-   "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/SEVENTEEN-DINO-Picheolin-pre-release-2.webp",
-   "url": "https://kpopofficial.com/album/picheolin-pre-release-single-2/",
-   "tracklist": [],
    "links": [
-    "https://x.com/pledis_17",
-    "https://www.instagram.com/saythename_17/",
-    "https://www.youtube.com/@pledis17",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@seventeen17_official"
+    "https://x.com/8TURN_official",
+    "https://www.instagram.com/8turn.official",
+    "https://www.youtube.com/@8TURN.official/videos",
+    "https://www.tiktok.com/@8turn_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=hkAsbIkQRMk"
+   "mv": "https://www.youtube.com/watch?v=ZNldM9_IWPY"
   },
   {
    "artist": "LUN8",
@@ -415,6 +385,60 @@
    "mv": "https://www.youtube.com/watch?v=PBswvv676X8"
   },
   {
+   "artist": "OURBIRTHDAY",
+   "type": "1st Digital Single",
+   "title": "HUNGRY (Side A)",
+   "titleTrack": null,
+   "date": "2026-07-22T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/OURBIRTHDAY-Members.webp",
+   "url": "https://kpopofficial.com/album/ourbirthday-hungry-side-a/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/OBD_offcl",
+    "https://www.instagram.com/ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@ourbirthday_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=PmbSk_aTp-o"
+  },
+  {
+   "artist": "Picheolin (SEVENTEEN DINO)",
+   "type": "1st Mini Album",
+   "title": "吉BOARD",
+   "titleTrack": null,
+   "date": "2026-07-22T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/SEVENTEEN-DINO-Picheolin-pre-release-2.webp",
+   "url": "https://kpopofficial.com/album/picheolin-pre-release-single-2/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/pledis_17",
+    "https://www.instagram.com/saythename_17/",
+    "https://www.youtube.com/@pledis17",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@seventeen17_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=hkAsbIkQRMk"
+  },
+  {
+   "artist": "J.Y. Park",
+   "type": "Single Album",
+   "title": "WET",
+   "titleTrack": "WET",
+   "date": "2026-07-23T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-jy-park-wet.webp",
+   "url": "https://kpopofficial.com/album/jy-park-wet/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/followjyp",
+    "https://www.instagram.com/asiansoul_jyp/",
+    "https://www.youtube.com/@JYPark",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@jypark_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=JiIUe8vWl4U"
+  },
+  {
    "artist": "aespa (JP)",
    "type": "1st Japan Mini Album",
    "title": "KISS N TELL",
@@ -446,6 +470,22 @@
     "https://www.instagram.com/official_artms",
     "https://www.youtube.com/@official_artms",
     "https://www.tiktok.com/@official_artms"
+   ]
+  },
+  {
+   "artist": "ALICE SYNDROME",
+   "type": "1st Digital Single",
+   "title": "DEEP DIVE",
+   "titleTrack": null,
+   "date": "2026-07-25T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ALICE-SYNDROME-Members.webp",
+   "url": "https://kpopofficial.com/album/alice-syndrome-deep-dive/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/alicesyndrome00",
+    "https://www.instagram.com/alice__syndrome/",
+    "https://www.youtube.com/@alice_syndrome4",
+    "https://www.tiktok.com/@alice__syndrome"
    ]
   },
   {
@@ -520,23 +560,6 @@
    ]
   },
   {
-   "artist": "POW",
-   "type": "Single Album",
-   "title": "FLAVOR",
-   "titleTrack": "FLAVOR",
-   "date": "2026-07-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-POW-Members.webp",
-   "url": "https://kpopofficial.com/album/pow-flavor/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/POW_grid",
-    "https://www.instagram.com/pow_grid/",
-    "https://www.youtube.com/@POW_Official",
-    "https://www.youtube.com/@GRIDEntertainment",
-    "https://www.tiktok.com/@pow_grid"
-   ]
-  },
-  {
    "artist": "KARD",
    "type": "1st Album",
    "title": "Where To Now? (Part.2) : NOWHERE",
@@ -564,20 +587,20 @@
    ]
   },
   {
-   "artist": "P1Harmony",
-   "type": "Mini Album",
-   "title": "UNIQUE Japan Edition",
-   "titleTrack": null,
-   "date": "2026-07-29T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-P1Harmony-UNIQUE-Japan-Edition.webp",
-   "url": "https://kpopofficial.com/album/p1harmony-unique-japan-edition/",
+   "artist": "POW",
+   "type": "Single Album",
+   "title": "FLAVOR",
+   "titleTrack": "FLAVOR",
+   "date": "2026-07-28T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-POW-Members.webp",
+   "url": "https://kpopofficial.com/album/pow-flavor/",
    "tracklist": [],
    "links": [
-    "https://x.com/P1H_official",
-    "https://x.com/P1H_official_jp",
-    "https://www.instagram.com/p1h_official",
-    "https://www.youtube.com/@P1Harmonyofficial",
-    "https://www.tiktok.com/@p1harmony"
+    "https://x.com/POW_grid",
+    "https://www.instagram.com/pow_grid/",
+    "https://www.youtube.com/@POW_Official",
+    "https://www.youtube.com/@GRIDEntertainment",
+    "https://www.tiktok.com/@pow_grid"
    ]
   },
   {
@@ -615,19 +638,20 @@
    ]
   },
   {
-   "artist": "EMOTI:M",
-   "type": "1st Single Album",
-   "title": "CONNECT",
+   "artist": "P1Harmony",
+   "type": "Mini Album",
+   "title": "UNIQUE Japan Edition",
    "titleTrack": null,
-   "date": "2026-07-31T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/EMOTIM-Members.webp",
-   "url": "https://kpopofficial.com/album/emotim-connect/",
+   "date": "2026-07-29T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-P1Harmony-UNIQUE-Japan-Edition.webp",
+   "url": "https://kpopofficial.com/album/p1harmony-unique-japan-edition/",
    "tracklist": [],
    "links": [
-    "https://x.com/EMOTIM_OFFICIAL",
-    "https://www.instagram.com/emotim_official",
-    "https://www.youtube.com/@emotim5official",
-    "https://www.tiktok.com/@emotim_official"
+    "https://x.com/P1H_official",
+    "https://x.com/P1H_official_jp",
+    "https://www.instagram.com/p1h_official",
+    "https://www.youtube.com/@P1Harmonyofficial",
+    "https://www.tiktok.com/@p1harmony"
    ]
   },
   {
@@ -649,12 +673,28 @@
    "mv": "https://www.youtube.com/watch?v=sqYNGZJWNcw"
   },
   {
+   "artist": "EMOTI:M",
+   "type": "1st Single Album",
+   "title": "CONNECT",
+   "titleTrack": null,
+   "date": "2026-07-31T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-EMOTIM-Members.webp",
+   "url": "https://kpopofficial.com/album/emotim-connect/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/EMOTIM_OFFICIAL",
+    "https://www.instagram.com/emotim_official",
+    "https://www.youtube.com/@emotim5official",
+    "https://www.tiktok.com/@emotim_official"
+   ]
+  },
+  {
    "artist": "Red Velvet",
    "type": "Summer Mini Album",
    "title": "Velvet Summer",
    "titleTrack": null,
    "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-Red-Velvet-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-Red-Velvet-Members.webp",
    "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
    "tracklist": [],
    "links": [
@@ -805,6 +845,30 @@
     "https://www.youtube.com/@WayV",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@official_wayv"
+   ]
+  },
+  {
+   "artist": "KiiiKiii",
+   "type": "3rd EP",
+   "title": "WhyKiiiKiii",
+   "titleTrack": null,
+   "date": "2026-08-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KiiiKiii-members-for-WhyKiiiKiii-Album.webp",
+   "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
+   "tracklist": [
+    "Ever2Late!",
+    "Hey Hi",
+    "Pop Off Pop Off",
+    "Sweet Sour",
+    "Candy Pink Magic Hole Flip Phone",
+    "Blue Hour"
+   ],
+   "links": [
+    "https://x.com/We_KiiiKiii",
+    "https://www.instagram.com/kiiikiii.official/",
+    "https://www.youtube.com/@KiiiKiii_starship",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@kiiikiii_official"
    ]
   },
   {
