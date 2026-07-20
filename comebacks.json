@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-20T01:19:42+00:00",
+ "generated": "2026-07-20T04:04:57+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -337,42 +337,6 @@
    "mv": "https://www.youtube.com/watch?v=D7kzSaRnnD4"
   },
   {
-   "artist": "OURBIRTHDAY",
-   "type": "1st Digital Single",
-   "title": "HUNGRY (Side A)",
-   "titleTrack": null,
-   "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/OURBIRTHDAY-Members.webp",
-   "url": "https://kpopofficial.com/album/ourbirthday-hungry-side-a/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/OBD_offcl",
-    "https://www.instagram.com/ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@ourbirthday_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=PmbSk_aTp-o"
-  },
-  {
-   "artist": "Picheolin (SEVENTEEN DINO)",
-   "type": "1st Mini Album",
-   "title": "吉BOARD",
-   "titleTrack": null,
-   "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/SEVENTEEN-DINO-Picheolin-pre-release-2.webp",
-   "url": "https://kpopofficial.com/album/picheolin-pre-release-single-2/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/pledis_17",
-    "https://www.instagram.com/saythename_17/",
-    "https://www.youtube.com/@pledis17",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@seventeen17_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=hkAsbIkQRMk"
-  },
-  {
    "artist": "LUN8",
    "type": "4th Mini Album",
    "title": "Off the Grid",
@@ -413,6 +377,42 @@
     "https://www.tiktok.com/@_hyolyn_"
    ],
    "mv": "https://www.youtube.com/watch?v=PBswvv676X8"
+  },
+  {
+   "artist": "OURBIRTHDAY",
+   "type": "1st Digital Single",
+   "title": "HUNGRY (Side A)",
+   "titleTrack": null,
+   "date": "2026-07-22T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/OURBIRTHDAY-Members.webp",
+   "url": "https://kpopofficial.com/album/ourbirthday-hungry-side-a/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/OBD_offcl",
+    "https://www.instagram.com/ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@ourbirthday_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=PmbSk_aTp-o"
+  },
+  {
+   "artist": "Picheolin (SEVENTEEN DINO)",
+   "type": "1st Mini Album",
+   "title": "吉BOARD",
+   "titleTrack": null,
+   "date": "2026-07-22T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/SEVENTEEN-DINO-Picheolin-pre-release-2.webp",
+   "url": "https://kpopofficial.com/album/picheolin-pre-release-single-2/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/pledis_17",
+    "https://www.instagram.com/saythename_17/",
+    "https://www.youtube.com/@pledis17",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@seventeen17_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=hkAsbIkQRMk"
   },
   {
    "artist": "aespa (JP)",
@@ -564,23 +564,6 @@
    ]
   },
   {
-   "artist": "P1Harmony",
-   "type": "Mini Album",
-   "title": "UNIQUE Japan Edition",
-   "titleTrack": null,
-   "date": "2026-07-29T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-P1Harmony-UNIQUE-Japan-Edition.webp",
-   "url": "https://kpopofficial.com/album/p1harmony-unique-japan-edition/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/P1H_official",
-    "https://x.com/P1H_official_jp",
-    "https://www.instagram.com/p1h_official",
-    "https://www.youtube.com/@P1Harmonyofficial",
-    "https://www.tiktok.com/@p1harmony"
-   ]
-  },
-  {
    "artist": "THE WIND",
    "type": "4th Mini Album",
    "title": "Second Wind : S# 00",
@@ -612,6 +595,23 @@
     "https://www.youtube.com/@ATEEZofficial",
     "https://www.youtube.com/@KQENT",
     "https://www.tiktok.com/@ateez_official_"
+   ]
+  },
+  {
+   "artist": "P1Harmony",
+   "type": "Mini Album",
+   "title": "UNIQUE Japan Edition",
+   "titleTrack": null,
+   "date": "2026-07-29T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-P1Harmony-UNIQUE-Japan-Edition.webp",
+   "url": "https://kpopofficial.com/album/p1harmony-unique-japan-edition/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/P1H_official",
+    "https://x.com/P1H_official_jp",
+    "https://www.instagram.com/p1h_official",
+    "https://www.youtube.com/@P1Harmonyofficial",
+    "https://www.tiktok.com/@p1harmony"
    ]
   },
   {
