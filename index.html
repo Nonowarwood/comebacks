@@ -298,6 +298,27 @@
 
   .filters { display: flex; flex-wrap: wrap; gap: 8px; }
 
+  .rangebar {
+    margin-top: 14px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .rangebar .lbl {
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 10.5px; letter-spacing: .18em;
+    text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  .rangebar .opts { display: flex; flex-wrap: wrap; gap: 6px; }
+
+  .rangebar .chip {
+    padding: 6px 11px;
+    font-size: 11px;
+  }
+
   /* ----- héros monumental ----- */
   .hero {
     position: relative;
@@ -1107,6 +1128,8 @@
     <div class="filters" id="filters"></div>
   </div>
 
+  <div class="rangebar rise" style="animation-delay:.16s" id="rangebar"></div>
+
   <section class="hero rise" style="animation-delay:.22s" id="hero" hidden></section>
 
   <div class="layout">
@@ -1132,6 +1155,7 @@
       <span class="digits">8 809932 072026</span>
     </span>
     <span><a href="webcal://nonowarwood.github.io/comebacks/comebacks.ics" id="foot-cal"></a> ·
+    <a href="archives.html" id="foot-archives"></a> ·
     <a href="https://nonowarwood.github.io/links/" id="foot-links"></a></span>
   </footer>
 
@@ -1161,6 +1185,7 @@
     fr: {
       sub: "Les prochaines sorties kpop · MAJ automatique toutes les 6 h",
       filters: { all: "Tout", gg: "Girl groups", bg: "Boy groups", solo: "Solistes", mixte: "Mixte" },
+      range_lbl: "Période", ranges: { all: "Tout", week: "Cette semaine", month: "Ce mois" },
       next: "Prochain comeback", tba_title: "Titre à venir", out: "Out now", dday: "D-DAY",
       count: n => n + (n > 1 ? " sorties" : " sortie"),
       tba_month: "Date à confirmer", pending: n => n + " en attente",
@@ -1169,7 +1194,7 @@
       tba: "À annoncer (TBA)", ics: "+ Mon agenda (.ics)", full: "Fiche complète",
       sheet: t => "Fiche " + t, part: "Part",
       fav: "★ Mes artistes", subscribe: "S'abonner au calendrier", share: "Carte de partage", mv: "▶ MV",
-      links: "← Mes liens", sources: "Sources kpopofficial.com",
+      links: "← Mes liens", sources: "Sources kpopofficial.com", archives: "Archives →",
       tour: {
         aria: "Tutoriel",
         step: (n, total) => `Étape ${n}/${total}`,
@@ -1197,6 +1222,7 @@
     en: {
       sub: "Upcoming kpop releases · auto-updated every 6 h",
       filters: { all: "All", gg: "Girl groups", bg: "Boy groups", solo: "Soloists", mixte: "Co-ed" },
+      range_lbl: "Period", ranges: { all: "All", week: "This week", month: "This month" },
       next: "Next comeback", tba_title: "Title TBA", out: "Out now", dday: "D-DAY",
       count: n => n + (n > 1 ? " releases" : " release"),
       tba_month: "Date TBA", pending: n => n + " pending",
@@ -1205,7 +1231,7 @@
       tba: "To be announced (TBA)", ics: "+ My calendar (.ics)", full: "Full page",
       sheet: t => t + " · Details", part: "Part",
       fav: "★ My artists", subscribe: "Subscribe (calendar)", share: "Share card", mv: "▶ MV",
-      links: "← My links", sources: "Sources kpopofficial.com",
+      links: "← My links", sources: "Sources kpopofficial.com", archives: "Archives →",
       tour: {
         aria: "Tutorial",
         step: (n, total) => `Step ${n}/${total}`,
@@ -1233,6 +1259,7 @@
     ko: {
       sub: "다가오는 케이팝 컴백 · 6시간마다 자동 업데이트",
       filters: { all: "전체", gg: "걸그룹", bg: "보이그룹", solo: "솔로", mixte: "혼성" },
+      range_lbl: "기간", ranges: { all: "전체", week: "이번 주", month: "이번 달" },
       next: "다음 컴백", tba_title: "타이틀 미정", out: "발매 완료", dday: "D-DAY",
       count: n => n + "개 발매",
       tba_month: "날짜 미정", pending: n => n + "개 대기 중",
@@ -1241,7 +1268,7 @@
       tba: "미공개 (TBA)", ics: "+ 내 캘린더 (.ics)", full: "상세 보기",
       sheet: t => t + " · 정보", part: "Part",
       fav: "★ 내 아티스트", subscribe: "캘린더 구독", share: "공유 카드", mv: "▶ MV",
-      links: "← 내 링크", sources: "출처 kpopofficial.com",
+      links: "← 내 링크", sources: "출처 kpopofficial.com", archives: "아카이브 →",
       tour: {
         aria: "튜토리얼",
         step: (n, total) => `${n}/${total} 단계`,
@@ -1269,6 +1296,7 @@
     ja: {
       sub: "今後のK-POPリリース · 6時間ごとに自動更新",
       filters: { all: "すべて", gg: "ガールズグループ", bg: "ボーイズグループ", solo: "ソロ", mixte: "男女混合" },
+      range_lbl: "期間", ranges: { all: "すべて", week: "今週", month: "今月" },
       next: "次のカムバック", tba_title: "タイトル未定", out: "リリース済み", dday: "D-DAY",
       count: n => n + "件",
       tba_month: "日付未定", pending: n => n + "件待ち",
@@ -1277,7 +1305,7 @@
       tba: "未発表（TBA）", ics: "+ カレンダーに追加 (.ics)", full: "詳細ページ",
       sheet: t => t + " · 詳細", part: "Part",
       fav: "★ 推し", subscribe: "カレンダー購読", share: "シェアカード", mv: "▶ MV",
-      links: "← リンク一覧", sources: "出典 kpopofficial.com",
+      links: "← リンク一覧", sources: "出典 kpopofficial.com", archives: "アーカイブ →",
       tour: {
         aria: "チュートリアル",
         step: (n, total) => `ステップ ${n}/${total}`,
@@ -1310,7 +1338,7 @@
   if (ZONES[qs.get("tz")]) saved.tz = qs.get("tz");
   if (THEMES.includes(qs.get("theme"))) saved.theme = qs.get("theme");
   const state = {
-    entries: [], tba: [], filter: "all",
+    entries: [], tba: [], filter: "all", range: "all",
     lang: I18N[saved.lang] ? saved.lang : "fr",
     tz: ZONES[saved.tz] ? saved.tz : "fr",
     theme: THEMES.includes(saved.theme) ? saved.theme : "paper",
@@ -1360,6 +1388,17 @@
 
   const dayNum = d => { const c = civil(d); return Date.UTC(c.y, c.m, c.d) / DAY; };
   const dday = when => dayNum(when) - dayNum(now());
+
+  function inRange(e) {
+    if (state.range === "all") return true;
+    const c = civil(e.when), tc = civil(now());
+    if (state.range === "month") return c.y === tc.y && c.m === tc.m;
+    const today = dayNum(now());
+    const monWeekday = (new Date(Date.UTC(tc.y, tc.m, tc.d)).getUTCDay() + 6) % 7;
+    const weekStart = today - monWeekday;
+    const n = dayNum(e.when);
+    return n >= weekStart && n < weekStart + 7;
+  }
   const ddayLabel = n => n === 0 ? t().dday : n > 0 ? "D-" + n : "OUT";
 
   const monthTitle = (y, m) =>
@@ -1380,10 +1419,11 @@
     return null;
   }
 
-  const visible = () => state.entries.filter(e =>
+  const visible = () => state.entries.filter(e => (
     state.filter === "all" ? true :
     state.filter === "fav" ? isFav(e.artist) :
-    e.cat === state.filter);
+    e.cat === state.filter
+  ) && inRange(e));
 
   /* ---------- révélation au scroll ---------- */
   const io = reduced ? null : new IntersectionObserver(entries => {
@@ -1433,6 +1473,7 @@
     renderChrome();
     renderSettings();
     renderFilters();
+    renderRangeFilters();
     renderHero();
     renderList();
     renderCalendar();
@@ -1445,6 +1486,7 @@
     $("foot-src").textContent = t().sources;
     $("foot-links").textContent = t().links;
     $("foot-cal").textContent = "📅 " + t().subscribe;
+    $("foot-archives").textContent = t().archives;
     $("help").setAttribute("aria-label", t().tour.aria);
     if (state.loadError) { $("maj").textContent = t().no_data; }
     else if (state.generated) {
@@ -1488,6 +1530,20 @@
       `<button class="chip ${state.filter === id ? "on" : ""}" data-f="${id}">${esc(label)}</button>`).join("");
     $("filters").querySelectorAll(".chip").forEach(b =>
       b.addEventListener("click", () => { state.filter = b.dataset.f; renderAll(); }));
+  }
+
+  function renderRangeFilters() {
+    const box = $("rangebar");
+    box.innerHTML = `<span class="lbl">${esc(t().range_lbl)}</span><span class="opts">${
+      Object.entries(t().ranges).map(([id, label]) =>
+        `<button class="chip ${state.range === id ? "on" : ""}" data-r="${id}">${esc(label)}</button>`).join("")
+    }</span>`;
+    box.querySelectorAll(".chip").forEach(b =>
+      b.addEventListener("click", () => {
+        state.range = b.dataset.r;
+        if (state.range === "month") { const c = civil(now()); state.cal = { y: c.y, m: c.m }; state.selected = null; }
+        renderAll();
+      }));
   }
 
   /* ---------- héros monumental ---------- */

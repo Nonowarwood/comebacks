@@ -204,7 +204,29 @@ def main():
     }
     OUT.write_text(json.dumps(data, ensure_ascii=False, indent=1))
     write_ics(kept)
-    print(f"{len(kept)} sorties gardées, {fetched} fiches album lues -> {OUT.name} + comebacks.ics")
+    archived = update_archive(kept)
+    print(f"{len(kept)} sorties gardées, {fetched} fiches album lues -> {OUT.name} + comebacks.ics "
+          f"({archived} dans archive.json)")
+
+
+ARCHIVE = OUT.parent / "archive.json"
+
+
+def update_archive(kept):
+    """Accumule chaque sortie déjà vue dans archive.json (upsert, jamais purgé) :
+    le site source ne garde qu'une fenêtre glissante, donc l'historique ne peut
+    se construire qu'à partir du jour où cette fonction tourne pour la première fois."""
+    try:
+        existing = json.loads(ARCHIVE.read_text())["entries"]
+    except (FileNotFoundError, json.JSONDecodeError, KeyError):
+        existing = []
+    by_key = {(e["artist"].lower(), e["date"], (e.get("title") or "").lower()): e for e in existing}
+    for e in kept:
+        key = (e["artist"].lower(), e["date"], (e.get("title") or "").lower())
+        by_key[key] = e
+    merged = sorted(by_key.values(), key=lambda e: e["date"])
+    ARCHIVE.write_text(json.dumps({"entries": merged}, ensure_ascii=False, indent=1))
+    return len(merged)
 
 
 def write_ics(entries):

@@ -21,7 +21,7 @@ jobs:
         run: |
           git config user.name "comeback-bot"
           git config user.email "actions@github.com"
-          git add comebacks.json
+          git add comebacks.json comebacks.ics archive.json
           if git diff --cached --quiet; then
             echo "Rien de nouveau."
           else
