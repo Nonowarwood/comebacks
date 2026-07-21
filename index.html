@@ -29,6 +29,7 @@
     --shadow-big: 10px 10px 0 rgba(30, 42, 74, .16);
     --glass: color-mix(in srgb, var(--paper) 82%, transparent);
     --ease: cubic-bezier(.16, 1, .3, 1);
+    --scrim: color-mix(in srgb, var(--navy) 45%, transparent);
   }
 
   [data-theme="ink"] {
@@ -42,6 +43,7 @@
     --shadow: 6px 6px 0 rgba(0, 0, 0, .4);
     --shadow-big: 10px 10px 0 rgba(0, 0, 0, .5);
     --glass: color-mix(in srgb, var(--paper) 82%, transparent);
+    --scrim: rgba(0, 0, 0, .6);
   }
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -951,6 +953,107 @@
     to { opacity: 1; transform: none; }
   }
 
+  /* ----- visite guidée (tutoriel) ----- */
+  .tour-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 1400;
+    animation: fade .3s ease both;
+  }
+
+  .tour-spot {
+    position: fixed;
+    z-index: 1401;
+    border: 2px solid var(--red);
+    box-shadow: 0 0 0 9999px var(--scrim), 0 0 0 5px rgba(139, 35, 24, .18);
+    pointer-events: none;
+    transition: top .5s var(--ease), left .5s var(--ease), width .5s var(--ease), height .5s var(--ease);
+    animation: tour-pulse 1.8s ease-in-out infinite;
+  }
+
+  .tour-spot.center { border-color: transparent; box-shadow: 0 0 0 9999px var(--scrim); animation: none; }
+
+  @keyframes tour-pulse {
+    0%, 100% { box-shadow: 0 0 0 9999px var(--scrim), 0 0 0 5px rgba(139, 35, 24, .18); }
+    50% { box-shadow: 0 0 0 9999px var(--scrim), 0 0 0 9px rgba(139, 35, 24, .05); }
+  }
+
+  .tour-card {
+    position: fixed;
+    left: 50%; bottom: 24px;
+    transform: translateX(-50%);
+    z-index: 1402;
+    width: min(92vw, 460px);
+    background: var(--paper);
+    border: 1px solid var(--line-strong);
+    box-shadow: var(--shadow-big);
+    padding: 20px 22px;
+    animation: rise .4s var(--ease) both;
+  }
+
+  .tour-card .tk {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 10.5px; letter-spacing: .2em;
+    text-transform: uppercase; color: var(--red);
+  }
+
+  .tour-card .tk button {
+    background: none; border: 0;
+    color: var(--navy-soft);
+    font-weight: 800; font-size: 14px;
+    cursor: pointer;
+    transition: color .2s ease;
+  }
+
+  .tour-card .tk button:hover { color: var(--red); }
+
+  .tour-card h4 {
+    margin-top: 8px;
+    font-weight: 900; text-transform: uppercase; letter-spacing: -.01em;
+    font-size: 19px;
+  }
+
+  .tour-card p {
+    margin-top: 8px;
+    font-family: "Archivo Narrow", sans-serif;
+    font-weight: 600; font-size: 12.5px; line-height: 1.6; color: var(--navy-soft);
+  }
+
+  .tour-card .tnav {
+    margin-top: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .tour-card .dots { display: flex; gap: 5px; }
+  .tour-card .dots span { width: 6px; height: 6px; border-radius: 50%; background: var(--line); }
+  .tour-card .dots span.on { background: var(--red); }
+
+  .tour-card .tbtns { display: flex; gap: 8px; }
+
+  .tour-card .tbtns button {
+    font-family: "Archivo", sans-serif;
+    font-weight: 800; text-transform: uppercase;
+    font-size: 11.5px; letter-spacing: .05em;
+    padding: 8px 12px;
+    border: 1px solid var(--navy);
+    background: none; color: var(--navy);
+    cursor: pointer;
+    transition: all .25s var(--ease);
+  }
+
+  .tour-card .tbtns button:hover { background: var(--navy); color: var(--paper); }
+  .tour-card .tbtns button.primary { border-color: var(--red); color: var(--red); }
+  .tour-card .tbtns button.primary:hover { background: var(--red); color: #f1eee6; }
+  .tour-card .tbtns button:disabled { opacity: .35; cursor: default; }
+  .tour-card .tbtns button:disabled:hover { background: none; color: var(--navy); }
+
   @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after { animation: none !important; transition: none !important; }
     .rise, .marquee, .overlay, .sheet, .settings { opacity: 1; transform: none; }
@@ -978,6 +1081,13 @@
     <span class="m" id="maj"></span>
     <span class="right">
       <span class="r">Nonowarwood</span>
+      <button class="gear" id="help" aria-label="Tutoriel">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="9.5"/>
+          <path d="M9.2 9a2.8 2.8 0 1 1 3.9 2.6c-.9.4-1.4 1-1.4 2.1v.4"/>
+          <circle cx="12" cy="17.3" r=".4" fill="currentColor" stroke="none"/>
+        </svg>
+      </button>
       <button class="gear" id="gear" aria-label="Réglages">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
           <circle cx="12" cy="12" r="3.2"/>
@@ -1060,6 +1170,22 @@
       sheet: t => "Fiche " + t, part: "Part",
       fav: "★ Mes artistes", subscribe: "S'abonner au calendrier", share: "Carte de partage", mv: "▶ MV",
       links: "← Mes liens", sources: "Sources kpopofficial.com",
+      tour: {
+        aria: "Tutoriel",
+        step: (n, total) => `Étape ${n}/${total}`,
+        prev: "◂ Précédent", next: "Suivant ▸", done: "Terminé", skip: "Passer",
+        steps: [
+          { title: "Bienvenue !", text: "Un petit tour du site en quelques secondes pour ne rien manquer des prochains comebacks." },
+          { title: "Le prochain comeback", text: "En haut, le compte à rebours géant du prochain comeback (filtré selon tes réglages). Clique dessus pour ouvrir sa fiche complète." },
+          { title: "Filtrer par type", text: "Affiche seulement les girl groups, boy groups, solistes ou groupes mixtes — ou seulement tes ★ favoris." },
+          { title: "Suivre un artiste", text: "Clique sur l'étoile à côté d'un comeback pour l'ajouter à tes favoris. Retrouve-les avec le filtre ★." },
+          { title: "Le calendrier", text: "Les jours encadrés ont une sortie. Clique dessus pour voir le détail juste en dessous." },
+          { title: "La fiche produit", text: "Pochette 3D, tracklist (title track en rouge), bouton ▶ MV, export vers ton agenda (.ics), carte de partage à télécharger et liens vers les réseaux." },
+          { title: "Réglages", text: "Langue (FR/EN/KO/JA), fuseau horaire (France, Corée, Japon) et thème Papier/Encre." },
+          { title: "Abonne-toi au calendrier", text: "Le bouton « S'abonner » ajoute tous les comebacks à ton appli calendrier — mise à jour automatique, pour toujours." },
+          { title: "C'est tout !", text: "Tu es prêt·e. Ce tutoriel reste accessible à tout moment via le bouton d'aide." },
+        ],
+      },
       maj: (d, mo, h, mi) => `MAJ ${d}.${mo} · ${h}:${mi}`, no_data: "Données indisponibles",
       tz_label: { fr: "heure française", kst: "KST", jst: "JST" },
       set_lang: "Langue", set_tz: "Fuseau horaire", set_theme: "Thème",
@@ -1080,6 +1206,22 @@
       sheet: t => t + " · Details", part: "Part",
       fav: "★ My artists", subscribe: "Subscribe (calendar)", share: "Share card", mv: "▶ MV",
       links: "← My links", sources: "Sources kpopofficial.com",
+      tour: {
+        aria: "Tutorial",
+        step: (n, total) => `Step ${n}/${total}`,
+        prev: "◂ Back", next: "Next ▸", done: "Done", skip: "Skip",
+        steps: [
+          { title: "Welcome!", text: "A quick tour so you never miss an upcoming comeback." },
+          { title: "The next comeback", text: "Up top, the giant countdown to the next comeback (filtered by your settings). Click it to open the full sheet." },
+          { title: "Filter by type", text: "Show only girl groups, boy groups, soloists or co-ed groups — or just your ★ favorites." },
+          { title: "Follow an artist", text: "Click the star next to a comeback to add it to your favorites. Find them again with the ★ filter." },
+          { title: "The calendar", text: "Days with a border have a release. Click one to see the details right below." },
+          { title: "The release sheet", text: "3D cover, tracklist (title track in red), ▶ MV button, export to your calendar (.ics), a downloadable share card, and social links." },
+          { title: "Settings", text: "Language (FR/EN/KO/JA), time zone (France, Korea, Japan) and Paper/Ink theme." },
+          { title: "Subscribe to the calendar", text: "The “Subscribe” button adds every comeback to your calendar app — auto-updating, forever." },
+          { title: "That's it!", text: "You're all set. This tutorial stays one click away via the help button." },
+        ],
+      },
       maj: (d, mo, h, mi) => `Updated ${mo}.${d} · ${h}:${mi}`, no_data: "Data unavailable",
       tz_label: { fr: "French time", kst: "KST", jst: "JST" },
       set_lang: "Language", set_tz: "Time zone", set_theme: "Theme",
@@ -1100,6 +1242,22 @@
       sheet: t => t + " · 정보", part: "Part",
       fav: "★ 내 아티스트", subscribe: "캘린더 구독", share: "공유 카드", mv: "▶ MV",
       links: "← 내 링크", sources: "출처 kpopofficial.com",
+      tour: {
+        aria: "튜토리얼",
+        step: (n, total) => `${n}/${total} 단계`,
+        prev: "◂ 이전", next: "다음 ▸", done: "완료", skip: "건너뛰기",
+        steps: [
+          { title: "환영합니다!", text: "컴백을 놓치지 않도록 사이트를 짧게 둘러볼게요." },
+          { title: "다음 컴백", text: "맨 위 큰 카운트다운은 (설정에 맞춰 필터링된) 다음 컴백이에요. 클릭하면 전체 정보를 볼 수 있어요." },
+          { title: "타입별 필터", text: "걸그룹, 보이그룹, 솔로, 혼성 그룹만 보거나 ★ 즐겨찾기만 볼 수 있어요." },
+          { title: "아티스트 팔로우", text: "컴백 옆 별을 클릭해 즐겨찾기에 추가하세요. ★ 필터로 다시 찾을 수 있어요." },
+          { title: "캘린더", text: "테두리가 있는 날짜엔 발매가 있어요. 클릭하면 바로 아래에 상세 정보가 나와요." },
+          { title: "상세 정보 카드", text: "3D 앨범 커버, 트랙리스트(타이틀곡은 빨간색), ▶ MV 버튼, 캘린더로 내보내기(.ics), 다운로드 가능한 공유 카드, SNS 링크까지." },
+          { title: "설정", text: "언어(FR/EN/KO/JA), 시간대(프랑스·한국·일본), 종이/잉크 테마." },
+          { title: "캘린더 구독하기", text: "'캘린더 구독' 버튼으로 모든 컴백을 내 캘린더 앱에 자동으로 추가할 수 있어요." },
+          { title: "끝!", text: "준비 완료예요. 이 튜토리얼은 도움말 버튼으로 언제든 다시 볼 수 있어요." },
+        ],
+      },
       maj: (d, mo, h, mi) => `업데이트 ${mo}.${d} · ${h}:${mi}`, no_data: "데이터를 불러올 수 없어요",
       tz_label: { fr: "프랑스 시간", kst: "KST", jst: "JST" },
       set_lang: "언어", set_tz: "시간대", set_theme: "테마",
@@ -1120,6 +1278,22 @@
       sheet: t => t + " · 詳細", part: "Part",
       fav: "★ 推し", subscribe: "カレンダー購読", share: "シェアカード", mv: "▶ MV",
       links: "← リンク一覧", sources: "出典 kpopofficial.com",
+      tour: {
+        aria: "チュートリアル",
+        step: (n, total) => `ステップ ${n}/${total}`,
+        prev: "◂ 戻る", next: "次へ ▸", done: "完了", skip: "スキップ",
+        steps: [
+          { title: "ようこそ！", text: "カムバックを見逃さないように、サイトを簡単にご案内します。" },
+          { title: "次のカムバック", text: "上部の大きなカウントダウンは（設定でフィルターされた）次のカムバックです。クリックすると詳細ページが開きます。" },
+          { title: "タイプで絞り込み", text: "ガールズグループ、ボーイズグループ、ソロ、男女混合、または★お気に入りだけを表示できます。" },
+          { title: "アーティストをフォロー", text: "カムバックの横の星をクリックしてお気に入りに追加。★フィルターでいつでも見つけられます。" },
+          { title: "カレンダー", text: "枠のある日はリリースがある日です。クリックすると下に詳細が表示されます。" },
+          { title: "詳細ページ", text: "3Dジャケット、トラックリスト（タイトル曲は赤色）、▶ MVボタン、カレンダーに追加(.ics)、ダウンロードできるシェアカード、SNSリンクまで。" },
+          { title: "設定", text: "言語（FR/EN/KO/JA）、タイムゾーン（フランス・韓国・日本）、紙/インクのテーマ。" },
+          { title: "カレンダーを購読", text: "「購読する」ボタンで、すべてのカムバックをカレンダーアプリに自動追加できます。" },
+          { title: "以上です！", text: "準備完了です。このチュートリアルはヘルプボタンからいつでも見られます。" },
+        ],
+      },
       maj: (d, mo, h, mi) => `更新 ${mo}.${d} · ${h}:${mi}`, no_data: "データを取得できません",
       tz_label: { fr: "フランス時間", kst: "KST", jst: "JST" },
       set_lang: "言語", set_tz: "タイムゾーン", set_theme: "テーマ",
@@ -1271,6 +1445,7 @@
     $("foot-src").textContent = t().sources;
     $("foot-links").textContent = t().links;
     $("foot-cal").textContent = "📅 " + t().subscribe;
+    $("help").setAttribute("aria-label", t().tour.aria);
     if (state.loadError) { $("maj").textContent = t().no_data; }
     else if (state.generated) {
       const g = civil(state.generated);
@@ -1679,6 +1854,128 @@
       track.appendChild(s);
     }
   }
+
+  /* ---------- visite guidée ---------- */
+  const TOUR_TARGETS = [
+    () => document.querySelector(".titleblock h1"),
+    () => ($("hero").hidden ? null : $("hero")),
+    () => $("filters"),
+    () => document.querySelector("#schedule .favstar"),
+    () => document.querySelector(".cal"),
+    () => {
+      const e = visible().find(x => x.when > now()) || visible()[0] || state.entries[0];
+      if (!e) return null;
+      if (!document.querySelector(".overlay")) openSheet(e);
+      return document.querySelector(".sheet");
+    },
+    () => $("gear"),
+    () => $("foot-cal"),
+    () => null,
+  ];
+
+  let tourStep = -1, tourEls = null, tourRAF = null;
+
+  function tourOnScroll() {
+    if (tourRAF) return;
+    tourRAF = requestAnimationFrame(() => { tourRAF = null; tourReposition(); });
+  }
+
+  function tourExit() {
+    if (tourStep === 5) document.querySelector(".overlay .close")?.click();
+  }
+
+  function tourReposition() {
+    if (tourStep < 0) return;
+    const target = TOUR_TARGETS[tourStep]();
+    const spot = tourEls.spot;
+    if (!target) {
+      spot.classList.add("center");
+      spot.style.top = "50%"; spot.style.left = "50%"; spot.style.width = "0px"; spot.style.height = "0px";
+      return;
+    }
+    spot.classList.remove("center");
+    const pad = 8, r = target.getBoundingClientRect();
+    spot.style.top = (r.top - pad) + "px";
+    spot.style.left = (r.left - pad) + "px";
+    spot.style.width = (r.width + pad * 2) + "px";
+    spot.style.height = (r.height + pad * 2) + "px";
+  }
+
+  function tourRenderCard() {
+    const steps = t().tour.steps;
+    const n = tourStep + 1, total = steps.length, s = steps[tourStep];
+    const card = tourEls.card;
+    card.innerHTML = `
+      <div class="tk"><span>${esc(t().tour.step(n, total))}</span><button data-x aria-label="✕">✕</button></div>
+      <h4>${esc(s.title)}</h4>
+      <p>${esc(s.text)}</p>
+      <div class="tnav">
+        <div class="dots">${steps.map((_, i) => `<span class="${i === tourStep ? "on" : ""}"></span>`).join("")}</div>
+        <div class="tbtns">
+          ${n < total ? `<button data-skip>${esc(t().tour.skip)}</button>` : ""}
+          <button data-prev ${n === 1 ? "disabled" : ""}>${esc(t().tour.prev)}</button>
+          <button class="primary" data-next>${n === total ? esc(t().tour.done) : esc(t().tour.next)}</button>
+        </div>
+      </div>`;
+    card.querySelector("[data-x]").addEventListener("click", closeTour);
+    card.querySelector("[data-skip]")?.addEventListener("click", closeTour);
+    card.querySelector("[data-prev]").addEventListener("click", () => tourShow(tourStep - 1, -1));
+    card.querySelector("[data-next]").addEventListener("click", () => {
+      if (n === total) closeTour(); else if (!tourShow(tourStep + 1, 1)) closeTour();
+    });
+  }
+
+  function tourShow(i, dir) {
+    const last = t().tour.steps.length - 1;
+    let target = null;
+    while (i >= 0 && i <= last) {
+      target = TOUR_TARGETS[i]();
+      if (target || i === last) break;
+      i += dir;
+    }
+    if (i < 0) { i = 0; target = TOUR_TARGETS[0](); }
+    if (i > last) return false;
+    tourExit();
+    tourStep = i;
+    tourRenderCard();
+    if (target) target.scrollIntoView({ block: "center", behavior: reduced ? "instant" : "smooth" });
+    tourReposition();
+    if (!reduced) setTimeout(tourReposition, 500);
+    return true;
+  }
+
+  function tourKey(ev) {
+    if (ev.key === "Escape") closeTour();
+    else if (ev.key === "ArrowRight") { if (!tourShow(tourStep + 1, 1)) closeTour(); }
+    else if (ev.key === "ArrowLeft") tourShow(tourStep - 1, -1);
+  }
+
+  function closeTour() {
+    if (tourStep < 0) return;
+    tourExit();
+    tourEls.backdrop.remove();
+    window.removeEventListener("keydown", tourKey);
+    window.removeEventListener("resize", tourReposition);
+    window.removeEventListener("scroll", tourOnScroll);
+    if (tourRAF) { cancelAnimationFrame(tourRAF); tourRAF = null; }
+    tourStep = -1; tourEls = null;
+  }
+
+  function openTour() {
+    if (tourStep >= 0) return;
+    const backdrop = document.createElement("div");
+    backdrop.className = "tour-backdrop";
+    backdrop.innerHTML = `<div class="tour-spot"></div><div class="tour-card"></div>`;
+    document.body.appendChild(backdrop);
+    backdrop.addEventListener("click", ev => { if (ev.target === backdrop) closeTour(); });
+    tourEls = { backdrop, spot: backdrop.querySelector(".tour-spot"), card: backdrop.querySelector(".tour-card") };
+    window.addEventListener("keydown", tourKey);
+    window.addEventListener("resize", tourReposition);
+    window.addEventListener("scroll", tourOnScroll, { passive: true });
+    tourShow(0, 1);
+  }
+
+  $("help").addEventListener("click", openTour);
 
   if ("serviceWorker" in navigator && location.hostname.endsWith("github.io"))
     navigator.serviceWorker.register("sw.js");
