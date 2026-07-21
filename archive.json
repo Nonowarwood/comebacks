@@ -18,6 +18,26 @@
    "mv": "https://www.youtube.com/watch?v=E1d8dVSs0Bg"
   },
   {
+   "artist": "WOOAH",
+   "type": "Digital Single",
+   "title": "Wish With W : Vol.3",
+   "titleTrack": "SUMMER",
+   "date": "2026-07-13T12:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WOOAH-SUMMER-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/wooah-wish-with-w-vol-3/",
+   "tracklist": [
+    "SUMMER",
+    "HIGHLIGHT"
+   ],
+   "links": [
+    "https://x.com/WOOAH_HM",
+    "https://www.instagram.com/wooah_nv/",
+    "https://www.youtube.com/@wooah",
+    "https://www.tiktok.com/@wooah_hm"
+   ],
+   "mv": "https://www.youtube.com/watch?v=8DwTAa5hPsA"
+  },
+  {
    "artist": "DAILY:DIRECTION",
    "type": "2nd Single",
    "title": "MONKEY MODE",
@@ -61,6 +81,60 @@
     "https://www.tiktok.com/@idntt_cosmo"
    ],
    "mv": "https://www.youtube.com/watch?v=Ot1wUyuE3Vo"
+  },
+  {
+   "artist": "SUPER JUNIOR-83z",
+   "type": "1st Mini Album",
+   "title": "Promise",
+   "titleTrack": "Promise",
+   "date": "2026-07-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-SUPER-JUNIOR-83z-1st-Mini-Album-Promise.webp",
+   "url": "https://kpopofficial.com/album/super-junior-83z-promise/",
+   "tracklist": [
+    "Promise",
+    "SOLOVE",
+    "Bad Name (Sung by LEETEUK)",
+    "GODOGNAM (Sung by KIM HEECHUL)",
+    "ONSAEMIRO",
+    "More Than Love"
+   ],
+   "links": [
+    "https://x.com/SJofficial",
+    "https://www.instagram.com/superjunior/",
+    "https://www.youtube.com/@SUPERJUNIOR",
+    "https://www.youtube.com/@SMTOWN"
+   ],
+   "mv": "https://www.youtube.com/watch?v=JebaOMAuIyw"
+  },
+  {
+   "artist": "YOUNG POSSE",
+   "type": "1st Mixtape",
+   "title": "young tape",
+   "titleTrack": "Mr 2026",
+   "date": "2026-07-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/YOUNG-POSSE-young-tape-mixtape.webp",
+   "url": "https://kpopofficial.com/album/young-posse-young-tape/",
+   "tracklist": [
+    "Mr 2026",
+    "HopeYouFuckUp. (DOEUN, SUNHYE, JIANA)",
+    "NO SLEEP (YEONJUNG solo)",
+    "I know (SUNHYE, JIEUN)",
+    "kawa (DOEUN, JIANA)",
+    "NEED U (DOEUN solo)",
+    "0nline_x3 (JIEUN solo)",
+    "TOO SUNNY (feat.Danji) (DOEUN)",
+    "Sweetttttttt;3 (YEONJUNG solo)",
+    "Don’t say my name (feat.Eric Minz) (SUNHYE)",
+    "DISTANCE (feat.Danji) (DOEUN)",
+    "Pilot2"
+   ],
+   "links": [
+    "https://x.com/youngposseup",
+    "https://www.instagram.com/youngposseup",
+    "https://www.youtube.com/@YOUNGPOSSEUP",
+    "https://www.tiktok.com/@youngposseup"
+   ],
+   "mv": "https://www.youtube.com/watch?v=lFxXpXk35Eo"
   },
   {
    "artist": "SUNMI",
@@ -157,7 +231,7 @@
    "title": "Time’s Tickin’",
    "titleTrack": "Time’s Tickin'",
    "date": "2026-07-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/TVXQ-U-KNOW-Times-Tickin.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-TVXQ-U-KNOW-Time-s-Tickin.webp",
    "url": "https://kpopofficial.com/album/u-know-times-tickin/",
    "tracklist": [
     "Time’s Tickin’",
@@ -600,7 +674,7 @@
    "title": "CONNECT",
    "titleTrack": null,
    "date": "2026-07-31T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-EMOTIM-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/EMOTIM-Members.webp",
    "url": "https://kpopofficial.com/album/emotim-connect/",
    "tracklist": [],
    "links": [
@@ -616,7 +690,7 @@
    "title": "Velvet Summer",
    "titleTrack": null,
    "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-Red-Velvet-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-Red-Velvet-Members.webp",
    "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
    "tracklist": [],
    "links": [
@@ -634,7 +708,7 @@
    "titleTrack": null,
    "date": "2026-08-03T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-SEVENTEEN-DINO-PiCheolin-1st-Mini-Album-BOARD.webp",
-   "url": "https://kpopofficial.com/album/picheolin-gilboard/",
+   "url": "https://kpopofficial.com/album/picheolin-gil-board/",
    "tracklist": [
     "짠 (feat. Dino)",
     "놀아보세",
@@ -677,7 +751,7 @@
    "title": "SWEAT",
    "titleTrack": null,
    "date": "2026-08-04T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KISS-OF-LIFE-Members-for-Single-Sweat.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/01/2-KISS-OF-LIFE-Comeback-April-2026.webp",
    "url": "https://kpopofficial.com/album/kiss-of-life-sweat/",
    "tracklist": [],
    "links": [

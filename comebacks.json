@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-21T14:22:30+00:00",
+ "generated": "2026-07-21T19:51:41+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -18,6 +18,26 @@
     "https://www.youtube.com/@SMTOWN"
    ],
    "mv": "https://www.youtube.com/watch?v=E1d8dVSs0Bg"
+  },
+  {
+   "artist": "WOOAH",
+   "type": "Digital Single",
+   "title": "Wish With W : Vol.3",
+   "titleTrack": "SUMMER",
+   "date": "2026-07-13T12:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WOOAH-SUMMER-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/wooah-wish-with-w-vol-3/",
+   "tracklist": [
+    "SUMMER",
+    "HIGHLIGHT"
+   ],
+   "links": [
+    "https://x.com/WOOAH_HM",
+    "https://www.instagram.com/wooah_nv/",
+    "https://www.youtube.com/@wooah",
+    "https://www.tiktok.com/@wooah_hm"
+   ],
+   "mv": "https://www.youtube.com/watch?v=8DwTAa5hPsA"
   },
   {
    "artist": "DAILY:DIRECTION",
@@ -63,6 +83,60 @@
     "https://www.tiktok.com/@idntt_cosmo"
    ],
    "mv": "https://www.youtube.com/watch?v=Ot1wUyuE3Vo"
+  },
+  {
+   "artist": "SUPER JUNIOR-83z",
+   "type": "1st Mini Album",
+   "title": "Promise",
+   "titleTrack": "Promise",
+   "date": "2026-07-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-SUPER-JUNIOR-83z-1st-Mini-Album-Promise.webp",
+   "url": "https://kpopofficial.com/album/super-junior-83z-promise/",
+   "tracklist": [
+    "Promise",
+    "SOLOVE",
+    "Bad Name (Sung by LEETEUK)",
+    "GODOGNAM (Sung by KIM HEECHUL)",
+    "ONSAEMIRO",
+    "More Than Love"
+   ],
+   "links": [
+    "https://x.com/SJofficial",
+    "https://www.instagram.com/superjunior/",
+    "https://www.youtube.com/@SUPERJUNIOR",
+    "https://www.youtube.com/@SMTOWN"
+   ],
+   "mv": "https://www.youtube.com/watch?v=JebaOMAuIyw"
+  },
+  {
+   "artist": "YOUNG POSSE",
+   "type": "1st Mixtape",
+   "title": "young tape",
+   "titleTrack": "Mr 2026",
+   "date": "2026-07-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/YOUNG-POSSE-young-tape-mixtape.webp",
+   "url": "https://kpopofficial.com/album/young-posse-young-tape/",
+   "tracklist": [
+    "Mr 2026",
+    "HopeYouFuckUp. (DOEUN, SUNHYE, JIANA)",
+    "NO SLEEP (YEONJUNG solo)",
+    "I know (SUNHYE, JIEUN)",
+    "kawa (DOEUN, JIANA)",
+    "NEED U (DOEUN solo)",
+    "0nline_x3 (JIEUN solo)",
+    "TOO SUNNY (feat.Danji) (DOEUN)",
+    "Sweetttttttt;3 (YEONJUNG solo)",
+    "Don’t say my name (feat.Eric Minz) (SUNHYE)",
+    "DISTANCE (feat.Danji) (DOEUN)",
+    "Pilot2"
+   ],
+   "links": [
+    "https://x.com/youngposseup",
+    "https://www.instagram.com/youngposseup",
+    "https://www.youtube.com/@YOUNGPOSSEUP",
+    "https://www.tiktok.com/@youngposseup"
+   ],
+   "mv": "https://www.youtube.com/watch?v=lFxXpXk35Eo"
   },
   {
    "artist": "SUNMI",
@@ -159,7 +233,7 @@
    "title": "Time’s Tickin’",
    "titleTrack": "Time’s Tickin'",
    "date": "2026-07-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/TVXQ-U-KNOW-Times-Tickin.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-TVXQ-U-KNOW-Time-s-Tickin.webp",
    "url": "https://kpopofficial.com/album/u-know-times-tickin/",
    "tracklist": [
     "Time’s Tickin’",
@@ -175,105 +249,25 @@
    "mv": "https://www.youtube.com/watch?v=2CsQyB-Psys"
   },
   {
-   "artist": "fromis_9",
-   "type": "2nd Album",
-   "title": "Glow ME",
-   "titleTrack": "Vitamin ME",
-   "date": "2026-07-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/fromis-9-Glow-ME-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/fromis-9-glow-me/",
+   "artist": "U-KNOW (TVXQ YUNHO)",
+   "type": "1st Single",
+   "title": "Time’s Tickin’",
+   "titleTrack": "Time’s Tickin'",
+   "date": "2026-07-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-TVXQ-U-KNOW-Time-s-Tickin.webp",
+   "url": "https://kpopofficial.com/album/u-know-times-tickin/",
    "tracklist": [
-    "ETERNAL",
-    "Vitamin ME – (Title)",
-    "Pocket Treat",
-    "Blue Heart",
-    "Screen Time",
-    "Teacher",
-    "Cold Blood (CHAEYOUNG X NAGYUNG X JIHEON)",
-    "Why do I cry? (HAYOUNG X JIWON)",
-    "Day 1",
-    "Wonderland"
+    "Time’s Tickin’",
+    "An Ordinary Story"
    ],
    "links": [
-    "https://x.com/realfromis_9",
-    "https://www.instagram.com/officialfromis_9",
-    "https://www.youtube.com/@fromis9_official",
-    "https://www.tiktok.com/@official_fromis9"
+    "https://x.com/TVXQ",
+    "https://www.instagram.com/tvxq.official/",
+    "https://www.youtube.com/@TVXQ",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@tvxq_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=sLk8zWUuYTA"
-  },
-  {
-   "artist": "WONHO",
-   "type": "EP",
-   "title": "CORE",
-   "titleTrack": "Don’t Wake Me Up!",
-   "date": "2026-07-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WONHO-CORE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/wonho-core/",
-   "tracklist": [
-    "Answer",
-    "Don’t Wake Me Up! – (Title)",
-    "Can’t Get Enough",
-    "Summer Blue",
-    "Down",
-    "Test Drive",
-    "Promises (feat. Brother Su)"
-   ],
-   "links": [
-    "https://x.com/official__wonho",
-    "https://www.instagram.com/iwonhoyou",
-    "https://www.youtube.com/@WONHOofficial",
-    "https://www.tiktok.com/@official_wonho"
-   ],
-   "mv": "https://www.youtube.com/watch?v=eHUsqmQqvcQ"
-  },
-  {
-   "artist": "8TURN",
-   "type": "3rd Single Album",
-   "title": "8.X",
-   "titleTrack": "Stagefright",
-   "date": "2026-07-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/8TURN-8X-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/8turn-8x/",
-   "tracklist": [
-    "Stagefright – (Title)",
-    "8PM"
-   ],
-   "links": [
-    "https://x.com/8TURN_official",
-    "https://www.instagram.com/8turn.official",
-    "https://www.youtube.com/@8TURN.official/videos",
-    "https://www.tiktok.com/@8turn_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=PuWwh0w4z7c"
-  },
-  {
-   "artist": "fromis_9",
-   "type": "2nd Album",
-   "title": "Glow ME",
-   "titleTrack": "Vitamin ME",
-   "date": "2026-07-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-fromis-9-members-for-Glow-ME.webp",
-   "url": "https://kpopofficial.com/album/fromis-9-glow-me/",
-   "tracklist": [
-    "ETERNAL",
-    "Vitamin ME – (Title)",
-    "Pocket Treat",
-    "Blue Heart",
-    "Screen Time",
-    "Teacher",
-    "Cold Blood (CHAEYOUNG X NAGYUNG X JIHEON)",
-    "Why do I cry? (HAYOUNG X JIWON)",
-    "Day 1",
-    "Wonderland"
-   ],
-   "links": [
-    "https://x.com/realfromis_9",
-    "https://www.instagram.com/officialfromis_9",
-    "https://www.youtube.com/@fromis9_official",
-    "https://www.tiktok.com/@official_fromis9"
-   ],
-   "mv": "https://www.youtube.com/watch?v=sLk8zWUuYTA"
+   "mv": "https://www.youtube.com/watch?v=2CsQyB-Psys"
   },
   {
    "artist": "WONHO",
@@ -321,22 +315,32 @@
    "mv": "https://www.youtube.com/watch?v=PuWwh0w4z7c"
   },
   {
-   "artist": "Picheolin (SEVENTEEN DINO)",
-   "type": "1st Mini Album",
-   "title": "吉BOARD",
-   "titleTrack": null,
-   "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/SEVENTEEN-DINO-Picheolin-pre-release-2.webp",
-   "url": "https://kpopofficial.com/album/picheolin-pre-release-single-2/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/pledis_17",
-    "https://www.instagram.com/saythename_17/",
-    "https://www.youtube.com/@pledis17",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@seventeen17_official"
+   "artist": "fromis_9",
+   "type": "2nd Album",
+   "title": "Glow ME",
+   "titleTrack": "Vitamin ME",
+   "date": "2026-07-21T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-fromis-9-members-for-Glow-ME.webp",
+   "url": "https://kpopofficial.com/album/fromis-9-glow-me/",
+   "tracklist": [
+    "ETERNAL",
+    "Vitamin ME – (Title)",
+    "Pocket Treat",
+    "Blue Heart",
+    "Screen Time",
+    "Teacher",
+    "Cold Blood (CHAEYOUNG X NAGYUNG X JIHEON)",
+    "Why do I cry? (HAYOUNG X JIWON)",
+    "Day 1",
+    "Wonderland"
    ],
-   "mv": "https://www.youtube.com/watch?v=hkAsbIkQRMk"
+   "links": [
+    "https://x.com/realfromis_9",
+    "https://www.instagram.com/officialfromis_9",
+    "https://www.youtube.com/@fromis9_official",
+    "https://www.tiktok.com/@official_fromis9"
+   ],
+   "mv": "https://www.youtube.com/watch?v=sLk8zWUuYTA"
   },
   {
    "artist": "LUN8",
@@ -400,22 +404,22 @@
    "mv": "https://www.youtube.com/watch?v=PmbSk_aTp-o"
   },
   {
-   "artist": "J.Y. Park",
-   "type": "Single Album",
-   "title": "WET",
-   "titleTrack": "WET",
-   "date": "2026-07-23T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-jy-park-wet.webp",
-   "url": "https://kpopofficial.com/album/jy-park-wet/",
+   "artist": "Picheolin (SEVENTEEN DINO)",
+   "type": "1st Mini Album",
+   "title": "吉BOARD",
+   "titleTrack": null,
+   "date": "2026-07-22T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/SEVENTEEN-DINO-Picheolin-pre-release-2.webp",
+   "url": "https://kpopofficial.com/album/picheolin-pre-release-single-2/",
    "tracklist": [],
    "links": [
-    "https://x.com/followjyp",
-    "https://www.instagram.com/asiansoul_jyp/",
-    "https://www.youtube.com/@JYPark",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@jypark_official"
+    "https://x.com/pledis_17",
+    "https://www.instagram.com/saythename_17/",
+    "https://www.youtube.com/@pledis17",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@seventeen17_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=JiIUe8vWl4U"
+   "mv": "https://www.youtube.com/watch?v=hkAsbIkQRMk"
   },
   {
    "artist": "aespa (JP)",
@@ -450,38 +454,6 @@
     "https://www.instagram.com/official_artms",
     "https://www.youtube.com/@official_artms",
     "https://www.tiktok.com/@official_artms"
-   ]
-  },
-  {
-   "artist": "JENNIE (BLACKPINK)",
-   "type": "Single",
-   "title": "Less than a Lover",
-   "titleTrack": "Less than a Lover",
-   "date": "2026-07-24T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/JENNIE-Less-than-a-Lover.webp",
-   "url": "https://kpopofficial.com/album/jennie-less-than-a-lover/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/jennierubyjane",
-    "https://www.instagram.com/jennierubyjane",
-    "https://www.youtube.com/@jennierubyjane",
-    "https://www.tiktok.com/@jennierubyjane"
-   ]
-  },
-  {
-   "artist": "ALICE SYNDROME",
-   "type": "1st Digital Single",
-   "title": "DEEP DIVE",
-   "titleTrack": null,
-   "date": "2026-07-25T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ALICE-SYNDROME-Members.webp",
-   "url": "https://kpopofficial.com/album/alice-syndrome-deep-dive/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/alicesyndrome00",
-    "https://www.instagram.com/alice__syndrome/",
-    "https://www.youtube.com/@alice_syndrome4",
-    "https://www.tiktok.com/@alice__syndrome"
    ]
   },
   {
@@ -601,6 +573,22 @@
    ]
   },
   {
+   "artist": "THE WIND",
+   "type": "4th Mini Album",
+   "title": "Second Wind : S# 00",
+   "titleTrack": null,
+   "date": "2026-07-29T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/the-wind-second-wind-s-00-teaser.webp",
+   "url": "https://kpopofficial.com/album/the-wind-second-wind-s-00/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/officialTheWind",
+    "https://www.instagram.com/thewind.official/",
+    "https://www.youtube.com/@TheWind_official",
+    "https://www.tiktok.com/@official_thewind"
+   ]
+  },
+  {
    "artist": "ATEEZ (JP)",
    "type": "5th Single",
    "title": null,
@@ -636,19 +624,19 @@
    ]
   },
   {
-   "artist": "THE WIND",
-   "type": "4th Mini Album",
-   "title": "Second Wind : S# 00",
+   "artist": "EMOTI:M",
+   "type": "1st Single Album",
+   "title": "CONNECT",
    "titleTrack": null,
-   "date": "2026-07-29T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/the-wind-second-wind-s-00-teaser.webp",
-   "url": "https://kpopofficial.com/album/the-wind-second-wind-s-00/",
+   "date": "2026-07-31T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/EMOTIM-Members.webp",
+   "url": "https://kpopofficial.com/album/emotim-connect/",
    "tracklist": [],
    "links": [
-    "https://x.com/officialTheWind",
-    "https://www.instagram.com/thewind.official/",
-    "https://www.youtube.com/@TheWind_official",
-    "https://www.tiktok.com/@official_thewind"
+    "https://x.com/EMOTIM_OFFICIAL",
+    "https://www.instagram.com/emotim_official",
+    "https://www.youtube.com/@emotim5official",
+    "https://www.tiktok.com/@emotim_official"
    ]
   },
   {
@@ -670,28 +658,12 @@
    "mv": "https://www.youtube.com/watch?v=sqYNGZJWNcw"
   },
   {
-   "artist": "EMOTI:M",
-   "type": "1st Single Album",
-   "title": "CONNECT",
-   "titleTrack": null,
-   "date": "2026-07-31T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-EMOTIM-Members.webp",
-   "url": "https://kpopofficial.com/album/emotim-connect/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/EMOTIM_OFFICIAL",
-    "https://www.instagram.com/emotim_official",
-    "https://www.youtube.com/@emotim5official",
-    "https://www.tiktok.com/@emotim_official"
-   ]
-  },
-  {
    "artist": "Red Velvet",
    "type": "Summer Mini Album",
    "title": "Velvet Summer",
    "titleTrack": null,
    "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-Red-Velvet-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-Red-Velvet-Members.webp",
    "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
    "tracklist": [],
    "links": [
@@ -709,7 +681,7 @@
    "titleTrack": null,
    "date": "2026-08-03T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-SEVENTEEN-DINO-PiCheolin-1st-Mini-Album-BOARD.webp",
-   "url": "https://kpopofficial.com/album/picheolin-gilboard/",
+   "url": "https://kpopofficial.com/album/picheolin-gil-board/",
    "tracklist": [
     "짠 (feat. Dino)",
     "놀아보세",
@@ -752,7 +724,7 @@
    "title": "SWEAT",
    "titleTrack": null,
    "date": "2026-08-04T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KISS-OF-LIFE-Members-for-Single-Sweat.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/01/2-KISS-OF-LIFE-Comeback-April-2026.webp",
    "url": "https://kpopofficial.com/album/kiss-of-life-sweat/",
    "tracklist": [],
    "links": [
@@ -850,30 +822,6 @@
     "https://www.youtube.com/@WayV",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@official_wayv"
-   ]
-  },
-  {
-   "artist": "KiiiKiii",
-   "type": "3rd EP",
-   "title": "WhyKiiiKiii",
-   "titleTrack": null,
-   "date": "2026-08-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KiiiKiii-members-for-WhyKiiiKiii-Album.webp",
-   "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
-   "tracklist": [
-    "Ever2Late!",
-    "Hey Hi",
-    "Pop Off Pop Off",
-    "Sweet Sour",
-    "Candy Pink Magic Hole Flip Phone",
-    "Blue Hour"
-   ],
-   "links": [
-    "https://x.com/We_KiiiKiii",
-    "https://www.instagram.com/kiiikiii.official/",
-    "https://www.youtube.com/@KiiiKiii_starship",
-    "https://www.youtube.com/@STARSHIP_official",
-    "https://www.tiktok.com/@kiiikiii_official"
    ]
   },
   {
