@@ -971,7 +971,7 @@
     animation: tour-pulse 1.8s ease-in-out infinite;
   }
 
-  .tour-spot.center { border-color: transparent; box-shadow: 0 0 0 9999px var(--scrim); animation: none; }
+  .tour-spot.center { border: 0; box-shadow: 0 0 0 9999px var(--scrim); animation: none; }
 
   @keyframes tour-pulse {
     0%, 100% { box-shadow: 0 0 0 9999px var(--scrim), 0 0 0 5px rgba(139, 35, 24, .18); }
@@ -1870,7 +1870,7 @@
     },
     () => $("gear"),
     () => $("foot-cal"),
-    () => null,
+    () => $("help"),
   ];
 
   let tourStep = -1, tourEls = null, tourRAF = null;
