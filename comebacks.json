@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-22T14:22:04+00:00",
+ "generated": "2026-07-22T19:43:11+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -244,31 +244,6 @@
    "mv": "https://www.youtube.com/watch?v=PmbSk_aTp-o"
   },
   {
-   "artist": "HYOLYN",
-   "type": "4th Mini Album",
-   "title": "OriginaLyn",
-   "titleTrack": "Check",
-   "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-HYOLYN-OriginaLyn-teaser.webp",
-   "url": "https://kpopofficial.com/album/hyolyn-originalyn/",
-   "tracklist": [
-    "Check – (Title)",
-    "Offline",
-    "Shotty",
-    "맛있게 드세요",
-    "What U Like",
-    "You and I",
-    "Standing on the Edge"
-   ],
-   "links": [
-    "https://x.com/officialhyolyn_",
-    "https://www.instagram.com/xhyolynx/",
-    "https://www.youtube.com/@OfficialHyolyn",
-    "https://www.tiktok.com/@_hyolyn_"
-   ],
-   "mv": "https://www.youtube.com/watch?v=PBswvv676X8"
-  },
-  {
    "artist": "OURBIRTHDAY",
    "type": "1st Digital Single",
    "title": "HUNGRY (Side A)",
@@ -321,6 +296,31 @@
     "https://www.tiktok.com/@lun8_official"
    ],
    "mv": "https://www.youtube.com/watch?v=4N7yiKWrd90"
+  },
+  {
+   "artist": "HYOLYN",
+   "type": "4th Mini Album",
+   "title": "OriginaLyn",
+   "titleTrack": "Check",
+   "date": "2026-07-22T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-HYOLYN-OriginaLyn-teaser.webp",
+   "url": "https://kpopofficial.com/album/hyolyn-originalyn/",
+   "tracklist": [
+    "Check – (Title)",
+    "Offline",
+    "Shotty",
+    "맛있게 드세요",
+    "What U Like",
+    "You and I",
+    "Standing on the Edge"
+   ],
+   "links": [
+    "https://x.com/officialhyolyn_",
+    "https://www.instagram.com/xhyolynx/",
+    "https://www.youtube.com/@OfficialHyolyn",
+    "https://www.tiktok.com/@_hyolyn_"
+   ],
+   "mv": "https://www.youtube.com/watch?v=PBswvv676X8"
   },
   {
    "artist": "J.Y. Park",
@@ -428,6 +428,38 @@
    "mv": "https://www.youtube.com/watch?v=BNOwZyEYBNU"
   },
   {
+   "artist": "Young K (DAY6)",
+   "type": "2nd Full Album",
+   "title": "YOUNGEST",
+   "titleTrack": "Shut The Door",
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-DAY6-Young-K-YOUNGEST-Album-Teaser.webp",
+   "url": "https://kpopofficial.com/album/young-k-youngest/",
+   "tracklist": [
+    "Marionette",
+    "Shut The Door – (Title)",
+    "F World",
+    "Hey Honey",
+    "응원가",
+    "Spike",
+    "Yonge St.",
+    "Million Reasons",
+    "우리가 헤어질 100가지 이유 (with JINJOO of DNCE)",
+    "Drivin’ Into Hell",
+    "Whatever",
+    "Goodbye, Love",
+    "집으로 향한다",
+    "안개꽃",
+    "작업실에서 커피를"
+   ],
+   "links": [
+    "https://x.com/day6official",
+    "https://www.instagram.com/DAY6kilogram",
+    "https://www.youtube.com/@DAY6Official",
+    "https://www.youtube.com/@JYPEntertainment"
+   ]
+  },
+  {
    "artist": "ONEWE",
    "type": "3rd Full Album",
    "title": "面 : Unknown Atlas",
@@ -466,35 +498,20 @@
    ]
   },
   {
-   "artist": "Young K (DAY6)",
-   "type": "2nd Full Album",
-   "title": "YOUNGEST",
-   "titleTrack": "Shut The Door",
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-DAY6-Young-K-YOUNGEST-Album-Teaser.webp",
-   "url": "https://kpopofficial.com/album/young-k-youngest/",
-   "tracklist": [
-    "Marionette",
-    "Shut The Door – (Title)",
-    "F World",
-    "Hey Honey",
-    "응원가",
-    "Spike",
-    "Yonge St.",
-    "Million Reasons",
-    "우리가 헤어질 100가지 이유 (with JINJOO of DNCE)",
-    "Drivin’ Into Hell",
-    "Whatever",
-    "Goodbye, Love",
-    "집으로 향한다",
-    "안개꽃",
-    "작업실에서 커피를"
-   ],
+   "artist": "POW",
+   "type": "Single Album",
+   "title": "FLAVOR",
+   "titleTrack": "FLAVOR",
+   "date": "2026-07-28T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-POW-Members.webp",
+   "url": "https://kpopofficial.com/album/pow-flavor/",
+   "tracklist": [],
    "links": [
-    "https://x.com/day6official",
-    "https://www.instagram.com/DAY6kilogram",
-    "https://www.youtube.com/@DAY6Official",
-    "https://www.youtube.com/@JYPEntertainment"
+    "https://x.com/POW_grid",
+    "https://www.instagram.com/pow_grid/",
+    "https://www.youtube.com/@POW_Official",
+    "https://www.youtube.com/@GRIDEntertainment",
+    "https://www.tiktok.com/@pow_grid"
    ]
   },
   {
@@ -522,23 +539,6 @@
     "https://www.instagram.com/official_kard/",
     "https://www.youtube.com/@KARD",
     "https://www.tiktok.com/@official.kard"
-   ]
-  },
-  {
-   "artist": "POW",
-   "type": "Single Album",
-   "title": "FLAVOR",
-   "titleTrack": "FLAVOR",
-   "date": "2026-07-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-POW-Members.webp",
-   "url": "https://kpopofficial.com/album/pow-flavor/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/POW_grid",
-    "https://www.instagram.com/pow_grid/",
-    "https://www.youtube.com/@POW_Official",
-    "https://www.youtube.com/@GRIDEntertainment",
-    "https://www.tiktok.com/@pow_grid"
    ]
   },
   {
@@ -627,29 +627,12 @@
    ]
   },
   {
-   "artist": "Red Velvet",
-   "type": "Summer Mini Album",
-   "title": "Velvet Summer",
-   "titleTrack": null,
-   "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Red-Velvet-Members-for-Velvet-Summer.webp",
-   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/RVsmtown",
-    "https://www.instagram.com/redvelvet.smtown/",
-    "https://www.youtube.com/@redvelvet",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@redvelvet_smtown"
-   ]
-  },
-  {
    "artist": "Picheolin (SEVENTEEN DINO)",
    "type": "1st Mini Album",
    "title": "吉BOARD",
    "titleTrack": null,
    "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-SEVENTEEN-DINO-PiCheolin-1st-Mini-Album-BOARD.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Picheolin-Seventeen-Dino.webp",
    "url": "https://kpopofficial.com/album/picheolin-gilboard/",
    "tracklist": [
     "짠 (feat. Dino)",
@@ -668,6 +651,23 @@
     "https://www.tiktok.com/@seventeen17_official"
    ],
    "mv": "https://www.youtube.com/watch?v=Zt_37l7NiJw"
+  },
+  {
+   "artist": "Red Velvet",
+   "type": "Summer Mini Album",
+   "title": "Velvet Summer",
+   "titleTrack": null,
+   "date": "2026-08-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-Red-Velvet-Members.webp",
+   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/RVsmtown",
+    "https://www.instagram.com/redvelvet.smtown/",
+    "https://www.youtube.com/@redvelvet",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@redvelvet_smtown"
+   ]
   },
   {
    "artist": "TWS (JP)",
