@@ -320,6 +320,24 @@
    "mv": "https://www.youtube.com/watch?v=sLk8zWUuYTA"
   },
   {
+   "artist": "Picheolin (SEVENTEEN DINO)",
+   "type": "1st Mini Album",
+   "title": "吉BOARD",
+   "titleTrack": null,
+   "date": "2026-07-22T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-SEVENTEEN-DINO-PiCheolin-1st-Mini-Album-BOARD.webp",
+   "url": "https://kpopofficial.com/album/picheolin-pre-release-single-2/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/pledis_17",
+    "https://www.instagram.com/saythename_17/",
+    "https://www.youtube.com/@pledis17",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@seventeen17_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=cU3B-LgyI6o"
+  },
+  {
    "artist": "LUN8",
    "type": "4th Mini Album",
    "title": "Off the Grid",
@@ -557,6 +575,23 @@
    ]
   },
   {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": null,
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-the-wake/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+  },
+  {
    "artist": "KARD",
    "type": "1st Album",
    "title": "Where To Now? (Part.2) : NOWHERE",
@@ -708,7 +743,7 @@
    "title": "吉BOARD",
    "titleTrack": null,
    "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Picheolin-Seventeen-Dino.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-SEVENTEEN-DINO-PiCheolin-1st-Mini-Album-BOARD.webp",
    "url": "https://kpopofficial.com/album/picheolin-gilboard/",
    "tracklist": [
     "짠 (feat. Dino)",
@@ -734,7 +769,7 @@
    "title": "SODA SODA",
    "titleTrack": null,
    "date": "2026-08-04T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/TWS-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/TWS-SODA-SODA.webp",
    "url": "https://kpopofficial.com/album/tws-soda-soda/",
    "tracklist": [],
    "links": [
@@ -936,6 +971,23 @@
     "https://www.youtube.com/@ZB1_official",
     "https://www.tiktok.com/@zb1_official"
    ]
+  },
+  {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
   },
   {
    "artist": "Tiffany Young",
