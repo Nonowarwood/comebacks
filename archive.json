@@ -323,10 +323,10 @@
    "artist": "Picheolin (SEVENTEEN DINO)",
    "type": "1st Mini Album",
    "title": "吉BOARD",
-   "titleTrack": "Mi-cheo Mi-cheo",
+   "titleTrack": null,
    "date": "2026-07-22T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Picheolin-Mi-cheo-Mi-cheo-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/picheolin-mi-cheo-mi-cheo/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-SEVENTEEN-DINO-PiCheolin-1st-Mini-Album-BOARD.webp",
+   "url": "https://kpopofficial.com/album/picheolin-pre-release-single-2/",
    "tracklist": [],
    "links": [
     "https://x.com/pledis_17",
@@ -343,7 +343,7 @@
    "title": "Off the Grid",
    "titleTrack": "SNEAKERS",
    "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/LUN8-Off-the-Grid-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-LUN8-Members.webp",
    "url": "https://kpopofficial.com/album/lun8-off-the-grid/",
    "tracklist": [
     "SNEAKERS – (Title)",
@@ -366,7 +366,7 @@
    "title": "OriginaLyn",
    "titleTrack": "Check",
    "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/HYOLYN-OriginaLyn-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-HYOLYN-OriginaLyn-teaser.webp",
    "url": "https://kpopofficial.com/album/hyolyn-originalyn/",
    "tracklist": [
     "Check – (Title)",
@@ -391,7 +391,7 @@
    "title": "HUNGRY (Side A)",
    "titleTrack": null,
    "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/OURBIRTHDAY-HUNGRY-Side-A-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-OURBIRTHDAY-Members.webp",
    "url": "https://kpopofficial.com/album/ourbirthday-hungry-side-a/",
    "tracklist": [],
    "links": [
@@ -450,7 +450,14 @@
    "date": "2026-07-24T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-aespa-members-for-1st-Japan-Mini-Album-KISS-N-TELL.webp",
    "url": "https://kpopofficial.com/album/aespa-kiss-n-tell/",
-   "tracklist": [],
+   "tracklist": [
+    "KISS N TELL",
+    "Orbit Pop",
+    "Fangirl",
+    "ATTITUDE",
+    "Done with Rules",
+    "In Halo"
+   ],
    "links": [
     "https://x.com/aespa_official",
     "https://x.com/aespaJPofficial",
@@ -459,7 +466,7 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@aespa_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=kAIAp5GMOB0"
+   "mv": "https://www.youtube.com/watch?v=inxzQt78lOk"
   },
   {
    "artist": "JENNIE (BLACKPINK)",
@@ -485,7 +492,7 @@
    "titleTrack": "Blue Blood",
    "date": "2026-07-24T13:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ARTMS-Members-for-Hyper-Ego-Album.webp",
-   "url": "https://kpopofficial.com/album/artms-born-stunner/",
+   "url": "https://kpopofficial.com/album/artms-pre-release/",
    "tracklist": [],
    "links": [
     "https://x.com/official_artms",
@@ -493,7 +500,7 @@
     "https://www.youtube.com/@official_artms",
     "https://www.tiktok.com/@official_artms"
    ],
-   "mv": "https://www.youtube.com/watch?v=pW2GNIXt99M"
+   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
   },
   {
    "artist": "ALICE SYNDROME",
@@ -568,7 +575,7 @@
    "title": ".exe",
    "titleTrack": ".exe",
    "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-exe-teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-Members.webp",
    "url": "https://kpopofficial.com/album/nouera-exe/",
    "tracklist": [
     ".exe",
@@ -905,7 +912,8 @@
     "https://www.instagram.com/official_artms",
     "https://www.youtube.com/@official_artms",
     "https://www.tiktok.com/@official_artms"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
   },
   {
    "artist": "WayV",
@@ -1110,7 +1118,7 @@
    "title": null,
    "titleTrack": null,
    "date": "2026-08-24T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NCT-127-comeback-August-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/NCT-127-comeback-August-2026.webp",
    "url": "https://kpopofficial.com/album/nct-127-comeback-2026/",
    "tracklist": [],
    "links": [
