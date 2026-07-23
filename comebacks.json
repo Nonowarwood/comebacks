@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-23T03:44:25+00:00",
+ "generated": "2026-07-23T08:44:32+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -470,6 +470,28 @@
    ]
   },
   {
+   "artist": "THE WIND",
+   "type": "4th Mini Album",
+   "title": "Second Wind : S# 00",
+   "titleTrack": null,
+   "date": "2026-07-29T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/the-wind-second-wind-s-00-teaser.webp",
+   "url": "https://kpopofficial.com/album/the-wind-second-wind-s-00/",
+   "tracklist": [
+    "With the Wind",
+    "Party Like A Rock Star",
+    "That’s Smoove!",
+    "Shiver",
+    "Back and Forth"
+   ],
+   "links": [
+    "https://x.com/officialTheWind",
+    "https://www.instagram.com/thewind.official/",
+    "https://www.youtube.com/@TheWind_official",
+    "https://www.tiktok.com/@official_thewind"
+   ]
+  },
+  {
    "artist": "ATEEZ (JP)",
    "type": "5th Single",
    "title": null,
@@ -505,26 +527,22 @@
    ]
   },
   {
-   "artist": "THE WIND",
-   "type": "4th Mini Album",
-   "title": "Second Wind : S# 00",
+   "artist": "UNIS (JP)",
+   "type": "Japan 1st Mini Album",
+   "title": "UNI☆Sparkle!",
    "titleTrack": null,
-   "date": "2026-07-29T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/the-wind-second-wind-s-00-teaser.webp",
-   "url": "https://kpopofficial.com/album/the-wind-second-wind-s-00/",
-   "tracklist": [
-    "With the Wind",
-    "Party Like A Rock Star",
-    "That’s Smoove!",
-    "Shiver",
-    "Back and Forth"
-   ],
+   "date": "2026-07-31T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-UNIS-Japan-UNI-Sparkle-Teaser.webp",
+   "url": "https://kpopofficial.com/album/unis-uni-sparkle/",
+   "tracklist": [],
    "links": [
-    "https://x.com/officialTheWind",
-    "https://www.instagram.com/thewind.official/",
-    "https://www.youtube.com/@TheWind_official",
-    "https://www.tiktok.com/@official_thewind"
-   ]
+    "https://x.com/UNIS_offcl",
+    "https://x.com/UNIS_offcl_JP",
+    "https://www.instagram.com/unis_offcl/",
+    "https://www.youtube.com/@UNIS_Offcl",
+    "https://www.tiktok.com/@unis_offcl"
+   ],
+   "mv": "https://www.youtube.com/watch?v=sqYNGZJWNcw"
   },
   {
    "artist": "EMOTI:M",
@@ -543,22 +561,21 @@
    ]
   },
   {
-   "artist": "UNIS (JP)",
-   "type": "Japan 1st Mini Album",
-   "title": "UNI☆Sparkle!",
+   "artist": "Red Velvet",
+   "type": "Summer Mini Album",
+   "title": "Velvet Summer",
    "titleTrack": null,
-   "date": "2026-07-31T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-UNIS-Japan-UNI-Sparkle-Teaser.webp",
-   "url": "https://kpopofficial.com/album/unis-uni-sparkle/",
+   "date": "2026-08-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Red-Velvet-Members-for-Velvet-Summer.webp",
+   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
    "tracklist": [],
    "links": [
-    "https://x.com/UNIS_offcl",
-    "https://x.com/UNIS_offcl_JP",
-    "https://www.instagram.com/unis_offcl/",
-    "https://www.youtube.com/@UNIS_Offcl",
-    "https://www.tiktok.com/@unis_offcl"
-   ],
-   "mv": "https://www.youtube.com/watch?v=sqYNGZJWNcw"
+    "https://x.com/RVsmtown",
+    "https://www.instagram.com/redvelvet.smtown/",
+    "https://www.youtube.com/@redvelvet",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@redvelvet_smtown"
+   ]
   },
   {
    "artist": "Picheolin (SEVENTEEN DINO)",
@@ -585,23 +602,6 @@
     "https://www.tiktok.com/@seventeen17_official"
    ],
    "mv": "https://www.youtube.com/watch?v=uh_DpK2xFiE"
-  },
-  {
-   "artist": "Red Velvet",
-   "type": "Summer Mini Album",
-   "title": "Velvet Summer",
-   "titleTrack": null,
-   "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Red-Velvet-Members-for-Velvet-Summer.webp",
-   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/RVsmtown",
-    "https://www.instagram.com/redvelvet.smtown/",
-    "https://www.youtube.com/@redvelvet",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@redvelvet_smtown"
-   ]
   },
   {
    "artist": "TWS (JP)",
@@ -664,6 +664,28 @@
     "https://www.youtube.com/@AEN_offcl",
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@aen_offcl"
+   ]
+  },
+  {
+   "artist": "WHIB",
+   "type": "2nd Mini Album",
+   "title": "CHERRY PIE",
+   "titleTrack": "CHERRY PIE",
+   "date": "2026-08-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-Cherry-Pie-Comeback.webp",
+   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
+   "tracklist": [
+    "PAGES OF US",
+    "CHERRY PIE – (title)",
+    "MOTTO",
+    "CAN’T STOP=NOT FOUND",
+    "MAKE IT"
+   ],
+   "links": [
+    "https://x.com/whib_official",
+    "https://www.instagram.com/whib_official",
+    "https://www.youtube.com/@WHIB_OFFICIAL",
+    "https://www.tiktok.com/@whib_official"
    ]
   },
   {
@@ -752,6 +774,21 @@
    ]
   },
   {
+   "artist": "JEONG EUNJI (Apink)",
+   "type": "5th Mini Album",
+   "title": "Summer, I",
+   "titleTrack": null,
+   "date": "2026-08-11T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-Apink-Jeong-Eunji.webp",
+   "url": "https://kpopofficial.com/album/jeong-eunji-summer-i/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/JeongEunJi_X",
+    "https://www.instagram.com/artist_eunji/",
+    "https://www.youtube.com/@eunji3116"
+   ]
+  },
+  {
    "artist": "Hearts2Hearts (JP)",
    "type": "1st Japan Single",
    "title": "ICONIC HEART",
@@ -810,6 +847,23 @@
     "https://www.instagram.com/zb1official/",
     "https://www.youtube.com/@ZB1_official",
     "https://www.tiktok.com/@zb1_official"
+   ]
+  },
+  {
+   "artist": "MASHIRO (MADEIN)",
+   "type": "1st EP",
+   "title": "24/11",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-MADEIN-MASHIRO.webp",
+   "url": "https://kpopofficial.com/album/mashiro-24-11/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MADEIN_U",
+    "https://www.instagram.com/we.madein.u",
+    "https://www.instagram.com/shir0._.chann/",
+    "https://www.youtube.com/@MADEIN_U",
+    "https://www.tiktok.com/@MADEIN_u"
    ]
   },
   {
