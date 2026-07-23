@@ -323,10 +323,10 @@
    "artist": "Picheolin (SEVENTEEN DINO)",
    "type": "1st Mini Album",
    "title": "吉BOARD",
-   "titleTrack": null,
+   "titleTrack": "Mi-cheo Mi-cheo",
    "date": "2026-07-22T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-SEVENTEEN-DINO-PiCheolin-1st-Mini-Album-BOARD.webp",
-   "url": "https://kpopofficial.com/album/picheolin-pre-release-single-2/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Picheolin-Mi-cheo-Mi-cheo-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/picheolin-mi-cheo-mi-cheo/",
    "tracklist": [],
    "links": [
     "https://x.com/pledis_17",
@@ -335,7 +335,7 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@seventeen17_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=cU3B-LgyI6o"
+   "mv": "https://www.youtube.com/watch?v=uh_DpK2xFiE"
   },
   {
    "artist": "LUN8",
@@ -343,9 +343,14 @@
    "title": "Off the Grid",
    "titleTrack": "SNEAKERS",
    "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-LUN8-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/LUN8-Off-the-Grid-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/lun8-off-the-grid/",
-   "tracklist": [],
+   "tracklist": [
+    "SNEAKERS – (Title)",
+    "TO THE MOON",
+    "BACK",
+    "If I could"
+   ],
    "links": [
     "https://x.com/LUN8_official",
     "https://www.instagram.com/lun8_official",
@@ -353,7 +358,7 @@
     "https://www.youtube.com/@fantagio",
     "https://www.tiktok.com/@lun8_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=4N7yiKWrd90"
+   "mv": "https://www.youtube.com/watch?v=Yg-URsbYdXo"
   },
   {
    "artist": "HYOLYN",
@@ -361,13 +366,13 @@
    "title": "OriginaLyn",
    "titleTrack": "Check",
    "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-HYOLYN-OriginaLyn-teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/HYOLYN-OriginaLyn-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/hyolyn-originalyn/",
    "tracklist": [
     "Check – (Title)",
     "Offline",
     "Shotty",
-    "맛있게 드세요",
+    "Bon appétit",
     "What U Like",
     "You and I",
     "Standing on the Edge"
@@ -378,7 +383,7 @@
     "https://www.youtube.com/@OfficialHyolyn",
     "https://www.tiktok.com/@_hyolyn_"
    ],
-   "mv": "https://www.youtube.com/watch?v=PBswvv676X8"
+   "mv": "https://www.youtube.com/watch?v=QJa8TKXNavc"
   },
   {
    "artist": "OURBIRTHDAY",
@@ -386,7 +391,7 @@
    "title": "HUNGRY (Side A)",
    "titleTrack": null,
    "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/OURBIRTHDAY-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/OURBIRTHDAY-HUNGRY-Side-A-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/ourbirthday-hungry-side-a/",
    "tracklist": [],
    "links": [
@@ -396,7 +401,7 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@ourbirthday_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=PmbSk_aTp-o"
+   "mv": "https://www.youtube.com/watch?v=pVrTAE6oOPY"
   },
   {
    "artist": "Picheolin (SEVENTEEN DINO)",
@@ -477,14 +482,15 @@
    "titleTrack": "Blue Blood",
    "date": "2026-07-24T13:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ARTMS-Members-for-Hyper-Ego-Album.webp",
-   "url": "https://kpopofficial.com/album/artms-pre-release/",
+   "url": "https://kpopofficial.com/album/artms-born-stunner/",
    "tracklist": [],
    "links": [
     "https://x.com/official_artms",
     "https://www.instagram.com/official_artms",
     "https://www.youtube.com/@official_artms",
     "https://www.tiktok.com/@official_artms"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=pW2GNIXt99M"
   },
   {
    "artist": "ALICE SYNDROME",
@@ -559,7 +565,7 @@
    "title": ".exe",
    "titleTrack": ".exe",
    "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-exe-teaser.webp",
    "url": "https://kpopofficial.com/album/nouera-exe/",
    "tracklist": [
     ".exe",
@@ -572,7 +578,8 @@
     "https://www.instagram.com/nouera_official/",
     "https://www.youtube.com/@nouera_official",
     "https://www.tiktok.com/@nouera_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=miFkck0PGg4"
   },
   {
    "artist": "ONEWE",
@@ -643,7 +650,13 @@
    "date": "2026-07-29T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/the-wind-second-wind-s-00-teaser.webp",
    "url": "https://kpopofficial.com/album/the-wind-second-wind-s-00/",
-   "tracklist": [],
+   "tracklist": [
+    "With the Wind",
+    "Party Like A Rock Star",
+    "That’s Smoove!",
+    "Shiver",
+    "Back and Forth"
+   ],
    "links": [
     "https://x.com/officialTheWind",
     "https://www.instagram.com/thewind.official/",
@@ -726,7 +739,7 @@
    "title": "Velvet Summer",
    "titleTrack": null,
    "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-Red-Velvet-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Red-Velvet-Members-for-Velvet-Summer.webp",
    "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
    "tracklist": [],
    "links": [
@@ -761,7 +774,7 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@seventeen17_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=Zt_37l7NiJw"
+   "mv": "https://www.youtube.com/watch?v=uh_DpK2xFiE"
   },
   {
    "artist": "TWS (JP)",
@@ -769,7 +782,7 @@
    "title": "SODA SODA",
    "titleTrack": null,
    "date": "2026-08-04T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/TWS-SODA-SODA.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/TWS-Members.webp",
    "url": "https://kpopofficial.com/album/tws-soda-soda/",
    "tracklist": [],
    "links": [
@@ -1040,7 +1053,7 @@
    "title": null,
    "titleTrack": null,
    "date": "2026-08-24T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/NCT-127-comeback-August-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NCT-127-comeback-August-2026.webp",
    "url": "https://kpopofficial.com/album/nct-127-comeback-2026/",
    "tracklist": [],
    "links": [
