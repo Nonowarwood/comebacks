@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-23T08:44:32+00:00",
+ "generated": "2026-07-23T14:31:23+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -236,9 +236,12 @@
    "title": "WET",
    "titleTrack": "WET",
    "date": "2026-07-23T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-jy-park-wet.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/JY-Park-WET-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/jy-park-wet/",
-   "tracklist": [],
+   "tracklist": [
+    "WET – (Title)",
+    "WET (Inst.)"
+   ],
    "links": [
     "https://x.com/followjyp",
     "https://www.instagram.com/asiansoul_jyp/",
@@ -246,7 +249,7 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@jypark_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=JiIUe8vWl4U"
+   "mv": "https://www.youtube.com/watch?v=dMf6YlGsv0U"
   },
   {
    "artist": "J.Y. Park",
@@ -256,7 +259,10 @@
    "date": "2026-07-23T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-jy-park-wet.webp",
    "url": "https://kpopofficial.com/album/jy-park-wet/",
-   "tracklist": [],
+   "tracklist": [
+    "WET – (Title)",
+    "WET (Inst.)"
+   ],
    "links": [
     "https://x.com/followjyp",
     "https://www.instagram.com/asiansoul_jyp/",
@@ -264,7 +270,7 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@jypark_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=JiIUe8vWl4U"
+   "mv": "https://www.youtube.com/watch?v=dMf6YlGsv0U"
   },
   {
    "artist": "aespa (JP)",
@@ -286,23 +292,6 @@
    "mv": "https://www.youtube.com/watch?v=kAIAp5GMOB0"
   },
   {
-   "artist": "JENNIE (BLACKPINK)",
-   "type": "Single",
-   "title": "Less than a Lover",
-   "titleTrack": "Less than a Lover",
-   "date": "2026-07-24T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/JENNIE-Less-than-a-Lover.webp",
-   "url": "https://kpopofficial.com/album/jennie-less-than-a-lover/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/jennierubyjane",
-    "https://www.instagram.com/jennierubyjane",
-    "https://www.youtube.com/@jennierubyjane",
-    "https://www.tiktok.com/@jennierubyjane"
-   ],
-   "mv": "https://www.youtube.com/watch?v=PX6h9Sx5kGw"
-  },
-  {
    "artist": "ARTMS",
    "type": "2nd Mini Album",
    "title": "Hyper-Ego",
@@ -318,6 +307,23 @@
     "https://www.tiktok.com/@official_artms"
    ],
    "mv": "https://www.youtube.com/watch?v=pW2GNIXt99M"
+  },
+  {
+   "artist": "JENNIE (BLACKPINK)",
+   "type": "Single",
+   "title": "Less than a Lover",
+   "titleTrack": "Less than a Lover",
+   "date": "2026-07-24T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/JENNIE-Less-than-a-Lover.webp",
+   "url": "https://kpopofficial.com/album/jennie-less-than-a-lover/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/jennierubyjane",
+    "https://www.instagram.com/jennierubyjane",
+    "https://www.youtube.com/@jennierubyjane",
+    "https://www.tiktok.com/@jennierubyjane"
+   ],
+   "mv": "https://www.youtube.com/watch?v=PX6h9Sx5kGw"
   },
   {
    "artist": "ALICE SYNDROME",
@@ -353,6 +359,38 @@
     "https://www.tiktok.com/@illit_official"
    ],
    "mv": "https://www.youtube.com/watch?v=BNOwZyEYBNU"
+  },
+  {
+   "artist": "Young K (DAY6)",
+   "type": "2nd Full Album",
+   "title": "YOUNGEST",
+   "titleTrack": "Shut The Door",
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-DAY6-Young-K-YOUNGEST-Album-Teaser.webp",
+   "url": "https://kpopofficial.com/album/young-k-youngest/",
+   "tracklist": [
+    "Marionette",
+    "Shut The Door – (Title)",
+    "F World",
+    "Hey Honey",
+    "응원가",
+    "Spike",
+    "Yonge St.",
+    "Million Reasons",
+    "우리가 헤어질 100가지 이유 (with JINJOO of DNCE)",
+    "Drivin’ Into Hell",
+    "Whatever",
+    "Goodbye, Love",
+    "집으로 향한다",
+    "안개꽃",
+    "작업실에서 커피를"
+   ],
+   "links": [
+    "https://x.com/day6official",
+    "https://www.instagram.com/DAY6kilogram",
+    "https://www.youtube.com/@DAY6Official",
+    "https://www.youtube.com/@JYPEntertainment"
+   ]
   },
   {
    "artist": "ONEWE",
@@ -392,38 +430,6 @@
     "https://www.tiktok.com/@nouera_official"
    ],
    "mv": "https://www.youtube.com/watch?v=miFkck0PGg4"
-  },
-  {
-   "artist": "Young K (DAY6)",
-   "type": "2nd Full Album",
-   "title": "YOUNGEST",
-   "titleTrack": "Shut The Door",
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-DAY6-Young-K-YOUNGEST-Album-Teaser.webp",
-   "url": "https://kpopofficial.com/album/young-k-youngest/",
-   "tracklist": [
-    "Marionette",
-    "Shut The Door – (Title)",
-    "F World",
-    "Hey Honey",
-    "응원가",
-    "Spike",
-    "Yonge St.",
-    "Million Reasons",
-    "우리가 헤어질 100가지 이유 (with JINJOO of DNCE)",
-    "Drivin’ Into Hell",
-    "Whatever",
-    "Goodbye, Love",
-    "집으로 향한다",
-    "안개꽃",
-    "작업실에서 커피를"
-   ],
-   "links": [
-    "https://x.com/day6official",
-    "https://www.instagram.com/DAY6kilogram",
-    "https://www.youtube.com/@DAY6Official",
-    "https://www.youtube.com/@JYPEntertainment"
-   ]
   },
   {
    "artist": "POW",
@@ -470,6 +476,23 @@
    ]
   },
   {
+   "artist": "P1Harmony",
+   "type": "Mini Album",
+   "title": "UNIQUE Japan Edition",
+   "titleTrack": null,
+   "date": "2026-07-29T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-P1Harmony-UNIQUE-Japan-Edition.webp",
+   "url": "https://kpopofficial.com/album/p1harmony-unique-japan-edition/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/P1H_official",
+    "https://x.com/P1H_official_jp",
+    "https://www.instagram.com/p1h_official",
+    "https://www.youtube.com/@P1Harmonyofficial",
+    "https://www.tiktok.com/@p1harmony"
+   ]
+  },
+  {
    "artist": "THE WIND",
    "type": "4th Mini Album",
    "title": "Second Wind : S# 00",
@@ -510,20 +533,19 @@
    ]
   },
   {
-   "artist": "P1Harmony",
-   "type": "Mini Album",
-   "title": "UNIQUE Japan Edition",
+   "artist": "EMOTI:M",
+   "type": "1st Single Album",
+   "title": "CONNECT",
    "titleTrack": null,
-   "date": "2026-07-29T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-P1Harmony-UNIQUE-Japan-Edition.webp",
-   "url": "https://kpopofficial.com/album/p1harmony-unique-japan-edition/",
+   "date": "2026-07-31T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/EMOTIM-Members.webp",
+   "url": "https://kpopofficial.com/album/emotim-connect/",
    "tracklist": [],
    "links": [
-    "https://x.com/P1H_official",
-    "https://x.com/P1H_official_jp",
-    "https://www.instagram.com/p1h_official",
-    "https://www.youtube.com/@P1Harmonyofficial",
-    "https://www.tiktok.com/@p1harmony"
+    "https://x.com/EMOTIM_OFFICIAL",
+    "https://www.instagram.com/emotim_official",
+    "https://www.youtube.com/@emotim5official",
+    "https://www.tiktok.com/@emotim_official"
    ]
   },
   {
@@ -543,22 +565,6 @@
     "https://www.tiktok.com/@unis_offcl"
    ],
    "mv": "https://www.youtube.com/watch?v=sqYNGZJWNcw"
-  },
-  {
-   "artist": "EMOTI:M",
-   "type": "1st Single Album",
-   "title": "CONNECT",
-   "titleTrack": null,
-   "date": "2026-07-31T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/EMOTIM-Members.webp",
-   "url": "https://kpopofficial.com/album/emotim-connect/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/EMOTIM_OFFICIAL",
-    "https://www.instagram.com/emotim_official",
-    "https://www.youtube.com/@emotim5official",
-    "https://www.tiktok.com/@emotim_official"
-   ]
   },
   {
    "artist": "Red Velvet",
@@ -639,6 +645,28 @@
    "mv": "https://www.youtube.com/watch?v=fFsiruVvgGg"
   },
   {
+   "artist": "WHIB",
+   "type": "2nd Mini Album",
+   "title": "CHERRY PIE",
+   "titleTrack": "CHERRY PIE",
+   "date": "2026-08-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-Cherry-Pie-Comeback.webp",
+   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
+   "tracklist": [
+    "PAGES OF US",
+    "CHERRY PIE – (title)",
+    "MOTTO",
+    "CAN’T STOP=NOT FOUND",
+    "MAKE IT"
+   ],
+   "links": [
+    "https://x.com/whib_official",
+    "https://www.instagram.com/whib_official",
+    "https://www.youtube.com/@WHIB_OFFICIAL",
+    "https://www.tiktok.com/@whib_official"
+   ]
+  },
+  {
    "artist": "AEN",
    "type": "1st EP",
    "title": "A NEW ERA OF NOW",
@@ -664,28 +692,6 @@
     "https://www.youtube.com/@AEN_offcl",
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@aen_offcl"
-   ]
-  },
-  {
-   "artist": "WHIB",
-   "type": "2nd Mini Album",
-   "title": "CHERRY PIE",
-   "titleTrack": "CHERRY PIE",
-   "date": "2026-08-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-Cherry-Pie-Comeback.webp",
-   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
-   "tracklist": [
-    "PAGES OF US",
-    "CHERRY PIE – (title)",
-    "MOTTO",
-    "CAN’T STOP=NOT FOUND",
-    "MAKE IT"
-   ],
-   "links": [
-    "https://x.com/whib_official",
-    "https://www.instagram.com/whib_official",
-    "https://www.youtube.com/@WHIB_OFFICIAL",
-    "https://www.tiktok.com/@whib_official"
    ]
   },
   {
