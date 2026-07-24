@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-23T19:45:31+00:00",
+ "generated": "2026-07-24T03:43:33+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -17,24 +17,6 @@
     "https://www.youtube.com/@sunmi_official"
    ],
    "mv": "https://www.youtube.com/watch?v=M6EyUZ3ANuM"
-  },
-  {
-   "artist": "Picheolin (SEVENTEEN DINO)",
-   "type": "1st Mini Album",
-   "title": "吉BOARD",
-   "titleTrack": null,
-   "date": "2026-07-15T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Picheolin-Love-Sick-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/picheolin-love-sick/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/pledis_17",
-    "https://www.instagram.com/saythename_17/",
-    "https://www.youtube.com/@pledis17",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@seventeen17_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Zt_37l7NiJw"
   },
   {
    "artist": "BBGIRLS",
@@ -168,10 +150,10 @@
    "artist": "Picheolin (SEVENTEEN DINO)",
    "type": "1st Mini Album",
    "title": "吉BOARD",
-   "titleTrack": null,
+   "titleTrack": "Mi-cheo Mi-cheo",
    "date": "2026-07-22T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-SEVENTEEN-DINO-PiCheolin-1st-Mini-Album-BOARD.webp",
-   "url": "https://kpopofficial.com/album/picheolin-pre-release-single-2/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Picheolin-Mi-cheo-Mi-cheo-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/picheolin-mi-cheo-mi-cheo/",
    "tracklist": [],
    "links": [
     "https://x.com/pledis_17",
@@ -183,37 +165,12 @@
    "mv": "https://www.youtube.com/watch?v=uh_DpK2xFiE"
   },
   {
-   "artist": "HYOLYN",
-   "type": "4th Mini Album",
-   "title": "OriginaLyn",
-   "titleTrack": "Check",
-   "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-HYOLYN-OriginaLyn-teaser.webp",
-   "url": "https://kpopofficial.com/album/hyolyn-originalyn/",
-   "tracklist": [
-    "Check – (Title)",
-    "Offline",
-    "Shotty",
-    "Bon appétit",
-    "What U Like",
-    "You and I",
-    "Standing on the Edge"
-   ],
-   "links": [
-    "https://x.com/officialhyolyn_",
-    "https://www.instagram.com/xhyolynx/",
-    "https://www.youtube.com/@OfficialHyolyn",
-    "https://www.tiktok.com/@_hyolyn_"
-   ],
-   "mv": "https://www.youtube.com/watch?v=QJa8TKXNavc"
-  },
-  {
    "artist": "LUN8",
    "type": "4th Mini Album",
    "title": "Off the Grid",
    "titleTrack": "SNEAKERS",
    "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-LUN8-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/LUN8-Off-the-Grid-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/lun8-off-the-grid/",
    "tracklist": [
     "SNEAKERS – (Title)",
@@ -236,7 +193,7 @@
    "title": "HUNGRY (Side A)",
    "titleTrack": null,
    "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-OURBIRTHDAY-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/OURBIRTHDAY-HUNGRY-Side-A-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/ourbirthday-hungry-side-a/",
    "tracklist": [],
    "links": [
@@ -254,7 +211,7 @@
    "title": "OriginaLyn",
    "titleTrack": "Check",
    "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-HYOLYN-OriginaLyn-teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/HYOLYN-OriginaLyn-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/hyolyn-originalyn/",
    "tracklist": [
     "Check – (Title)",
@@ -279,7 +236,28 @@
    "title": "WET",
    "titleTrack": "WET",
    "date": "2026-07-23T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-jy-park-wet.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/JY-Park-WET-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/jy-park-wet/",
+   "tracklist": [
+    "WET – (Title)",
+    "WET (Inst.)"
+   ],
+   "links": [
+    "https://x.com/followjyp",
+    "https://www.instagram.com/asiansoul_jyp/",
+    "https://www.youtube.com/@JYPark",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@jypark_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=dMf6YlGsv0U"
+  },
+  {
+   "artist": "J.Y. Park",
+   "type": "Single Album",
+   "title": "WET",
+   "titleTrack": "WET",
+   "date": "2026-07-23T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/JY-Park-WET-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/jy-park-wet/",
    "tracklist": [
     "WET – (Title)",
@@ -327,7 +305,7 @@
    "titleTrack": "Blue Blood",
    "date": "2026-07-24T13:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ARTMS-Members-for-Hyper-Ego-Album.webp",
-   "url": "https://kpopofficial.com/album/artms-pre-release/",
+   "url": "https://kpopofficial.com/album/artms-born-stunner/",
    "tracklist": [],
    "links": [
     "https://x.com/official_artms",
@@ -390,6 +368,28 @@
    "mv": "https://www.youtube.com/watch?v=BNOwZyEYBNU"
   },
   {
+   "artist": "NouerA",
+   "type": "4th Mini Album",
+   "title": ".exe",
+   "titleTrack": ".exe",
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-exe-teaser.webp",
+   "url": "https://kpopofficial.com/album/nouera-exe/",
+   "tracklist": [
+    ".exe",
+    "LOCKED IN",
+    "W.T.F(un)",
+    "LIFE IN COLOR"
+   ],
+   "links": [
+    "https://x.com/nouera_official",
+    "https://www.instagram.com/nouera_official/",
+    "https://www.youtube.com/@nouera_official",
+    "https://www.tiktok.com/@nouera_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=miFkck0PGg4"
+  },
+  {
    "artist": "Young K (DAY6)",
    "type": "2nd Full Album",
    "title": "YOUNGEST",
@@ -420,28 +420,6 @@
     "https://www.youtube.com/@DAY6Official",
     "https://www.youtube.com/@JYPEntertainment"
    ]
-  },
-  {
-   "artist": "NouerA",
-   "type": "4th Mini Album",
-   "title": ".exe",
-   "titleTrack": ".exe",
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-Members.webp",
-   "url": "https://kpopofficial.com/album/nouera-exe/",
-   "tracklist": [
-    ".exe",
-    "LOCKED IN",
-    "W.T.F(un)",
-    "LIFE IN COLOR"
-   ],
-   "links": [
-    "https://x.com/nouera_official",
-    "https://www.instagram.com/nouera_official/",
-    "https://www.youtube.com/@nouera_official",
-    "https://www.tiktok.com/@nouera_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=miFkck0PGg4"
   },
   {
    "artist": "ONEWE",
@@ -505,6 +483,24 @@
    ]
   },
   {
+   "artist": "ATEEZ (JP)",
+   "type": "5th Single",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-07-29T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-ATEEZ-Members-for-Japan-5th-Single.webp",
+   "url": "https://kpopofficial.com/album/ateez-japan-5th-single/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ATEEZofficial",
+    "https://x.com/ATEEZofficialjp",
+    "https://www.instagram.com/ateez_official_/",
+    "https://www.youtube.com/@ATEEZofficial",
+    "https://www.youtube.com/@KQENT",
+    "https://www.tiktok.com/@ateez_official_"
+   ]
+  },
+  {
    "artist": "P1Harmony",
    "type": "Mini Album",
    "title": "UNIQUE Japan Edition",
@@ -544,40 +540,6 @@
    ]
   },
   {
-   "artist": "ATEEZ (JP)",
-   "type": "5th Single",
-   "title": null,
-   "titleTrack": null,
-   "date": "2026-07-29T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-ATEEZ-Members-for-Japan-5th-Single.webp",
-   "url": "https://kpopofficial.com/album/ateez-japan-5th-single/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ATEEZofficial",
-    "https://x.com/ATEEZofficialjp",
-    "https://www.instagram.com/ateez_official_/",
-    "https://www.youtube.com/@ATEEZofficial",
-    "https://www.youtube.com/@KQENT",
-    "https://www.tiktok.com/@ateez_official_"
-   ]
-  },
-  {
-   "artist": "EMOTI:M",
-   "type": "1st Single Album",
-   "title": "CONNECT",
-   "titleTrack": null,
-   "date": "2026-07-31T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/EMOTIM-Members.webp",
-   "url": "https://kpopofficial.com/album/emotim-connect/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/EMOTIM_OFFICIAL",
-    "https://www.instagram.com/emotim_official",
-    "https://www.youtube.com/@emotim5official",
-    "https://www.tiktok.com/@emotim_official"
-   ]
-  },
-  {
    "artist": "UNIS (JP)",
    "type": "Japan 1st Mini Album",
    "title": "UNI☆Sparkle!",
@@ -596,20 +558,19 @@
    "mv": "https://www.youtube.com/watch?v=sqYNGZJWNcw"
   },
   {
-   "artist": "Red Velvet",
-   "type": "Summer Mini Album",
-   "title": "Velvet Summer",
+   "artist": "EMOTI:M",
+   "type": "1st Single Album",
+   "title": "CONNECT",
    "titleTrack": null,
-   "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Red-Velvet-Members-for-Velvet-Summer.webp",
-   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
+   "date": "2026-07-31T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/EMOTIM-Members.webp",
+   "url": "https://kpopofficial.com/album/emotim-connect/",
    "tracklist": [],
    "links": [
-    "https://x.com/RVsmtown",
-    "https://www.instagram.com/redvelvet.smtown/",
-    "https://www.youtube.com/@redvelvet",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@redvelvet_smtown"
+    "https://x.com/EMOTIM_OFFICIAL",
+    "https://www.instagram.com/emotim_official",
+    "https://www.youtube.com/@emotim5official",
+    "https://www.tiktok.com/@emotim_official"
    ]
   },
   {
@@ -637,6 +598,23 @@
     "https://www.tiktok.com/@seventeen17_official"
    ],
    "mv": "https://www.youtube.com/watch?v=uh_DpK2xFiE"
+  },
+  {
+   "artist": "Red Velvet",
+   "type": "Summer Mini Album",
+   "title": "Velvet Summer",
+   "titleTrack": null,
+   "date": "2026-08-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Red-Velvet-Members-for-Velvet-Summer.webp",
+   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/RVsmtown",
+    "https://www.instagram.com/redvelvet.smtown/",
+    "https://www.youtube.com/@redvelvet",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@redvelvet_smtown"
+   ]
   },
   {
    "artist": "TWS (JP)",
@@ -672,6 +650,28 @@
     "https://www.tiktok.com/@kissoflife_official"
    ],
    "mv": "https://www.youtube.com/watch?v=fFsiruVvgGg"
+  },
+  {
+   "artist": "WHIB",
+   "type": "2nd Mini Album",
+   "title": "CHERRY PIE",
+   "titleTrack": "CHERRY PIE",
+   "date": "2026-08-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-Cherry-Pie-Comeback.webp",
+   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
+   "tracklist": [
+    "PAGES OF US",
+    "CHERRY PIE – (title)",
+    "MOTTO",
+    "CAN’T STOP=NOT FOUND",
+    "MAKE IT"
+   ],
+   "links": [
+    "https://x.com/whib_official",
+    "https://www.instagram.com/whib_official",
+    "https://www.youtube.com/@WHIB_OFFICIAL",
+    "https://www.tiktok.com/@whib_official"
+   ]
   },
   {
    "artist": "AEN",
@@ -788,6 +788,21 @@
    ]
   },
   {
+   "artist": "JEONG EUNJI (Apink)",
+   "type": "5th Mini Album",
+   "title": "Summer, I",
+   "titleTrack": null,
+   "date": "2026-08-11T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-Apink-Jeong-Eunji.webp",
+   "url": "https://kpopofficial.com/album/jeong-eunji-summer-i/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/JeongEunJi_X",
+    "https://www.instagram.com/artist_eunji/",
+    "https://www.youtube.com/@eunji3116"
+   ]
+  },
+  {
    "artist": "Hearts2Hearts (JP)",
    "type": "1st Japan Single",
    "title": "ICONIC HEART",
@@ -846,6 +861,23 @@
     "https://www.instagram.com/zb1official/",
     "https://www.youtube.com/@ZB1_official",
     "https://www.tiktok.com/@zb1_official"
+   ]
+  },
+  {
+   "artist": "MASHIRO (MADEIN)",
+   "type": "1st EP",
+   "title": "24/11",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-MADEIN-MASHIRO.webp",
+   "url": "https://kpopofficial.com/album/mashiro-24-11/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MADEIN_U",
+    "https://www.instagram.com/we.madein.u",
+    "https://www.instagram.com/shir0._.chann/",
+    "https://www.youtube.com/@MADEIN_U",
+    "https://www.tiktok.com/@MADEIN_u"
    ]
   },
   {
