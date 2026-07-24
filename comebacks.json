@@ -1,57 +1,7 @@
 {
- "generated": "2026-07-24T03:43:33+00:00",
+ "generated": "2026-07-24T08:42:19+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "SUNMI",
-   "type": "Digital Single",
-   "title": "Forever July",
-   "titleTrack": "Forever July",
-   "date": "2026-07-15T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/SUNMI-Forever-July-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/sunmi-forever-july/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_sunmi_",
-    "https://www.instagram.com/miyayeah/",
-    "https://www.youtube.com/@sunmi_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=M6EyUZ3ANuM"
-  },
-  {
-   "artist": "BBGIRLS",
-   "type": "3rd Single Album",
-   "title": "BODY WAVE",
-   "titleTrack": null,
-   "date": "2026-07-16T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/BBGIRLS-BODY-WAVE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/bbgirls-body-wave/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/weare_bbgirls",
-    "https://www.instagram.com/weare_bbgirls/",
-    "https://www.youtube.com/@weare_bbgirls",
-    "https://www.tiktok.com/@weare_bbgirls"
-   ],
-   "mv": "https://www.youtube.com/watch?v=ZWzO50OCbqs"
-  },
-  {
-   "artist": "ASC2NT",
-   "type": "2nd Digital Single",
-   "title": "Green light, Yellow light, Red light",
-   "titleTrack": "Green light, Yellow light, Red light",
-   "date": "2026-07-16T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ASC2NT-Green-light-Yellow-light-Red-light-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/asc2nt-green-light-yellow-light-red-light/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ASC2NT_OFFICIAL",
-    "https://www.instagram.com/asc2nt_official/",
-    "https://www.youtube.com/@asc2nt_official",
-    "https://www.tiktok.com/@asc2nt_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=QRO3GeLK9go"
-  },
   {
    "artist": "U-KNOW (TVXQ YUNHO)",
    "type": "1st Single",
@@ -252,27 +202,6 @@
    "mv": "https://www.youtube.com/watch?v=dMf6YlGsv0U"
   },
   {
-   "artist": "J.Y. Park",
-   "type": "Single Album",
-   "title": "WET",
-   "titleTrack": "WET",
-   "date": "2026-07-23T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/JY-Park-WET-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/jy-park-wet/",
-   "tracklist": [
-    "WET – (Title)",
-    "WET (Inst.)"
-   ],
-   "links": [
-    "https://x.com/followjyp",
-    "https://www.instagram.com/asiansoul_jyp/",
-    "https://www.youtube.com/@JYPark",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@jypark_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=dMf6YlGsv0U"
-  },
-  {
    "artist": "aespa (JP)",
    "type": "1st Japan Mini Album",
    "title": "KISS N TELL",
@@ -297,6 +226,66 @@
     "https://www.tiktok.com/@aespa_official"
    ],
    "mv": "https://www.youtube.com/watch?v=inxzQt78lOk"
+  },
+  {
+   "artist": "ARTMS",
+   "type": "2nd Mini Album",
+   "title": "Hyper-Ego",
+   "titleTrack": "Blue Blood",
+   "date": "2026-07-24T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-ARTMS-Members-for-Hyper-Ego-Album.webp",
+   "url": "https://kpopofficial.com/album/artms-born-stunner/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_artms",
+    "https://www.instagram.com/official_artms",
+    "https://www.youtube.com/@official_artms",
+    "https://www.tiktok.com/@official_artms"
+   ],
+   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
+  },
+  {
+   "artist": "aespa (JP)",
+   "type": "1st Japan Mini Album",
+   "title": "KISS N TELL",
+   "titleTrack": "KISS N TELL",
+   "date": "2026-07-24T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/aespa-KISS-N-TELL-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/aespa-kiss-n-tell/",
+   "tracklist": [
+    "KISS N TELL",
+    "Orbit Pop",
+    "Fangirl",
+    "ATTITUDE",
+    "Done with Rules",
+    "In Halo"
+   ],
+   "links": [
+    "https://x.com/aespa_official",
+    "https://x.com/aespaJPofficial",
+    "https://www.instagram.com/aespa_official",
+    "https://www.youtube.com/@aespa",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@aespa_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=inxzQt78lOk"
+  },
+  {
+   "artist": "JENNIE (BLACKPINK)",
+   "type": "Single",
+   "title": "Less than a Lover",
+   "titleTrack": "Less than a Lover",
+   "date": "2026-07-24T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-JENNIE-Less-than-a-Lover.webp",
+   "url": "https://kpopofficial.com/album/jennie-less-than-a-lover/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/jennierubyjane",
+    "https://www.instagram.com/jennierubyjane",
+    "https://www.youtube.com/@jennierubyjane",
+    "https://www.tiktok.com/@jennierubyjane"
+   ],
+   "mv": "https://www.youtube.com/watch?v=PX6h9Sx5kGw"
   },
   {
    "artist": "ARTMS",
@@ -769,7 +758,7 @@
    "title": "WhyKiiiKiii",
    "titleTrack": null,
    "date": "2026-08-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KiiiKiii-members-for-WhyKiiiKiii-Album.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/KiiiKiii-concerts.webp",
    "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
    "tracklist": [
     "Ever2Late!",
@@ -864,23 +853,6 @@
    ]
   },
   {
-   "artist": "MASHIRO (MADEIN)",
-   "type": "1st EP",
-   "title": "24/11",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-MADEIN-MASHIRO.webp",
-   "url": "https://kpopofficial.com/album/mashiro-24-11/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/MADEIN_U",
-    "https://www.instagram.com/we.madein.u",
-    "https://www.instagram.com/shir0._.chann/",
-    "https://www.youtube.com/@MADEIN_U",
-    "https://www.tiktok.com/@MADEIN_u"
-   ]
-  },
-  {
    "artist": "ONEWE",
    "type": "3rd Full Album",
    "title": "面 : Unknown Atlas",
@@ -896,6 +868,23 @@
     "https://www.tiktok.com/@rbw_onewe"
    ],
    "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+  },
+  {
+   "artist": "MASHIRO (MADEIN)",
+   "type": "1st EP",
+   "title": "24/11",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-MADEIN-MASHIRO.webp",
+   "url": "https://kpopofficial.com/album/mashiro-24-11/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MADEIN_U",
+    "https://www.instagram.com/we.madein.u",
+    "https://www.instagram.com/shir0._.chann/",
+    "https://www.youtube.com/@MADEIN_U",
+    "https://www.tiktok.com/@MADEIN_u"
+   ]
   },
   {
    "artist": "Tiffany Young",
@@ -960,6 +949,23 @@
     "https://www.youtube.com/@NCTsmtown",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@official_nct"
+   ]
+  },
+  {
+   "artist": "TAEMIN (SHINee)",
+   "type": "Album",
+   "title": "PHASE 1 : Soft Violence",
+   "titleTrack": null,
+   "date": "2026-08-31T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-TAEMIN-photo.webp",
+   "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/Taemin_Xoalsox_",
+    "https://www.instagram.com/xoalsox/",
+    "https://www.instagram.com/taemin_xoalsox/",
+    "https://www.youtube.com/@taemin_xoalsox",
+    "https://www.tiktok.com/@taemin_xoalsox_"
    ]
   },
   {

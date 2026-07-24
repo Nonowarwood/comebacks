@@ -448,7 +448,7 @@
    "title": "KISS N TELL",
    "titleTrack": "KISS N TELL",
    "date": "2026-07-24T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-aespa-members-for-1st-Japan-Mini-Album-KISS-N-TELL.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/aespa-KISS-N-TELL-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/aespa-kiss-n-tell/",
    "tracklist": [
     "KISS N TELL",
@@ -467,6 +467,23 @@
     "https://www.tiktok.com/@aespa_official"
    ],
    "mv": "https://www.youtube.com/watch?v=inxzQt78lOk"
+  },
+  {
+   "artist": "ARTMS",
+   "type": "2nd Mini Album",
+   "title": "Hyper-Ego",
+   "titleTrack": "Blue Blood",
+   "date": "2026-07-24T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-ARTMS-Members-for-Hyper-Ego-Album.webp",
+   "url": "https://kpopofficial.com/album/artms-born-stunner/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_artms",
+    "https://www.instagram.com/official_artms",
+    "https://www.youtube.com/@official_artms",
+    "https://www.tiktok.com/@official_artms"
+   ],
+   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
   },
   {
    "artist": "JENNIE (BLACKPINK)",
@@ -939,7 +956,7 @@
    "title": "WhyKiiiKiii",
    "titleTrack": null,
    "date": "2026-08-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KiiiKiii-members-for-WhyKiiiKiii-Album.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/KiiiKiii-concerts.webp",
    "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
    "tracklist": [
     "Ever2Late!",
@@ -1130,6 +1147,23 @@
     "https://www.youtube.com/@NCTsmtown",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@official_nct"
+   ]
+  },
+  {
+   "artist": "TAEMIN (SHINee)",
+   "type": "Album",
+   "title": "PHASE 1 : Soft Violence",
+   "titleTrack": null,
+   "date": "2026-08-31T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-TAEMIN-photo.webp",
+   "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/Taemin_Xoalsox_",
+    "https://www.instagram.com/xoalsox/",
+    "https://www.instagram.com/taemin_xoalsox/",
+    "https://www.youtube.com/@taemin_xoalsox",
+    "https://www.tiktok.com/@taemin_xoalsox_"
    ]
   },
   {
