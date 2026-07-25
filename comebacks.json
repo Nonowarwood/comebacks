@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-24T19:46:34+00:00",
+ "generated": "2026-07-25T03:36:05+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -288,23 +288,6 @@
    "mv": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
   },
   {
-   "artist": "ARTMS",
-   "type": "2nd Mini Album",
-   "title": "Hyper-Ego",
-   "titleTrack": "Blue Blood",
-   "date": "2026-07-24T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ARTMS-Members-for-Hyper-Ego-Album.webp",
-   "url": "https://kpopofficial.com/album/artms-born-stunner/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_artms",
-    "https://www.instagram.com/official_artms",
-    "https://www.youtube.com/@official_artms",
-    "https://www.tiktok.com/@official_artms"
-   ],
-   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
-  },
-  {
    "artist": "JENNIE (BLACKPINK)",
    "type": "Single",
    "title": "Less than a Lover",
@@ -320,6 +303,23 @@
     "https://www.tiktok.com/@jennierubyjane"
    ],
    "mv": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
+  },
+  {
+   "artist": "ARTMS",
+   "type": "2nd Mini Album",
+   "title": "Hyper-Ego",
+   "titleTrack": "Blue Blood",
+   "date": "2026-07-24T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ARTMS-Members-for-Hyper-Ego-Album.webp",
+   "url": "https://kpopofficial.com/album/artms-born-stunner/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_artms",
+    "https://www.instagram.com/official_artms",
+    "https://www.youtube.com/@official_artms",
+    "https://www.tiktok.com/@official_artms"
+   ],
+   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
   },
   {
    "artist": "ALICE SYNDROME",
@@ -355,6 +355,23 @@
     "https://www.tiktok.com/@illit_official"
    ],
    "mv": "https://www.youtube.com/watch?v=BNOwZyEYBNU"
+  },
+  {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": null,
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-the-wake/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
   },
   {
    "artist": "NouerA",
@@ -411,21 +428,21 @@
    ]
   },
   {
-   "artist": "ONEWE",
-   "type": "3rd Full Album",
-   "title": "面 : Unknown Atlas",
-   "titleTrack": null,
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
-   "url": "https://kpopofficial.com/album/onewe-the-wake/",
+   "artist": "POW",
+   "type": "Single Album",
+   "title": "FLAVOR",
+   "titleTrack": "FLAVOR",
+   "date": "2026-07-28T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-POW-Members.webp",
+   "url": "https://kpopofficial.com/album/pow-flavor/",
    "tracklist": [],
    "links": [
-    "https://x.com/official_ONEWE",
-    "https://www.instagram.com/official_onewe",
-    "https://www.youtube.com/@ONEWE",
-    "https://www.tiktok.com/@rbw_onewe"
-   ],
-   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+    "https://x.com/POW_grid",
+    "https://www.instagram.com/pow_grid/",
+    "https://www.youtube.com/@POW_Official",
+    "https://www.youtube.com/@GRIDEntertainment",
+    "https://www.tiktok.com/@pow_grid"
+   ]
   },
   {
    "artist": "KARD",
@@ -455,20 +472,25 @@
    ]
   },
   {
-   "artist": "POW",
-   "type": "Single Album",
-   "title": "FLAVOR",
-   "titleTrack": "FLAVOR",
-   "date": "2026-07-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-POW-Members.webp",
-   "url": "https://kpopofficial.com/album/pow-flavor/",
-   "tracklist": [],
+   "artist": "THE WIND",
+   "type": "4th Mini Album",
+   "title": "Second Wind : S# 00",
+   "titleTrack": null,
+   "date": "2026-07-29T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/the-wind-second-wind-s-00-teaser.webp",
+   "url": "https://kpopofficial.com/album/the-wind-second-wind-s-00/",
+   "tracklist": [
+    "With the Wind",
+    "Party Like A Rock Star",
+    "That’s Smoove!",
+    "Shiver",
+    "Back and Forth"
+   ],
    "links": [
-    "https://x.com/POW_grid",
-    "https://www.instagram.com/pow_grid/",
-    "https://www.youtube.com/@POW_Official",
-    "https://www.youtube.com/@GRIDEntertainment",
-    "https://www.tiktok.com/@pow_grid"
+    "https://x.com/officialTheWind",
+    "https://www.instagram.com/thewind.official/",
+    "https://www.youtube.com/@TheWind_official",
+    "https://www.tiktok.com/@official_thewind"
    ]
   },
   {
@@ -507,28 +529,6 @@
    ]
   },
   {
-   "artist": "THE WIND",
-   "type": "4th Mini Album",
-   "title": "Second Wind : S# 00",
-   "titleTrack": null,
-   "date": "2026-07-29T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/the-wind-second-wind-s-00-teaser.webp",
-   "url": "https://kpopofficial.com/album/the-wind-second-wind-s-00/",
-   "tracklist": [
-    "With the Wind",
-    "Party Like A Rock Star",
-    "That’s Smoove!",
-    "Shiver",
-    "Back and Forth"
-   ],
-   "links": [
-    "https://x.com/officialTheWind",
-    "https://www.instagram.com/thewind.official/",
-    "https://www.youtube.com/@TheWind_official",
-    "https://www.tiktok.com/@official_thewind"
-   ]
-  },
-  {
    "artist": "UNIS (JP)",
    "type": "Japan 1st Mini Album",
    "title": "UNI☆Sparkle!",
@@ -563,6 +563,23 @@
    ]
   },
   {
+   "artist": "Red Velvet",
+   "type": "Summer Mini Album",
+   "title": "Velvet Summer",
+   "titleTrack": null,
+   "date": "2026-08-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Red-Velvet-Members-for-Velvet-Summer.webp",
+   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/RVsmtown",
+    "https://www.instagram.com/redvelvet.smtown/",
+    "https://www.youtube.com/@redvelvet",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@redvelvet_smtown"
+   ]
+  },
+  {
    "artist": "Picheolin (SEVENTEEN DINO)",
    "type": "1st Mini Album",
    "title": "吉BOARD",
@@ -587,23 +604,6 @@
     "https://www.tiktok.com/@seventeen17_official"
    ],
    "mv": "https://www.youtube.com/watch?v=uh_DpK2xFiE"
-  },
-  {
-   "artist": "Red Velvet",
-   "type": "Summer Mini Album",
-   "title": "Velvet Summer",
-   "titleTrack": null,
-   "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Red-Velvet-Members-for-Velvet-Summer.webp",
-   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/RVsmtown",
-    "https://www.instagram.com/redvelvet.smtown/",
-    "https://www.youtube.com/@redvelvet",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@redvelvet_smtown"
-   ]
   },
   {
    "artist": "TWS (JP)",
@@ -641,28 +641,6 @@
    "mv": "https://www.youtube.com/watch?v=fFsiruVvgGg"
   },
   {
-   "artist": "WHIB",
-   "type": "2nd Mini Album",
-   "title": "CHERRY PIE",
-   "titleTrack": "CHERRY PIE",
-   "date": "2026-08-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-Cherry-Pie-Comeback.webp",
-   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
-   "tracklist": [
-    "PAGES OF US",
-    "CHERRY PIE – (title)",
-    "MOTTO",
-    "CAN’T STOP=NOT FOUND",
-    "MAKE IT"
-   ],
-   "links": [
-    "https://x.com/whib_official",
-    "https://www.instagram.com/whib_official",
-    "https://www.youtube.com/@WHIB_OFFICIAL",
-    "https://www.tiktok.com/@whib_official"
-   ]
-  },
-  {
    "artist": "AEN",
    "type": "1st EP",
    "title": "A NEW ERA OF NOW",
@@ -688,6 +666,28 @@
     "https://www.youtube.com/@AEN_offcl",
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@aen_offcl"
+   ]
+  },
+  {
+   "artist": "WHIB",
+   "type": "2nd Mini Album",
+   "title": "CHERRY PIE",
+   "titleTrack": "CHERRY PIE",
+   "date": "2026-08-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-Cherry-Pie-Comeback.webp",
+   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
+   "tracklist": [
+    "PAGES OF US",
+    "CHERRY PIE – (title)",
+    "MOTTO",
+    "CAN’T STOP=NOT FOUND",
+    "MAKE IT"
+   ],
+   "links": [
+    "https://x.com/whib_official",
+    "https://www.instagram.com/whib_official",
+    "https://www.youtube.com/@WHIB_OFFICIAL",
+    "https://www.tiktok.com/@whib_official"
    ]
   },
   {
@@ -853,23 +853,6 @@
    ]
   },
   {
-   "artist": "MASHIRO (MADEIN)",
-   "type": "1st EP",
-   "title": "24/11",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-MADEIN-MASHIRO.webp",
-   "url": "https://kpopofficial.com/album/mashiro-24-11/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/MADEIN_U",
-    "https://www.instagram.com/we.madein.u",
-    "https://www.instagram.com/shir0._.chann/",
-    "https://www.youtube.com/@MADEIN_U",
-    "https://www.tiktok.com/@MADEIN_u"
-   ]
-  },
-  {
    "artist": "ONEWE",
    "type": "3rd Full Album",
    "title": "面 : Unknown Atlas",
@@ -885,6 +868,23 @@
     "https://www.tiktok.com/@rbw_onewe"
    ],
    "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+  },
+  {
+   "artist": "MASHIRO (MADEIN)",
+   "type": "1st EP",
+   "title": "24/11",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-MADEIN-MASHIRO.webp",
+   "url": "https://kpopofficial.com/album/mashiro-24-11/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MADEIN_U",
+    "https://www.instagram.com/we.madein.u",
+    "https://www.instagram.com/shir0._.chann/",
+    "https://www.youtube.com/@MADEIN_U",
+    "https://www.tiktok.com/@MADEIN_u"
+   ]
   },
   {
    "artist": "Tiffany Young",
