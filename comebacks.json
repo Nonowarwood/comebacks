@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-26T13:55:21+00:00",
+ "generated": "2026-07-26T19:33:47+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -609,23 +609,6 @@
    ]
   },
   {
-   "artist": "ARTMS",
-   "type": "2nd Mini Album",
-   "title": "Hyper-Ego",
-   "titleTrack": "Blue Blood",
-   "date": "2026-08-07T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ARTMS-Members-Group-Photo.webp",
-   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_artms",
-    "https://www.instagram.com/official_artms",
-    "https://www.youtube.com/@official_artms",
-    "https://www.tiktok.com/@official_artms"
-   ],
-   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
-  },
-  {
    "artist": "Stray Kids",
    "type": "Mini Album",
    "title": "THIS & THAT",
@@ -651,6 +634,23 @@
     "https://www.tiktok.com/@jypestraykids"
    ],
    "mv": "https://www.youtube.com/watch?v=Q7IFjVUUb_E"
+  },
+  {
+   "artist": "ARTMS",
+   "type": "2nd Mini Album",
+   "title": "Hyper-Ego",
+   "titleTrack": "Blue Blood",
+   "date": "2026-08-07T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ARTMS-Members-Group-Photo.webp",
+   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_artms",
+    "https://www.instagram.com/official_artms",
+    "https://www.youtube.com/@official_artms",
+    "https://www.tiktok.com/@official_artms"
+   ],
+   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
   },
   {
    "artist": "WayV",
@@ -737,7 +737,7 @@
    "title": "Setsuna Hanabi",
    "titleTrack": null,
    "date": "2026-08-17T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TOMORROW-X-TOGETHER-members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/TOMORROW-X-TOGETHER-members.webp",
    "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
    "tracklist": [],
    "links": [
