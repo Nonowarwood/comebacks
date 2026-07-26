@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-25T19:34:29+00:00",
+ "generated": "2026-07-26T03:54:57+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -262,7 +262,7 @@
    "title": "DEEP DIVE",
    "titleTrack": null,
    "date": "2026-07-25T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ALICE-SYNDROME-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-ALICE-SYNDROME-Members.webp",
    "url": "https://kpopofficial.com/album/alice-syndrome-deep-dive/",
    "tracklist": [],
    "links": [
@@ -290,28 +290,6 @@
     "https://www.tiktok.com/@illit_official"
    ],
    "mv": "https://www.youtube.com/watch?v=BNOwZyEYBNU"
-  },
-  {
-   "artist": "NouerA",
-   "type": "4th Mini Album",
-   "title": ".exe",
-   "titleTrack": ".exe",
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-exe-teaser.webp",
-   "url": "https://kpopofficial.com/album/nouera-exe/",
-   "tracklist": [
-    ".exe",
-    "LOCKED IN",
-    "W.T.F(un)",
-    "LIFE IN COLOR"
-   ],
-   "links": [
-    "https://x.com/nouera_official",
-    "https://www.instagram.com/nouera_official/",
-    "https://www.youtube.com/@nouera_official",
-    "https://www.tiktok.com/@nouera_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=miFkck0PGg4"
   },
   {
    "artist": "Young K (DAY6)",
@@ -361,6 +339,28 @@
     "https://www.tiktok.com/@rbw_onewe"
    ],
    "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+  },
+  {
+   "artist": "NouerA",
+   "type": "4th Mini Album",
+   "title": ".exe",
+   "titleTrack": ".exe",
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-exe-teaser.webp",
+   "url": "https://kpopofficial.com/album/nouera-exe/",
+   "tracklist": [
+    ".exe",
+    "LOCKED IN",
+    "W.T.F(un)",
+    "LIFE IN COLOR"
+   ],
+   "links": [
+    "https://x.com/nouera_official",
+    "https://www.instagram.com/nouera_official/",
+    "https://www.youtube.com/@nouera_official",
+    "https://www.tiktok.com/@nouera_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=miFkck0PGg4"
   },
   {
    "artist": "POW",
@@ -693,7 +693,7 @@
    "title": "WhyKiiiKiii",
    "titleTrack": null,
    "date": "2026-08-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/KiiiKiii-concerts.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KiiiKiii-members-for-WhyKiiiKiii-Album.webp",
    "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
    "tracklist": [
     "Ever2Late!",
@@ -788,23 +788,6 @@
    ]
   },
   {
-   "artist": "MASHIRO (MADEIN)",
-   "type": "1st EP",
-   "title": "24/11",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-MADEIN-MASHIRO.webp",
-   "url": "https://kpopofficial.com/album/mashiro-24-11/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/MADEIN_U",
-    "https://www.instagram.com/we.madein.u",
-    "https://www.instagram.com/shir0._.chann/",
-    "https://www.youtube.com/@MADEIN_U",
-    "https://www.tiktok.com/@MADEIN_u"
-   ]
-  },
-  {
    "artist": "ONEWE",
    "type": "3rd Full Album",
    "title": "面 : Unknown Atlas",
@@ -820,6 +803,23 @@
     "https://www.tiktok.com/@rbw_onewe"
    ],
    "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+  },
+  {
+   "artist": "MASHIRO (MADEIN)",
+   "type": "1st EP",
+   "title": "24/11",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-MADEIN-MASHIRO.webp",
+   "url": "https://kpopofficial.com/album/mashiro-24-11/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MADEIN_U",
+    "https://www.instagram.com/we.madein.u",
+    "https://www.instagram.com/shir0._.chann/",
+    "https://www.youtube.com/@MADEIN_U",
+    "https://www.tiktok.com/@MADEIN_u"
+   ]
   },
   {
    "artist": "Tiffany Young",
