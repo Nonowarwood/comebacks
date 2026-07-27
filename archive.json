@@ -567,17 +567,17 @@
     "Shut The Door – (Title)",
     "F World",
     "Hey Honey",
-    "응원가",
-    "Spike",
+    "Anthem",
+    "SPIKE",
     "Yonge St.",
-    "Million Reasons",
-    "우리가 헤어질 100가지 이유 (with JINJOO of DNCE)",
-    "Drivin’ Into Hell",
-    "Whatever",
+    "million reasons",
+    "A Hundred Whys for Goodbye",
+    "Drivin’ into Hell",
+    "whatever",
     "Goodbye, Love",
-    "집으로 향한다",
-    "안개꽃",
-    "작업실에서 커피를"
+    "Heading Home",
+    "Gypsophila",
+    "Ordinary Days"
    ],
    "links": [
     "https://x.com/day6official",
@@ -585,7 +585,7 @@
     "https://www.youtube.com/@DAY6Official",
     "https://www.youtube.com/@JYPEntertainment"
    ],
-   "mv": "https://www.youtube.com/watch?v=HTYe6Kq2D-c"
+   "mv": "https://www.youtube.com/watch?v=W9SBhNLTDVw"
   },
   {
    "artist": "NouerA",
@@ -607,7 +607,7 @@
     "https://www.youtube.com/@nouera_official",
     "https://www.tiktok.com/@nouera_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=miFkck0PGg4"
+   "mv": "https://www.youtube.com/watch?v=YEXrv3_uIxQ"
   },
   {
    "artist": "ONEWE",
@@ -617,14 +617,17 @@
    "date": "2026-07-27T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
    "url": "https://kpopofficial.com/album/onewe-the-wake/",
-   "tracklist": [],
+   "tracklist": [
+    "Neverland",
+    "Neverland (Inst.)"
+   ],
    "links": [
     "https://x.com/official_ONEWE",
     "https://www.instagram.com/official_onewe",
     "https://www.youtube.com/@ONEWE",
     "https://www.tiktok.com/@rbw_onewe"
    ],
-   "mv": "https://www.youtube.com/watch?v=1MlNdQWpdj8"
+   "mv": "https://www.youtube.com/watch?v=dKdngwAWD3I"
   },
   {
    "artist": "KARD",
@@ -737,7 +740,7 @@
    "titleTrack": null,
    "date": "2026-07-29T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-ATEEZ-Members-for-Japan-5th-Single.webp",
-   "url": "https://kpopofficial.com/album/ateez-bad-japanese-version/",
+   "url": "https://kpopofficial.com/album/ateez-japan-5th-single/",
    "tracklist": [],
    "links": [
     "https://x.com/ATEEZofficial",
@@ -1088,7 +1091,7 @@
    "title": "Setsuna Hanabi",
    "titleTrack": null,
    "date": "2026-08-17T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TOMORROW-X-TOGETHER-members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/TOMORROW-X-TOGETHER-members.webp",
    "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
    "tracklist": [],
    "links": [
@@ -1244,7 +1247,7 @@
    "titleTrack": null,
    "date": "2026-08-24T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NCT-127-comeback-August-2026.webp",
-   "url": "https://kpopofficial.com/album/nct-127-blingy/",
+   "url": "https://kpopofficial.com/album/nct-127-comeback-2026/",
    "tracklist": [],
    "links": [
     "https://x.com/NCTsmtown_127",
