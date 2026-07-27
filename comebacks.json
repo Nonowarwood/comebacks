@@ -1,60 +1,7 @@
 {
- "generated": "2026-07-27T15:13:27+00:00",
+ "generated": "2026-07-27T19:53:54+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "fromis_9",
-   "type": "2nd Album",
-   "title": "Glow ME",
-   "titleTrack": "Vitamin ME",
-   "date": "2026-07-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/fromis-9-Glow-ME-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/fromis-9-glow-me/",
-   "tracklist": [
-    "ETERNAL",
-    "Vitamin ME – (Title)",
-    "Pocket Treat",
-    "Blue Heart",
-    "Screen Time",
-    "Teacher",
-    "Cold Blood (CHAEYOUNG X NAGYUNG X JIHEON)",
-    "Why do I cry? (HAYOUNG X JIWON)",
-    "Day 1",
-    "Wonderland"
-   ],
-   "links": [
-    "https://x.com/realfromis_9",
-    "https://www.instagram.com/officialfromis_9",
-    "https://www.youtube.com/@fromis9_official",
-    "https://www.tiktok.com/@official_fromis9"
-   ],
-   "mv": "https://www.youtube.com/watch?v=sLk8zWUuYTA"
-  },
-  {
-   "artist": "WONHO",
-   "type": "EP",
-   "title": "CORE",
-   "titleTrack": "Don’t Wake Me Up!",
-   "date": "2026-07-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WONHO-CORE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/wonho-core/",
-   "tracklist": [
-    "Answer",
-    "Don’t Wake Me Up! – (Title)",
-    "Can’t Get Enough",
-    "Summer Blue",
-    "Down",
-    "Test Drive",
-    "Promises (feat. Brother Su)"
-   ],
-   "links": [
-    "https://x.com/official__wonho",
-    "https://www.instagram.com/iwonhoyou",
-    "https://www.youtube.com/@WONHOofficial",
-    "https://www.tiktok.com/@official_wonho"
-   ],
-   "mv": "https://www.youtube.com/watch?v=eHUsqmQqvcQ"
-  },
   {
    "artist": "Picheolin (SEVENTEEN DINO)",
    "type": "1st Mini Album",
@@ -113,31 +60,6 @@
     "https://www.tiktok.com/@ourbirthday_official"
    ],
    "mv": "https://www.youtube.com/watch?v=pVrTAE6oOPY"
-  },
-  {
-   "artist": "HYOLYN",
-   "type": "4th Mini Album",
-   "title": "OriginaLyn",
-   "titleTrack": "Check",
-   "date": "2026-07-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/HYOLYN-OriginaLyn-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/hyolyn-originalyn/",
-   "tracklist": [
-    "Check – (Title)",
-    "Offline",
-    "Shotty",
-    "Bon appétit",
-    "What U Like",
-    "You and I",
-    "Standing on the Edge"
-   ],
-   "links": [
-    "https://x.com/officialhyolyn_",
-    "https://www.instagram.com/xhyolynx/",
-    "https://www.youtube.com/@OfficialHyolyn",
-    "https://www.tiktok.com/@_hyolyn_"
-   ],
-   "mv": "https://www.youtube.com/watch?v=QJa8TKXNavc"
   },
   {
    "artist": "J.Y. Park",
@@ -242,25 +164,6 @@
    "title": "I Got Your Back",
    "titleTrack": null,
    "date": "2026-07-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ILLIT-Members-for-I-Got-Your-Back.webp",
-   "url": "https://kpopofficial.com/album/illit-i-got-your-back/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ILLIT_official",
-    "https://x.com/ILLITjpofficial",
-    "https://www.instagram.com/ILLIT_official",
-    "https://www.youtube.com/@ILLIT_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@illit_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=BNOwZyEYBNU"
-  },
-  {
-   "artist": "ILLIT",
-   "type": "Japan 2nd Single",
-   "title": "I Got Your Back",
-   "titleTrack": null,
-   "date": "2026-07-26T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-ILLIT-Members-for-I-Got-Your-Back.webp",
    "url": "https://kpopofficial.com/album/illit-i-got-your-back/",
    "tracklist": [],
@@ -280,7 +183,7 @@
    "title": "YOUNGEST",
    "titleTrack": "Shut The Door",
    "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-DAY6-Young-K-YOUNGEST-Album-Teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-DAY-6-Young-K.webp",
    "url": "https://kpopofficial.com/album/young-k-youngest/",
    "tracklist": [
     "Marionette",
@@ -306,6 +209,48 @@
     "https://www.youtube.com/@JYPEntertainment"
    ],
    "mv": "https://www.youtube.com/watch?v=W9SBhNLTDVw"
+  },
+  {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": "Neverland",
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ONEWE-Digital-Single-The-Wake-Neverland.webp",
+   "url": "https://kpopofficial.com/album/onewe-the-wake/",
+   "tracklist": [
+    "Neverland",
+    "Neverland (Inst.)"
+   ],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=dKdngwAWD3I"
+  },
+  {
+   "artist": "NouerA",
+   "type": "4th Mini Album",
+   "title": ".exe",
+   "titleTrack": ".exe",
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-NouerA-exe-teaser.webp",
+   "url": "https://kpopofficial.com/album/nouera-exe/",
+   "tracklist": [
+    ".exe",
+    "LOCKED IN",
+    "W.T.F(un)",
+    "LIFE IN COLOR"
+   ],
+   "links": [
+    "https://x.com/nouera_official",
+    "https://www.instagram.com/nouera_official/",
+    "https://www.youtube.com/@nouera_official",
+    "https://www.tiktok.com/@nouera_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=YEXrv3_uIxQ"
   },
   {
    "artist": "ONEWE",
@@ -348,6 +293,39 @@
     "https://www.tiktok.com/@nouera_official"
    ],
    "mv": "https://www.youtube.com/watch?v=YEXrv3_uIxQ"
+  },
+  {
+   "artist": "Young K (DAY6)",
+   "type": "2nd Full Album",
+   "title": "YOUNGEST",
+   "titleTrack": "Shut The Door",
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-DAY6-Young-K-YOUNGEST-Album-Teaser.webp",
+   "url": "https://kpopofficial.com/album/young-k-youngest/",
+   "tracklist": [
+    "Marionette",
+    "Shut The Door – (Title)",
+    "F World",
+    "Hey Honey",
+    "Anthem",
+    "SPIKE",
+    "Yonge St.",
+    "million reasons",
+    "A Hundred Whys for Goodbye",
+    "Drivin’ into Hell",
+    "whatever",
+    "Goodbye, Love",
+    "Heading Home",
+    "Gypsophila",
+    "Ordinary Days"
+   ],
+   "links": [
+    "https://x.com/day6official",
+    "https://www.instagram.com/DAY6kilogram",
+    "https://www.youtube.com/@DAY6Official",
+    "https://www.youtube.com/@JYPEntertainment"
+   ],
+   "mv": "https://www.youtube.com/watch?v=W9SBhNLTDVw"
   },
   {
    "artist": "POW",
@@ -402,7 +380,7 @@
    "titleTrack": null,
    "date": "2026-07-29T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-ATEEZ-Members-for-Japan-5th-Single.webp",
-   "url": "https://kpopofficial.com/album/ateez-japan-5th-single/",
+   "url": "https://kpopofficial.com/album/ateez-bad-japanese-version/",
    "tracklist": [],
    "links": [
     "https://x.com/ATEEZofficial",
@@ -576,6 +554,28 @@
    "mv": "https://www.youtube.com/watch?v=fFsiruVvgGg"
   },
   {
+   "artist": "WHIB",
+   "type": "2nd Mini Album",
+   "title": "CHERRY PIE",
+   "titleTrack": "CHERRY PIE",
+   "date": "2026-08-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-Cherry-Pie-Comeback.webp",
+   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
+   "tracklist": [
+    "PAGES OF US",
+    "CHERRY PIE – (title)",
+    "MOTTO",
+    "CAN’T STOP=NOT FOUND",
+    "MAKE IT"
+   ],
+   "links": [
+    "https://x.com/whib_official",
+    "https://www.instagram.com/whib_official",
+    "https://www.youtube.com/@WHIB_OFFICIAL",
+    "https://www.tiktok.com/@whib_official"
+   ]
+  },
+  {
    "artist": "AEN",
    "type": "1st EP",
    "title": "A NEW ERA OF NOW",
@@ -604,26 +604,21 @@
    ]
   },
   {
-   "artist": "WHIB",
+   "artist": "ARTMS",
    "type": "2nd Mini Album",
-   "title": "CHERRY PIE",
-   "titleTrack": "CHERRY PIE",
-   "date": "2026-08-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-Cherry-Pie-Comeback.webp",
-   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
-   "tracklist": [
-    "PAGES OF US",
-    "CHERRY PIE – (title)",
-    "MOTTO",
-    "CAN’T STOP=NOT FOUND",
-    "MAKE IT"
-   ],
+   "title": "Hyper-Ego",
+   "titleTrack": "Blue Blood",
+   "date": "2026-08-07T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ARTMS-Members-Group-Photo.webp",
+   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
+   "tracklist": [],
    "links": [
-    "https://x.com/whib_official",
-    "https://www.instagram.com/whib_official",
-    "https://www.youtube.com/@WHIB_OFFICIAL",
-    "https://www.tiktok.com/@whib_official"
-   ]
+    "https://x.com/official_artms",
+    "https://www.instagram.com/official_artms",
+    "https://www.youtube.com/@official_artms",
+    "https://www.tiktok.com/@official_artms"
+   ],
+   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
   },
   {
    "artist": "Stray Kids",
@@ -651,23 +646,6 @@
     "https://www.tiktok.com/@jypestraykids"
    ],
    "mv": "https://www.youtube.com/watch?v=Q7IFjVUUb_E"
-  },
-  {
-   "artist": "ARTMS",
-   "type": "2nd Mini Album",
-   "title": "Hyper-Ego",
-   "titleTrack": "Blue Blood",
-   "date": "2026-08-07T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ARTMS-Members-Group-Photo.webp",
-   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_artms",
-    "https://www.instagram.com/official_artms",
-    "https://www.youtube.com/@official_artms",
-    "https://www.tiktok.com/@official_artms"
-   ],
-   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
   },
   {
    "artist": "WayV",
@@ -755,7 +733,7 @@
    "title": "Setsuna Hanabi",
    "titleTrack": null,
    "date": "2026-08-17T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/TOMORROW-X-TOGETHER-members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TOMORROW-X-TOGETHER-members.webp",
    "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
    "tracklist": [],
    "links": [
@@ -789,23 +767,6 @@
    ]
   },
   {
-   "artist": "ONEWE",
-   "type": "3rd Full Album",
-   "title": "面 : Unknown Atlas",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
-   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_ONEWE",
-    "https://www.instagram.com/official_onewe",
-    "https://www.youtube.com/@ONEWE",
-    "https://www.tiktok.com/@rbw_onewe"
-   ],
-   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
-  },
-  {
    "artist": "MASHIRO (MADEIN)",
    "type": "1st EP",
    "title": "24/11",
@@ -821,6 +782,23 @@
     "https://www.youtube.com/@MADEIN_U",
     "https://www.tiktok.com/@MADEIN_u"
    ]
+  },
+  {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
   },
   {
    "artist": "Tiffany Young",
@@ -874,7 +852,7 @@
    "titleTrack": null,
    "date": "2026-08-24T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NCT-127-comeback-August-2026.webp",
-   "url": "https://kpopofficial.com/album/nct-127-comeback-2026/",
+   "url": "https://kpopofficial.com/album/nct-127-blingy/",
    "tracklist": [],
    "links": [
     "https://x.com/NCTsmtown_127",
