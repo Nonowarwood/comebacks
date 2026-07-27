@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-26T19:33:47+00:00",
+ "generated": "2026-07-27T04:02:37+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -54,6 +54,26 @@
     "https://www.tiktok.com/@official_wonho"
    ],
    "mv": "https://www.youtube.com/watch?v=eHUsqmQqvcQ"
+  },
+  {
+   "artist": "8TURN",
+   "type": "3rd Single Album",
+   "title": "8.X",
+   "titleTrack": "Stagefright",
+   "date": "2026-07-21T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/8TURN-8X-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/8turn-8x/",
+   "tracklist": [
+    "Stagefright – (Title)",
+    "8PM"
+   ],
+   "links": [
+    "https://x.com/8TURN_official",
+    "https://www.instagram.com/8turn.official",
+    "https://www.youtube.com/@8TURN.official/videos",
+    "https://www.tiktok.com/@8turn_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=PuWwh0w4z7c"
   },
   {
    "artist": "Picheolin (SEVENTEEN DINO)",
@@ -237,6 +257,22 @@
    ]
   },
   {
+   "artist": "ALICE SYNDROME",
+   "type": "1st Digital Single",
+   "title": "DEEP DIVE",
+   "titleTrack": null,
+   "date": "2026-07-25T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ALICE-SYNDROME-Members.webp",
+   "url": "https://kpopofficial.com/album/alice-syndrome-deep-dive/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/alicesyndrome00",
+    "https://www.instagram.com/alice__syndrome/",
+    "https://www.youtube.com/@alice_syndrome4",
+    "https://www.tiktok.com/@alice__syndrome"
+   ]
+  },
+  {
    "artist": "ILLIT",
    "type": "Japan 2nd Single",
    "title": "I Got Your Back",
@@ -256,23 +292,43 @@
    "mv": "https://www.youtube.com/watch?v=BNOwZyEYBNU"
   },
   {
-   "artist": "ILLIT",
-   "type": "Japan 2nd Single",
-   "title": "I Got Your Back",
-   "titleTrack": null,
-   "date": "2026-07-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-ILLIT-Members-for-I-Got-Your-Back.webp",
-   "url": "https://kpopofficial.com/album/illit-i-got-your-back/",
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": "Neverland",
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-the-wake/",
    "tracklist": [],
    "links": [
-    "https://x.com/ILLIT_official",
-    "https://x.com/ILLITjpofficial",
-    "https://www.instagram.com/ILLIT_official",
-    "https://www.youtube.com/@ILLIT_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@illit_official"
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
    ],
-   "mv": "https://www.youtube.com/watch?v=BNOwZyEYBNU"
+   "mv": "https://www.youtube.com/watch?v=1MlNdQWpdj8"
+  },
+  {
+   "artist": "NouerA",
+   "type": "4th Mini Album",
+   "title": ".exe",
+   "titleTrack": ".exe",
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-exe-teaser.webp",
+   "url": "https://kpopofficial.com/album/nouera-exe/",
+   "tracklist": [
+    ".exe",
+    "LOCKED IN",
+    "W.T.F(un)",
+    "LIFE IN COLOR"
+   ],
+   "links": [
+    "https://x.com/nouera_official",
+    "https://www.instagram.com/nouera_official/",
+    "https://www.youtube.com/@nouera_official",
+    "https://www.tiktok.com/@nouera_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=miFkck0PGg4"
   },
   {
    "artist": "Young K (DAY6)",
@@ -304,46 +360,8 @@
     "https://www.instagram.com/DAY6kilogram",
     "https://www.youtube.com/@DAY6Official",
     "https://www.youtube.com/@JYPEntertainment"
-   ]
-  },
-  {
-   "artist": "ONEWE",
-   "type": "3rd Full Album",
-   "title": "面 : Unknown Atlas",
-   "titleTrack": null,
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
-   "url": "https://kpopofficial.com/album/onewe-the-wake/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_ONEWE",
-    "https://www.instagram.com/official_onewe",
-    "https://www.youtube.com/@ONEWE",
-    "https://www.tiktok.com/@rbw_onewe"
    ],
-   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
-  },
-  {
-   "artist": "NouerA",
-   "type": "4th Mini Album",
-   "title": ".exe",
-   "titleTrack": ".exe",
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-exe-teaser.webp",
-   "url": "https://kpopofficial.com/album/nouera-exe/",
-   "tracklist": [
-    ".exe",
-    "LOCKED IN",
-    "W.T.F(un)",
-    "LIFE IN COLOR"
-   ],
-   "links": [
-    "https://x.com/nouera_official",
-    "https://www.instagram.com/nouera_official/",
-    "https://www.youtube.com/@nouera_official",
-    "https://www.tiktok.com/@nouera_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=miFkck0PGg4"
+   "mv": "https://www.youtube.com/watch?v=HTYe6Kq2D-c"
   },
   {
    "artist": "POW",
@@ -360,7 +378,8 @@
     "https://www.youtube.com/@POW_Official",
     "https://www.youtube.com/@GRIDEntertainment",
     "https://www.tiktok.com/@pow_grid"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=ZAadHlGpUI4"
   },
   {
    "artist": "KARD",
@@ -387,25 +406,8 @@
     "https://www.instagram.com/official_kard/",
     "https://www.youtube.com/@KARD",
     "https://www.tiktok.com/@official.kard"
-   ]
-  },
-  {
-   "artist": "ATEEZ (JP)",
-   "type": "5th Single",
-   "title": null,
-   "titleTrack": null,
-   "date": "2026-07-29T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-ATEEZ-Members-for-Japan-5th-Single.webp",
-   "url": "https://kpopofficial.com/album/ateez-japan-5th-single/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ATEEZofficial",
-    "https://x.com/ATEEZofficialjp",
-    "https://www.instagram.com/ateez_official_/",
-    "https://www.youtube.com/@ATEEZofficial",
-    "https://www.youtube.com/@KQENT",
-    "https://www.tiktok.com/@ateez_official_"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=tj6rHkPEdAI"
   },
   {
    "artist": "P1Harmony",
@@ -421,20 +423,40 @@
     "https://x.com/P1H_official_jp",
     "https://www.instagram.com/p1h_official",
     "https://www.youtube.com/@P1Harmonyofficial",
-    "https://www.tiktok.com/@p1harmony"
+    "https://www.tiktok.com/@p1harmony",
+    "https://www.youtube.com/@P1Harmonyofficial/releases"
    ]
+  },
+  {
+   "artist": "ATEEZ (JP)",
+   "type": "Japan 5th Single",
+   "title": "BAD (Japanese Ver.)",
+   "titleTrack": null,
+   "date": "2026-07-29T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-ATEEZ-Members-for-Japan-5th-Single.webp",
+   "url": "https://kpopofficial.com/album/ateez-japan-5th-single/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ATEEZofficial",
+    "https://x.com/ATEEZofficialjp",
+    "https://www.instagram.com/ateez_official_/",
+    "https://www.youtube.com/@ATEEZofficial",
+    "https://www.youtube.com/@KQENT",
+    "https://www.tiktok.com/@ateez_official_"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Vi8FGoq-4Gg"
   },
   {
    "artist": "THE WIND",
    "type": "4th Mini Album",
    "title": "Second Wind : S# 00",
-   "titleTrack": null,
-   "date": "2026-07-29T00:00:00+09:00",
+   "titleTrack": "Party Like A Rock Star",
+   "date": "2026-07-29T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/the-wind-second-wind-s-00-teaser.webp",
    "url": "https://kpopofficial.com/album/the-wind-second-wind-s-00/",
    "tracklist": [
     "With the Wind",
-    "Party Like A Rock Star",
+    "Party Like A Rock Star – (Title)",
     "That’s Smoove!",
     "Shiver",
     "Back and Forth"
@@ -444,7 +466,8 @@
     "https://www.instagram.com/thewind.official/",
     "https://www.youtube.com/@TheWind_official",
     "https://www.tiktok.com/@official_thewind"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=UPZiUnaOOSg"
   },
   {
    "artist": "UNIS (JP)",
@@ -468,8 +491,8 @@
    "artist": "EMOTI:M",
    "type": "1st Single Album",
    "title": "CONNECT",
-   "titleTrack": null,
-   "date": "2026-07-31T00:00:00+09:00",
+   "titleTrack": "SPARK",
+   "date": "2026-07-31T12:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/06/EMOTIM-Members.webp",
    "url": "https://kpopofficial.com/album/emotim-connect/",
    "tracklist": [],
@@ -478,7 +501,32 @@
     "https://www.instagram.com/emotim_official",
     "https://www.youtube.com/@emotim5official",
     "https://www.tiktok.com/@emotim_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=vJmar8cmPYU"
+  },
+  {
+   "artist": "Red Velvet",
+   "type": "Summer Mini Album",
+   "title": "Velvet Summer",
+   "titleTrack": "Surfin’ Boy",
+   "date": "2026-08-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Red-Velvet-Members-for-Velvet-Summer.webp",
+   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
+   "tracklist": [
+    "Surfin’ Boy – (Title)",
+    "Hot Girls Cold Vibe",
+    "Orchestra",
+    "Hula Hoop",
+    "Hawaii"
+   ],
+   "links": [
+    "https://x.com/RVsmtown",
+    "https://www.instagram.com/redvelvet.smtown/",
+    "https://www.youtube.com/@redvelvet",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@redvelvet_smtown"
+   ],
+   "mv": "https://www.youtube.com/watch?v=uPsJaoXUpUM"
   },
   {
    "artist": "Picheolin (SEVENTEEN DINO)",
@@ -505,23 +553,6 @@
     "https://www.tiktok.com/@seventeen17_official"
    ],
    "mv": "https://www.youtube.com/watch?v=uh_DpK2xFiE"
-  },
-  {
-   "artist": "Red Velvet",
-   "type": "Summer Mini Album",
-   "title": "Velvet Summer",
-   "titleTrack": null,
-   "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Red-Velvet-Members-for-Velvet-Summer.webp",
-   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/RVsmtown",
-    "https://www.instagram.com/redvelvet.smtown/",
-    "https://www.youtube.com/@redvelvet",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@redvelvet_smtown"
-   ]
   },
   {
    "artist": "TWS (JP)",
@@ -668,7 +699,8 @@
     "https://www.youtube.com/@WayV",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@official_wayv"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=LsVvWktpytA"
   },
   {
    "artist": "KiiiKiii",
@@ -676,7 +708,7 @@
    "title": "WhyKiiiKiii",
    "titleTrack": null,
    "date": "2026-08-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KiiiKiii-members-for-WhyKiiiKiii-Album.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/KiiiKiii-concerts.webp",
    "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
    "tracklist": [
     "Ever2Late!",
@@ -771,23 +803,6 @@
    ]
   },
   {
-   "artist": "ONEWE",
-   "type": "3rd Full Album",
-   "title": "面 : Unknown Atlas",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
-   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_ONEWE",
-    "https://www.instagram.com/official_onewe",
-    "https://www.youtube.com/@ONEWE",
-    "https://www.tiktok.com/@rbw_onewe"
-   ],
-   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
-  },
-  {
    "artist": "MASHIRO (MADEIN)",
    "type": "1st EP",
    "title": "24/11",
@@ -803,6 +818,23 @@
     "https://www.youtube.com/@MADEIN_U",
     "https://www.tiktok.com/@MADEIN_u"
    ]
+  },
+  {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
   },
   {
    "artist": "Tiffany Young",
@@ -851,10 +883,10 @@
   },
   {
    "artist": "NCT 127",
-   "type": "7th Full Album",
-   "title": null,
+   "type": "7th Album",
+   "title": "BLINGY",
    "titleTrack": null,
-   "date": "2026-08-24T00:00:00+09:00",
+   "date": "2026-08-24T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NCT-127-comeback-August-2026.webp",
    "url": "https://kpopofficial.com/album/nct-127-comeback-2026/",
    "tracklist": [],
