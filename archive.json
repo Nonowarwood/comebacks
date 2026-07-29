@@ -523,17 +523,21 @@
    "artist": "ALICE SYNDROME",
    "type": "1st Digital Single",
    "title": "DEEP DIVE",
-   "titleTrack": null,
+   "titleTrack": "Deep Dive",
    "date": "2026-07-25T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-ALICE-SYNDROME-Members.webp",
    "url": "https://kpopofficial.com/album/alice-syndrome-deep-dive/",
-   "tracklist": [],
+   "tracklist": [
+    "Deep Dive",
+    "Play Girl"
+   ],
    "links": [
     "https://x.com/alicesyndrome00",
     "https://www.instagram.com/alice__syndrome/",
     "https://www.youtube.com/@alice_syndrome4",
     "https://www.tiktok.com/@alice__syndrome"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=lR1t5iheb9o"
   },
   {
    "artist": "ILLIT",
@@ -563,7 +567,7 @@
    "title": "YOUNGEST",
    "titleTrack": "Shut The Door",
    "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-DAY6-Young-K-YOUNGEST-Album-Teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/DAY6-Young-K-Youngest-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/young-k-youngest/",
    "tracklist": [
     "Marionette",
@@ -596,7 +600,7 @@
    "title": ".exe",
    "titleTrack": ".exe",
    "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-exe-teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/NouerA-exe-album-cover.webp",
    "url": "https://kpopofficial.com/album/nouera-exe/",
    "tracklist": [
     ".exe",
@@ -618,7 +622,7 @@
    "title": "面 : Unknown Atlas",
    "titleTrack": "Neverland",
    "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ONEWE-Digital-Single-The-Wake-Neverland.webp",
    "url": "https://kpopofficial.com/album/onewe-the-wake/",
    "tracklist": [
     "Neverland",
@@ -668,7 +672,10 @@
    "date": "2026-07-28T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-POW-Members.webp",
    "url": "https://kpopofficial.com/album/pow-flavor/",
-   "tracklist": [],
+   "tracklist": [
+    "FLAVOR",
+    "Still Choosing You"
+   ],
    "links": [
     "https://x.com/POW_grid",
     "https://www.instagram.com/pow_grid/",
@@ -676,7 +683,7 @@
     "https://www.youtube.com/@GRIDEntertainment",
     "https://www.tiktok.com/@pow_grid"
    ],
-   "mv": "https://www.youtube.com/watch?v=ZAadHlGpUI4"
+   "mv": "https://www.youtube.com/watch?v=14RfeO9_ngw"
   },
   {
    "artist": "THE WIND",
@@ -740,11 +747,18 @@
    "artist": "ATEEZ (JP)",
    "type": "Japan 5th Single",
    "title": "BAD (Japanese Ver.)",
-   "titleTrack": null,
+   "titleTrack": "BAD (Japanese Ver.)",
    "date": "2026-07-29T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-ATEEZ-Members-for-Japan-5th-Single.webp",
    "url": "https://kpopofficial.com/album/ateez-bad-japanese-version/",
-   "tracklist": [],
+   "tracklist": [
+    "BAD (Japanese Ver.)",
+    "Seeker",
+    "HIGHER",
+    "BAD (Instrumental)",
+    "Seeker (Instrumental)",
+    "HIGHER (Instrumental)"
+   ],
    "links": [
     "https://x.com/ATEEZofficial",
     "https://x.com/ATEEZofficialjp",
@@ -753,7 +767,7 @@
     "https://www.youtube.com/@KQENT",
     "https://www.tiktok.com/@ateez_official_"
    ],
-   "mv": "https://www.youtube.com/watch?v=Vi8FGoq-4Gg"
+   "mv": "https://www.youtube.com/watch?v=p67W66bny94"
   },
   {
    "artist": "THE WIND",
@@ -1147,7 +1161,7 @@
    "title": "Setsuna Hanabi",
    "titleTrack": null,
    "date": "2026-08-17T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TOMORROW-X-TOGETHER-members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/TOMORROW-X-TOGETHER-members.webp",
    "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
    "tracklist": [],
    "links": [

@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-28T19:52:30+00:00",
+ "generated": "2026-07-29T03:38:20+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -146,17 +146,21 @@
    "artist": "ALICE SYNDROME",
    "type": "1st Digital Single",
    "title": "DEEP DIVE",
-   "titleTrack": null,
+   "titleTrack": "Deep Dive",
    "date": "2026-07-25T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-ALICE-SYNDROME-Members.webp",
    "url": "https://kpopofficial.com/album/alice-syndrome-deep-dive/",
-   "tracklist": [],
+   "tracklist": [
+    "Deep Dive",
+    "Play Girl"
+   ],
    "links": [
     "https://x.com/alicesyndrome00",
     "https://www.instagram.com/alice__syndrome/",
     "https://www.youtube.com/@alice_syndrome4",
     "https://www.tiktok.com/@alice__syndrome"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=lR1t5iheb9o"
   },
   {
    "artist": "ILLIT",
@@ -186,7 +190,7 @@
    "title": "YOUNGEST",
    "titleTrack": "Shut The Door",
    "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-DAY-6-Young-K.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/DAY6-Young-K-Youngest-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/young-k-youngest/",
    "tracklist": [
     "Marionette",
@@ -212,6 +216,28 @@
     "https://www.youtube.com/@JYPEntertainment"
    ],
    "mv": "https://www.youtube.com/watch?v=W9SBhNLTDVw"
+  },
+  {
+   "artist": "NouerA",
+   "type": "4th Mini Album",
+   "title": ".exe",
+   "titleTrack": ".exe",
+   "date": "2026-07-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/NouerA-exe-album-cover.webp",
+   "url": "https://kpopofficial.com/album/nouera-exe/",
+   "tracklist": [
+    ".exe",
+    "LOCKED IN",
+    "W.T.F(un)",
+    "LIFE IN COLOR"
+   ],
+   "links": [
+    "https://x.com/nouera_official",
+    "https://www.instagram.com/nouera_official/",
+    "https://www.youtube.com/@nouera_official",
+    "https://www.tiktok.com/@nouera_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=YEXrv3_uIxQ"
   },
   {
    "artist": "ONEWE",
@@ -234,34 +260,12 @@
    "mv": "https://www.youtube.com/watch?v=dKdngwAWD3I"
   },
   {
-   "artist": "NouerA",
-   "type": "4th Mini Album",
-   "title": ".exe",
-   "titleTrack": ".exe",
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-NouerA-exe-teaser.webp",
-   "url": "https://kpopofficial.com/album/nouera-exe/",
-   "tracklist": [
-    ".exe",
-    "LOCKED IN",
-    "W.T.F(un)",
-    "LIFE IN COLOR"
-   ],
-   "links": [
-    "https://x.com/nouera_official",
-    "https://www.instagram.com/nouera_official/",
-    "https://www.youtube.com/@nouera_official",
-    "https://www.tiktok.com/@nouera_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=YEXrv3_uIxQ"
-  },
-  {
    "artist": "Young K (DAY6)",
    "type": "2nd Full Album",
    "title": "YOUNGEST",
    "titleTrack": "Shut The Door",
    "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-DAY6-Young-K-YOUNGEST-Album-Teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/DAY6-Young-K-Youngest-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/young-k-youngest/",
    "tracklist": [
     "Marionette",
@@ -287,48 +291,6 @@
     "https://www.youtube.com/@JYPEntertainment"
    ],
    "mv": "https://www.youtube.com/watch?v=W9SBhNLTDVw"
-  },
-  {
-   "artist": "ONEWE",
-   "type": "3rd Full Album",
-   "title": "面 : Unknown Atlas",
-   "titleTrack": "Neverland",
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
-   "url": "https://kpopofficial.com/album/onewe-the-wake/",
-   "tracklist": [
-    "Neverland",
-    "Neverland (Inst.)"
-   ],
-   "links": [
-    "https://x.com/official_ONEWE",
-    "https://www.instagram.com/official_onewe",
-    "https://www.youtube.com/@ONEWE",
-    "https://www.tiktok.com/@rbw_onewe"
-   ],
-   "mv": "https://www.youtube.com/watch?v=dKdngwAWD3I"
-  },
-  {
-   "artist": "NouerA",
-   "type": "4th Mini Album",
-   "title": ".exe",
-   "titleTrack": ".exe",
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NouerA-exe-teaser.webp",
-   "url": "https://kpopofficial.com/album/nouera-exe/",
-   "tracklist": [
-    ".exe",
-    "LOCKED IN",
-    "W.T.F(un)",
-    "LIFE IN COLOR"
-   ],
-   "links": [
-    "https://x.com/nouera_official",
-    "https://www.instagram.com/nouera_official/",
-    "https://www.youtube.com/@nouera_official",
-    "https://www.tiktok.com/@nouera_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=YEXrv3_uIxQ"
   },
   {
    "artist": "KARD",
@@ -366,7 +328,10 @@
    "date": "2026-07-28T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-POW-Members.webp",
    "url": "https://kpopofficial.com/album/pow-flavor/",
-   "tracklist": [],
+   "tracklist": [
+    "FLAVOR",
+    "Still Choosing You"
+   ],
    "links": [
     "https://x.com/POW_grid",
     "https://www.instagram.com/pow_grid/",
@@ -374,17 +339,24 @@
     "https://www.youtube.com/@GRIDEntertainment",
     "https://www.tiktok.com/@pow_grid"
    ],
-   "mv": "https://www.youtube.com/watch?v=ZAadHlGpUI4"
+   "mv": "https://www.youtube.com/watch?v=14RfeO9_ngw"
   },
   {
    "artist": "ATEEZ (JP)",
    "type": "Japan 5th Single",
    "title": "BAD (Japanese Ver.)",
-   "titleTrack": null,
+   "titleTrack": "BAD (Japanese Ver.)",
    "date": "2026-07-29T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-ATEEZ-Members-for-Japan-5th-Single.webp",
    "url": "https://kpopofficial.com/album/ateez-bad-japanese-version/",
-   "tracklist": [],
+   "tracklist": [
+    "BAD (Japanese Ver.)",
+    "Seeker",
+    "HIGHER",
+    "BAD (Instrumental)",
+    "Seeker (Instrumental)",
+    "HIGHER (Instrumental)"
+   ],
    "links": [
     "https://x.com/ATEEZofficial",
     "https://x.com/ATEEZofficialjp",
@@ -393,7 +365,7 @@
     "https://www.youtube.com/@KQENT",
     "https://www.tiktok.com/@ateez_official_"
    ],
-   "mv": "https://www.youtube.com/watch?v=Vi8FGoq-4Gg"
+   "mv": "https://www.youtube.com/watch?v=p67W66bny94"
   },
   {
    "artist": "P1Harmony",
@@ -736,7 +708,7 @@
    "title": "Setsuna Hanabi",
    "titleTrack": null,
    "date": "2026-08-17T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TOMORROW-X-TOGETHER-members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/TOMORROW-X-TOGETHER-members.webp",
    "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
    "tracklist": [],
    "links": [
