@@ -727,20 +727,22 @@
   },
   {
    "artist": "P1Harmony",
-   "type": "Mini Album",
+   "type": "Single Album",
    "title": "UNIQUE Japan Edition",
-   "titleTrack": null,
+   "titleTrack": "VELVET",
    "date": "2026-07-29T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-P1Harmony-UNIQUE-Japan-Edition.webp",
    "url": "https://kpopofficial.com/album/p1harmony-unique-japan-edition/",
-   "tracklist": [],
+   "tracklist": [
+    "VELVET – (Title)",
+    "1 SECOND"
+   ],
    "links": [
     "https://x.com/P1H_official",
     "https://x.com/P1H_official_jp",
     "https://www.instagram.com/p1h_official",
     "https://www.youtube.com/@P1Harmonyofficial",
-    "https://www.tiktok.com/@p1harmony",
-    "https://www.youtube.com/@P1Harmonyofficial/releases"
+    "https://www.tiktok.com/@p1harmony"
    ]
   },
   {
@@ -775,7 +777,7 @@
    "title": "Second Wind : S# 00",
    "titleTrack": "Party Like A Rock Star",
    "date": "2026-07-29T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/the-wind-second-wind-s-00-teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-the-wind-second-wind-s-00-teaser.webp",
    "url": "https://kpopofficial.com/album/the-wind-second-wind-s-00/",
    "tracklist": [
     "With the Wind",
@@ -790,7 +792,7 @@
     "https://www.youtube.com/@TheWind_official",
     "https://www.tiktok.com/@official_thewind"
    ],
-   "mv": "https://www.youtube.com/watch?v=UPZiUnaOOSg"
+   "mv": "https://www.youtube.com/watch?v=ossXcpM-R9A"
   },
   {
    "artist": "UNIS (JP)",
@@ -950,7 +952,7 @@
    "artist": "KISS OF LIFE",
    "type": "3rd Single",
    "title": "SWEAT",
-   "titleTrack": null,
+   "titleTrack": "SWEAT",
    "date": "2026-08-04T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KISS-OF-LIFE-Members-for-Single-Sweat.webp",
    "url": "https://kpopofficial.com/album/kiss-of-life-sweat/",
@@ -961,7 +963,7 @@
     "https://www.youtube.com/@KISSOFLIFE_official",
     "https://www.tiktok.com/@kissoflife_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=fFsiruVvgGg"
+   "mv": "https://www.youtube.com/watch?v=QIez3fOpnTc"
   },
   {
    "artist": "HUH JIWON (Cherry Bullet)",
@@ -1125,11 +1127,19 @@
    "artist": "JEONG EUNJI (Apink)",
    "type": "5th Mini Album",
    "title": "Summer, I",
-   "titleTrack": null,
+   "titleTrack": "I Love LOVE",
    "date": "2026-08-11T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-Apink-Jeong-Eunji.webp",
    "url": "https://kpopofficial.com/album/jeong-eunji-summer-i/",
-   "tracklist": [],
+   "tracklist": [
+    "I Love LOVE (파도)",
+    "No Fight",
+    "링귀니",
+    "바람따라",
+    "다시 못 만날 것 같아",
+    "낭만파티",
+    "사랑이 지나간 자리"
+   ],
    "links": [
     "https://x.com/JeongEunJi_X",
     "https://www.instagram.com/artist_eunji/",
