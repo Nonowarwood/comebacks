@@ -1,50 +1,7 @@
 {
- "generated": "2026-07-31T03:48:54+00:00",
+ "generated": "2026-07-31T09:16:12+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "aespa (JP)",
-   "type": "1st Japan Mini Album",
-   "title": "KISS N TELL",
-   "titleTrack": "KISS N TELL",
-   "date": "2026-07-24T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/aespa-KISS-N-TELL-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/aespa-kiss-n-tell/",
-   "tracklist": [
-    "KISS N TELL",
-    "Orbit Pop",
-    "Fangirl",
-    "ATTITUDE",
-    "Done with Rules",
-    "In Halo"
-   ],
-   "links": [
-    "https://x.com/aespa_official",
-    "https://x.com/aespaJPofficial",
-    "https://www.instagram.com/aespa_official",
-    "https://www.youtube.com/@aespa",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@aespa_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=inxzQt78lOk"
-  },
-  {
-   "artist": "JENNIE (BLACKPINK)",
-   "type": "Single",
-   "title": "Less than a Lover",
-   "titleTrack": "Less than a Lover",
-   "date": "2026-07-24T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/JENNIE-Less-than-a-Lover-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/jennie-less-than-a-lover/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/jennierubyjane",
-    "https://www.instagram.com/jennierubyjane",
-    "https://www.youtube.com/@jennierubyjane",
-    "https://www.tiktok.com/@jennierubyjane"
-   ],
-   "mv": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
-  },
   {
    "artist": "ALICE SYNDROME",
    "type": "1st Digital Single",
@@ -299,6 +256,41 @@
    "mv": "https://www.youtube.com/watch?v=sqYNGZJWNcw"
   },
   {
+   "artist": "UNIS (JP)",
+   "type": "Japan 1st Mini Album",
+   "title": "UNI☆Sparkle!",
+   "titleTrack": null,
+   "date": "2026-07-31T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-UNIS-Japan-UNI-Sparkle-Teaser.webp",
+   "url": "https://kpopofficial.com/album/unis-uni-sparkle/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/UNIS_offcl",
+    "https://x.com/UNIS_offcl_JP",
+    "https://www.instagram.com/unis_offcl/",
+    "https://www.youtube.com/@UNIS_Offcl",
+    "https://www.tiktok.com/@unis_offcl"
+   ],
+   "mv": "https://www.youtube.com/watch?v=sqYNGZJWNcw"
+  },
+  {
+   "artist": "EMOTI:M",
+   "type": "1st Single Album",
+   "title": "CONNECT",
+   "titleTrack": "SPARK",
+   "date": "2026-07-31T12:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-EMOTIM-Members.webp",
+   "url": "https://kpopofficial.com/album/emotim-connect/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/EMOTIM_OFFICIAL",
+    "https://www.instagram.com/emotim_official",
+    "https://www.youtube.com/@emotim5official",
+    "https://www.tiktok.com/@emotim_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=vJmar8cmPYU"
+  },
+  {
    "artist": "EMOTI:M",
    "type": "1st Single Album",
    "title": "CONNECT",
@@ -351,30 +343,6 @@
    ]
   },
   {
-   "artist": "Red Velvet",
-   "type": "Summer Mini Album",
-   "title": "Velvet Summer",
-   "titleTrack": "Surfin’ Boy",
-   "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Red-Velvet-Members-for-Velvet-Summer.webp",
-   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
-   "tracklist": [
-    "Surfin’ Boy – (Title)",
-    "Hot Girls Cold Vibe",
-    "Orchestra",
-    "Hula Hoop",
-    "Hawaii"
-   ],
-   "links": [
-    "https://x.com/RVsmtown",
-    "https://www.instagram.com/redvelvet.smtown/",
-    "https://www.youtube.com/@redvelvet",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@redvelvet_smtown"
-   ],
-   "mv": "https://www.youtube.com/watch?v=uPsJaoXUpUM"
-  },
-  {
    "artist": "Picheolin (SEVENTEEN DINO)",
    "type": "1st Mini Album",
    "title": "吉BOARD",
@@ -399,6 +367,30 @@
     "https://www.tiktok.com/@seventeen17_official"
    ],
    "mv": "https://www.youtube.com/watch?v=uh_DpK2xFiE"
+  },
+  {
+   "artist": "Red Velvet",
+   "type": "Summer Mini Album",
+   "title": "Velvet Summer",
+   "titleTrack": "Surfin’ Boy",
+   "date": "2026-08-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Red-Velvet-Members-for-Velvet-Summer.webp",
+   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
+   "tracklist": [
+    "Surfin’ Boy – (Title)",
+    "Hot Girls Cold Vibe",
+    "Orchestra",
+    "Hula Hoop",
+    "Hawaii"
+   ],
+   "links": [
+    "https://x.com/RVsmtown",
+    "https://www.instagram.com/redvelvet.smtown/",
+    "https://www.youtube.com/@redvelvet",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@redvelvet_smtown"
+   ],
+   "mv": "https://www.youtube.com/watch?v=uPsJaoXUpUM"
   },
   {
    "artist": "TWS (JP)",
@@ -457,6 +449,28 @@
    ]
   },
   {
+   "artist": "WHIB",
+   "type": "2nd Mini Album",
+   "title": "CHERRY PIE",
+   "titleTrack": "CHERRY PIE",
+   "date": "2026-08-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-WHIB-Members-for-CHERRY-PIE-Album.webp",
+   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
+   "tracklist": [
+    "PAGES OF US",
+    "CHERRY PIE – (title)",
+    "MOTTO",
+    "CAN’T STOP=NOT FOUND",
+    "MAKE IT"
+   ],
+   "links": [
+    "https://x.com/whib_official",
+    "https://www.instagram.com/whib_official",
+    "https://www.youtube.com/@WHIB_OFFICIAL",
+    "https://www.tiktok.com/@whib_official"
+   ]
+  },
+  {
    "artist": "AEN",
    "type": "1st EP",
    "title": "A NEW ERA OF NOW",
@@ -485,26 +499,21 @@
    ]
   },
   {
-   "artist": "WHIB",
+   "artist": "ARTMS",
    "type": "2nd Mini Album",
-   "title": "CHERRY PIE",
-   "titleTrack": "CHERRY PIE",
-   "date": "2026-08-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-WHIB-Members-for-CHERRY-PIE-Album.webp",
-   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
-   "tracklist": [
-    "PAGES OF US",
-    "CHERRY PIE – (title)",
-    "MOTTO",
-    "CAN’T STOP=NOT FOUND",
-    "MAKE IT"
-   ],
+   "title": "Hyper-Ego",
+   "titleTrack": "Blue Blood",
+   "date": "2026-08-07T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ARTMS-Members-for-Hyper-Ego-Album.webp",
+   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
+   "tracklist": [],
    "links": [
-    "https://x.com/whib_official",
-    "https://www.instagram.com/whib_official",
-    "https://www.youtube.com/@WHIB_OFFICIAL",
-    "https://www.tiktok.com/@whib_official"
-   ]
+    "https://x.com/official_artms",
+    "https://www.instagram.com/official_artms",
+    "https://www.youtube.com/@official_artms",
+    "https://www.tiktok.com/@official_artms"
+   ],
+   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
   },
   {
    "artist": "Stray Kids",
@@ -532,23 +541,6 @@
     "https://www.tiktok.com/@jypestraykids"
    ],
    "mv": "https://www.youtube.com/watch?v=Q7IFjVUUb_E"
-  },
-  {
-   "artist": "ARTMS",
-   "type": "2nd Mini Album",
-   "title": "Hyper-Ego",
-   "titleTrack": "Blue Blood",
-   "date": "2026-08-07T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ARTMS-Members-for-Hyper-Ego-Album.webp",
-   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_artms",
-    "https://www.instagram.com/official_artms",
-    "https://www.youtube.com/@official_artms",
-    "https://www.tiktok.com/@official_artms"
-   ],
-   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
   },
   {
    "artist": "WayV",
@@ -678,6 +670,23 @@
    ]
   },
   {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+  },
+  {
    "artist": "MASHIRO (MADEIN)",
    "type": "1st EP",
    "title": "24/11",
@@ -699,23 +708,6 @@
     "https://www.tiktok.com/@MADEIN_u"
    ],
    "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
-  },
-  {
-   "artist": "ONEWE",
-   "type": "3rd Full Album",
-   "title": "面 : Unknown Atlas",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
-   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_ONEWE",
-    "https://www.instagram.com/official_onewe",
-    "https://www.youtube.com/@ONEWE",
-    "https://www.tiktok.com/@rbw_onewe"
-   ],
-   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
   },
   {
    "artist": "Tiffany Young",
