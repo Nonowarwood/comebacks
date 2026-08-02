@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T13:53:45+00:00",
+ "generated": "2026-08-02T19:33:48+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -318,23 +318,23 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@redvelvet_smtown"
    ],
-   "mv": "https://www.youtube.com/watch?v=uPsJaoXUpUM"
+   "mv": "https://www.youtube.com/watch?v=5pJftO9Mhss"
   },
   {
    "artist": "Picheolin (SEVENTEEN DINO)",
    "type": "1st Mini Album",
    "title": "吉BOARD",
-   "titleTrack": null,
+   "titleTrack": "Party Rock Rock",
    "date": "2026-08-03T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Picheolin-Seventeen-Dino.webp",
    "url": "https://kpopofficial.com/album/picheolin-gilboard/",
    "tracklist": [
-    "짠 (feat. Dino)",
-    "놀아보세",
-    "정말",
-    "미쳐 미쳐",
+    "ZZAN (feat. DINO)",
+    "Party Rock Rock (prod. Hitchhiker)",
+    "Sincerely (prod. Lee Hyun Do of DEUX)",
+    "Mi-cheo Mi-cheo",
     "Love Sick (Narr. Lee Moon-sae)",
-    "정으로 사랑으로",
+    "For JEONG and LOVE",
     "Like It (Song by Dino)"
    ],
    "links": [
@@ -344,7 +344,7 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@seventeen17_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=uh_DpK2xFiE"
+   "mv": "https://www.youtube.com/watch?v=X9uod5UyR-w"
   },
   {
    "artist": "TWS (JP)",
@@ -453,23 +453,6 @@
    ]
   },
   {
-   "artist": "ARTMS",
-   "type": "2nd Mini Album",
-   "title": "Hyper-Ego",
-   "titleTrack": "Blue Blood",
-   "date": "2026-08-07T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ARTMS-Members-for-Hyper-Ego-Album.webp",
-   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_artms",
-    "https://www.instagram.com/official_artms",
-    "https://www.youtube.com/@official_artms",
-    "https://www.tiktok.com/@official_artms"
-   ],
-   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
-  },
-  {
    "artist": "Stray Kids",
    "type": "Mini Album",
    "title": "THIS & THAT",
@@ -495,6 +478,23 @@
     "https://www.tiktok.com/@jypestraykids"
    ],
    "mv": "https://www.youtube.com/watch?v=Q7IFjVUUb_E"
+  },
+  {
+   "artist": "ARTMS",
+   "type": "2nd Mini Album",
+   "title": "Hyper-Ego",
+   "titleTrack": "Blue Blood",
+   "date": "2026-08-07T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ARTMS-Members-for-Hyper-Ego-Album.webp",
+   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_artms",
+    "https://www.instagram.com/official_artms",
+    "https://www.youtube.com/@official_artms",
+    "https://www.tiktok.com/@official_artms"
+   ],
+   "mv": "https://www.youtube.com/watch?v=TZ_yEXvJcYA"
   },
   {
    "artist": "WayV",
