@@ -890,6 +890,32 @@
    ]
   },
   {
+   "artist": "Picheolin (SEVENTEEN DINO)",
+   "type": "1st Mini Album",
+   "title": "吉BOARD",
+   "titleTrack": "Party Rock Rock",
+   "date": "2026-08-03T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Picheolin-Gilboard-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/picheolin-gilboard/",
+   "tracklist": [
+    "ZZAN (feat. DINO)",
+    "Party Rock Rock (prod. Hitchhiker)",
+    "Sincerely (prod. Lee Hyun Do of DEUX)",
+    "Mi-cheo Mi-cheo",
+    "Love Sick (Narr. Lee Moon-sae)",
+    "For JEONG and LOVE",
+    "Like It (Song by Dino)"
+   ],
+   "links": [
+    "https://x.com/pledis_17",
+    "https://www.instagram.com/saythename_17/",
+    "https://www.youtube.com/@pledis17",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@seventeen17_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=X9uod5UyR-w"
+  },
+  {
    "artist": "Red Velvet",
    "type": "Summer Mini Album",
    "title": "Velvet Summer",
@@ -943,11 +969,15 @@
    "artist": "TWS (JP)",
    "type": "Japan 2nd Single",
    "title": "SODA SODA",
-   "titleTrack": null,
+   "titleTrack": "SODA SODA",
    "date": "2026-08-04T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/TWS-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-TWS-for-Japan-2nd-Single-SODA-SODA.webp",
    "url": "https://kpopofficial.com/album/tws-soda-soda/",
-   "tracklist": [],
+   "tracklist": [
+    "SODA SODA",
+    "Palm Tree",
+    "If I’m S, Can You Be My N? (Japanese ver.)"
+   ],
    "links": [
     "https://x.com/TWS_PLEDIS",
     "https://x.com/TWS_PLEDIS_JP",
@@ -955,7 +985,8 @@
     "https://www.youtube.com/@TWS_PLEDIS",
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@tws_pledis"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=d1rWv8VeQO0"
   },
   {
    "artist": "KISS OF LIFE",
@@ -1021,7 +1052,8 @@
     "https://www.youtube.com/@AEN_offcl",
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@aen_offcl"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=6E7Gyw8ugq4"
   },
   {
    "artist": "WHIB",
@@ -1043,7 +1075,8 @@
     "https://www.instagram.com/whib_official",
     "https://www.youtube.com/@WHIB_OFFICIAL",
     "https://www.tiktok.com/@whib_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=NjGDmCq4FPQ"
   },
   {
    "artist": "Stray Kids",
@@ -1070,7 +1103,7 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@jypestraykids"
    ],
-   "mv": "https://www.youtube.com/watch?v=Q7IFjVUUb_E"
+   "mv": "https://www.youtube.com/watch?v=xF7X_cRRMBI"
   },
   {
    "artist": "ARTMS",
@@ -1080,7 +1113,14 @@
    "date": "2026-08-07T13:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ARTMS-Members-for-Hyper-Ego-Album.webp",
    "url": "https://kpopofficial.com/album/artms-hyper-ego/",
-   "tracklist": [],
+   "tracklist": [
+    "From Wings To Soul",
+    "BORN STUNNER – (Pre-release)",
+    "Blue Blood – (Title)",
+    "ICARUS GANG",
+    "HYPER CRUSH",
+    "Pixel Memory"
+   ],
    "links": [
     "https://x.com/official_artms",
     "https://www.instagram.com/official_artms",
@@ -1194,6 +1234,17 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@txt.bighitent"
    ]
+  },
+  {
+   "artist": "BOYNEXTDOOR (JP)",
+   "type": "2nd Japanese Digital Single",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-08-18T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-BOYNEXTDOOR-Members-for-1st-Studio-Album-HOME.webp",
+   "url": "https://kpopofficial.com/album/boynextdoor-2nd-japanese-digital-single/",
+   "tracklist": [],
+   "links": []
   },
   {
    "artist": "ZEROBASEONE (JP)",
@@ -1344,7 +1395,7 @@
    "title": "BLINGY",
    "titleTrack": null,
    "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/NCT-127-comeback-August-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NCT-127-comeback-August-2026.webp",
    "url": "https://kpopofficial.com/album/nct-127-blingy/",
    "tracklist": [],
    "links": [
@@ -1357,6 +1408,24 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@official_nct"
    ]
+  },
+  {
+   "artist": "TUIDE",
+   "type": "1st EP",
+   "title": "TUNE & PLAY",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUIDE-Members.webp",
+   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TUIDE_official",
+    "https://www.instagram.com/tuide_abd",
+    "https://www.youtube.com/@TUIDE_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tuide_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
   },
   {
    "artist": "TAEMIN (SHINee)",
@@ -1409,6 +1478,17 @@
     "https://www.tiktok.com/@andteam_official"
    ],
    "mv": "https://www.youtube.com/watch?v=D4a4oaELqwI"
+  },
+  {
+   "artist": "BOYNEXTDOOR",
+   "type": "Repackaged Album",
+   "title": "HOME",
+   "titleTrack": null,
+   "date": "2026-09-28T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-BOYNEXTDOOR-Members-for-1st-Studio-Album-HOME.webp",
+   "url": "https://kpopofficial.com/album/boynextdoor-home-repackaged/",
+   "tracklist": [],
+   "links": []
   }
  ]
 }
