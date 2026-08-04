@@ -996,14 +996,36 @@
    "date": "2026-08-04T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KISS-OF-LIFE-Members-for-Single-Sweat.webp",
    "url": "https://kpopofficial.com/album/kiss-of-life-sweat/",
-   "tracklist": [],
+   "tracklist": [
+    "SWEAT – (Title)",
+    "WHAT!"
+   ],
    "links": [
     "https://x.com/KISSOFLIFE_S2",
     "https://www.instagram.com/kissoflife_s2",
     "https://www.youtube.com/@KISSOFLIFE_official",
     "https://www.tiktok.com/@kissoflife_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=QIez3fOpnTc"
+   "mv": "https://www.youtube.com/watch?v=eTvUZymLyGY"
+  },
+  {
+   "artist": "DAYOUNG X JAY PARK",
+   "type": "Single",
+   "title": "FLIRTY",
+   "titleTrack": "FLIRTY",
+   "date": "2026-08-04T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-DAYOUNG-Jay-Park-Flirty-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/dayoung-jay-park-flirty/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/DAYOUNG_offcl",
+    "https://www.instagram.com/dayoungism",
+    "https://www.instagram.com/dayoung_offcl",
+    "https://www.youtube.com/@DAYOUNG_official",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@dayoungism"
+   ],
+   "mv": "https://www.youtube.com/watch?v=M0v-AeoIsTU"
   },
   {
    "artist": "HUH JIWON (Cherry Bullet)",
@@ -1269,6 +1291,29 @@
    ]
   },
   {
+   "artist": "AxMxP",
+   "type": "2nd Mini Album",
+   "title": "HELLO AxMxP",
+   "titleTrack": "나를 만나야 할 0가지 이유",
+   "date": "2026-08-12T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/AxMxP-Members.webp",
+   "url": "https://kpopofficial.com/album/hello-axmxp/",
+   "tracklist": [
+    "편의점 불빛 (24 Hours)",
+    "나를 만나야 할 0가지 이유 – (Title)",
+    "건너뛰기 (Skp)",
+    "How Much Is Your Love?",
+    "Back To Yesterday",
+    "사랑하지 않았다면 일어나지 않았을 일"
+   ],
+   "links": [
+    "https://x.com/AxMxP_official",
+    "https://www.instagram.com/AxMxP_official",
+    "https://www.youtube.com/@AxMxP_official/videos",
+    "https://www.tiktok.com/@axmxp_official"
+   ]
+  },
+  {
    "artist": "TOMORROW X TOGETHER (JP)",
    "type": "Japan 5th Single",
    "title": "Setsuna Hanabi",
@@ -1357,6 +1402,22 @@
     "https://www.tiktok.com/@MADEIN_u"
    ],
    "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
+  },
+  {
+   "artist": "AtHeart",
+   "type": "Single",
+   "title": "3!4!",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/cover2-AtHeart-Members.webp",
+   "url": "https://kpopofficial.com/album/atheart-3-4/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/atheart_titan",
+    "https://www.instagram.com/atheart.titan/",
+    "https://www.youtube.com/@AtHeart_TITAN",
+    "https://www.tiktok.com/@atheart.titan"
+   ]
   },
   {
    "artist": "Tiffany Young",

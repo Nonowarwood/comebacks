@@ -1,7 +1,28 @@
 {
- "generated": "2026-08-04T09:07:44+00:00",
+ "generated": "2026-08-04T14:39:01+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
+  {
+   "artist": "J.Y. Park",
+   "type": "Single Album",
+   "title": "WET",
+   "titleTrack": "WET",
+   "date": "2026-07-23T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/JY-Park-WET-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/jy-park-wet/",
+   "tracklist": [
+    "WET – (Title)",
+    "WET (Inst.)"
+   ],
+   "links": [
+    "https://x.com/followjyp",
+    "https://www.instagram.com/asiansoul_jyp/",
+    "https://www.youtube.com/@JYPark",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@jypark_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=dMf6YlGsv0U"
+  },
   {
    "artist": "POW",
    "type": "Single Album",
@@ -22,34 +43,6 @@
     "https://www.tiktok.com/@pow_grid"
    ],
    "mv": "https://www.youtube.com/watch?v=14RfeO9_ngw"
-  },
-  {
-   "artist": "KARD",
-   "type": "1st Album",
-   "title": "Where To Now? (Part.2) : NOWHERE",
-   "titleTrack": "Back To Life",
-   "date": "2026-07-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KARD-Where-To-Now-Pt2-NOWHERE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/kard-where-to-now-part-2-nowhere/",
-   "tracklist": [
-    "Back To Life (*Title)",
-    "Armor",
-    "At Least",
-    "Signal",
-    "Move (BM Solo)",
-    "EASY (J.seph Solo)",
-    "Backseat (SOMIN Solo)",
-    "Home Sweet Home (JIWOO Solo)",
-    "Always",
-    "Back To Life (Inst.)"
-   ],
-   "links": [
-    "https://x.com/KARD_Official",
-    "https://www.instagram.com/official_kard/",
-    "https://www.youtube.com/@KARD",
-    "https://www.tiktok.com/@official.kard"
-   ],
-   "mv": "https://www.youtube.com/watch?v=iwc3ePT4-xw"
   },
   {
    "artist": "P1Harmony",
@@ -303,14 +296,36 @@
    "date": "2026-08-04T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KISS-OF-LIFE-SWEAT-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/kiss-of-life-sweat/",
-   "tracklist": [],
+   "tracklist": [
+    "SWEAT – (Title)",
+    "WHAT!"
+   ],
    "links": [
     "https://x.com/KISSOFLIFE_S2",
     "https://www.instagram.com/kissoflife_s2",
     "https://www.youtube.com/@KISSOFLIFE_official",
     "https://www.tiktok.com/@kissoflife_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=QIez3fOpnTc"
+   "mv": "https://www.youtube.com/watch?v=eTvUZymLyGY"
+  },
+  {
+   "artist": "DAYOUNG X JAY PARK",
+   "type": "Single",
+   "title": "FLIRTY",
+   "titleTrack": "FLIRTY",
+   "date": "2026-08-04T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/DAYOUNG-Jay-Park-Flirty-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/dayoung-jay-park-flirty/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/DAYOUNG_offcl",
+    "https://www.instagram.com/dayoungism",
+    "https://www.instagram.com/dayoung_offcl",
+    "https://www.youtube.com/@DAYOUNG_official",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@dayoungism"
+   ],
+   "mv": "https://www.youtube.com/watch?v=M0v-AeoIsTU"
   },
   {
    "artist": "KISS OF LIFE",
@@ -320,14 +335,36 @@
    "date": "2026-08-04T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KISS-OF-LIFE-Members-for-Single-Sweat.webp",
    "url": "https://kpopofficial.com/album/kiss-of-life-sweat/",
-   "tracklist": [],
+   "tracklist": [
+    "SWEAT – (Title)",
+    "WHAT!"
+   ],
    "links": [
     "https://x.com/KISSOFLIFE_S2",
     "https://www.instagram.com/kissoflife_s2",
     "https://www.youtube.com/@KISSOFLIFE_official",
     "https://www.tiktok.com/@kissoflife_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=QIez3fOpnTc"
+   "mv": "https://www.youtube.com/watch?v=eTvUZymLyGY"
+  },
+  {
+   "artist": "DAYOUNG X JAY PARK",
+   "type": "Single",
+   "title": "FLIRTY",
+   "titleTrack": "FLIRTY",
+   "date": "2026-08-04T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-DAYOUNG-Jay-Park-Flirty-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/dayoung-jay-park-flirty/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/DAYOUNG_offcl",
+    "https://www.instagram.com/dayoungism",
+    "https://www.instagram.com/dayoung_offcl",
+    "https://www.youtube.com/@DAYOUNG_official",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@dayoungism"
+   ],
+   "mv": "https://www.youtube.com/watch?v=M0v-AeoIsTU"
   },
   {
    "artist": "HUH JIWON (Cherry Bullet)",
@@ -617,6 +654,29 @@
    ]
   },
   {
+   "artist": "AxMxP",
+   "type": "2nd Mini Album",
+   "title": "HELLO AxMxP",
+   "titleTrack": "나를 만나야 할 0가지 이유",
+   "date": "2026-08-12T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/AxMxP-Members.webp",
+   "url": "https://kpopofficial.com/album/hello-axmxp/",
+   "tracklist": [
+    "편의점 불빛 (24 Hours)",
+    "나를 만나야 할 0가지 이유 – (Title)",
+    "건너뛰기 (Skp)",
+    "How Much Is Your Love?",
+    "Back To Yesterday",
+    "사랑하지 않았다면 일어나지 않았을 일"
+   ],
+   "links": [
+    "https://x.com/AxMxP_official",
+    "https://www.instagram.com/AxMxP_official",
+    "https://www.youtube.com/@AxMxP_official/videos",
+    "https://www.tiktok.com/@axmxp_official"
+   ]
+  },
+  {
    "artist": "TOMORROW X TOGETHER (JP)",
    "type": "Japan 5th Single",
    "title": "Setsuna Hanabi",
@@ -685,6 +745,39 @@
    ]
   },
   {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+  },
+  {
+   "artist": "AtHeart",
+   "type": "Single",
+   "title": "3!4!",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/cover2-AtHeart-Members.webp",
+   "url": "https://kpopofficial.com/album/atheart-3-4/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/atheart_titan",
+    "https://www.instagram.com/atheart.titan/",
+    "https://www.youtube.com/@AtHeart_TITAN",
+    "https://www.tiktok.com/@atheart.titan"
+   ]
+  },
+  {
    "artist": "MASHIRO (MADEIN)",
    "type": "1st EP",
    "title": "24/11",
@@ -706,23 +799,6 @@
     "https://www.tiktok.com/@MADEIN_u"
    ],
    "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
-  },
-  {
-   "artist": "ONEWE",
-   "type": "3rd Full Album",
-   "title": "面 : Unknown Atlas",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
-   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_ONEWE",
-    "https://www.instagram.com/official_onewe",
-    "https://www.youtube.com/@ONEWE",
-    "https://www.tiktok.com/@rbw_onewe"
-   ],
-   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
   },
   {
    "artist": "Tiffany Young",
@@ -817,6 +893,23 @@
    "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
   },
   {
+   "artist": "ALPHA DRIVE ONE",
+   "type": "2nd Mini Album",
+   "title": "UNBREAKABLE : 少年BEAST",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/cover-ALPHA-DRIVE-ONE-members-for-euphoria-album.webp",
+   "url": "https://kpopofficial.com/album/alpha-drive-one-unbreakable-shonen-beast/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ALD1_official",
+    "https://www.instagram.com/ald1.official",
+    "https://www.youtube.com/@ALD1.official",
+    "https://www.tiktok.com/@ald1_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=gHLrxW02_tA"
+  },
+  {
    "artist": "NCT 127",
    "type": "7th Album",
    "title": "BLINGY",
@@ -835,23 +928,6 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@official_nct"
    ]
-  },
-  {
-   "artist": "ALPHA DRIVE ONE",
-   "type": "2nd Mini Album",
-   "title": "UNBREAKABLE : 少年BEAST",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/cover-ALPHA-DRIVE-ONE-members-for-euphoria-album.webp",
-   "url": "https://kpopofficial.com/album/alpha-drive-one-unbreakable-shonen-beast/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ALD1_official",
-    "https://www.instagram.com/ald1.official",
-    "https://www.youtube.com/@ALD1.official",
-    "https://www.tiktok.com/@ald1_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=gHLrxW02_tA"
   },
   {
    "artist": "TUIDE",
