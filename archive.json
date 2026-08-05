@@ -1421,6 +1421,23 @@
    ]
   },
   {
+   "artist": "OURBIRTHDAY",
+   "type": "1st Single",
+   "title": "Our Birthday",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members.webp",
+   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/OBD_offcl",
+    "https://www.instagram.com/ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@ourbirthday_official"
+   ]
+  },
+  {
    "artist": "Tiffany Young",
    "type": "1st Full Album",
    "title": "Edge of Calm",
@@ -1539,6 +1556,24 @@
     "https://www.tiktok.com/@tuide_official"
    ],
    "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
+  },
+  {
+   "artist": "NEXZ",
+   "type": "4th Mini Album",
+   "title": "SAUCIN’",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-NEXZ-for-Saucin.webp",
+   "url": "https://kpopofficial.com/album/nexz-saucin/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NEXZ_official",
+    "https://www.instagram.com/real_nexz/",
+    "https://www.youtube.com/@NEXZ_official",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@nexz_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
   },
   {
    "artist": "TAEMIN (SHINee)",
