@@ -1153,6 +1153,22 @@
    "mv": "https://www.youtube.com/watch?v=jyRuPP4q5g0"
   },
   {
+   "artist": "DAWN",
+   "type": "Single",
+   "title": "Too Much",
+   "titleTrack": "Too Much",
+   "date": "2026-08-07T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-DAWN-Single-Too-Much.webp",
+   "url": "https://kpopofficial.com/album/dawn-too-much/",
+   "tracklist": [],
+   "links": [
+    "https://www.instagram.com/hyojong_1994/",
+    "https://www.youtube.com/@officialdawn",
+    "https://www.tiktok.com/@dawn.official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=JtShKbksy8o"
+  },
+  {
    "artist": "Stray Kids",
    "type": "Mini Album",
    "title": "THIS & THAT",
@@ -1209,7 +1225,7 @@
    "title": "Vision Wings",
    "titleTrack": "Vision Wings",
    "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-WAYV-Members-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-WAYV-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/wayv-vision-wings/",
    "tracklist": [
     "Vision Wings (鸢)",
@@ -1323,6 +1339,30 @@
     "https://www.instagram.com/AxMxP_official",
     "https://www.youtube.com/@AxMxP_official/videos",
     "https://www.tiktok.com/@axmxp_official"
+   ]
+  },
+  {
+   "artist": "HYNN",
+   "type": "EP",
+   "title": "여름결 (Traces of Summer)",
+   "titleTrack": "3일 후 –",
+   "date": "2026-08-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-HYNN-Traces-of-Summer.webp",
+   "url": "https://kpopofficial.com/album/hynn-traces-of-summer/",
+   "tracklist": [
+    "3일 후 –",
+    "(Title)",
+    "운석이 떨어져 종말이 찾아온 것도 아닌데 –",
+    "(Title)",
+    "뒷장을 먼저 본 책처럼",
+    "어떤 이방인",
+    "주인공 연습"
+   ],
+   "links": [
+    "https://x.com/hynn_official",
+    "https://www.instagram.com/hynn_01/",
+    "https://www.youtube.com/@hynn9109",
+    "https://www.tiktok.com/@hynn0115"
    ]
   },
   {
@@ -1465,6 +1505,24 @@
    ]
   },
   {
+   "artist": "KIM JAE JOONG",
+   "type": "Single Album",
+   "title": "THE WAVE",
+   "titleTrack": null,
+   "date": "2026-08-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/KIM-JAE-JOONG-for-THE-WAVE.webp",
+   "url": "https://kpopofficial.com/album/kim-jae-joong-the-wave/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/inkodeofficial",
+    "https://x.com/bornfreeonekiss",
+    "https://www.instagram.com/jj_1986_jj/",
+    "https://www.instagram.com/inkode_official/",
+    "https://www.youtube.com/@inkodeofficial",
+    "https://www.youtube.com/@JAEJOONGJJOfficial"
+   ]
+  },
+  {
    "artist": "ENHYPEN",
    "type": "8th Mini Album",
    "title": "THE SIN : BLISS",
@@ -1519,7 +1577,7 @@
    "title": "UNBREAKABLE : 少年BEAST",
    "titleTrack": null,
    "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/cover-ALPHA-DRIVE-ONE-members-for-euphoria-album.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ALPHA-DRIVE-ONE-members-for-unbreakable-shonen-beast.webp",
    "url": "https://kpopofficial.com/album/alpha-drive-one-unbreakable-shonen-beast/",
    "tracklist": [],
    "links": [
@@ -1660,7 +1718,7 @@
    "title": "HANDLE WITH CARE",
    "titleTrack": "Dumb Hot!",
    "date": "2026-09-02T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-izna-members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/izna-members-for-JAPAN-1st-MINI-ALBUM-HANDLE-WITH-CARE.webp",
    "url": "https://kpopofficial.com/album/izna-handle-with-care/",
    "tracklist": [
     "Dumb Hot!",
