@@ -1,28 +1,7 @@
 {
- "generated": "2026-08-05T19:54:11+00:00",
+ "generated": "2026-08-06T03:35:53+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "POW",
-   "type": "Single Album",
-   "title": "FLAVOR",
-   "titleTrack": "FLAVOR",
-   "date": "2026-07-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/POW-Flavor-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/pow-flavor/",
-   "tracklist": [
-    "FLAVOR",
-    "Still Choosing You"
-   ],
-   "links": [
-    "https://x.com/POW_grid",
-    "https://www.instagram.com/pow_grid/",
-    "https://www.youtube.com/@POW_Official",
-    "https://www.youtube.com/@GRIDEntertainment",
-    "https://www.tiktok.com/@pow_grid"
-   ],
-   "mv": "https://www.youtube.com/watch?v=14RfeO9_ngw"
-  },
   {
    "artist": "P1Harmony",
    "type": "Single Album",
@@ -42,55 +21,6 @@
     "https://www.youtube.com/@P1Harmonyofficial",
     "https://www.tiktok.com/@p1harmony"
    ]
-  },
-  {
-   "artist": "ATEEZ (JP)",
-   "type": "Japan 5th Single",
-   "title": "BAD (Japanese Ver.)",
-   "titleTrack": "BAD (Japanese Ver.)",
-   "date": "2026-07-29T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/ATEEZ-Bad-Japanese-Version-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/ateez-bad-japanese-version/",
-   "tracklist": [
-    "BAD (Japanese Ver.)",
-    "Seeker",
-    "HIGHER",
-    "BAD (Instrumental)",
-    "Seeker (Instrumental)",
-    "HIGHER (Instrumental)"
-   ],
-   "links": [
-    "https://x.com/ATEEZofficial",
-    "https://x.com/ATEEZofficialjp",
-    "https://www.instagram.com/ateez_official_/",
-    "https://www.youtube.com/@ATEEZofficial",
-    "https://www.youtube.com/@KQENT",
-    "https://www.tiktok.com/@ateez_official_"
-   ],
-   "mv": "https://www.youtube.com/watch?v=p67W66bny94"
-  },
-  {
-   "artist": "THE WIND",
-   "type": "4th Mini Album",
-   "title": "Second Wind : S# 00",
-   "titleTrack": "Party Like A Rock Star",
-   "date": "2026-07-29T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/The-Wind-Second-wind-S00-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/the-wind-second-wind-s-00/",
-   "tracklist": [
-    "With the Wind",
-    "Party Like A Rock Star – (Title)",
-    "That’s Smoove!",
-    "Shiver",
-    "Back and Forth"
-   ],
-   "links": [
-    "https://x.com/officialTheWind",
-    "https://www.instagram.com/thewind.official/",
-    "https://www.youtube.com/@TheWind_official",
-    "https://www.tiktok.com/@official_thewind"
-   ],
-   "mv": "https://www.youtube.com/watch?v=ossXcpM-R9A"
   },
   {
    "artist": "UNIS (JP)",
@@ -289,7 +219,7 @@
    "title": "The Calling",
    "titleTrack": "Call Me Up",
    "date": "2026-08-05T12:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-HUH-JIWON-for-The-Calling.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/HUH-JIWON-The-Calling-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/huh-jiwon-the-calling/",
    "tracklist": [
     "Call Me Up – (Title)",
@@ -306,12 +236,35 @@
    "mv": "https://www.youtube.com/watch?v=g8Y1WhZLsRo"
   },
   {
+   "artist": "WHIB",
+   "type": "2nd Mini Album",
+   "title": "CHERRY PIE",
+   "titleTrack": "CHERRY PIE",
+   "date": "2026-08-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-CHERRY-PIE-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
+   "tracklist": [
+    "PAGES OF US",
+    "CHERRY PIE – (title)",
+    "MOTTO",
+    "CAN’T STOP=NOT FOUND",
+    "MAKE IT"
+   ],
+   "links": [
+    "https://x.com/whib_official",
+    "https://www.instagram.com/whib_official",
+    "https://www.youtube.com/@WHIB_OFFICIAL",
+    "https://www.tiktok.com/@whib_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=9jpNMWmTLaE"
+  },
+  {
    "artist": "AEN",
    "type": "1st EP",
    "title": "A NEW ERA OF NOW",
    "titleTrack": "X to Z (Next to me) (Japanese ver.)",
    "date": "2026-08-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover1-AEN-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/AEN-A-NEW-ERA-OF-NOW-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/aen-a-new-era-of-now/",
    "tracklist": [
     "Clockwise (Korean Ver.)",
@@ -333,29 +286,6 @@
     "https://www.tiktok.com/@aen_offcl"
    ],
    "mv": "https://www.youtube.com/watch?v=XHu_3JcG-kY"
-  },
-  {
-   "artist": "WHIB",
-   "type": "2nd Mini Album",
-   "title": "CHERRY PIE",
-   "titleTrack": "CHERRY PIE",
-   "date": "2026-08-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-WHIB-Members-for-CHERRY-PIE-Album.webp",
-   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
-   "tracklist": [
-    "PAGES OF US",
-    "CHERRY PIE – (title)",
-    "MOTTO",
-    "CAN’T STOP=NOT FOUND",
-    "MAKE IT"
-   ],
-   "links": [
-    "https://x.com/whib_official",
-    "https://www.instagram.com/whib_official",
-    "https://www.youtube.com/@WHIB_OFFICIAL",
-    "https://www.tiktok.com/@whib_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=9jpNMWmTLaE"
   },
   {
    "artist": "Stray Kids",
@@ -385,6 +315,54 @@
    "mv": "https://www.youtube.com/watch?v=xF7X_cRRMBI"
   },
   {
+   "artist": "ARTMS",
+   "type": "2nd Mini Album",
+   "title": "Hyper-Ego",
+   "titleTrack": "Blue Blood",
+   "date": "2026-08-07T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-ARTMS-Members-for-Hyper-Ego-Album.webp",
+   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
+   "tracklist": [
+    "From Wings To Soul",
+    "BORN STUNNER – (Pre-release)",
+    "Blue Blood – (Title)",
+    "ICARUS GANG",
+    "HYPER CRUSH",
+    "Pixel Memory"
+   ],
+   "links": [
+    "https://x.com/official_artms",
+    "https://www.instagram.com/official_artms",
+    "https://www.youtube.com/@official_artms",
+    "https://www.tiktok.com/@official_artms"
+   ],
+   "mv": "https://www.youtube.com/watch?v=jyRuPP4q5g0"
+  },
+  {
+   "artist": "ARTMS",
+   "type": "2nd Mini Album",
+   "title": "Hyper-Ego",
+   "titleTrack": "Blue Blood",
+   "date": "2026-08-07T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ARTMS-Members-for-Hyper-Ego-Album.webp",
+   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
+   "tracklist": [
+    "From Wings To Soul",
+    "BORN STUNNER – (Pre-release)",
+    "Blue Blood – (Title)",
+    "ICARUS GANG",
+    "HYPER CRUSH",
+    "Pixel Memory"
+   ],
+   "links": [
+    "https://x.com/official_artms",
+    "https://www.instagram.com/official_artms",
+    "https://www.youtube.com/@official_artms",
+    "https://www.tiktok.com/@official_artms"
+   ],
+   "mv": "https://www.youtube.com/watch?v=jyRuPP4q5g0"
+  },
+  {
    "artist": "Stray Kids",
    "type": "Mini Album",
    "title": "THIS & THAT",
@@ -412,38 +390,49 @@
    "mv": "https://www.youtube.com/watch?v=xF7X_cRRMBI"
   },
   {
-   "artist": "ARTMS",
-   "type": "2nd Mini Album",
-   "title": "Hyper-Ego",
-   "titleTrack": "Blue Blood",
-   "date": "2026-08-07T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-ARTMS-Members-for-Hyper-Ego-Album.webp",
-   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
+   "artist": "WayV",
+   "type": "8th Mini Album",
+   "title": "Vision Wings",
+   "titleTrack": "Vision Wings",
+   "date": "2026-08-10T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-WAYV-Members-Photo.webp",
+   "url": "https://kpopofficial.com/album/wayv-vision-wings/",
    "tracklist": [
-    "From Wings To Soul",
-    "BORN STUNNER – (Pre-release)",
-    "Blue Blood – (Title)",
-    "ICARUS GANG",
-    "HYPER CRUSH",
-    "Pixel Memory"
+    "Vision Wings (鸢)",
+    "Blue Fever (焰光蓝)",
+    "Count It (满贯)",
+    "Icon (主场)",
+    "Afterparty (5 a.m.)",
+    "Heaven’s Here With Me (光云之境)",
+    "Vision Wings (English Ver.)"
    ],
    "links": [
-    "https://x.com/official_artms",
-    "https://www.instagram.com/official_artms",
-    "https://www.youtube.com/@official_artms",
-    "https://www.tiktok.com/@official_artms"
+    "https://x.com/WayV_official",
+    "https://x.com/NCTsmtown",
+    "https://www.instagram.com/wayvofficial",
+    "https://www.youtube.com/@WayV",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_wayv"
    ],
-   "mv": "https://www.youtube.com/watch?v=jyRuPP4q5g0"
+   "mv": "https://www.youtube.com/watch?v=LsVvWktpytA"
   },
   {
    "artist": "WayV",
    "type": "8th Mini Album",
    "title": "Vision Wings",
-   "titleTrack": null,
+   "titleTrack": "Vision Wings",
    "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WayV-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-WAYV-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/wayv-vision-wings/",
-   "tracklist": [],
+   "tracklist": [
+    "Vision Wings (鸢)",
+    "Blue Fever (焰光蓝)",
+    "Count It (满贯)",
+    "Icon (主场)",
+    "Afterparty (5 a.m.)",
+    "Heaven’s Here With Me (光云之境)",
+    "Vision Wings (English Ver.)"
+   ],
    "links": [
     "https://x.com/WayV_official",
     "https://x.com/NCTsmtown",
@@ -458,7 +447,32 @@
    "artist": "KiiiKiii",
    "type": "3rd EP",
    "title": "WhyKiiiKiii",
-   "titleTrack": null,
+   "titleTrack": "Pop Off Pop Off",
+   "date": "2026-08-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/KiiiKiii-concerts.webp",
+   "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
+   "tracklist": [
+    "Ever2Late!",
+    "Hey Hi",
+    "Pop Off Pop Off",
+    "Sweet Sour",
+    "Candy Pink Magic Hole Flip Phone",
+    "Blue Hour"
+   ],
+   "links": [
+    "https://x.com/We_KiiiKiii",
+    "https://www.instagram.com/kiiikiii.official/",
+    "https://www.youtube.com/@KiiiKiii_starship",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@kiiikiii_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Xp8zQX1nap4"
+  },
+  {
+   "artist": "KiiiKiii",
+   "type": "3rd EP",
+   "title": "WhyKiiiKiii",
+   "titleTrack": "Pop Off Pop Off",
    "date": "2026-08-10T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KiiiKiii-members-for-WhyKiiiKiii-Album.webp",
    "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
@@ -477,7 +491,7 @@
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@kiiikiii_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=R9miRFaYbWo"
+   "mv": "https://www.youtube.com/watch?v=Xp8zQX1nap4"
   },
   {
    "artist": "JEONG EUNJI (Apink)",
@@ -499,7 +513,8 @@
    "links": [
     "https://x.com/JeongEunJi_X",
     "https://www.instagram.com/artist_eunji/",
-    "https://www.youtube.com/@eunji3116"
+    "https://www.youtube.com/@eunji3116",
+    "https://www.youtube.com/channel/UCZWxUUZ9KHe6qeboPqDnZJw"
    ]
   },
   {
@@ -521,7 +536,8 @@
     "https://www.instagram.com/hearts2hearts/",
     "https://www.youtube.com/@hearts2hearts.official",
     "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@hearts2hearts"
+    "https://www.tiktok.com/@hearts2hearts",
+    "https://www.youtube.com/@hearts2hearts.official/releases"
    ]
   },
   {
@@ -598,39 +614,6 @@
    ]
   },
   {
-   "artist": "ONEWE",
-   "type": "3rd Full Album",
-   "title": "面 : Unknown Atlas",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
-   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_ONEWE",
-    "https://www.instagram.com/official_onewe",
-    "https://www.youtube.com/@ONEWE",
-    "https://www.tiktok.com/@rbw_onewe"
-   ],
-   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
-  },
-  {
-   "artist": "AtHeart",
-   "type": "Single",
-   "title": "3!4!",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/cover2-AtHeart-Members.webp",
-   "url": "https://kpopofficial.com/album/atheart-3-4/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/atheart_titan",
-    "https://www.instagram.com/atheart.titan/",
-    "https://www.youtube.com/@AtHeart_TITAN",
-    "https://www.tiktok.com/@atheart.titan"
-   ]
-  },
-  {
    "artist": "MASHIRO (MADEIN)",
    "type": "1st EP",
    "title": "24/11",
@@ -652,6 +635,56 @@
     "https://www.tiktok.com/@MADEIN_u"
    ],
    "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
+  },
+  {
+   "artist": "AtHeart",
+   "type": "Single",
+   "title": "3!4!",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/cover2-AtHeart-Members.webp",
+   "url": "https://kpopofficial.com/album/atheart-3-4/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/atheart_titan",
+    "https://www.instagram.com/atheart.titan/",
+    "https://www.youtube.com/@AtHeart_TITAN",
+    "https://www.tiktok.com/@atheart.titan"
+   ]
+  },
+  {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+  },
+  {
+   "artist": "OURBIRTHDAY",
+   "type": "1st Single",
+   "title": "Our Birthday",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members.webp",
+   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/OBD_offcl",
+    "https://www.instagram.com/ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@ourbirthday_official"
+   ]
   },
   {
    "artist": "Tiffany Young",
@@ -699,12 +732,33 @@
    ]
   },
   {
+   "artist": "NCT 127",
+   "type": "7th Album",
+   "title": "BLINGY",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NCT-127-comeback-August-2026.webp",
+   "url": "https://kpopofficial.com/album/nct-127-blingy/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NCTsmtown_127",
+    "https://x.com/NCTsmtown",
+    "https://www.instagram.com/nct127",
+    "https://www.instagram.com/nct",
+    "https://www.youtube.com/@NCT127",
+    "https://www.youtube.com/@NCTsmtown",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct"
+   ],
+   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
+  },
+  {
    "artist": "ALPHA DRIVE ONE",
    "type": "2nd Mini Album",
    "title": "UNBREAKABLE : 少年BEAST",
    "titleTrack": null,
    "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/ALPHA-DRIVE-ONE-members-for-euphoria.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ALPHA-DRIVE-ONE-members-for-unbreakable-shonen-beast.webp",
    "url": "https://kpopofficial.com/album/alpha-drive-one-unbreakable-shonen-beast/",
    "tracklist": [],
    "links": [
@@ -713,7 +767,7 @@
     "https://www.youtube.com/@ALD1.official",
     "https://www.tiktok.com/@ald1_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=gHLrxW02_tA"
+   "mv": "https://www.youtube.com/watch?v=bXv5egr4Pw4"
   },
   {
    "artist": "TUIDE",
@@ -751,24 +805,76 @@
     "https://www.youtube.com/@NCTsmtown",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@official_nct"
+   ],
+   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
+  },
+  {
+   "artist": "NEXZ",
+   "type": "4th Mini Album",
+   "title": "SAUCIN’",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-NEXZ-for-Saucin.webp",
+   "url": "https://kpopofficial.com/album/nexz-saucin/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NEXZ_official",
+    "https://www.instagram.com/real_nexz/",
+    "https://www.youtube.com/@NEXZ_official",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@nexz_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
+  },
+  {
+   "artist": "SF9",
+   "type": "2nd Album",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-08-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/SF9-Members-Photo.webp",
+   "url": "https://kpopofficial.com/album/sf9-2nd-album/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/SF9official",
+    "https://www.instagram.com/SF9official",
+    "https://www.youtube.com/@SF9official",
+    "https://www.youtube.com/@thefncofficial",
+    "https://www.tiktok.com/@sf9official"
    ]
   },
   {
-   "artist": "ALPHA DRIVE ONE",
-   "type": "2nd Mini Album",
-   "title": "UNBREAKABLE : 少年BEAST",
+   "artist": "HITGS",
+   "type": "Digital Single",
+   "title": "Things We Dream : Vol.3",
    "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/cover-ALPHA-DRIVE-ONE-members-for-euphoria-album.webp",
-   "url": "https://kpopofficial.com/album/alpha-drive-one-unbreakable-shonen-beast/",
+   "date": "2026-08-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/10/HITGS-members-group-photo-3.webp",
+   "url": "https://kpopofficial.com/album/hitgs-things-we-dream-vol-3/",
    "tracklist": [],
    "links": [
-    "https://x.com/ALD1_official",
-    "https://www.instagram.com/ald1.official",
-    "https://www.youtube.com/@ALD1.official",
-    "https://www.tiktok.com/@ald1_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=gHLrxW02_tA"
+    "https://x.com/HITGS_offcl",
+    "https://www.instagram.com/hitgs_offcl/",
+    "https://www.youtube.com/@HITGS_offcl",
+    "https://www.tiktok.com/@hitgs.offcl"
+   ]
+  },
+  {
+   "artist": "TAEMIN (SHINee)",
+   "type": "Album",
+   "title": "PHASE 1 : Soft Violence",
+   "titleTrack": null,
+   "date": "2026-08-31T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-TAEMIN-photo.webp",
+   "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/Taemin_Xoalsox_",
+    "https://www.instagram.com/xoalsox/",
+    "https://www.instagram.com/taemin_xoalsox/",
+    "https://www.youtube.com/@taemin_xoalsox",
+    "https://www.tiktok.com/@taemin_xoalsox_"
+   ]
   },
   {
    "artist": "TAEMIN (SHINee)",
@@ -786,6 +892,23 @@
     "https://www.youtube.com/@taemin_xoalsox",
     "https://www.tiktok.com/@taemin_xoalsox_"
    ]
+  },
+  {
+   "artist": "82MAJOR",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-09-01T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/82MAJOR-5th-Mini-Album-FEELM-Teaser.webp",
+   "url": "https://kpopofficial.com/album/82major-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/82MAJOR_231011",
+    "https://www.instagram.com/82major_official",
+    "https://www.youtube.com/@82major_official",
+    "https://www.tiktok.com/@82major_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=AE3xB43P3pA"
   },
   {
    "artist": "izna (JP)",
@@ -810,24 +933,6 @@
    "title": "Mark on Me",
    "titleTrack": null,
    "date": "2026-09-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-AndTEAM-2nd-Mini-Album-Mark-on-Me.webp",
-   "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/andTEAMofficial",
-    "https://www.instagram.com/andteam_official",
-    "https://www.youtube.com/@andTEAM_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@andteam_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=D4a4oaELqwI"
-  },
-  {
-   "artist": "&TEAM (KR)",
-   "type": "2nd Mini Album",
-   "title": "Mark on Me",
-   "titleTrack": null,
-   "date": "2026-09-08T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-AndTEAM-2nd-Mini-Album-Mark-on-Me.webp",
    "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
    "tracklist": [],
@@ -838,7 +943,7 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@andteam_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=D4a4oaELqwI"
+   "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
   },
   {
    "artist": "BOYNEXTDOOR",

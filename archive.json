@@ -1033,7 +1033,7 @@
    "title": "The Calling",
    "titleTrack": "Call Me Up",
    "date": "2026-08-05T12:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-HUH-JIWON-for-The-Calling.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/HUH-JIWON-The-Calling-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/huh-jiwon-the-calling/",
    "tracklist": [
     "Call Me Up – (Title)",
@@ -1055,7 +1055,7 @@
    "title": "A NEW ERA OF NOW",
    "titleTrack": "X to Z (Next to me) (Japanese ver.)",
    "date": "2026-08-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover1-AEN-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/AEN-A-NEW-ERA-OF-NOW-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/aen-a-new-era-of-now/",
    "tracklist": [
     "Clockwise (Korean Ver.)",
@@ -1084,7 +1084,7 @@
    "title": "CHERRY PIE",
    "titleTrack": "CHERRY PIE",
    "date": "2026-08-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-WHIB-Members-for-CHERRY-PIE-Album.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-CHERRY-PIE-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/whib-cherry-pie/",
    "tracklist": [
     "PAGES OF US",
@@ -1207,11 +1207,19 @@
    "artist": "WayV",
    "type": "8th Mini Album",
    "title": "Vision Wings",
-   "titleTrack": null,
+   "titleTrack": "Vision Wings",
    "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WayV-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-WAYV-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/wayv-vision-wings/",
-   "tracklist": [],
+   "tracklist": [
+    "Vision Wings (鸢)",
+    "Blue Fever (焰光蓝)",
+    "Count It (满贯)",
+    "Icon (主场)",
+    "Afterparty (5 a.m.)",
+    "Heaven’s Here With Me (光云之境)",
+    "Vision Wings (English Ver.)"
+   ],
    "links": [
     "https://x.com/WayV_official",
     "https://x.com/NCTsmtown",
@@ -1226,7 +1234,7 @@
    "artist": "KiiiKiii",
    "type": "3rd EP",
    "title": "WhyKiiiKiii",
-   "titleTrack": null,
+   "titleTrack": "Pop Off Pop Off",
    "date": "2026-08-10T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KiiiKiii-members-for-WhyKiiiKiii-Album.webp",
    "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
@@ -1245,7 +1253,7 @@
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@kiiikiii_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=R9miRFaYbWo"
+   "mv": "https://www.youtube.com/watch?v=Xp8zQX1nap4"
   },
   {
    "artist": "JEONG EUNJI (Apink)",
@@ -1267,7 +1275,8 @@
    "links": [
     "https://x.com/JeongEunJi_X",
     "https://www.instagram.com/artist_eunji/",
-    "https://www.youtube.com/@eunji3116"
+    "https://www.youtube.com/@eunji3116",
+    "https://www.youtube.com/channel/UCZWxUUZ9KHe6qeboPqDnZJw"
    ]
   },
   {
@@ -1289,7 +1298,8 @@
     "https://www.instagram.com/hearts2hearts/",
     "https://www.youtube.com/@hearts2hearts.official",
     "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@hearts2hearts"
+    "https://www.tiktok.com/@hearts2hearts",
+    "https://www.youtube.com/@hearts2hearts.official/releases"
    ]
   },
   {
@@ -1509,7 +1519,7 @@
    "title": "UNBREAKABLE : 少年BEAST",
    "titleTrack": null,
    "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/cover-ALPHA-DRIVE-ONE-members-for-euphoria-album.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ALPHA-DRIVE-ONE-members-for-unbreakable-shonen-beast.webp",
    "url": "https://kpopofficial.com/album/alpha-drive-one-unbreakable-shonen-beast/",
    "tracklist": [],
    "links": [
@@ -1518,7 +1528,7 @@
     "https://www.youtube.com/@ALD1.official",
     "https://www.tiktok.com/@ald1_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=gHLrxW02_tA"
+   "mv": "https://www.youtube.com/watch?v=bXv5egr4Pw4"
   },
   {
    "artist": "NCT 127",
@@ -1538,7 +1548,8 @@
     "https://www.youtube.com/@NCTsmtown",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@official_nct"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
   },
   {
    "artist": "TUIDE",
@@ -1577,6 +1588,39 @@
    "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
   },
   {
+   "artist": "SF9",
+   "type": "2nd Album",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-08-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/SF9-Members-Photo.webp",
+   "url": "https://kpopofficial.com/album/sf9-2nd-album/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/SF9official",
+    "https://www.instagram.com/SF9official",
+    "https://www.youtube.com/@SF9official",
+    "https://www.youtube.com/@thefncofficial",
+    "https://www.tiktok.com/@sf9official"
+   ]
+  },
+  {
+   "artist": "HITGS",
+   "type": "Digital Single",
+   "title": "Things We Dream : Vol.3",
+   "titleTrack": null,
+   "date": "2026-08-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/10/HITGS-members-group-photo-3.webp",
+   "url": "https://kpopofficial.com/album/hitgs-things-we-dream-vol-3/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/HITGS_offcl",
+    "https://www.instagram.com/hitgs_offcl/",
+    "https://www.youtube.com/@HITGS_offcl",
+    "https://www.tiktok.com/@hitgs.offcl"
+   ]
+  },
+  {
    "artist": "TAEMIN (SHINee)",
    "type": "Album",
    "title": "PHASE 1 : Soft Violence",
@@ -1592,6 +1636,23 @@
     "https://www.youtube.com/@taemin_xoalsox",
     "https://www.tiktok.com/@taemin_xoalsox_"
    ]
+  },
+  {
+   "artist": "82MAJOR",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-09-01T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/82MAJOR-5th-Mini-Album-FEELM-Teaser.webp",
+   "url": "https://kpopofficial.com/album/82major-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/82MAJOR_231011",
+    "https://www.instagram.com/82major_official",
+    "https://www.youtube.com/@82major_official",
+    "https://www.tiktok.com/@82major_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=AE3xB43P3pA"
   },
   {
    "artist": "izna (JP)",
@@ -1626,7 +1687,7 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@andteam_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=D4a4oaELqwI"
+   "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
   },
   {
    "artist": "BOYNEXTDOOR",
