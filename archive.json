@@ -1209,7 +1209,7 @@
    "title": "Vision Wings",
    "titleTrack": "Vision Wings",
    "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-WAYV-Members-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-WAYV-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/wayv-vision-wings/",
    "tracklist": [
     "Vision Wings (鸢)",
@@ -1519,7 +1519,7 @@
    "title": "UNBREAKABLE : 少年BEAST",
    "titleTrack": null,
    "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ALPHA-DRIVE-ONE-members-for-unbreakable-shonen-beast.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/cover-ALPHA-DRIVE-ONE-members-for-euphoria-album.webp",
    "url": "https://kpopofficial.com/album/alpha-drive-one-unbreakable-shonen-beast/",
    "tracklist": [],
    "links": [
@@ -1658,11 +1658,17 @@
    "artist": "izna (JP)",
    "type": "JAPAN 1st Mini Album",
    "title": "HANDLE WITH CARE",
-   "titleTrack": null,
+   "titleTrack": "Dumb Hot!",
    "date": "2026-09-02T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-izna-members.webp",
    "url": "https://kpopofficial.com/album/izna-handle-with-care/",
-   "tracklist": [],
+   "tracklist": [
+    "Dumb Hot!",
+    "Headache",
+    "Izna (Japanese Ver.)",
+    "Sign (Japanese Ver.)",
+    "Mamma Mia (Japanese Ver.)"
+   ],
    "links": [
     "https://x.com/izna_offcl",
     "https://x.com/izna_offcl_jp",
