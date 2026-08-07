@@ -1,70 +1,28 @@
 {
- "generated": "2026-08-07T00:15:02+00:00",
+ "generated": "2026-08-07T03:16:28+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
-   "artist": "P1Harmony",
-   "type": "Single Album",
-   "title": "UNIQUE Japan Edition",
-   "titleTrack": "VELVET",
-   "date": "2026-07-29T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/P1Harmony-UNIQUE-Japan-Edition-1.webp",
-   "url": "https://kpopofficial.com/album/p1harmony-unique-japan-edition/",
+   "artist": "ILLIT",
+   "type": "Japan 2nd Single",
+   "title": "I Got Your Back",
+   "titleTrack": "I Got Your Back",
+   "date": "2026-07-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ILLIT-Japan-I-Got-Your-Back-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/illit-i-got-your-back/",
    "tracklist": [
-    "VELVET – (Title)",
-    "1 SECOND"
+    "I Got Your Back",
+    "Sunday Morning"
    ],
    "links": [
-    "https://x.com/P1H_official",
-    "https://x.com/P1H_official_jp",
-    "https://www.instagram.com/p1h_official",
-    "https://www.youtube.com/@P1Harmonyofficial",
-    "https://www.tiktok.com/@p1harmony"
-   ]
-  },
-  {
-   "artist": "UNIS (JP)",
-   "type": "Japan 1st Mini Album",
-   "title": "UNI☆Sparkle!",
-   "titleTrack": "Gimmesummer (Jp Version)",
-   "date": "2026-07-31T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/UNIS-Sparkle-Japan-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/unis-uni-sparkle/",
-   "tracklist": [
-    "Gimmesummer (Jp Version) – (Title)",
-    "Bbybby",
-    "Moshimoshi (Jp Version)",
-    "Mwah… (Jp Version)",
-    "Swicy (Japanese Version)"
+    "https://x.com/ILLIT_official",
+    "https://x.com/ILLITjpofficial",
+    "https://www.instagram.com/ILLIT_official",
+    "https://www.youtube.com/@ILLIT_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@illit_official"
    ],
-   "links": [
-    "https://x.com/UNIS_offcl",
-    "https://x.com/UNIS_offcl_JP",
-    "https://www.instagram.com/unis_offcl/",
-    "https://www.youtube.com/@UNIS_Offcl",
-    "https://www.tiktok.com/@unis_offcl"
-   ],
-   "mv": "https://www.youtube.com/watch?v=sqYNGZJWNcw"
-  },
-  {
-   "artist": "EMOTI:M",
-   "type": "1st Single Album",
-   "title": "CONNECT",
-   "titleTrack": "SPARK",
-   "date": "2026-07-31T12:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/EMOTIM-Connect-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/emotim-connect/",
-   "tracklist": [
-    "SPARK",
-    "SPARK (Instrumental)"
-   ],
-   "links": [
-    "https://x.com/EMOTIM_OFFICIAL",
-    "https://www.instagram.com/emotim_official",
-    "https://www.youtube.com/@emotim5official",
-    "https://www.tiktok.com/@emotim_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Ll5a-Y50Td8"
+   "mv": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
   },
   {
    "artist": "Stray Kids",
@@ -355,6 +313,22 @@
    "mv": "https://www.youtube.com/watch?v=jyRuPP4q5g0"
   },
   {
+   "artist": "DAWN",
+   "type": "Single",
+   "title": "Too Much",
+   "titleTrack": "Too Much",
+   "date": "2026-08-07T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/DAWN-Single-Too-Much.webp",
+   "url": "https://kpopofficial.com/album/dawn-too-much/",
+   "tracklist": [],
+   "links": [
+    "https://www.instagram.com/hyojong_1994/",
+    "https://www.youtube.com/@officialdawn",
+    "https://www.tiktok.com/@dawn.official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=JtShKbksy8o"
+  },
+  {
    "artist": "ARTMS",
    "type": "2nd Mini Album",
    "title": "Hyper-Ego",
@@ -412,33 +386,6 @@
    "titleTrack": "Vision Wings",
    "date": "2026-08-10T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-WAYV-Members-Photo.webp",
-   "url": "https://kpopofficial.com/album/wayv-vision-wings/",
-   "tracklist": [
-    "Vision Wings (鸢)",
-    "Blue Fever (焰光蓝)",
-    "Count It (满贯)",
-    "Icon (主场)",
-    "Afterparty (5 a.m.)",
-    "Heaven’s Here With Me (光云之境)",
-    "Vision Wings (English Ver.)"
-   ],
-   "links": [
-    "https://x.com/WayV_official",
-    "https://x.com/NCTsmtown",
-    "https://www.instagram.com/wayvofficial",
-    "https://www.youtube.com/@WayV",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_wayv"
-   ],
-   "mv": "https://www.youtube.com/watch?v=LsVvWktpytA"
-  },
-  {
-   "artist": "WayV",
-   "type": "8th Mini Album",
-   "title": "Vision Wings",
-   "titleTrack": "Vision Wings",
-   "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-WAYV-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/wayv-vision-wings/",
    "tracklist": [
     "Vision Wings (鸢)",
@@ -761,6 +708,55 @@
    ]
   },
   {
+   "artist": "MIMI (OH MY GIRL)",
+   "type": "1st Single",
+   "title": "Bish Bash Bosh",
+   "titleTrack": "Bish Bash Bosh",
+   "date": "2026-08-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MIMI-Bish-Bash-Bosh.webp",
+   "url": "https://kpopofficial.com/album/mimi-bish-bash-bosh/",
+   "tracklist": [
+    "Bish Bash Bosh",
+    "Bish Bash Bosh (Acapella) (LP Only)",
+    "Bish Bash Bosh (Inst.)"
+   ],
+   "links": [
+    "https://x.com/8_OHMYGIRL",
+    "https://www.instagram.com/wm_ohmygirl",
+    "https://www.youtube.com/@OHMYGIRL",
+    "https://www.tiktok.com/@wm_ohmygirl"
+   ]
+  },
+  {
+   "artist": "ENHYPEN",
+   "type": "8th Mini Album",
+   "title": "THE SIN : BLISS",
+   "titleTrack": "Bloody Paradise",
+   "date": "2026-08-21T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/enhypen-the-sin-bliss/",
+   "tracklist": [
+    "Two Fools",
+    "속보",
+    "Stuck",
+    "Bad For You",
+    "사랑의 잔해",
+    "Bloody Paradise – (Title)",
+    "최후의 순간",
+    "Checkmate",
+    "Highlight",
+    "가려진 진실"
+   ],
+   "links": [
+    "https://x.com/ENHYPEN",
+    "https://x.com/ENHYPEN_JP",
+    "https://www.instagram.com/enhypen/",
+    "https://www.youtube.com/@ENHYPENOFFICIAL",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@enhypen"
+   ]
+  },
+  {
    "artist": "ENHYPEN",
    "type": "8th Mini Album",
    "title": "THE SIN : BLISS",
@@ -790,45 +786,6 @@
    ]
   },
   {
-   "artist": "NCT 127",
-   "type": "7th Album",
-   "title": "BLINGY",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NCT-127-comeback-August-2026.webp",
-   "url": "https://kpopofficial.com/album/nct-127-blingy/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/NCTsmtown_127",
-    "https://x.com/NCTsmtown",
-    "https://www.instagram.com/nct127",
-    "https://www.instagram.com/nct",
-    "https://www.youtube.com/@NCT127",
-    "https://www.youtube.com/@NCTsmtown",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
-   ],
-   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
-  },
-  {
-   "artist": "TUIDE",
-   "type": "1st EP",
-   "title": "TUNE & PLAY",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUIDE-Members.webp",
-   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/TUIDE_official",
-    "https://www.instagram.com/tuide_abd",
-    "https://www.youtube.com/@TUIDE_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tuide_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
-  },
-  {
    "artist": "ALPHA DRIVE ONE",
    "type": "2nd Mini Album",
    "title": "UNBREAKABLE : 少年BEAST",
@@ -844,6 +801,27 @@
     "https://www.tiktok.com/@ald1_official"
    ],
    "mv": "https://www.youtube.com/watch?v=bXv5egr4Pw4"
+  },
+  {
+   "artist": "NCT 127",
+   "type": "7th Album",
+   "title": "BLINGY",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/NCT-127-comeback-August-2026.webp",
+   "url": "https://kpopofficial.com/album/nct-127-blingy/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NCTsmtown_127",
+    "https://x.com/NCTsmtown",
+    "https://www.instagram.com/nct127",
+    "https://www.instagram.com/nct",
+    "https://www.youtube.com/@NCT127",
+    "https://www.youtube.com/@NCTsmtown",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct"
+   ],
+   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
   },
   {
    "artist": "TUIDE",
@@ -880,27 +858,6 @@
     "https://www.tiktok.com/@nexz_official"
    ],
    "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
-  },
-  {
-   "artist": "NCT 127",
-   "type": "7th Album",
-   "title": "BLINGY",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/NCT-127-comeback-August-2026.webp",
-   "url": "https://kpopofficial.com/album/nct-127-blingy/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/NCTsmtown_127",
-    "https://x.com/NCTsmtown",
-    "https://www.instagram.com/nct127",
-    "https://www.instagram.com/nct",
-    "https://www.youtube.com/@NCT127",
-    "https://www.youtube.com/@NCTsmtown",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
-   ],
-   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
   },
   {
    "artist": "SF9",
