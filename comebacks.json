@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-06T14:34:49+00:00",
+ "generated": "2026-08-07T00:15:02+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -654,40 +654,6 @@
    ]
   },
   {
-   "artist": "ONEWE",
-   "type": "3rd Full Album",
-   "title": "面 : Unknown Atlas",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
-   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_ONEWE",
-    "https://www.instagram.com/official_onewe",
-    "https://www.youtube.com/@ONEWE",
-    "https://www.tiktok.com/@rbw_onewe"
-   ],
-   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
-  },
-  {
-   "artist": "OURBIRTHDAY",
-   "type": "1st Single",
-   "title": "Our Birthday",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members.webp",
-   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/OBD_offcl",
-    "https://www.instagram.com/ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@ourbirthday_official"
-   ]
-  },
-  {
    "artist": "MASHIRO (MADEIN)",
    "type": "1st EP",
    "title": "24/11",
@@ -724,6 +690,40 @@
     "https://www.instagram.com/atheart.titan/",
     "https://www.youtube.com/@AtHeart_TITAN",
     "https://www.tiktok.com/@atheart.titan"
+   ]
+  },
+  {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+  },
+  {
+   "artist": "OURBIRTHDAY",
+   "type": "1st Single",
+   "title": "Our Birthday",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members.webp",
+   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/OBD_offcl",
+    "https://www.instagram.com/ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@ourbirthday_official"
    ]
   },
   {
