@@ -1,68 +1,7 @@
 {
- "generated": "2026-08-09T07:15:34+00:00",
+ "generated": "2026-08-09T13:15:10+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "Young K (DAY6)",
-   "type": "2nd Full Album",
-   "title": "YOUNGEST",
-   "titleTrack": "Shut The Door",
-   "date": "2026-07-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/DAY6-Young-K-Youngest-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/young-k-youngest/",
-   "tracklist": [
-    "Marionette",
-    "Shut The Door – (Title)",
-    "F World",
-    "Hey Honey",
-    "Anthem",
-    "SPIKE",
-    "Yonge St.",
-    "million reasons",
-    "A Hundred Whys for Goodbye",
-    "Drivin’ into Hell",
-    "whatever",
-    "Goodbye, Love",
-    "Heading Home",
-    "Gypsophila",
-    "Ordinary Days"
-   ],
-   "links": [
-    "https://x.com/day6official",
-    "https://www.instagram.com/DAY6kilogram",
-    "https://www.youtube.com/@DAY6Official",
-    "https://www.youtube.com/@JYPEntertainment"
-   ],
-   "mv": "https://www.youtube.com/watch?v=W9SBhNLTDVw"
-  },
-  {
-   "artist": "KARD",
-   "type": "1st Album",
-   "title": "Where To Now? (Part.2) : NOWHERE",
-   "titleTrack": "Back To Life",
-   "date": "2026-07-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KARD-Where-To-Now-Pt2-NOWHERE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/kard-where-to-now-part-2-nowhere/",
-   "tracklist": [
-    "Back To Life (*Title)",
-    "Armor",
-    "At Least",
-    "Signal",
-    "Move (BM Solo)",
-    "EASY (J.seph Solo)",
-    "Backseat (SOMIN Solo)",
-    "Home Sweet Home (JIWOO Solo)",
-    "Always",
-    "Back To Life (Inst.)"
-   ],
-   "links": [
-    "https://x.com/KARD_Official",
-    "https://www.instagram.com/official_kard/",
-    "https://www.youtube.com/@KARD",
-    "https://www.tiktok.com/@official.kard"
-   ],
-   "mv": "https://www.youtube.com/watch?v=iwc3ePT4-xw"
-  },
   {
    "artist": "Stray Kids",
    "type": "Album",
@@ -352,12 +291,57 @@
    "mv": "https://www.youtube.com/watch?v=XUq2T47iY9A"
   },
   {
+   "artist": "MIYEON (i-dle)",
+   "type": "Japan Digital Single",
+   "title": "RUN AWAY",
+   "titleTrack": "RUN AWAY",
+   "date": "2026-08-10T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Miyeon-Japan-RUN-AWAY.webp",
+   "url": "https://kpopofficial.com/album/miyeon-run-away/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://x.com/i_dle_JP",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=hLY9KMIU2BA"
+  },
+  {
    "artist": "WayV",
    "type": "8th Mini Album",
    "title": "Vision Wings",
    "titleTrack": "Vision Wings",
    "date": "2026-08-10T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-WAYV-Members-Photo.webp",
+   "url": "https://kpopofficial.com/album/wayv-vision-wings/",
+   "tracklist": [
+    "Vision Wings (鸢)",
+    "Blue Fever (焰光蓝)",
+    "Count It (满贯)",
+    "Icon (主场)",
+    "Afterparty (5 a.m.)",
+    "Heaven’s Here With Me (光云之境)",
+    "Vision Wings (English Ver.)"
+   ],
+   "links": [
+    "https://x.com/WayV_official",
+    "https://x.com/NCTsmtown",
+    "https://www.instagram.com/wayvofficial",
+    "https://www.youtube.com/@WayV",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_wayv"
+   ],
+   "mv": "https://www.youtube.com/watch?v=LsVvWktpytA"
+  },
+  {
+   "artist": "WayV",
+   "type": "8th Mini Album",
+   "title": "Vision Wings",
+   "titleTrack": "Vision Wings",
+   "date": "2026-08-10T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-WAYV-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/wayv-vision-wings/",
    "tracklist": [
     "Vision Wings (鸢)",
@@ -459,6 +443,29 @@
    "titleTrack": null,
    "date": "2026-08-12T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-Hearts2Hearts-Japan-ICONIC-HEART-Tracklist.webp",
+   "url": "https://kpopofficial.com/album/hearts2hearts-iconic-heart/",
+   "tracklist": [
+    "ICONIC HEART",
+    "Lemon Tang (Japanese Ver.)",
+    "RUDE! (Japanese Ver.)"
+   ],
+   "links": [
+    "https://x.com/Hearts2Hearts",
+    "https://x.com/Hearts2HeartsJP",
+    "https://www.instagram.com/hearts2hearts/",
+    "https://www.youtube.com/@hearts2hearts.official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@hearts2hearts",
+    "https://www.youtube.com/@hearts2hearts.official/releases"
+   ]
+  },
+  {
+   "artist": "Hearts2Hearts (JP)",
+   "type": "1st Japan Single",
+   "title": "ICONIC HEART",
+   "titleTrack": null,
+   "date": "2026-08-12T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-Hearts2Hearts-Japan-ICONIC-HEART-Tracklist.webp",
    "url": "https://kpopofficial.com/album/hearts2hearts-iconic-heart/",
    "tracklist": [
     "ICONIC HEART",
@@ -591,6 +598,40 @@
    ]
   },
   {
+   "artist": "OURBIRTHDAY",
+   "type": "1st Single",
+   "title": "Our Birthday",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members.webp",
+   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/OBD_offcl",
+    "https://www.instagram.com/ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@ourbirthday_official"
+   ]
+  },
+  {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+  },
+  {
    "artist": "MASHIRO (MADEIN)",
    "type": "1st EP",
    "title": "24/11",
@@ -630,38 +671,24 @@
    ]
   },
   {
-   "artist": "OURBIRTHDAY",
+   "artist": "MIMI (OH MY GIRL)",
    "type": "1st Single",
-   "title": "Our Birthday",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members.webp",
-   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/OBD_offcl",
-    "https://www.instagram.com/ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@ourbirthday_official"
-   ]
-  },
-  {
-   "artist": "ONEWE",
-   "type": "3rd Full Album",
-   "title": "面 : Unknown Atlas",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
-   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_ONEWE",
-    "https://www.instagram.com/official_onewe",
-    "https://www.youtube.com/@ONEWE",
-    "https://www.tiktok.com/@rbw_onewe"
+   "title": "Bish Bash Bosh",
+   "titleTrack": "Bish Bash Bosh",
+   "date": "2026-08-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MIMI-Bish-Bash-Bosh.webp",
+   "url": "https://kpopofficial.com/album/mimi-bish-bash-bosh/",
+   "tracklist": [
+    "Bish Bash Bosh",
+    "Bish Bash Bosh (Acapella) (LP Only)",
+    "Bish Bash Bosh (Inst.)"
    ],
-   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+   "links": [
+    "https://x.com/8_OHMYGIRL",
+    "https://www.instagram.com/wm_ohmygirl",
+    "https://www.youtube.com/@OHMYGIRL",
+    "https://www.tiktok.com/@wm_ohmygirl"
+   ]
   },
   {
    "artist": "KIM JAE JOONG",
@@ -695,26 +722,6 @@
     "https://www.instagram.com/teampmg_/",
     "https://www.instagram.com/tiffanyyoungofficial/",
     "https://www.youtube.com/@tiffanyyoungofficial"
-   ]
-  },
-  {
-   "artist": "MIMI (OH MY GIRL)",
-   "type": "1st Single",
-   "title": "Bish Bash Bosh",
-   "titleTrack": "Bish Bash Bosh",
-   "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MIMI-Bish-Bash-Bosh.webp",
-   "url": "https://kpopofficial.com/album/mimi-bish-bash-bosh/",
-   "tracklist": [
-    "Bish Bash Bosh",
-    "Bish Bash Bosh (Acapella) (LP Only)",
-    "Bish Bash Bosh (Inst.)"
-   ],
-   "links": [
-    "https://x.com/8_OHMYGIRL",
-    "https://www.instagram.com/wm_ohmygirl",
-    "https://www.youtube.com/@OHMYGIRL",
-    "https://www.tiktok.com/@wm_ohmygirl"
    ]
   },
   {
@@ -776,6 +783,45 @@
    ]
   },
   {
+   "artist": "NCT 127",
+   "type": "7th Album",
+   "title": "BLINGY",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NCT-127-comeback-August-2026.webp",
+   "url": "https://kpopofficial.com/album/nct-127-blingy/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NCTsmtown_127",
+    "https://x.com/NCTsmtown",
+    "https://www.instagram.com/nct127",
+    "https://www.instagram.com/nct",
+    "https://www.youtube.com/@NCT127",
+    "https://www.youtube.com/@NCTsmtown",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct"
+   ],
+   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
+  },
+  {
+   "artist": "NEXZ",
+   "type": "4th Mini Album",
+   "title": "SAUCIN’",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-NEXZ-for-Saucin.webp",
+   "url": "https://kpopofficial.com/album/nexz-saucin/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NEXZ_official",
+    "https://www.instagram.com/real_nexz/",
+    "https://www.youtube.com/@NEXZ_official",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@nexz_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
+  },
+  {
    "artist": "ALPHA DRIVE ONE",
    "type": "2nd Mini Album",
    "title": "UNBREAKABLE : 少年BEAST",
@@ -830,24 +876,6 @@
     "https://www.tiktok.com/@official_nct"
    ],
    "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
-  },
-  {
-   "artist": "NEXZ",
-   "type": "4th Mini Album",
-   "title": "SAUCIN’",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-NEXZ-for-Saucin.webp",
-   "url": "https://kpopofficial.com/album/nexz-saucin/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/NEXZ_official",
-    "https://www.instagram.com/real_nexz/",
-    "https://www.youtube.com/@NEXZ_official",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@nexz_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
   },
   {
    "artist": "SF9",
@@ -937,6 +965,24 @@
     "https://www.instagram.com/izna_offcl",
     "https://www.youtube.com/@izna_offcl",
     "https://www.tiktok.com/@izna_offcl"
+   ]
+  },
+  {
+   "artist": "MONSTA X",
+   "type": "EP",
+   "title": "The Phase",
+   "titleTrack": null,
+   "date": "2026-09-04T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/MONSTA-X-Members-for-English-Album-Unfold.webp",
+   "url": "https://kpopofficial.com/album/monsta-x-the-phase/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/OfficialMONSTAX",
+    "https://www.instagram.com/official_monsta_x/",
+    "https://www.youtube.com/@MONSTAX",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@monsta_x_514",
+    "https://www.youtube.com/@MONSTAX/releases"
    ]
   },
   {

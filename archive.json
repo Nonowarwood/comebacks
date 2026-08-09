@@ -1225,7 +1225,7 @@
    "title": "Vision Wings",
    "titleTrack": "Vision Wings",
    "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-WAYV-Members-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-WAYV-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/wayv-vision-wings/",
    "tracklist": [
     "Vision Wings (鸢)",
@@ -1245,6 +1245,24 @@
     "https://www.tiktok.com/@official_wayv"
    ],
    "mv": "https://www.youtube.com/watch?v=LsVvWktpytA"
+  },
+  {
+   "artist": "MIYEON (i-dle)",
+   "type": "Japan Digital Single",
+   "title": "RUN AWAY",
+   "titleTrack": "RUN AWAY",
+   "date": "2026-08-10T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Miyeon-Japan-RUN-AWAY.webp",
+   "url": "https://kpopofficial.com/album/miyeon-run-away/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://x.com/i_dle_JP",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=hLY9KMIU2BA"
   },
   {
    "artist": "KiiiKiii",
@@ -1301,7 +1319,7 @@
    "title": "ICONIC HEART",
    "titleTrack": null,
    "date": "2026-08-12T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-Hearts2Hearts-Japan-ICONIC-HEART-Tracklist.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-Hearts2Hearts-Japan-ICONIC-HEART-Tracklist.webp",
    "url": "https://kpopofficial.com/album/hearts2hearts-iconic-heart/",
    "tracklist": [
     "ICONIC HEART",
@@ -1753,6 +1771,24 @@
     "https://www.instagram.com/izna_offcl",
     "https://www.youtube.com/@izna_offcl",
     "https://www.tiktok.com/@izna_offcl"
+   ]
+  },
+  {
+   "artist": "MONSTA X",
+   "type": "EP",
+   "title": "The Phase",
+   "titleTrack": null,
+   "date": "2026-09-04T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/MONSTA-X-Members-for-English-Album-Unfold.webp",
+   "url": "https://kpopofficial.com/album/monsta-x-the-phase/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/OfficialMONSTAX",
+    "https://www.instagram.com/official_monsta_x/",
+    "https://www.youtube.com/@MONSTAX",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@monsta_x_514",
+    "https://www.youtube.com/@MONSTAX/releases"
    ]
   },
   {
