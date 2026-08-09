@@ -1,7 +1,31 @@
 {
- "generated": "2026-08-09T13:15:10+00:00",
+ "generated": "2026-08-09T19:00:12+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
+  {
+   "artist": "UNIS (JP)",
+   "type": "Japan 1st Mini Album",
+   "title": "UNI☆Sparkle!",
+   "titleTrack": "Gimmesummer (Jp Version)",
+   "date": "2026-07-31T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/UNIS-Sparkle-Japan-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/unis-uni-sparkle/",
+   "tracklist": [
+    "Gimmesummer (Jp Version) – (Title)",
+    "Bbybby",
+    "Moshimoshi (Jp Version)",
+    "Mwah… (Jp Version)",
+    "Swicy (Japanese Version)"
+   ],
+   "links": [
+    "https://x.com/UNIS_offcl",
+    "https://x.com/UNIS_offcl_JP",
+    "https://www.instagram.com/unis_offcl/",
+    "https://www.youtube.com/@UNIS_Offcl",
+    "https://www.tiktok.com/@unis_offcl"
+   ],
+   "mv": "https://www.youtube.com/watch?v=sqYNGZJWNcw"
+  },
   {
    "artist": "Stray Kids",
    "type": "Album",
@@ -363,6 +387,24 @@
    "mv": "https://www.youtube.com/watch?v=LsVvWktpytA"
   },
   {
+   "artist": "MIYEON (i-dle)",
+   "type": "Japan Digital Single",
+   "title": "RUN AWAY",
+   "titleTrack": "RUN AWAY",
+   "date": "2026-08-10T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-Miyeon-Japan-RUN-AWAY.webp",
+   "url": "https://kpopofficial.com/album/miyeon-run-away/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://x.com/i_dle_JP",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=hLY9KMIU2BA"
+  },
+  {
    "artist": "KiiiKiii",
    "type": "3rd EP",
    "title": "WhyKiiiKiii",
@@ -548,24 +590,6 @@
    ]
   },
   {
-   "artist": "TOMORROW X TOGETHER (JP)",
-   "type": "Japan 5th Single",
-   "title": "Setsuna Hanabi",
-   "titleTrack": null,
-   "date": "2026-08-17T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TOMORROW-X-TOGETHER-members.webp",
-   "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/TXT_bighit",
-    "https://x.com/TXT_bighit_jp",
-    "https://www.instagram.com/txt_bighit",
-    "https://www.youtube.com/@TXT_bighit",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@txt.bighitent"
-   ]
-  },
-  {
    "artist": "BOYNEXTDOOR (JP)",
    "type": "2nd Japanese Digital Single",
    "title": null,
@@ -596,6 +620,45 @@
     "https://www.youtube.com/@ZB1_official",
     "https://www.tiktok.com/@zb1_official"
    ]
+  },
+  {
+   "artist": "AtHeart",
+   "type": "Single",
+   "title": "3!4!",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/cover1-AtHeart-Members.webp",
+   "url": "https://kpopofficial.com/album/atheart-3-4/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/atheart_titan",
+    "https://www.instagram.com/atheart.titan/",
+    "https://www.youtube.com/@AtHeart_TITAN",
+    "https://www.tiktok.com/@atheart.titan"
+   ]
+  },
+  {
+   "artist": "MASHIRO (MADEIN)",
+   "type": "1st EP",
+   "title": "24/11",
+   "titleTrack": "HOTLINE (Feat. BOBBY)",
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-MADEIN-MASHIRO.webp",
+   "url": "https://kpopofficial.com/album/mashiro-24-11/",
+   "tracklist": [
+    "HOTLINE (Feat. BOBBY)",
+    "MAKE UP",
+    "Bubble Trouble",
+    "Tooth brush"
+   ],
+   "links": [
+    "https://x.com/MADEIN_U",
+    "https://www.instagram.com/we.madein.u",
+    "https://www.instagram.com/shir0._.chann/",
+    "https://www.youtube.com/@MADEIN_U",
+    "https://www.tiktok.com/@MADEIN_u"
+   ],
+   "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
   },
   {
    "artist": "OURBIRTHDAY",
@@ -883,7 +946,7 @@
    "title": null,
    "titleTrack": null,
    "date": "2026-08-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/SF9-Members-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-SF9-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/sf9-2nd-album/",
    "tracklist": [],
    "links": [
