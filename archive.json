@@ -1225,7 +1225,7 @@
    "title": "Vision Wings",
    "titleTrack": "Vision Wings",
    "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-WAYV-Members-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/WayV-Vision-Wings-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/wayv-vision-wings/",
    "tracklist": [
     "Vision Wings (鸢)",
@@ -1244,7 +1244,7 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@official_wayv"
    ],
-   "mv": "https://www.youtube.com/watch?v=LsVvWktpytA"
+   "mv": "https://www.youtube.com/watch?v=bfQ0eLJNWiw"
   },
   {
    "artist": "MIYEON (i-dle)",
@@ -1252,7 +1252,7 @@
    "title": "RUN AWAY",
    "titleTrack": "RUN AWAY",
    "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-Miyeon-Japan-RUN-AWAY.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MIYEON-RUN-AWAY-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/miyeon-run-away/",
    "tracklist": [],
    "links": [
@@ -1287,7 +1287,7 @@
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@kiiikiii_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=hOg4syHpOoQ"
+   "mv": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
   },
   {
    "artist": "JEONG EUNJI (Apink)",
@@ -1504,6 +1504,40 @@
     "https://www.youtube.com/@OURBIRTHDAY",
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@ourbirthday_official"
+   ]
+  },
+  {
+   "artist": "BIGBANG",
+   "type": "Digital Single",
+   "title": "BiiiG",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-BIGBANG-Members-for-Single-BiiiG.webp",
+   "url": "https://kpopofficial.com/album/bigbang-biiig/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/YG_GlobalVIP",
+    "https://www.instagram.com/bigbang_2xx6/",
+    "https://www.youtube.com/@BIGBANG",
+    "https://www.tiktok.com/@bigbang_2xx6",
+    "https://www.youtube.com/@BIGBANG/releases"
+   ]
+  },
+  {
+   "artist": "ODD YOUTH",
+   "type": "3rd Single",
+   "title": "can’t go back",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
+   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/oddyouth_offcl",
+    "https://www.instagram.com/oddyouth_official",
+    "https://www.youtube.com/@ODD_YOUTH",
+    "https://www.tiktok.com/@odd_youth",
+    "https://www.youtube.com/@ODD_YOUTH/releases"
    ]
   },
   {
@@ -1772,6 +1806,23 @@
     "https://www.youtube.com/@izna_offcl",
     "https://www.tiktok.com/@izna_offcl"
    ]
+  },
+  {
+   "artist": "TUNEXX",
+   "type": "2nd Mini Album",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-09-04T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-Comeback-September-2026.webp",
+   "url": "https://kpopofficial.com/album/tunexx-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TUNEXX_official",
+    "https://www.instagram.com/tunexx_official/",
+    "https://www.youtube.com/@official_TUNEXX",
+    "https://www.tiktok.com/@tunexx_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
   },
   {
    "artist": "MONSTA X",
