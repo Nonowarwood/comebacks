@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-10T13:43:27+00:00",
+ "generated": "2026-08-10T19:16:25+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -301,12 +301,30 @@
    "mv": "https://www.youtube.com/watch?v=bfQ0eLJNWiw"
   },
   {
+   "artist": "MIYEON (i-dle)",
+   "type": "Japan Digital Single",
+   "title": "RUN AWAY",
+   "titleTrack": "RUN AWAY",
+   "date": "2026-08-10T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-Miyeon-Japan-RUN-AWAY.webp",
+   "url": "https://kpopofficial.com/album/miyeon-run-away/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://x.com/i_dle_JP",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=kO_AAjLbiys"
+  },
+  {
    "artist": "WayV",
    "type": "8th Mini Album",
    "title": "Vision Wings",
    "titleTrack": "Vision Wings",
    "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/WayV-Vision-Wings-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-WAYV-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/wayv-vision-wings/",
    "tracklist": [
     "Vision Wings (鸢)",
@@ -328,30 +346,12 @@
    "mv": "https://www.youtube.com/watch?v=bfQ0eLJNWiw"
   },
   {
-   "artist": "MIYEON (i-dle)",
-   "type": "Japan Digital Single",
-   "title": "RUN AWAY",
-   "titleTrack": "RUN AWAY",
-   "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MIYEON-RUN-AWAY-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/miyeon-run-away/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_i_dle",
-    "https://x.com/i_dle_JP",
-    "https://www.instagram.com/i_dle_official",
-    "https://www.youtube.com/@official_i_dle",
-    "https://www.tiktok.com/@official_i_dle"
-   ],
-   "mv": "https://www.youtube.com/watch?v=kO_AAjLbiys"
-  },
-  {
    "artist": "KiiiKiii",
    "type": "3rd EP",
    "title": "WhyKiiiKiii",
    "titleTrack": "Pop Off Pop Off",
    "date": "2026-08-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/KiiiKiii-3rd-EP-WhyKiiiKiii-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/KiiiKiii-concerts.webp",
    "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
    "tracklist": [
     "Ever2Late!",
@@ -415,9 +415,9 @@
    "links": [
     "https://x.com/JeongEunJi_X",
     "https://www.instagram.com/artist_eunji/",
-    "https://www.youtube.com/@eunji3116",
-    "https://www.youtube.com/channel/UCZWxUUZ9KHe6qeboPqDnZJw"
-   ]
+    "https://www.youtube.com/@eunji3116"
+   ],
+   "mv": "https://www.youtube.com/watch?v=O2b1ehnnpto"
   },
   {
    "artist": "Hearts2Hearts (JP)",
@@ -531,6 +531,24 @@
    ]
   },
   {
+   "artist": "TOMORROW X TOGETHER (JP)",
+   "type": "Japan 5th Single",
+   "title": "Setsuna Hanabi",
+   "titleTrack": null,
+   "date": "2026-08-17T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TOMORROW-X-TOGETHER-members.webp",
+   "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TXT_bighit",
+    "https://x.com/TXT_bighit_jp",
+    "https://www.instagram.com/txt_bighit",
+    "https://www.youtube.com/@TXT_bighit",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@txt.bighitent"
+   ]
+  },
+  {
    "artist": "BOYNEXTDOOR (JP)",
    "type": "2nd Japanese Digital Single",
    "title": null,
@@ -563,21 +581,38 @@
    ]
   },
   {
-   "artist": "BIGBANG",
-   "type": "Digital Single",
-   "title": "BiiiG",
+   "artist": "OURBIRTHDAY",
+   "type": "1st Single",
+   "title": "Our Birthday",
    "titleTrack": null,
    "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-BIGBANG-Members-for-Single-BiiiG.webp",
-   "url": "https://kpopofficial.com/album/bigbang-biiig/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members.webp",
+   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
    "tracklist": [],
    "links": [
-    "https://x.com/YG_GlobalVIP",
-    "https://www.instagram.com/bigbang_2xx6/",
-    "https://www.youtube.com/@BIGBANG",
-    "https://www.tiktok.com/@bigbang_2xx6",
-    "https://www.youtube.com/@BIGBANG/releases"
+    "https://x.com/OBD_offcl",
+    "https://www.instagram.com/ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@ourbirthday_official"
    ]
+  },
+  {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
   },
   {
    "artist": "MASHIRO (MADEIN)",
@@ -619,54 +654,23 @@
    ]
   },
   {
-   "artist": "OURBIRTHDAY",
+   "artist": "MIMI (OH MY GIRL)",
    "type": "1st Single",
-   "title": "Our Birthday",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members.webp",
-   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/OBD_offcl",
-    "https://www.instagram.com/ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@ourbirthday_official"
-   ]
-  },
-  {
-   "artist": "ONEWE",
-   "type": "3rd Full Album",
-   "title": "面 : Unknown Atlas",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
-   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_ONEWE",
-    "https://www.instagram.com/official_onewe",
-    "https://www.youtube.com/@ONEWE",
-    "https://www.tiktok.com/@rbw_onewe"
+   "title": "Bish Bash Bosh",
+   "titleTrack": "Bish Bash Bosh",
+   "date": "2026-08-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MIMI-Bish-Bash-Bosh.webp",
+   "url": "https://kpopofficial.com/album/mimi-bish-bash-bosh/",
+   "tracklist": [
+    "Bish Bash Bosh",
+    "Bish Bash Bosh (Acapella) (LP Only)",
+    "Bish Bash Bosh (Inst.)"
    ],
-   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
-  },
-  {
-   "artist": "ODD YOUTH",
-   "type": "3rd Single",
-   "title": "can’t go back",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
-   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
-   "tracklist": [],
    "links": [
-    "https://x.com/oddyouth_offcl",
-    "https://www.instagram.com/oddyouth_official",
-    "https://www.youtube.com/@ODD_YOUTH",
-    "https://www.tiktok.com/@odd_youth",
-    "https://www.youtube.com/@ODD_YOUTH/releases"
+    "https://x.com/8_OHMYGIRL",
+    "https://www.instagram.com/wm_ohmygirl",
+    "https://www.youtube.com/@OHMYGIRL",
+    "https://www.tiktok.com/@wm_ohmygirl"
    ]
   },
   {
@@ -685,26 +689,6 @@
     "https://www.instagram.com/inkode_official/",
     "https://www.youtube.com/@inkodeofficial",
     "https://www.youtube.com/@JAEJOONGJJOfficial"
-   ]
-  },
-  {
-   "artist": "MIMI (OH MY GIRL)",
-   "type": "1st Single",
-   "title": "Bish Bash Bosh",
-   "titleTrack": "Bish Bash Bosh",
-   "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MIMI-Bish-Bash-Bosh.webp",
-   "url": "https://kpopofficial.com/album/mimi-bish-bash-bosh/",
-   "tracklist": [
-    "Bish Bash Bosh",
-    "Bish Bash Bosh (Acapella) (LP Only)",
-    "Bish Bash Bosh (Inst.)"
-   ],
-   "links": [
-    "https://x.com/8_OHMYGIRL",
-    "https://www.instagram.com/wm_ohmygirl",
-    "https://www.youtube.com/@OHMYGIRL",
-    "https://www.tiktok.com/@wm_ohmygirl"
    ]
   },
   {
@@ -782,24 +766,6 @@
    ]
   },
   {
-   "artist": "TUIDE",
-   "type": "1st EP",
-   "title": "TUNE & PLAY",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUIDE-Members.webp",
-   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/TUIDE_official",
-    "https://www.instagram.com/tuide_abd",
-    "https://www.youtube.com/@TUIDE_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tuide_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
-  },
-  {
    "artist": "NCT 127",
    "type": "7th Album",
    "title": "BLINGY",
@@ -819,6 +785,59 @@
     "https://www.tiktok.com/@official_nct"
    ],
    "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
+  },
+  {
+   "artist": "TUIDE",
+   "type": "1st EP",
+   "title": "TUNE & PLAY",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUIDE-Members.webp",
+   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TUIDE_official",
+    "https://www.instagram.com/tuide_abd",
+    "https://www.youtube.com/@TUIDE_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tuide_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
+  },
+  {
+   "artist": "NEXZ",
+   "type": "4th Mini Album",
+   "title": "SAUCIN’",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-NEXZ-for-Saucin.webp",
+   "url": "https://kpopofficial.com/album/nexz-saucin/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NEXZ_official",
+    "https://www.instagram.com/real_nexz/",
+    "https://www.youtube.com/@NEXZ_official",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@nexz_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
+  },
+  {
+   "artist": "ALPHA DRIVE ONE",
+   "type": "2nd Mini Album",
+   "title": "UNBREAKABLE : 少年BEAST",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ALPHA-DRIVE-ONE-members-for-unbreakable-shonen-beast.webp",
+   "url": "https://kpopofficial.com/album/alpha-drive-one-unbreakable-shonen-beast/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ALD1_official",
+    "https://www.instagram.com/ald1.official",
+    "https://www.youtube.com/@ALD1.official",
+    "https://www.tiktok.com/@ald1_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=bXv5egr4Pw4"
   },
   {
    "artist": "TUIDE",
@@ -858,41 +877,6 @@
     "https://www.tiktok.com/@official_nct"
    ],
    "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
-  },
-  {
-   "artist": "NEXZ",
-   "type": "4th Mini Album",
-   "title": "SAUCIN’",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-NEXZ-for-Saucin.webp",
-   "url": "https://kpopofficial.com/album/nexz-saucin/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/NEXZ_official",
-    "https://www.instagram.com/real_nexz/",
-    "https://www.youtube.com/@NEXZ_official",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@nexz_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
-  },
-  {
-   "artist": "ALPHA DRIVE ONE",
-   "type": "2nd Mini Album",
-   "title": "UNBREAKABLE : 少年BEAST",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ALPHA-DRIVE-ONE-members-for-unbreakable-shonen-beast.webp",
-   "url": "https://kpopofficial.com/album/alpha-drive-one-unbreakable-shonen-beast/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ALD1_official",
-    "https://www.instagram.com/ald1.official",
-    "https://www.youtube.com/@ALD1.official",
-    "https://www.tiktok.com/@ald1_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=bXv5egr4Pw4"
   },
   {
    "artist": "SF9",
@@ -985,23 +969,6 @@
    ]
   },
   {
-   "artist": "TUNEXX",
-   "type": "2nd Mini Album",
-   "title": null,
-   "titleTrack": null,
-   "date": "2026-09-04T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-Comeback-September-2026.webp",
-   "url": "https://kpopofficial.com/album/tunexx-comeback/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/TUNEXX_official",
-    "https://www.instagram.com/tunexx_official/",
-    "https://www.youtube.com/@official_TUNEXX",
-    "https://www.tiktok.com/@tunexx_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
-  },
-  {
    "artist": "MONSTA X",
    "type": "EP",
    "title": "The Phase",
@@ -1024,40 +991,6 @@
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@monsta_x_514",
     "https://www.youtube.com/@MONSTAX/releases"
-   ]
-  },
-  {
-   "artist": "EVAN",
-   "type": "1st Mini Album",
-   "title": "DEATH OF ME",
-   "titleTrack": null,
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-EVAN-Heeseung.webp",
-   "url": "https://kpopofficial.com/album/evan-death-of-me/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/h_evva_n",
-    "https://www.instagram.com/h_evva_n/",
-    "https://www.youtube.com/@h_evva_n",
-    "https://www.tiktok.com/@h_evva_n",
-    "https://www.youtube.com/@h_evva_n/releases"
-   ]
-  },
-  {
-   "artist": "EVAN",
-   "type": "1st Mini Album",
-   "title": "DEATH OF ME",
-   "titleTrack": null,
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-EVAN-Heeseung.webp",
-   "url": "https://kpopofficial.com/album/evan-death-of-me/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/h_evva_n",
-    "https://www.instagram.com/h_evva_n/",
-    "https://www.youtube.com/@h_evva_n",
-    "https://www.tiktok.com/@h_evva_n",
-    "https://www.youtube.com/@h_evva_n/releases"
    ]
   },
   {
