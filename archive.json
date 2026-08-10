@@ -1262,7 +1262,7 @@
     "https://www.youtube.com/@official_i_dle",
     "https://www.tiktok.com/@official_i_dle"
    ],
-   "mv": "https://www.youtube.com/watch?v=hLY9KMIU2BA"
+   "mv": "https://www.youtube.com/watch?v=kO_AAjLbiys"
   },
   {
    "artist": "KiiiKiii",
@@ -1689,7 +1689,7 @@
    "title": null,
    "titleTrack": null,
    "date": "2026-08-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-SF9-Members-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/SF9-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/sf9-2nd-album/",
    "tracklist": [],
    "links": [
@@ -1777,11 +1777,18 @@
    "artist": "MONSTA X",
    "type": "EP",
    "title": "The Phase",
-   "titleTrack": null,
+   "titleTrack": "MAGIC",
    "date": "2026-09-04T13:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/04/MONSTA-X-Members-for-English-Album-Unfold.webp",
    "url": "https://kpopofficial.com/album/monsta-x-the-phase/",
-   "tracklist": [],
+   "tracklist": [
+    "MAGIC – (Title)",
+    "Type X",
+    "SURVIVOR",
+    "Electric Heart",
+    "That’s My Girl",
+    "Sweet Night, Sweet Morning"
+   ],
    "links": [
     "https://x.com/OfficialMONSTAX",
     "https://www.instagram.com/official_monsta_x/",
@@ -1789,6 +1796,23 @@
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@monsta_x_514",
     "https://www.youtube.com/@MONSTAX/releases"
+   ]
+  },
+  {
+   "artist": "EVAN",
+   "type": "1st Mini Album",
+   "title": "DEATH OF ME",
+   "titleTrack": null,
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-EVAN-Heeseung.webp",
+   "url": "https://kpopofficial.com/album/evan-death-of-me/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/h_evva_n",
+    "https://www.instagram.com/h_evva_n/",
+    "https://www.youtube.com/@h_evva_n",
+    "https://www.tiktok.com/@h_evva_n",
+    "https://www.youtube.com/@h_evva_n/releases"
    ]
   },
   {

@@ -1,66 +1,7 @@
 {
- "generated": "2026-08-10T02:34:21+00:00",
+ "generated": "2026-08-10T08:03:59+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "UNIS (JP)",
-   "type": "Japan 1st Mini Album",
-   "title": "UNI☆Sparkle!",
-   "titleTrack": "Gimmesummer (Jp Version)",
-   "date": "2026-07-31T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/UNIS-Sparkle-Japan-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/unis-uni-sparkle/",
-   "tracklist": [
-    "Gimmesummer (Jp Version) – (Title)",
-    "Bbybby",
-    "Moshimoshi (Jp Version)",
-    "Mwah… (Jp Version)",
-    "Swicy (Japanese Version)"
-   ],
-   "links": [
-    "https://x.com/UNIS_offcl",
-    "https://x.com/UNIS_offcl_JP",
-    "https://www.instagram.com/unis_offcl/",
-    "https://www.youtube.com/@UNIS_Offcl",
-    "https://www.tiktok.com/@unis_offcl"
-   ],
-   "mv": "https://www.youtube.com/watch?v=sqYNGZJWNcw"
-  },
-  {
-   "artist": "Stray Kids",
-   "type": "Album",
-   "title": "SKZ-REPLAY 2026 Pt.1",
-   "titleTrack": "Battle Ground (Korean Ver.)",
-   "date": "2026-08-01T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Stray-Kids-SKZ-REPLAY-2026-Pt1.webp",
-   "url": "https://kpopofficial.com/album/stray-kids-skz-replay-2026-pt-1/",
-   "tracklist": [
-    "Battle Ground (Korean Ver.)",
-    "Roman Empire (Bang Chan)",
-    "Lover (Hyunjin)",
-    "Raining Stars (유성우) (Han)",
-    "The Little Things (행복 뭐 별거 없네요) (I.N)",
-    "Goodbye (Seungmin)",
-    "Still Here (제자리걸음) (Seungmin)",
-    "Into the Current (급류) (Seungmin)",
-    "Mic&Brush (Hyunjin)",
-    "Perfume (Seungmin)",
-    "Baby (Bang Chan)",
-    "Don’t Say (Han)",
-    "My Name (명) (Changbin)",
-    "Rev It Up (Felix)",
-    "Limbo (나지막이) (Live Ver.) (Lee Know)",
-    "Hug Me (안아줄게요) (Live Ver.) (I.N)",
-    "Stay (별, 빛)"
-   ],
-   "links": [
-    "https://x.com/Stray_Kids",
-    "https://www.instagram.com/realstraykids/",
-    "https://www.youtube.com/@StrayKids",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@jypestraykids"
-   ]
-  },
   {
    "artist": "Picheolin (SEVENTEEN DINO)",
    "type": "1st Mini Album",
@@ -315,24 +256,6 @@
    "mv": "https://www.youtube.com/watch?v=XUq2T47iY9A"
   },
   {
-   "artist": "MIYEON (i-dle)",
-   "type": "Japan Digital Single",
-   "title": "RUN AWAY",
-   "titleTrack": "RUN AWAY",
-   "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Miyeon-Japan-RUN-AWAY.webp",
-   "url": "https://kpopofficial.com/album/miyeon-run-away/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_i_dle",
-    "https://x.com/i_dle_JP",
-    "https://www.instagram.com/i_dle_official",
-    "https://www.youtube.com/@official_i_dle",
-    "https://www.tiktok.com/@official_i_dle"
-   ],
-   "mv": "https://www.youtube.com/watch?v=hLY9KMIU2BA"
-  },
-  {
    "artist": "WayV",
    "type": "8th Mini Album",
    "title": "Vision Wings",
@@ -358,6 +281,24 @@
     "https://www.tiktok.com/@official_wayv"
    ],
    "mv": "https://www.youtube.com/watch?v=LsVvWktpytA"
+  },
+  {
+   "artist": "MIYEON (i-dle)",
+   "type": "Japan Digital Single",
+   "title": "RUN AWAY",
+   "titleTrack": "RUN AWAY",
+   "date": "2026-08-10T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Miyeon-Japan-RUN-AWAY.webp",
+   "url": "https://kpopofficial.com/album/miyeon-run-away/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://x.com/i_dle_JP",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=kO_AAjLbiys"
   },
   {
    "artist": "WayV",
@@ -402,7 +343,7 @@
     "https://www.youtube.com/@official_i_dle",
     "https://www.tiktok.com/@official_i_dle"
    ],
-   "mv": "https://www.youtube.com/watch?v=hLY9KMIU2BA"
+   "mv": "https://www.youtube.com/watch?v=kO_AAjLbiys"
   },
   {
    "artist": "KiiiKiii",
@@ -627,7 +568,7 @@
    "title": "3!4!",
    "titleTrack": null,
    "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/cover1-AtHeart-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/cover2-AtHeart-Members.webp",
    "url": "https://kpopofficial.com/album/atheart-3-4/",
    "tracklist": [],
    "links": [
@@ -636,29 +577,6 @@
     "https://www.youtube.com/@AtHeart_TITAN",
     "https://www.tiktok.com/@atheart.titan"
    ]
-  },
-  {
-   "artist": "MASHIRO (MADEIN)",
-   "type": "1st EP",
-   "title": "24/11",
-   "titleTrack": "HOTLINE (Feat. BOBBY)",
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-MADEIN-MASHIRO.webp",
-   "url": "https://kpopofficial.com/album/mashiro-24-11/",
-   "tracklist": [
-    "HOTLINE (Feat. BOBBY)",
-    "MAKE UP",
-    "Bubble Trouble",
-    "Tooth brush"
-   ],
-   "links": [
-    "https://x.com/MADEIN_U",
-    "https://www.instagram.com/we.madein.u",
-    "https://www.instagram.com/shir0._.chann/",
-    "https://www.youtube.com/@MADEIN_U",
-    "https://www.tiktok.com/@MADEIN_u"
-   ],
-   "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
   },
   {
    "artist": "OURBIRTHDAY",
@@ -718,42 +636,6 @@
    "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
   },
   {
-   "artist": "AtHeart",
-   "type": "Single",
-   "title": "3!4!",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/cover2-AtHeart-Members.webp",
-   "url": "https://kpopofficial.com/album/atheart-3-4/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/atheart_titan",
-    "https://www.instagram.com/atheart.titan/",
-    "https://www.youtube.com/@AtHeart_TITAN",
-    "https://www.tiktok.com/@atheart.titan"
-   ]
-  },
-  {
-   "artist": "MIMI (OH MY GIRL)",
-   "type": "1st Single",
-   "title": "Bish Bash Bosh",
-   "titleTrack": "Bish Bash Bosh",
-   "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MIMI-Bish-Bash-Bosh.webp",
-   "url": "https://kpopofficial.com/album/mimi-bish-bash-bosh/",
-   "tracklist": [
-    "Bish Bash Bosh",
-    "Bish Bash Bosh (Acapella) (LP Only)",
-    "Bish Bash Bosh (Inst.)"
-   ],
-   "links": [
-    "https://x.com/8_OHMYGIRL",
-    "https://www.instagram.com/wm_ohmygirl",
-    "https://www.youtube.com/@OHMYGIRL",
-    "https://www.tiktok.com/@wm_ohmygirl"
-   ]
-  },
-  {
    "artist": "KIM JAE JOONG",
    "type": "Single Album",
    "title": "THE WAVE",
@@ -785,6 +667,26 @@
     "https://www.instagram.com/teampmg_/",
     "https://www.instagram.com/tiffanyyoungofficial/",
     "https://www.youtube.com/@tiffanyyoungofficial"
+   ]
+  },
+  {
+   "artist": "MIMI (OH MY GIRL)",
+   "type": "1st Single",
+   "title": "Bish Bash Bosh",
+   "titleTrack": "Bish Bash Bosh",
+   "date": "2026-08-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MIMI-Bish-Bash-Bosh.webp",
+   "url": "https://kpopofficial.com/album/mimi-bish-bash-bosh/",
+   "tracklist": [
+    "Bish Bash Bosh",
+    "Bish Bash Bosh (Acapella) (LP Only)",
+    "Bish Bash Bosh (Inst.)"
+   ],
+   "links": [
+    "https://x.com/8_OHMYGIRL",
+    "https://www.instagram.com/wm_ohmygirl",
+    "https://www.youtube.com/@OHMYGIRL",
+    "https://www.tiktok.com/@wm_ohmygirl"
    ]
   },
   {
@@ -867,6 +769,45 @@
    "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
   },
   {
+   "artist": "TUIDE",
+   "type": "1st EP",
+   "title": "TUNE & PLAY",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUIDE-Members.webp",
+   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TUIDE_official",
+    "https://www.instagram.com/tuide_abd",
+    "https://www.youtube.com/@TUIDE_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tuide_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
+  },
+  {
+   "artist": "NCT 127",
+   "type": "7th Album",
+   "title": "BLINGY",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/NCT-127-comeback-August-2026.webp",
+   "url": "https://kpopofficial.com/album/nct-127-blingy/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NCTsmtown_127",
+    "https://x.com/NCTsmtown",
+    "https://www.instagram.com/nct127",
+    "https://www.instagram.com/nct",
+    "https://www.youtube.com/@NCT127",
+    "https://www.youtube.com/@NCTsmtown",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct"
+   ],
+   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
+  },
+  {
    "artist": "NEXZ",
    "type": "4th Mini Album",
    "title": "SAUCIN’",
@@ -920,33 +861,12 @@
    "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
   },
   {
-   "artist": "NCT 127",
-   "type": "7th Album",
-   "title": "BLINGY",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/NCT-127-comeback-August-2026.webp",
-   "url": "https://kpopofficial.com/album/nct-127-blingy/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/NCTsmtown_127",
-    "https://x.com/NCTsmtown",
-    "https://www.instagram.com/nct127",
-    "https://www.instagram.com/nct",
-    "https://www.youtube.com/@NCT127",
-    "https://www.youtube.com/@NCTsmtown",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
-   ],
-   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
-  },
-  {
    "artist": "SF9",
    "type": "2nd Album",
    "title": null,
    "titleTrack": null,
    "date": "2026-08-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-SF9-Members-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/SF9-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/sf9-2nd-album/",
    "tracklist": [],
    "links": [
@@ -1034,11 +954,18 @@
    "artist": "MONSTA X",
    "type": "EP",
    "title": "The Phase",
-   "titleTrack": null,
+   "titleTrack": "MAGIC",
    "date": "2026-09-04T13:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/04/MONSTA-X-Members-for-English-Album-Unfold.webp",
    "url": "https://kpopofficial.com/album/monsta-x-the-phase/",
-   "tracklist": [],
+   "tracklist": [
+    "MAGIC – (Title)",
+    "Type X",
+    "SURVIVOR",
+    "Electric Heart",
+    "That’s My Girl",
+    "Sweet Night, Sweet Morning"
+   ],
    "links": [
     "https://x.com/OfficialMONSTAX",
     "https://www.instagram.com/official_monsta_x/",
@@ -1046,6 +973,23 @@
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@monsta_x_514",
     "https://www.youtube.com/@MONSTAX/releases"
+   ]
+  },
+  {
+   "artist": "EVAN",
+   "type": "1st Mini Album",
+   "title": "DEATH OF ME",
+   "titleTrack": null,
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-EVAN-Heeseung.webp",
+   "url": "https://kpopofficial.com/album/evan-death-of-me/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/h_evva_n",
+    "https://www.instagram.com/h_evva_n/",
+    "https://www.youtube.com/@h_evva_n",
+    "https://www.tiktok.com/@h_evva_n",
+    "https://www.youtube.com/@h_evva_n/releases"
    ]
   },
   {
