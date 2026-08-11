@@ -1225,7 +1225,7 @@
    "title": "Vision Wings",
    "titleTrack": "Vision Wings",
    "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-WAYV-Members-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/WayV-Vision-Wings-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/wayv-vision-wings/",
    "tracklist": [
     "Vision Wings (鸢)",
@@ -1252,7 +1252,7 @@
    "title": "RUN AWAY",
    "titleTrack": "RUN AWAY",
    "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-Miyeon-Japan-RUN-AWAY.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MIYEON-RUN-AWAY-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/miyeon-run-away/",
    "tracklist": [],
    "links": [
@@ -1270,7 +1270,7 @@
    "title": "WhyKiiiKiii",
    "titleTrack": "Pop Off Pop Off",
    "date": "2026-08-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/KiiiKiii-members-for-WhyKiiiKiii-Album.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/KiiiKiii-3rd-EP-WhyKiiiKiii-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
    "tracklist": [
     "Ever2Late!",
@@ -1317,12 +1317,12 @@
    "artist": "Hearts2Hearts (JP)",
    "type": "1st Japan Single",
    "title": "ICONIC HEART",
-   "titleTrack": null,
+   "titleTrack": "ICONIC HEART",
    "date": "2026-08-12T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-Hearts2Hearts-Japan-ICONIC-HEART-Tracklist.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-Hearts2Hearts-Japan-ICONIC-HEART-Tracklist.webp",
    "url": "https://kpopofficial.com/album/hearts2hearts-iconic-heart/",
    "tracklist": [
-    "ICONIC HEART",
+    "ICONIC HEART – (Title)",
     "Lemon Tang (Japanese Ver.)",
     "RUDE! (Japanese Ver.)"
    ],
@@ -1332,9 +1332,9 @@
     "https://www.instagram.com/hearts2hearts/",
     "https://www.youtube.com/@hearts2hearts.official",
     "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@hearts2hearts",
-    "https://www.youtube.com/@hearts2hearts.official/releases"
-   ]
+    "https://www.tiktok.com/@hearts2hearts"
+   ],
+   "mv": "https://www.youtube.com/watch?v=kC0SA9Vkdos"
   },
   {
    "artist": "AxMxP",
@@ -1357,7 +1357,8 @@
     "https://www.instagram.com/AxMxP_official",
     "https://www.youtube.com/@AxMxP_official/videos",
     "https://www.tiktok.com/@axmxp_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=6BFieylk-gI"
   },
   {
    "artist": "HYNN",
@@ -1380,7 +1381,8 @@
     "https://x.com/hynn_official",
     "https://www.instagram.com/hynn_01/",
     "https://www.youtube.com/@hynn9109",
-    "https://www.tiktok.com/@hynn0115"
+    "https://www.tiktok.com/@hynn0115",
+    "https://www.youtube.com/@hynn9109/releases"
    ]
   },
   {
@@ -1389,7 +1391,7 @@
    "title": "Setsuna Hanabi",
    "titleTrack": null,
    "date": "2026-08-17T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TOMORROW-X-TOGETHER-members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/TOMORROW-X-TOGETHER-members.webp",
    "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
    "tracklist": [],
    "links": [
@@ -1398,7 +1400,8 @@
     "https://www.instagram.com/txt_bighit",
     "https://www.youtube.com/@TXT_bighit",
     "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@txt.bighitent"
+    "https://www.tiktok.com/@txt.bighitent",
+    "https://www.youtube.com/@TXT_bighit/releases"
    ]
   },
   {
@@ -1411,6 +1414,25 @@
    "url": "https://kpopofficial.com/album/boynextdoor-2nd-japanese-digital-single/",
    "tracklist": [],
    "links": []
+  },
+  {
+   "artist": "BOYNEXTDOOR (JP)",
+   "type": "2nd Japanese Digital Single",
+   "title": "Boom Boom Boom",
+   "titleTrack": null,
+   "date": "2026-08-18T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-BOYNEXTDOOR-Members-for-1st-Studio-Album-HOME.webp",
+   "url": "https://kpopofficial.com/album/boynextdoor-2nd-japanese-digital-single/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/BOYNEXTDOOR_KOZ",
+    "https://x.com/BOYNEXTDOOR_JP",
+    "https://www.instagram.com/BOYNEXTDOOR_official",
+    "https://www.youtube.com/@boynextdoor_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@boynextdoor_official",
+    "https://www.youtube.com/@boynextdoor_official/releases"
+   ]
   },
   {
    "artist": "ZEROBASEONE (JP)",
@@ -1486,7 +1508,8 @@
     "https://x.com/atheart_titan",
     "https://www.instagram.com/atheart.titan/",
     "https://www.youtube.com/@AtHeart_TITAN",
-    "https://www.tiktok.com/@atheart.titan"
+    "https://www.tiktok.com/@atheart.titan",
+    "https://www.youtube.com/@AtHeart_TITAN/releases"
    ]
   },
   {
@@ -1503,7 +1526,8 @@
     "https://www.instagram.com/ourbirthday_official",
     "https://www.youtube.com/@OURBIRTHDAY",
     "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@ourbirthday_official"
+    "https://www.tiktok.com/@ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY/releases"
    ]
   },
   {
@@ -1883,6 +1907,23 @@
     "https://www.tiktok.com/@andteam_official"
    ],
    "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
+  },
+  {
+   "artist": "TUNEXX",
+   "type": "2nd Mini Album",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-09-09T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-Comeback-September-2026.webp",
+   "url": "https://kpopofficial.com/album/tunexx-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TUNEXX_official",
+    "https://www.instagram.com/tunexx_official/",
+    "https://www.youtube.com/@official_TUNEXX",
+    "https://www.tiktok.com/@tunexx_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
   },
   {
    "artist": "BOYNEXTDOOR",
