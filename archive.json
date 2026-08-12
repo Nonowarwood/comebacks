@@ -1295,7 +1295,7 @@
    "title": "Summer, I",
    "titleTrack": "I Love LOVE",
    "date": "2026-08-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-Apink-JEONG-EUNJI-for-Summer-i.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JEONG-EUNJI-Summer-I-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/jeong-eunji-summer-i/",
    "tracklist": [
     "i love LOVE",
@@ -1319,7 +1319,7 @@
    "title": "ICONIC HEART",
    "titleTrack": "ICONIC HEART",
    "date": "2026-08-12T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-Hearts2Hearts-Japan-ICONIC-HEART-Tracklist.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Hearts2Hearts-ICONIC-HEART-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/hearts2hearts-iconic-heart/",
    "tracklist": [
     "ICONIC HEART – (Title)",
@@ -1384,6 +1384,27 @@
     "https://www.tiktok.com/@hynn0115"
    ],
    "mv": "https://www.youtube.com/watch?v=hzgHCAE3xc4"
+  },
+  {
+   "artist": "Splayit",
+   "type": "1st Single",
+   "title": "SPLAY : CHAPTER 01",
+   "titleTrack": "Last bus(막차)\", \"Domino",
+   "date": "2026-08-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-Splayit-members.webp",
+   "url": "https://kpopofficial.com/album/splayit-splay-chapter-01/",
+   "tracklist": [
+    "Last bus(막차) – (Title)",
+    "Domino – (Title)",
+    "Celebration"
+   ],
+   "links": [
+    "https://x.com/Splayitofficial",
+    "https://www.instagram.com/splayit_official",
+    "https://www.youtube.com/@Splayit",
+    "https://www.tiktok.com/@splayit_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=pemuBmF9hsw"
   },
   {
    "artist": "TOMORROW X TOGETHER (JP)",
@@ -1776,6 +1797,24 @@
    ]
   },
   {
+   "artist": "SF9",
+   "type": "2nd Album",
+   "title": "TENACITY",
+   "titleTrack": null,
+   "date": "2026-08-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/SF9-Members-for-TENACITY-Album.webp",
+   "url": "https://kpopofficial.com/album/sf9-tenacity/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/SF9official",
+    "https://www.instagram.com/SF9official",
+    "https://www.youtube.com/@SF9official",
+    "https://www.youtube.com/@thefncofficial",
+    "https://www.tiktok.com/@sf9official",
+    "https://www.youtube.com/@SF9official/releases"
+   ]
+  },
+  {
    "artist": "HITGS",
    "type": "Digital Single",
    "title": "Things We Dream : Vol.3",
@@ -1908,6 +1947,23 @@
    ]
   },
   {
+   "artist": "VERIVERY",
+   "type": "8th Mini Album",
+   "title": "CONFETTI",
+   "titleTrack": null,
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/2-VERIVERY-Members-Group-Photo-for-Lost-and-found.webp",
+   "url": "https://kpopofficial.com/album/verivery-confetti/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/the_verivery",
+    "https://www.instagram.com/the_verivery/",
+    "https://www.youtube.com/@VERIVERY",
+    "https://www.tiktok.com/@the_verivery"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
+  },
+  {
    "artist": "&TEAM (KR)",
    "type": "2nd Mini Album",
    "title": "Mark on Me",
@@ -1982,6 +2038,23 @@
    "title": null,
    "titleTrack": null,
    "date": "2026-09-13T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-Comeback-September-2026.webp",
+   "url": "https://kpopofficial.com/album/tunexx-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TUNEXX_official",
+    "https://www.instagram.com/tunexx_official/",
+    "https://www.youtube.com/@official_TUNEXX",
+    "https://www.tiktok.com/@tunexx_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
+  },
+  {
+   "artist": "TUNEXX",
+   "type": "2nd Mini Album",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-09-17T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-Comeback-September-2026.webp",
    "url": "https://kpopofficial.com/album/tunexx-comeback/",
    "tracklist": [],
