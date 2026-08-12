@@ -1295,23 +1295,23 @@
    "title": "Summer, I",
    "titleTrack": "I Love LOVE",
    "date": "2026-08-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Apink-JEONG-EUNJI-for-Summer-i.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-Apink-JEONG-EUNJI-for-Summer-i.webp",
    "url": "https://kpopofficial.com/album/jeong-eunji-summer-i/",
    "tracklist": [
-    "I Love LOVE (파도)",
-    "No Fight",
-    "링귀니",
-    "바람따라",
-    "다시 못 만날 것 같아",
-    "낭만파티",
-    "사랑이 지나간 자리"
+    "i love LOVE",
+    "NO FIGHT",
+    "linguine",
+    "with the wind",
+    "gradually",
+    "rainy season",
+    "empty"
    ],
    "links": [
     "https://x.com/JeongEunJi_X",
     "https://www.instagram.com/artist_eunji/",
     "https://www.youtube.com/@eunji3116"
    ],
-   "mv": "https://www.youtube.com/watch?v=O2b1ehnnpto"
+   "mv": "https://www.youtube.com/watch?v=d2ItcKvY5yc"
   },
   {
    "artist": "Hearts2Hearts (JP)",
@@ -1334,7 +1334,7 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@hearts2hearts"
    ],
-   "mv": "https://www.youtube.com/watch?v=kC0SA9Vkdos"
+   "mv": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
   },
   {
    "artist": "AxMxP",
@@ -1364,12 +1364,12 @@
    "artist": "HYNN",
    "type": "EP",
    "title": "여름결 (Traces of Summer)",
-   "titleTrack": "3일 후 –",
+   "titleTrack": "Three days after (3일 후) –",
    "date": "2026-08-13T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-HYNN-Traces-of-Summer.webp",
    "url": "https://kpopofficial.com/album/hynn-traces-of-summer/",
    "tracklist": [
-    "3일 후 –",
+    "Three days after (3일 후) –",
     "(Title)",
     "운석이 떨어져 종말이 찾아온 것도 아닌데 –",
     "(Title)",
@@ -1381,9 +1381,9 @@
     "https://x.com/hynn_official",
     "https://www.instagram.com/hynn_01/",
     "https://www.youtube.com/@hynn9109",
-    "https://www.tiktok.com/@hynn0115",
-    "https://www.youtube.com/@hynn9109/releases"
-   ]
+    "https://www.tiktok.com/@hynn0115"
+   ],
+   "mv": "https://www.youtube.com/watch?v=hzgHCAE3xc4"
   },
   {
    "artist": "TOMORROW X TOGETHER (JP)",
@@ -1391,7 +1391,7 @@
    "title": "Setsuna Hanabi",
    "titleTrack": null,
    "date": "2026-08-17T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TXT-Nice-To-Meet-You.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-TXT-Nice-To-Meet-You.webp",
    "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
    "tracklist": [],
    "links": [
@@ -1421,7 +1421,7 @@
    "title": "Boom Boom Boom",
    "titleTrack": null,
    "date": "2026-08-18T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-BOYNEXTDOOR-JP-2nd-Digital-Single-Boom-Boom-Boom.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/BOYNEXTDOOR-JP-2nd-Digital-Single-Boom-Boom-Boom.jpeg",
    "url": "https://kpopofficial.com/album/boynextdoor-boom-boom-boom/",
    "tracklist": [],
    "links": [
@@ -1454,6 +1454,23 @@
     "https://www.youtube.com/@ZB1_official",
     "https://www.tiktok.com/@zb1_official"
    ]
+  },
+  {
+   "artist": "ONEWE",
+   "type": "3rd Full Album",
+   "title": "面 : Unknown Atlas",
+   "titleTrack": null,
+   "date": "2026-08-19T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover2-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
+   "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_ONEWE",
+    "https://www.instagram.com/official_onewe",
+    "https://www.youtube.com/@ONEWE",
+    "https://www.tiktok.com/@rbw_onewe"
+   ],
+   "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
   },
   {
    "artist": "ONEWE",
