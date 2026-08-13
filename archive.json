@@ -1342,7 +1342,7 @@
    "title": "HELLO AxMxP",
    "titleTrack": "10 Reasons to Date Me",
    "date": "2026-08-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/HELLO-AxMxP-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/AxMxP-2nd-Mini-Album-HELLO-AxMxP.webp",
    "url": "https://kpopofficial.com/album/hello-axmxp/",
    "tracklist": [
     "24 Hours",
@@ -1877,12 +1877,30 @@
     "https://www.instagram.com/taemin_xoalsox/",
     "https://www.youtube.com/@taemin_xoalsox",
     "https://www.tiktok.com/@taemin_xoalsox_"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=3Pbrd5piZNM"
   },
   {
    "artist": "82MAJOR",
    "type": "Comeback",
    "title": null,
+   "titleTrack": null,
+   "date": "2026-09-01T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/82MAJOR-5th-Mini-Album-FEELM-Teaser.webp",
+   "url": "https://kpopofficial.com/album/82major-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/82MAJOR_231011",
+    "https://www.instagram.com/82major_official",
+    "https://www.youtube.com/@82major_official",
+    "https://www.tiktok.com/@82major_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=AE3xB43P3pA"
+  },
+  {
+   "artist": "82MAJOR",
+   "type": "2nd Single Album",
+   "title": "HEAT",
    "titleTrack": null,
    "date": "2026-09-01T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/04/82MAJOR-5th-Mini-Album-FEELM-Teaser.webp",
@@ -2102,6 +2120,23 @@
    "artist": "TUNEXX",
    "type": "2nd Mini Album",
    "title": null,
+   "titleTrack": null,
+   "date": "2026-09-20T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-Comeback-September-2026.webp",
+   "url": "https://kpopofficial.com/album/tunexx-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TUNEXX_official",
+    "https://www.instagram.com/tunexx_official/",
+    "https://www.youtube.com/@official_TUNEXX",
+    "https://www.tiktok.com/@tunexx_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
+  },
+  {
+   "artist": "TUNEXX",
+   "type": "2nd Mini Album",
+   "title": "BLUE MODE",
    "titleTrack": null,
    "date": "2026-09-20T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-Comeback-September-2026.webp",
