@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13T13:46:53+00:00",
+ "generated": "2026-08-13T19:19:50+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -282,27 +282,6 @@
    "mv": "https://www.youtube.com/watch?v=dqrZLqMsa0A"
   },
   {
-   "artist": "Splayit",
-   "type": "1st Single",
-   "title": "SPLAY : CHAPTER 01",
-   "titleTrack": "Last bus(막차)\", \"Domino",
-   "date": "2026-08-13T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-Splayit-members.webp",
-   "url": "https://kpopofficial.com/album/splayit-splay-chapter-01/",
-   "tracklist": [
-    "Last bus(막차) – (Title)",
-    "Domino – (Title)",
-    "Celebration"
-   ],
-   "links": [
-    "https://x.com/Splayitofficial",
-    "https://www.instagram.com/splayit_official",
-    "https://www.youtube.com/@Splayit",
-    "https://www.tiktok.com/@splayit_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=dqrZLqMsa0A"
-  },
-  {
    "artist": "HYNN",
    "type": "EP",
    "title": "Traces of Summer",
@@ -328,6 +307,27 @@
     "https://www.tiktok.com/@hynn0115"
    ],
    "mv": "https://www.youtube.com/watch?v=7tp45qgQuCQ"
+  },
+  {
+   "artist": "Splayit",
+   "type": "1st Single",
+   "title": "SPLAY : CHAPTER 01",
+   "titleTrack": "Last bus(막차)\", \"Domino",
+   "date": "2026-08-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-Splayit-members.webp",
+   "url": "https://kpopofficial.com/album/splayit-splay-chapter-01/",
+   "tracklist": [
+    "Last bus(막차) – (Title)",
+    "Domino – (Title)",
+    "Celebration"
+   ],
+   "links": [
+    "https://x.com/Splayitofficial",
+    "https://www.instagram.com/splayit_official",
+    "https://www.youtube.com/@Splayit",
+    "https://www.tiktok.com/@splayit_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=dqrZLqMsa0A"
   },
   {
    "artist": "TOMORROW X TOGETHER (JP)",
@@ -461,6 +461,40 @@
    ]
   },
   {
+   "artist": "ODD YOUTH",
+   "type": "3rd Single",
+   "title": "can’t go back",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
+   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/oddyouth_offcl",
+    "https://www.instagram.com/oddyouth_official",
+    "https://www.youtube.com/@ODD_YOUTH",
+    "https://www.tiktok.com/@odd_youth",
+    "https://www.youtube.com/@ODD_YOUTH/releases"
+   ]
+  },
+  {
+   "artist": "BIGBANG",
+   "type": "Digital Single",
+   "title": "BiiiG",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-BIGBANG-Members-for-Single-BiiiG.webp",
+   "url": "https://kpopofficial.com/album/bigbang-biiig/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/YG_GlobalVIP",
+    "https://www.instagram.com/bigbang_2xx6/",
+    "https://www.youtube.com/@BIGBANG",
+    "https://www.tiktok.com/@bigbang_2xx6",
+    "https://www.youtube.com/@BIGBANG/releases"
+   ]
+  },
+  {
    "artist": "OURBIRTHDAY",
    "type": "1st Single",
    "title": "Our Birthday",
@@ -554,69 +588,6 @@
    "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
   },
   {
-   "artist": "ODD YOUTH",
-   "type": "3rd Single",
-   "title": "can’t go back",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
-   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/oddyouth_offcl",
-    "https://www.instagram.com/oddyouth_official",
-    "https://www.youtube.com/@ODD_YOUTH",
-    "https://www.tiktok.com/@odd_youth",
-    "https://www.youtube.com/@ODD_YOUTH/releases"
-   ]
-  },
-  {
-   "artist": "BIGBANG",
-   "type": "Digital Single",
-   "title": "BiiiG",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-BIGBANG-Members-for-Single-BiiiG.webp",
-   "url": "https://kpopofficial.com/album/bigbang-biiig/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/YG_GlobalVIP",
-    "https://www.instagram.com/bigbang_2xx6/",
-    "https://www.youtube.com/@BIGBANG",
-    "https://www.tiktok.com/@bigbang_2xx6",
-    "https://www.youtube.com/@BIGBANG/releases"
-   ]
-  },
-  {
-   "artist": "Tiffany Young",
-   "type": "1st Full Album",
-   "title": "Edge of Calm",
-   "titleTrack": "Edge of Calm\",\"Lips Together (feat. MIYEON)",
-   "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Tiffany-Young-1st-Full-Album-Edge-of-Calm-Teaser.webp",
-   "url": "https://kpopofficial.com/album/tiffany-young-edge-of-calm/",
-   "tracklist": [
-    "Codes",
-    "Drip Drop",
-    "Halfway Honest",
-    "Moment",
-    "Come Call Me Yours",
-    "Edge of Calm – (Title)",
-    "Lips Together (feat. MIYEON) – (Title)",
-    "Lovers (feat. JUNNY)",
-    "Summer’s Not Over (KOR Ver.)",
-    "Summer’s Not Over",
-    "Moonlit Rain"
-   ],
-   "links": [
-    "https://x.com/teampmg_kr",
-    "https://www.instagram.com/teampmg_/",
-    "https://www.instagram.com/tiffanyyoungofficial/",
-    "https://www.youtube.com/@tiffanyyoungofficial"
-   ],
-   "mv": "https://www.youtube.com/watch?v=GqxpgBIioi8"
-  },
-  {
    "artist": "KIM JAE JOONG",
    "type": "Single Album",
    "title": "THE WAVE",
@@ -654,6 +625,35 @@
     "https://www.youtube.com/@OHMYGIRL",
     "https://www.tiktok.com/@wm_ohmygirl"
    ]
+  },
+  {
+   "artist": "Tiffany Young",
+   "type": "1st Full Album",
+   "title": "Edge of Calm",
+   "titleTrack": "Edge of Calm\",\"Lips Together (feat. MIYEON)",
+   "date": "2026-08-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Tiffany-Young-1st-Full-Album-Edge-of-Calm-Teaser.webp",
+   "url": "https://kpopofficial.com/album/tiffany-young-edge-of-calm/",
+   "tracklist": [
+    "Codes",
+    "Drip Drop",
+    "Halfway Honest",
+    "Moment",
+    "Come Call Me Yours",
+    "Edge of Calm – (Title)",
+    "Lips Together (feat. MIYEON) – (Title)",
+    "Lovers (feat. JUNNY)",
+    "Summer’s Not Over (KOR Ver.)",
+    "Summer’s Not Over",
+    "Moonlit Rain"
+   ],
+   "links": [
+    "https://x.com/teampmg_kr",
+    "https://www.instagram.com/teampmg_/",
+    "https://www.instagram.com/tiffanyyoungofficial/",
+    "https://www.youtube.com/@tiffanyyoungofficial"
+   ],
+   "mv": "https://www.youtube.com/watch?v=GqxpgBIioi8"
   },
   {
    "artist": "ENHYPEN",
