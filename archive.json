@@ -1342,7 +1342,7 @@
    "title": "HELLO AxMxP",
    "titleTrack": "10 Reasons to Date Me",
    "date": "2026-08-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/AxMxP-2nd-Mini-Album-HELLO-AxMxP.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/HELLO-AxMxP-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/hello-axmxp/",
    "tracklist": [
     "24 Hours",
@@ -1497,11 +1497,29 @@
    "artist": "ONEWE",
    "type": "3rd Full Album",
    "title": "面 : Unknown Atlas",
-   "titleTrack": null,
+   "titleTrack": "Scenario",
    "date": "2026-08-19T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
    "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
-   "tracklist": [],
+   "tracklist": [
+    "Scenario – (Title)",
+    "Coordinates",
+    "Compass",
+    "ICARUS",
+    "FLY",
+    "Neverland",
+    "Tinker Bell",
+    "Fairy Tale",
+    "Lilliput",
+    "Laputa",
+    "Pinocchio",
+    "Imposter",
+    "STAND UP",
+    "Beautiful Runaway",
+    "Just You",
+    "Beyond the Night",
+    "The End."
+   ],
    "links": [
     "https://x.com/official_ONEWE",
     "https://www.instagram.com/official_onewe",
@@ -1606,17 +1624,30 @@
    "artist": "Tiffany Young",
    "type": "1st Full Album",
    "title": "Edge of Calm",
-   "titleTrack": null,
+   "titleTrack": "Edge of Calm\",\"Lips Together (feat. MIYEON)",
    "date": "2026-08-20T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-Tiffany-Young-Edge-of-Calm.webp",
    "url": "https://kpopofficial.com/album/tiffany-young-edge-of-calm/",
-   "tracklist": [],
+   "tracklist": [
+    "Codes",
+    "Drip Drop",
+    "Halfway Honest",
+    "Moment",
+    "Come Call Me Yours",
+    "Edge of Calm – (Title)",
+    "Lips Together (feat. MIYEON) – (Title)",
+    "Lovers (feat. JUNNY)",
+    "Summer’s Not Over (KOR Ver.)",
+    "Summer’s Not Over",
+    "Moonlit Rain"
+   ],
    "links": [
     "https://x.com/teampmg_kr",
     "https://www.instagram.com/teampmg_/",
     "https://www.instagram.com/tiffanyyoungofficial/",
     "https://www.youtube.com/@tiffanyyoungofficial"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=GqxpgBIioi8"
   },
   {
    "artist": "KIM JAE JOONG",
@@ -1634,7 +1665,8 @@
     "https://www.instagram.com/inkode_official/",
     "https://www.youtube.com/@inkodeofficial",
     "https://www.youtube.com/@JAEJOONGJJOfficial"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=ELYzz-4y57g"
   },
   {
    "artist": "MIMI (OH MY GIRL)",
@@ -2072,6 +2104,23 @@
    "title": null,
    "titleTrack": null,
    "date": "2026-09-20T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-Comeback-September-2026.webp",
+   "url": "https://kpopofficial.com/album/tunexx-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TUNEXX_official",
+    "https://www.instagram.com/tunexx_official/",
+    "https://www.youtube.com/@official_TUNEXX",
+    "https://www.tiktok.com/@tunexx_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
+  },
+  {
+   "artist": "TUNEXX",
+   "type": "2nd Mini Album",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-09-22T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-Comeback-September-2026.webp",
    "url": "https://kpopofficial.com/album/tunexx-comeback/",
    "tracklist": [],

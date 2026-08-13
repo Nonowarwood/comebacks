@@ -1,33 +1,7 @@
 {
- "generated": "2026-08-12T19:19:34+00:00",
+ "generated": "2026-08-13T02:46:22+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "Picheolin (SEVENTEEN DINO)",
-   "type": "1st Mini Album",
-   "title": "吉BOARD",
-   "titleTrack": "Party Rock Rock",
-   "date": "2026-08-03T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Picheolin-Gilboard-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/picheolin-gilboard/",
-   "tracklist": [
-    "ZZAN (feat. DINO)",
-    "Party Rock Rock (prod. Hitchhiker)",
-    "Sincerely (prod. Lee Hyun Do of DEUX)",
-    "Mi-cheo Mi-cheo",
-    "Love Sick (Narr. Lee Moon-sae)",
-    "For JEONG and LOVE",
-    "Like It (Song by Dino)"
-   ],
-   "links": [
-    "https://x.com/pledis_17",
-    "https://www.instagram.com/saythename_17/",
-    "https://www.youtube.com/@pledis17",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@seventeen17_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Do9BOhk0u_w"
-  },
   {
    "artist": "HUH JIWON (Cherry Bullet)",
    "type": "1st Single Album",
@@ -49,29 +23,6 @@
     "https://www.tiktok.com/@huhjiwon_official"
    ],
    "mv": "https://www.youtube.com/watch?v=g8Y1WhZLsRo"
-  },
-  {
-   "artist": "WHIB",
-   "type": "2nd Mini Album",
-   "title": "CHERRY PIE",
-   "titleTrack": "CHERRY PIE",
-   "date": "2026-08-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-CHERRY-PIE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
-   "tracklist": [
-    "PAGES OF US",
-    "CHERRY PIE – (title)",
-    "MOTTO",
-    "CAN’T STOP=NOT FOUND",
-    "MAKE IT"
-   ],
-   "links": [
-    "https://x.com/whib_official",
-    "https://www.instagram.com/whib_official",
-    "https://www.youtube.com/@WHIB_OFFICIAL",
-    "https://www.tiktok.com/@whib_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=9jpNMWmTLaE"
   },
   {
    "artist": "AEN",
@@ -101,6 +52,29 @@
     "https://www.tiktok.com/@aen_offcl"
    ],
    "mv": "https://www.youtube.com/watch?v=XHu_3JcG-kY"
+  },
+  {
+   "artist": "WHIB",
+   "type": "2nd Mini Album",
+   "title": "CHERRY PIE",
+   "titleTrack": "CHERRY PIE",
+   "date": "2026-08-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-CHERRY-PIE-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
+   "tracklist": [
+    "PAGES OF US",
+    "CHERRY PIE – (title)",
+    "MOTTO",
+    "CAN’T STOP=NOT FOUND",
+    "MAKE IT"
+   ],
+   "links": [
+    "https://x.com/whib_official",
+    "https://www.instagram.com/whib_official",
+    "https://www.youtube.com/@WHIB_OFFICIAL",
+    "https://www.tiktok.com/@whib_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=9jpNMWmTLaE"
   },
   {
    "artist": "Stray Kids",
@@ -170,6 +144,24 @@
    "mv": "https://www.youtube.com/watch?v=XUq2T47iY9A"
   },
   {
+   "artist": "MIYEON (i-dle)",
+   "type": "Japan Digital Single",
+   "title": "RUN AWAY",
+   "titleTrack": "RUN AWAY",
+   "date": "2026-08-10T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MIYEON-RUN-AWAY-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/miyeon-run-away/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://x.com/i_dle_JP",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=kO_AAjLbiys"
+  },
+  {
    "artist": "WayV",
    "type": "8th Mini Album",
    "title": "Vision Wings",
@@ -195,24 +187,6 @@
     "https://www.tiktok.com/@official_wayv"
    ],
    "mv": "https://www.youtube.com/watch?v=bfQ0eLJNWiw"
-  },
-  {
-   "artist": "MIYEON (i-dle)",
-   "type": "Japan Digital Single",
-   "title": "RUN AWAY",
-   "titleTrack": "RUN AWAY",
-   "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MIYEON-RUN-AWAY-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/miyeon-run-away/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_i_dle",
-    "https://x.com/i_dle_JP",
-    "https://www.instagram.com/i_dle_official",
-    "https://www.youtube.com/@official_i_dle",
-    "https://www.tiktok.com/@official_i_dle"
-   ],
-   "mv": "https://www.youtube.com/watch?v=kO_AAjLbiys"
   },
   {
    "artist": "KiiiKiii",
@@ -269,29 +243,6 @@
    "title": "ICONIC HEART",
    "titleTrack": "ICONIC HEART",
    "date": "2026-08-12T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-Hearts2Hearts-Japan-ICONIC-HEART-Tracklist.webp",
-   "url": "https://kpopofficial.com/album/hearts2hearts-iconic-heart/",
-   "tracklist": [
-    "ICONIC HEART – (Title)",
-    "Lemon Tang (Japanese Ver.)",
-    "RUDE! (Japanese Ver.)"
-   ],
-   "links": [
-    "https://x.com/Hearts2Hearts",
-    "https://x.com/Hearts2HeartsJP",
-    "https://www.instagram.com/hearts2hearts/",
-    "https://www.youtube.com/@hearts2hearts.official",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@hearts2hearts"
-   ],
-   "mv": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
-  },
-  {
-   "artist": "Hearts2Hearts (JP)",
-   "type": "1st Japan Single",
-   "title": "ICONIC HEART",
-   "titleTrack": "ICONIC HEART",
-   "date": "2026-08-12T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Hearts2Hearts-ICONIC-HEART-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/hearts2hearts-iconic-heart/",
    "tracklist": [
@@ -315,31 +266,7 @@
    "title": "HELLO AxMxP",
    "titleTrack": "10 Reasons to Date Me",
    "date": "2026-08-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/01/cover2-AxMxP-Members.webp",
-   "url": "https://kpopofficial.com/album/hello-axmxp/",
-   "tracklist": [
-    "24 Hours",
-    "10 Reasons to Date Me – (Title)",
-    "Skip",
-    "How Much Is Your Love?",
-    "Back To Yesterday",
-    "If not for Love"
-   ],
-   "links": [
-    "https://x.com/AxMxP_official",
-    "https://www.instagram.com/AxMxP_official",
-    "https://www.youtube.com/@AxMxP_official/videos",
-    "https://www.tiktok.com/@axmxp_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=E30TvxRbZJs"
-  },
-  {
-   "artist": "AxMxP",
-   "type": "2nd Mini Album",
-   "title": "HELLO AxMxP",
-   "titleTrack": "10 Reasons to Date Me",
-   "date": "2026-08-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/AxMxP-2nd-Mini-Album-HELLO-AxMxP.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/HELLO-AxMxP-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/hello-axmxp/",
    "tracklist": [
     "24 Hours",
@@ -463,31 +390,32 @@
    ]
   },
   {
-   "artist": "BIGBANG",
-   "type": "Digital Single",
-   "title": "BiiiG",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-BIGBANG-Members-for-Single-BiiiG.webp",
-   "url": "https://kpopofficial.com/album/bigbang-biiig/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/YG_GlobalVIP",
-    "https://www.instagram.com/bigbang_2xx6/",
-    "https://www.youtube.com/@BIGBANG",
-    "https://www.tiktok.com/@bigbang_2xx6",
-    "https://www.youtube.com/@BIGBANG/releases"
-   ]
-  },
-  {
    "artist": "ONEWE",
    "type": "3rd Full Album",
    "title": "面 : Unknown Atlas",
-   "titleTrack": null,
+   "titleTrack": "Scenario",
    "date": "2026-08-19T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Cover-ONEWE-Group-Photo-for-2nd-Single-Album-The-Quiver.webp",
    "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
-   "tracklist": [],
+   "tracklist": [
+    "Scenario – (Title)",
+    "Coordinates",
+    "Compass",
+    "ICARUS",
+    "FLY",
+    "Neverland",
+    "Tinker Bell",
+    "Fairy Tale",
+    "Lilliput",
+    "Laputa",
+    "Pinocchio",
+    "Imposter",
+    "STAND UP",
+    "Beautiful Runaway",
+    "Just You",
+    "Beyond the Night",
+    "The End."
+   ],
    "links": [
     "https://x.com/official_ONEWE",
     "https://www.instagram.com/official_onewe",
@@ -495,6 +423,24 @@
     "https://www.tiktok.com/@rbw_onewe"
    ],
    "mv": "https://www.youtube.com/watch?v=86xs_tz4xpo"
+  },
+  {
+   "artist": "OURBIRTHDAY",
+   "type": "1st Single",
+   "title": "Our Birthday",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members-Group-Photo.webp",
+   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/OBD_offcl",
+    "https://www.instagram.com/ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY/releases"
+   ]
   },
   {
    "artist": "MASHIRO (MADEIN)",
@@ -518,24 +464,6 @@
     "https://www.tiktok.com/@MADEIN_u"
    ],
    "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
-  },
-  {
-   "artist": "OURBIRTHDAY",
-   "type": "1st Single",
-   "title": "Our Birthday",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members-Group-Photo.webp",
-   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/OBD_offcl",
-    "https://www.instagram.com/ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY/releases"
-   ]
   },
   {
    "artist": "AtHeart",
@@ -592,17 +520,30 @@
    "artist": "Tiffany Young",
    "type": "1st Full Album",
    "title": "Edge of Calm",
-   "titleTrack": null,
+   "titleTrack": "Edge of Calm\",\"Lips Together (feat. MIYEON)",
    "date": "2026-08-20T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-Tiffany-Young-Edge-of-Calm.webp",
    "url": "https://kpopofficial.com/album/tiffany-young-edge-of-calm/",
-   "tracklist": [],
+   "tracklist": [
+    "Codes",
+    "Drip Drop",
+    "Halfway Honest",
+    "Moment",
+    "Come Call Me Yours",
+    "Edge of Calm – (Title)",
+    "Lips Together (feat. MIYEON) – (Title)",
+    "Lovers (feat. JUNNY)",
+    "Summer’s Not Over (KOR Ver.)",
+    "Summer’s Not Over",
+    "Moonlit Rain"
+   ],
    "links": [
     "https://x.com/teampmg_kr",
     "https://www.instagram.com/teampmg_/",
     "https://www.instagram.com/tiffanyyoungofficial/",
     "https://www.youtube.com/@tiffanyyoungofficial"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=GqxpgBIioi8"
   },
   {
    "artist": "KIM JAE JOONG",
@@ -620,7 +561,8 @@
     "https://www.instagram.com/inkode_official/",
     "https://www.youtube.com/@inkodeofficial",
     "https://www.youtube.com/@JAEJOONGJJOfficial"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=ELYzz-4y57g"
   },
   {
    "artist": "MIMI (OH MY GIRL)",
@@ -699,27 +641,6 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@enhypen"
    ]
-  },
-  {
-   "artist": "NCT 127",
-   "type": "7th Album",
-   "title": "BLINGY",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-NCT-127-comeback-August-2026.webp",
-   "url": "https://kpopofficial.com/album/nct-127-blingy/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/NCTsmtown_127",
-    "https://x.com/NCTsmtown",
-    "https://www.instagram.com/nct127",
-    "https://www.instagram.com/nct",
-    "https://www.youtube.com/@NCT127",
-    "https://www.youtube.com/@NCTsmtown",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
-   ],
-   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
   },
   {
    "artist": "TUIDE",
@@ -801,24 +722,6 @@
    "title": "TENACITY",
    "titleTrack": null,
    "date": "2026-08-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-SF9-Members-Photo.webp",
-   "url": "https://kpopofficial.com/album/sf9-tenacity/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/SF9official",
-    "https://www.instagram.com/SF9official",
-    "https://www.youtube.com/@SF9official",
-    "https://www.youtube.com/@thefncofficial",
-    "https://www.tiktok.com/@sf9official",
-    "https://www.youtube.com/@SF9official/releases"
-   ]
-  },
-  {
-   "artist": "SF9",
-   "type": "2nd Album",
-   "title": "TENACITY",
-   "titleTrack": null,
-   "date": "2026-08-26T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/SF9-Members-for-TENACITY-Album.webp",
    "url": "https://kpopofficial.com/album/sf9-tenacity/",
    "tracklist": [],
@@ -837,7 +740,7 @@
    "title": "Things We Dream : Vol.3",
    "titleTrack": null,
    "date": "2026-08-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/10/HITGS-members-group-photo-3.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/hitgs-things-we-dream-vol-3.webp",
    "url": "https://kpopofficial.com/album/hitgs-things-we-dream-vol-3/",
    "tracklist": [],
    "links": [
@@ -848,20 +751,19 @@
    ]
   },
   {
-   "artist": "TAEMIN (SHINee)",
-   "type": "Album",
-   "title": "PHASE 1 : Soft Violence",
+   "artist": "HITGS",
+   "type": "Digital Single",
+   "title": "Things We Dream : Vol.3",
    "titleTrack": null,
-   "date": "2026-08-31T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-TAEMIN-photo.webp",
-   "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
+   "date": "2026-08-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/10/HITGS-members-group-photo-3.webp",
+   "url": "https://kpopofficial.com/album/hitgs-things-we-dream-vol-3/",
    "tracklist": [],
    "links": [
-    "https://x.com/Taemin_Xoalsox_",
-    "https://www.instagram.com/xoalsox/",
-    "https://www.instagram.com/taemin_xoalsox/",
-    "https://www.youtube.com/@taemin_xoalsox",
-    "https://www.tiktok.com/@taemin_xoalsox_"
+    "https://x.com/HITGS_offcl",
+    "https://www.instagram.com/hitgs_offcl/",
+    "https://www.youtube.com/@HITGS_offcl",
+    "https://www.tiktok.com/@hitgs.offcl"
    ]
   },
   {
@@ -947,21 +849,21 @@
    ]
   },
   {
-   "artist": "EVAN",
-   "type": "1st Mini Album",
-   "title": "DEATH OF ME",
+   "artist": "VERIVERY",
+   "type": "8th Mini Album",
+   "title": "CONFETTI",
    "titleTrack": null,
    "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-EVAN-Heeseung.webp",
-   "url": "https://kpopofficial.com/album/evan-death-of-me/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/2-VERIVERY-Members-Group-Photo-for-Lost-and-found.webp",
+   "url": "https://kpopofficial.com/album/verivery-confetti/",
    "tracklist": [],
    "links": [
-    "https://x.com/h_evva_n",
-    "https://www.instagram.com/h_evva_n/",
-    "https://www.youtube.com/@h_evva_n",
-    "https://www.tiktok.com/@h_evva_n",
-    "https://www.youtube.com/@h_evva_n/releases"
-   ]
+    "https://x.com/the_verivery",
+    "https://www.instagram.com/the_verivery/",
+    "https://www.youtube.com/@VERIVERY",
+    "https://www.tiktok.com/@the_verivery"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
   },
   {
    "artist": "EVAN",
@@ -979,23 +881,6 @@
     "https://www.tiktok.com/@h_evva_n",
     "https://www.youtube.com/@h_evva_n/releases"
    ]
-  },
-  {
-   "artist": "VERIVERY",
-   "type": "8th Mini Album",
-   "title": "CONFETTI",
-   "titleTrack": null,
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/2-VERIVERY-Members-Group-Photo-for-Lost-and-found.webp",
-   "url": "https://kpopofficial.com/album/verivery-confetti/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/the_verivery",
-    "https://www.instagram.com/the_verivery/",
-    "https://www.youtube.com/@VERIVERY",
-    "https://www.tiktok.com/@the_verivery"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
   },
   {
    "artist": "&TEAM (KR)",
@@ -1037,7 +922,7 @@
    "type": "2nd Mini Album",
    "title": null,
    "titleTrack": null,
-   "date": "2026-09-17T00:00:00+09:00",
+   "date": "2026-09-22T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-Comeback-September-2026.webp",
    "url": "https://kpopofficial.com/album/tunexx-comeback/",
    "tracklist": [],
