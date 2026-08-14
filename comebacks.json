@@ -1,31 +1,7 @@
 {
- "generated": "2026-08-14T13:44:13+00:00",
+ "generated": "2026-08-14T19:13:16+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "Red Velvet",
-   "type": "Summer Mini Album",
-   "title": "Velvet Summer",
-   "titleTrack": "Surfin’ Boy",
-   "date": "2026-08-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Velvet-Summer-Mini-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/red-velvet-velvet-summer/",
-   "tracklist": [
-    "Surfin’ Boy – (Title)",
-    "Hot Girls Cold Vibe",
-    "Orchestra",
-    "Hula Hoop",
-    "Hawaii"
-   ],
-   "links": [
-    "https://x.com/RVsmtown",
-    "https://www.instagram.com/redvelvet.smtown/",
-    "https://www.youtube.com/@redvelvet",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@redvelvet_smtown"
-   ],
-   "mv": "https://www.youtube.com/watch?v=NZP153MUpHY"
-  },
   {
    "artist": "WHIB",
    "type": "2nd Mini Album",
@@ -325,25 +301,6 @@
    ]
   },
   {
-   "artist": "TOMORROW X TOGETHER (JP)",
-   "type": "Japan 5th Single",
-   "title": "Setsuna Hanabi",
-   "titleTrack": null,
-   "date": "2026-08-17T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TXT-Nice-To-Meet-You.webp",
-   "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/TXT_bighit",
-    "https://x.com/TXT_bighit_jp",
-    "https://www.instagram.com/txt_bighit",
-    "https://www.youtube.com/@TXT_bighit",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@txt.bighitent",
-    "https://www.youtube.com/@TXT_bighit/releases"
-   ]
-  },
-  {
    "artist": "JUN. K",
    "type": "Digital Single",
    "title": "Your Lips (Feat. WENDY)",
@@ -402,20 +359,38 @@
    ]
   },
   {
-   "artist": "BIGBANG",
-   "type": "Digital Single",
-   "title": "BiiiG",
+   "artist": "AtHeart",
+   "type": "Single",
+   "title": "3!4!",
    "titleTrack": null,
    "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-BIGBANG-Members-for-Single-BiiiG.webp",
-   "url": "https://kpopofficial.com/album/bigbang-biiig/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-AtHeart-members-for-34.webp",
+   "url": "https://kpopofficial.com/album/atheart-3-4/",
    "tracklist": [],
    "links": [
-    "https://x.com/YG_GlobalVIP",
-    "https://www.instagram.com/bigbang_2xx6/",
-    "https://www.youtube.com/@BIGBANG",
-    "https://www.tiktok.com/@bigbang_2xx6",
-    "https://www.youtube.com/@BIGBANG/releases"
+    "https://x.com/atheart_titan",
+    "https://www.instagram.com/atheart.titan/",
+    "https://www.youtube.com/@AtHeart_TITAN",
+    "https://www.tiktok.com/@atheart.titan",
+    "https://www.youtube.com/@AtHeart_TITAN/releases"
+   ]
+  },
+  {
+   "artist": "OURBIRTHDAY",
+   "type": "1st Single",
+   "title": "Our Birthday",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members-Group-Photo.webp",
+   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/OBD_offcl",
+    "https://www.instagram.com/ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY/releases"
    ]
   },
   {
@@ -528,51 +503,23 @@
    ]
   },
   {
-   "artist": "OURBIRTHDAY",
-   "type": "1st Single",
-   "title": "Our Birthday",
+   "artist": "KIM JAE JOONG",
+   "type": "Single Album",
+   "title": "THE WAVE",
    "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members-Group-Photo.webp",
-   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
+   "date": "2026-08-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-KIM-JAE-JOONG-for-THE-WAVE.webp",
+   "url": "https://kpopofficial.com/album/kim-jae-joong-the-wave/",
    "tracklist": [],
    "links": [
-    "https://x.com/OBD_offcl",
-    "https://www.instagram.com/ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY/releases"
-   ]
-  },
-  {
-   "artist": "Tiffany Young",
-   "type": "1st Full Album",
-   "title": "Edge of Calm",
-   "titleTrack": "Edge of Calm\",\"Lips Together (feat. MIYEON)",
-   "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Tiffany-Young-1st-Full-Album-Edge-of-Calm-Teaser.webp",
-   "url": "https://kpopofficial.com/album/tiffany-young-edge-of-calm/",
-   "tracklist": [
-    "Codes",
-    "Drip Drop",
-    "Halfway Honest",
-    "Moment",
-    "Come Call Me Yours",
-    "Edge of Calm – (Title)",
-    "Lips Together (feat. MIYEON) – (Title)",
-    "Lovers (feat. JUNNY)",
-    "Summer’s Not Over (KOR Ver.)",
-    "Summer’s Not Over",
-    "Moonlit Rain"
+    "https://x.com/inkodeofficial",
+    "https://x.com/bornfreeonekiss",
+    "https://www.instagram.com/jj_1986_jj/",
+    "https://www.instagram.com/inkode_official/",
+    "https://www.youtube.com/@inkodeofficial",
+    "https://www.youtube.com/@JAEJOONGJJOfficial"
    ],
-   "links": [
-    "https://x.com/teampmg_kr",
-    "https://www.instagram.com/teampmg_/",
-    "https://www.instagram.com/tiffanyyoungofficial/",
-    "https://www.youtube.com/@tiffanyyoungofficial"
-   ],
-   "mv": "https://www.youtube.com/watch?v=GqxpgBIioi8"
+   "mv": "https://www.youtube.com/watch?v=ELYzz-4y57g"
   },
   {
    "artist": "KIM JAE JOONG",
@@ -612,6 +559,35 @@
     "https://www.youtube.com/@OHMYGIRL",
     "https://www.tiktok.com/@wm_ohmygirl"
    ]
+  },
+  {
+   "artist": "Tiffany Young",
+   "type": "1st Full Album",
+   "title": "Edge of Calm",
+   "titleTrack": "Edge of Calm\",\"Lips Together (feat. MIYEON)",
+   "date": "2026-08-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Tiffany-Young-1st-Full-Album-Edge-of-Calm-Teaser.webp",
+   "url": "https://kpopofficial.com/album/tiffany-young-edge-of-calm/",
+   "tracklist": [
+    "Codes",
+    "Drip Drop",
+    "Halfway Honest",
+    "Moment",
+    "Come Call Me Yours",
+    "Edge of Calm – (Title)",
+    "Lips Together (feat. MIYEON) – (Title)",
+    "Lovers (feat. JUNNY)",
+    "Summer’s Not Over (KOR Ver.)",
+    "Summer’s Not Over",
+    "Moonlit Rain"
+   ],
+   "links": [
+    "https://x.com/teampmg_kr",
+    "https://www.instagram.com/teampmg_/",
+    "https://www.instagram.com/tiffanyyoungofficial/",
+    "https://www.youtube.com/@tiffanyyoungofficial"
+   ],
+   "mv": "https://www.youtube.com/watch?v=GqxpgBIioi8"
   },
   {
    "artist": "ENHYPEN",
@@ -672,43 +648,22 @@
    ]
   },
   {
-   "artist": "NCT 127",
-   "type": "7th Album",
-   "title": "BLINGY",
+   "artist": "NEXZ",
+   "type": "4th Mini Album",
+   "title": "SAUCIN’",
    "titleTrack": null,
    "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Cover2-NCT127-BLINGY.webp",
-   "url": "https://kpopofficial.com/album/nct-127-blingy/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-NEXZ-for-Saucin.webp",
+   "url": "https://kpopofficial.com/album/nexz-saucin/",
    "tracklist": [],
    "links": [
-    "https://x.com/NCTsmtown_127",
-    "https://x.com/NCTsmtown",
-    "https://www.instagram.com/nct127",
-    "https://www.instagram.com/nct",
-    "https://www.youtube.com/@NCT127",
-    "https://www.youtube.com/@NCTsmtown",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
+    "https://x.com/NEXZ_official",
+    "https://www.instagram.com/real_nexz/",
+    "https://www.youtube.com/@NEXZ_official",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@nexz_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
-  },
-  {
-   "artist": "TUIDE",
-   "type": "1st EP",
-   "title": "TUNE & PLAY",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUIDE-Members.webp",
-   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/TUIDE_official",
-    "https://www.instagram.com/tuide_abd",
-    "https://www.youtube.com/@TUIDE_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tuide_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
+   "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
   },
   {
    "artist": "NCT 127",
@@ -790,6 +745,24 @@
    "title": "TENACITY",
    "titleTrack": null,
    "date": "2026-08-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-SF9-Members-Photo.webp",
+   "url": "https://kpopofficial.com/album/sf9-tenacity/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/SF9official",
+    "https://www.instagram.com/SF9official",
+    "https://www.youtube.com/@SF9official",
+    "https://www.youtube.com/@thefncofficial",
+    "https://www.tiktok.com/@sf9official",
+    "https://www.youtube.com/@SF9official/releases"
+   ]
+  },
+  {
+   "artist": "SF9",
+   "type": "2nd Album",
+   "title": "TENACITY",
+   "titleTrack": null,
+   "date": "2026-08-26T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/SF9-Members-for-TENACITY-Album.webp",
    "url": "https://kpopofficial.com/album/sf9-tenacity/",
    "tracklist": [],
@@ -853,23 +826,6 @@
     "https://www.tiktok.com/@taemin_xoalsox_"
    ],
    "mv": "https://www.youtube.com/watch?v=3Pbrd5piZNM"
-  },
-  {
-   "artist": "82MAJOR",
-   "type": "2nd Single Album",
-   "title": "HEAT",
-   "titleTrack": null,
-   "date": "2026-09-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-82MAJOR-5th-Mini-Album-FEELM-Teaser.webp",
-   "url": "https://kpopofficial.com/album/82major-heat/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/82MAJOR_231011",
-    "https://www.instagram.com/82major_official",
-    "https://www.youtube.com/@82major_official",
-    "https://www.tiktok.com/@82major_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=AE3xB43P3pA"
   },
   {
    "artist": "82MAJOR",
