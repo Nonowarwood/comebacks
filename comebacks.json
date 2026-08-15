@@ -1,7 +1,30 @@
 {
- "generated": "2026-08-14T19:13:16+00:00",
+ "generated": "2026-08-15T01:49:57+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
+  {
+   "artist": "TWS (JP)",
+   "type": "Japan 2nd Single",
+   "title": "SODA SODA",
+   "titleTrack": "SODA SODA",
+   "date": "2026-08-04T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/TWS-SODA-SODA.webp",
+   "url": "https://kpopofficial.com/album/tws-soda-soda/",
+   "tracklist": [
+    "SODA SODA",
+    "Palm Tree",
+    "If I’m S, Can You Be My N? (Japanese ver.)"
+   ],
+   "links": [
+    "https://x.com/TWS_PLEDIS",
+    "https://x.com/TWS_PLEDIS_JP",
+    "https://www.instagram.com/tws_pledis",
+    "https://www.youtube.com/@TWS_PLEDIS",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tws_pledis"
+   ],
+   "mv": "https://www.youtube.com/watch?v=d1rWv8VeQO0"
+  },
   {
    "artist": "WHIB",
    "type": "2nd Mini Album",
@@ -359,20 +382,37 @@
    ]
   },
   {
-   "artist": "AtHeart",
-   "type": "Single",
-   "title": "3!4!",
+   "artist": "ODD YOUTH",
+   "type": "3rd Single",
+   "title": "can’t go back",
    "titleTrack": null,
    "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-AtHeart-members-for-34.webp",
-   "url": "https://kpopofficial.com/album/atheart-3-4/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
+   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
    "tracklist": [],
    "links": [
-    "https://x.com/atheart_titan",
-    "https://www.instagram.com/atheart.titan/",
-    "https://www.youtube.com/@AtHeart_TITAN",
-    "https://www.tiktok.com/@atheart.titan",
-    "https://www.youtube.com/@AtHeart_TITAN/releases"
+    "https://x.com/oddyouth_offcl",
+    "https://www.instagram.com/oddyouth_official",
+    "https://www.youtube.com/@ODD_YOUTH",
+    "https://www.tiktok.com/@odd_youth",
+    "https://www.youtube.com/@ODD_YOUTH/releases"
+   ]
+  },
+  {
+   "artist": "BIGBANG",
+   "type": "Digital Single",
+   "title": "BiiiG",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-BIGBANG-Members-for-Single-BiiiG.webp",
+   "url": "https://kpopofficial.com/album/bigbang-biiig/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/YG_GlobalVIP",
+    "https://www.instagram.com/bigbang_2xx6/",
+    "https://www.youtube.com/@BIGBANG",
+    "https://www.tiktok.com/@bigbang_2xx6",
+    "https://www.youtube.com/@BIGBANG/releases"
    ]
   },
   {
@@ -467,40 +507,6 @@
     "https://www.tiktok.com/@MADEIN_u"
    ],
    "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
-  },
-  {
-   "artist": "ODD YOUTH",
-   "type": "3rd Single",
-   "title": "can’t go back",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
-   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/oddyouth_offcl",
-    "https://www.instagram.com/oddyouth_official",
-    "https://www.youtube.com/@ODD_YOUTH",
-    "https://www.tiktok.com/@odd_youth",
-    "https://www.youtube.com/@ODD_YOUTH/releases"
-   ]
-  },
-  {
-   "artist": "BIGBANG",
-   "type": "Digital Single",
-   "title": "BiiiG",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-BIGBANG-Members-for-Single-BiiiG.webp",
-   "url": "https://kpopofficial.com/album/bigbang-biiig/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/YG_GlobalVIP",
-    "https://www.instagram.com/bigbang_2xx6/",
-    "https://www.youtube.com/@BIGBANG",
-    "https://www.tiktok.com/@bigbang_2xx6",
-    "https://www.youtube.com/@BIGBANG/releases"
-   ]
   },
   {
    "artist": "KIM JAE JOONG",
@@ -648,24 +654,6 @@
    ]
   },
   {
-   "artist": "NEXZ",
-   "type": "4th Mini Album",
-   "title": "SAUCIN’",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-NEXZ-for-Saucin.webp",
-   "url": "https://kpopofficial.com/album/nexz-saucin/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/NEXZ_official",
-    "https://www.instagram.com/real_nexz/",
-    "https://www.youtube.com/@NEXZ_official",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@nexz_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
-  },
-  {
    "artist": "NCT 127",
    "type": "7th Album",
    "title": "BLINGY",
@@ -745,7 +733,7 @@
    "title": "TENACITY",
    "titleTrack": null,
    "date": "2026-08-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-SF9-Members-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/SF9-Members-for-TENACITY-Album.webp",
    "url": "https://kpopofficial.com/album/sf9-tenacity/",
    "tracklist": [],
    "links": [
@@ -758,21 +746,19 @@
    ]
   },
   {
-   "artist": "SF9",
-   "type": "2nd Album",
-   "title": "TENACITY",
+   "artist": "HITGS",
+   "type": "Digital Single",
+   "title": "Things We Dream : Vol.3",
    "titleTrack": null,
-   "date": "2026-08-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/SF9-Members-for-TENACITY-Album.webp",
-   "url": "https://kpopofficial.com/album/sf9-tenacity/",
+   "date": "2026-08-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/hitgs-things-we-dream-vol-3.webp",
+   "url": "https://kpopofficial.com/album/hitgs-things-we-dream-vol-3/",
    "tracklist": [],
    "links": [
-    "https://x.com/SF9official",
-    "https://www.instagram.com/SF9official",
-    "https://www.youtube.com/@SF9official",
-    "https://www.youtube.com/@thefncofficial",
-    "https://www.tiktok.com/@sf9official",
-    "https://www.youtube.com/@SF9official/releases"
+    "https://x.com/HITGS_offcl",
+    "https://www.instagram.com/hitgs_offcl/",
+    "https://www.youtube.com/@HITGS_offcl",
+    "https://www.tiktok.com/@hitgs.offcl"
    ]
   },
   {
@@ -910,21 +896,21 @@
    ]
   },
   {
-   "artist": "EVAN",
-   "type": "1st Mini Album",
-   "title": "DEATH OF ME",
+   "artist": "VERIVERY",
+   "type": "8th Mini Album",
+   "title": "CONFETTI",
    "titleTrack": null,
    "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-EVAN-Heeseung.webp",
-   "url": "https://kpopofficial.com/album/evan-death-of-me/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-VERIVERY-members.webp",
+   "url": "https://kpopofficial.com/album/verivery-confetti/",
    "tracklist": [],
    "links": [
-    "https://x.com/h_evva_n",
-    "https://www.instagram.com/h_evva_n/",
-    "https://www.youtube.com/@h_evva_n",
-    "https://www.tiktok.com/@h_evva_n",
-    "https://www.youtube.com/@h_evva_n/releases"
-   ]
+    "https://x.com/the_verivery",
+    "https://www.instagram.com/the_verivery/",
+    "https://www.youtube.com/@VERIVERY",
+    "https://www.tiktok.com/@the_verivery"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
   },
   {
    "artist": "VERIVERY",
@@ -942,6 +928,41 @@
     "https://www.tiktok.com/@the_verivery"
    ],
    "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
+  },
+  {
+   "artist": "EVAN",
+   "type": "1st Mini Album",
+   "title": "DEATH OF ME",
+   "titleTrack": null,
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-EVAN-Heeseung.webp",
+   "url": "https://kpopofficial.com/album/evan-death-of-me/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/h_evva_n",
+    "https://www.instagram.com/h_evva_n/",
+    "https://www.youtube.com/@h_evva_n",
+    "https://www.tiktok.com/@h_evva_n",
+    "https://www.youtube.com/@h_evva_n/releases"
+   ]
+  },
+  {
+   "artist": "&TEAM (KR)",
+   "type": "2nd Mini Album",
+   "title": "Mark on Me",
+   "titleTrack": null,
+   "date": "2026-09-08T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-ANDTEAM-KR-2nd-Mini-Album-Mark-on-Me.webp",
+   "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/andTEAMofficial",
+    "https://www.instagram.com/andteam_official",
+    "https://www.youtube.com/@andTEAM_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@andteam_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
   },
   {
    "artist": "&TEAM (KR)",
