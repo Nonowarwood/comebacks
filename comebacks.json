@@ -1,33 +1,7 @@
 {
- "generated": "2026-08-16T01:56:41+00:00",
+ "generated": "2026-08-16T06:58:16+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "Picheolin (SEVENTEEN DINO)",
-   "type": "1st Mini Album",
-   "title": "吉BOARD",
-   "titleTrack": "Party Rock Rock",
-   "date": "2026-08-03T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/Picheolin-Gilboard-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/picheolin-gilboard/",
-   "tracklist": [
-    "ZZAN (feat. DINO)",
-    "Party Rock Rock (prod. Hitchhiker)",
-    "Sincerely (prod. Lee Hyun Do of DEUX)",
-    "Mi-cheo Mi-cheo",
-    "Love Sick (Narr. Lee Moon-sae)",
-    "For JEONG and LOVE",
-    "Like It (Song by Dino)"
-   ],
-   "links": [
-    "https://x.com/pledis_17",
-    "https://www.instagram.com/saythename_17/",
-    "https://www.youtube.com/@pledis17",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@seventeen17_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Do9BOhk0u_w"
-  },
   {
    "artist": "WHIB",
    "type": "2nd Mini Album",
@@ -50,30 +24,6 @@
     "https://www.tiktok.com/@whib_official"
    ],
    "mv": "https://www.youtube.com/watch?v=9jpNMWmTLaE"
-  },
-  {
-   "artist": "ARTMS",
-   "type": "2nd Mini Album",
-   "title": "Hyper-Ego",
-   "titleTrack": "Blue Blood",
-   "date": "2026-08-07T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ARTMS-Hyper-Ego-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
-   "tracklist": [
-    "From Wings To Soul",
-    "BORN STUNNER – (Pre-release)",
-    "Blue Blood – (Title)",
-    "ICARUS GANG",
-    "HYPER CRUSH",
-    "Pixel Memory"
-   ],
-   "links": [
-    "https://x.com/official_artms",
-    "https://www.instagram.com/official_artms",
-    "https://www.youtube.com/@official_artms",
-    "https://www.tiktok.com/@official_artms"
-   ],
-   "mv": "https://www.youtube.com/watch?v=5fNS_nqwVWo"
   },
   {
    "artist": "Stray Kids",
@@ -101,6 +51,30 @@
     "https://www.tiktok.com/@jypestraykids"
    ],
    "mv": "https://www.youtube.com/watch?v=BZ4UzthYTss"
+  },
+  {
+   "artist": "ARTMS",
+   "type": "2nd Mini Album",
+   "title": "Hyper-Ego",
+   "titleTrack": "Blue Blood",
+   "date": "2026-08-07T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ARTMS-Hyper-Ego-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
+   "tracklist": [
+    "From Wings To Soul",
+    "BORN STUNNER – (Pre-release)",
+    "Blue Blood – (Title)",
+    "ICARUS GANG",
+    "HYPER CRUSH",
+    "Pixel Memory"
+   ],
+   "links": [
+    "https://x.com/official_artms",
+    "https://www.instagram.com/official_artms",
+    "https://www.youtube.com/@official_artms",
+    "https://www.tiktok.com/@official_artms"
+   ],
+   "mv": "https://www.youtube.com/watch?v=5fNS_nqwVWo"
   },
   {
    "artist": "DAWN",
@@ -327,21 +301,22 @@
    ]
   },
   {
-   "artist": "JUN. K",
-   "type": "Digital Single",
-   "title": "Your Lips (Feat. WENDY)",
+   "artist": "TOMORROW X TOGETHER (JP)",
+   "type": "Japan 5th Single",
+   "title": "Setsuna Hanabi",
    "titleTrack": null,
-   "date": "2026-08-17T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JUN-K-Your-Lips-Feat-WENDY-album-cover.webp",
-   "url": "https://kpopofficial.com/album/jun-k-your-lips-wendy/",
+   "date": "2026-08-17T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TXT-Nice-To-Meet-You.webp",
+   "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
    "tracklist": [],
    "links": [
-    "https://x.com/follow_jun_k",
-    "https://x.com/Jun2daKAY",
-    "https://www.instagram.com/jun2dakay",
-    "https://www.youtube.com/@MIN_JUN_K",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.youtube.com/@MIN_JUN_K/releases"
+    "https://x.com/TXT_bighit",
+    "https://x.com/TXT_bighit_jp",
+    "https://www.instagram.com/txt_bighit",
+    "https://www.youtube.com/@TXT_bighit",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@txt.bighitent",
+    "https://www.youtube.com/@TXT_bighit/releases"
    ]
   },
   {
@@ -437,6 +412,29 @@
     "https://www.tiktok.com/@bigbang_2xx6",
     "https://www.youtube.com/@BIGBANG/releases"
    ]
+  },
+  {
+   "artist": "MASHIRO (MADEIN)",
+   "type": "1st EP",
+   "title": "24/11",
+   "titleTrack": "HOTLINE (Feat. BOBBY)",
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-MADEIN-MASHIRO.webp",
+   "url": "https://kpopofficial.com/album/mashiro-24-11/",
+   "tracklist": [
+    "HOTLINE (Feat. BOBBY)",
+    "MAKE UP",
+    "Bubble Trouble",
+    "Tooth brush"
+   ],
+   "links": [
+    "https://x.com/MADEIN_U",
+    "https://www.instagram.com/we.madein.u",
+    "https://www.instagram.com/shir0._.chann/",
+    "https://www.youtube.com/@MADEIN_U",
+    "https://www.tiktok.com/@MADEIN_u"
+   ],
+   "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
   },
   {
    "artist": "OURBIRTHDAY",
@@ -742,24 +740,6 @@
    "title": "TENACITY",
    "titleTrack": null,
    "date": "2026-08-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-SF9-Members-Photo.webp",
-   "url": "https://kpopofficial.com/album/sf9-tenacity/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/SF9official",
-    "https://www.instagram.com/SF9official",
-    "https://www.youtube.com/@SF9official",
-    "https://www.youtube.com/@thefncofficial",
-    "https://www.tiktok.com/@sf9official",
-    "https://www.youtube.com/@SF9official/releases"
-   ]
-  },
-  {
-   "artist": "SF9",
-   "type": "2nd Album",
-   "title": "TENACITY",
-   "titleTrack": null,
-   "date": "2026-08-26T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/SF9-Members-for-TENACITY-Album.webp",
    "url": "https://kpopofficial.com/album/sf9-tenacity/",
    "tracklist": [],
@@ -928,23 +908,6 @@
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@monsta_x_514",
     "https://www.youtube.com/@MONSTAX/releases"
-   ]
-  },
-  {
-   "artist": "EVAN",
-   "type": "1st Mini Album",
-   "title": "DEATH OF ME",
-   "titleTrack": null,
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-EVAN-Heeseung.webp",
-   "url": "https://kpopofficial.com/album/evan-death-of-me/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/h_evva_n",
-    "https://www.instagram.com/h_evva_n/",
-    "https://www.youtube.com/@h_evva_n",
-    "https://www.tiktok.com/@h_evva_n",
-    "https://www.youtube.com/@h_evva_n/releases"
    ]
   },
   {
