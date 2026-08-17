@@ -1,30 +1,7 @@
 {
- "generated": "2026-08-17T01:54:27+00:00",
+ "generated": "2026-08-17T07:15:31+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "WHIB",
-   "type": "2nd Mini Album",
-   "title": "CHERRY PIE",
-   "titleTrack": "CHERRY PIE",
-   "date": "2026-08-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/WHIB-CHERRY-PIE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/whib-cherry-pie/",
-   "tracklist": [
-    "PAGES OF US",
-    "CHERRY PIE – (title)",
-    "MOTTO",
-    "CAN’T STOP=NOT FOUND",
-    "MAKE IT"
-   ],
-   "links": [
-    "https://x.com/whib_official",
-    "https://www.instagram.com/whib_official",
-    "https://www.youtube.com/@WHIB_OFFICIAL",
-    "https://www.tiktok.com/@whib_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=9jpNMWmTLaE"
-  },
   {
    "artist": "Stray Kids",
    "type": "Mini Album",
@@ -75,22 +52,6 @@
     "https://www.tiktok.com/@official_artms"
    ],
    "mv": "https://www.youtube.com/watch?v=5fNS_nqwVWo"
-  },
-  {
-   "artist": "DAWN",
-   "type": "Single",
-   "title": "Too Much",
-   "titleTrack": "Too Much",
-   "date": "2026-08-07T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/DAWN-Too-Much-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/dawn-too-much/",
-   "tracklist": [],
-   "links": [
-    "https://www.instagram.com/hyojong_1994/",
-    "https://www.youtube.com/@officialdawn",
-    "https://www.tiktok.com/@dawn.official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=XUq2T47iY9A"
   },
   {
    "artist": "MIYEON (i-dle)",
@@ -441,40 +402,6 @@
    ]
   },
   {
-   "artist": "ODD YOUTH",
-   "type": "3rd Single",
-   "title": "can’t go back",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
-   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/oddyouth_offcl",
-    "https://www.instagram.com/oddyouth_official",
-    "https://www.youtube.com/@ODD_YOUTH",
-    "https://www.tiktok.com/@odd_youth",
-    "https://www.youtube.com/@ODD_YOUTH/releases"
-   ]
-  },
-  {
-   "artist": "BIGBANG",
-   "type": "Digital Single",
-   "title": "BiiiG",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-BIGBANG-Members-for-Single-BiiiG.webp",
-   "url": "https://kpopofficial.com/album/bigbang-biiig/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/YG_GlobalVIP",
-    "https://www.instagram.com/bigbang_2xx6/",
-    "https://www.youtube.com/@BIGBANG",
-    "https://www.tiktok.com/@bigbang_2xx6",
-    "https://www.youtube.com/@BIGBANG/releases"
-   ]
-  },
-  {
    "artist": "OURBIRTHDAY",
    "type": "1st Single",
    "title": "Our Birthday",
@@ -566,6 +493,40 @@
     "https://www.tiktok.com/@MADEIN_u"
    ],
    "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
+  },
+  {
+   "artist": "ODD YOUTH",
+   "type": "3rd Single",
+   "title": "can’t go back",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
+   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/oddyouth_offcl",
+    "https://www.instagram.com/oddyouth_official",
+    "https://www.youtube.com/@ODD_YOUTH",
+    "https://www.tiktok.com/@odd_youth",
+    "https://www.youtube.com/@ODD_YOUTH/releases"
+   ]
+  },
+  {
+   "artist": "BIGBANG",
+   "type": "Digital Single",
+   "title": "BiiiG",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-BIGBANG-Members-for-Single-BiiiG.webp",
+   "url": "https://kpopofficial.com/album/bigbang-biiig/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/YG_GlobalVIP",
+    "https://www.instagram.com/bigbang_2xx6/",
+    "https://www.youtube.com/@BIGBANG",
+    "https://www.tiktok.com/@bigbang_2xx6",
+    "https://www.youtube.com/@BIGBANG/releases"
+   ]
   },
   {
    "artist": "KIM JAE JOONG",
@@ -694,24 +655,6 @@
    ]
   },
   {
-   "artist": "NEXZ",
-   "type": "4th Mini Album",
-   "title": "SAUCIN’",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-NEXZ-for-Saucin.webp",
-   "url": "https://kpopofficial.com/album/nexz-saucin/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/NEXZ_official",
-    "https://www.instagram.com/real_nexz/",
-    "https://www.youtube.com/@NEXZ_official",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@nexz_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
-  },
-  {
    "artist": "ALPHA DRIVE ONE",
    "type": "2nd Mini Album",
    "title": "UNBREAKABLE : 少年BEAST",
@@ -766,6 +709,24 @@
     "https://www.tiktok.com/@official_nct"
    ],
    "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
+  },
+  {
+   "artist": "NEXZ",
+   "type": "4th Mini Album",
+   "title": "SAUCIN’",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-NEXZ-for-Saucin.webp",
+   "url": "https://kpopofficial.com/album/nexz-saucin/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NEXZ_official",
+    "https://www.instagram.com/real_nexz/",
+    "https://www.youtube.com/@NEXZ_official",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@nexz_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
   },
   {
    "artist": "SF9",
