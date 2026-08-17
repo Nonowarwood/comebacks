@@ -1437,20 +1437,25 @@
    "artist": "TOMORROW X TOGETHER (JP)",
    "type": "Japan 5th Single",
    "title": "Setsuna Hanabi",
-   "titleTrack": null,
+   "titleTrack": "Setsuna Hanabi",
    "date": "2026-08-17T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TXT-Nice-To-Meet-You.webp",
    "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
-   "tracklist": [],
+   "tracklist": [
+    "Setsuna Hanabi",
+    "Silence",
+    "Nice to Meet Ya",
+    "Setsuna Hanabi (Natsuyoi Ver.)"
+   ],
    "links": [
     "https://x.com/TXT_bighit",
     "https://x.com/TXT_bighit_jp",
     "https://www.instagram.com/txt_bighit",
     "https://www.youtube.com/@TXT_bighit",
     "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@txt.bighitent",
-    "https://www.youtube.com/@TXT_bighit/releases"
-   ]
+    "https://www.tiktok.com/@txt.bighitent"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Tg076GY2a-Q"
   },
   {
    "artist": "JUN. K",
@@ -1466,9 +1471,9 @@
     "https://x.com/Jun2daKAY",
     "https://www.instagram.com/jun2dakay",
     "https://www.youtube.com/@MIN_JUN_K",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.youtube.com/@MIN_JUN_K/releases"
-   ]
+    "https://www.youtube.com/@JYPEntertainment"
+   ],
+   "mv": "https://www.youtube.com/watch?v=yvgl4HHyuPs"
   },
   {
    "artist": "BOYNEXTDOOR (JP)",
