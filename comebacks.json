@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T18:57:07+00:00",
+ "generated": "2026-08-18T01:50:08+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -248,6 +248,30 @@
    "title": "Setsuna Hanabi",
    "titleTrack": "Setsuna Hanabi",
    "date": "2026-08-17T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-TXT-Nice-To-Meet-You.webp",
+   "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
+   "tracklist": [
+    "Setsuna Hanabi",
+    "Silence",
+    "Nice to Meet Ya",
+    "Setsuna Hanabi (Natsuyoi Ver.)"
+   ],
+   "links": [
+    "https://x.com/TXT_bighit",
+    "https://x.com/TXT_bighit_jp",
+    "https://www.instagram.com/txt_bighit",
+    "https://www.youtube.com/@TXT_bighit",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@txt.bighitent"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Tg076GY2a-Q"
+  },
+  {
+   "artist": "TOMORROW X TOGETHER (JP)",
+   "type": "Japan 5th Single",
+   "title": "Setsuna Hanabi",
+   "titleTrack": "Setsuna Hanabi",
+   "date": "2026-08-17T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TXT-Nice-To-Meet-You.webp",
    "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
    "tracklist": [
@@ -282,7 +306,25 @@
     "https://www.youtube.com/@MIN_JUN_K",
     "https://www.youtube.com/@JYPEntertainment"
    ],
-   "mv": "https://www.youtube.com/watch?v=yvgl4HHyuPs"
+   "mv": "https://www.youtube.com/watch?v=hFkC7mywj6U"
+  },
+  {
+   "artist": "JUN. K",
+   "type": "Digital Single",
+   "title": "Your Lips (Feat. WENDY)",
+   "titleTrack": null,
+   "date": "2026-08-17T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-JUN-K-Your-Lips-Feat-WENDY-teaser.webp",
+   "url": "https://kpopofficial.com/album/jun-k-your-lips-wendy/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/follow_jun_k",
+    "https://x.com/Jun2daKAY",
+    "https://www.instagram.com/jun2dakay",
+    "https://www.youtube.com/@MIN_JUN_K",
+    "https://www.youtube.com/@JYPEntertainment"
+   ],
+   "mv": "https://www.youtube.com/watch?v=hFkC7mywj6U"
   },
   {
    "artist": "BOYNEXTDOOR (JP)",
@@ -299,9 +341,9 @@
     "https://www.instagram.com/BOYNEXTDOOR_official",
     "https://www.youtube.com/@boynextdoor_official",
     "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@boynextdoor_official",
-    "https://www.youtube.com/@boynextdoor_official/releases"
-   ]
+    "https://www.tiktok.com/@boynextdoor_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=ntLoF0LnAwY"
   },
   {
    "artist": "BOYNEXTDOOR (JP)",
@@ -318,9 +360,9 @@
     "https://www.instagram.com/BOYNEXTDOOR_official",
     "https://www.youtube.com/@boynextdoor_official",
     "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@boynextdoor_official",
-    "https://www.youtube.com/@boynextdoor_official/releases"
-   ]
+    "https://www.tiktok.com/@boynextdoor_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=ntLoF0LnAwY"
   },
   {
    "artist": "ZEROBASEONE (JP)",
@@ -341,93 +383,6 @@
     "https://www.instagram.com/zb1official/",
     "https://www.youtube.com/@ZB1_official",
     "https://www.tiktok.com/@zb1_official"
-   ]
-  },
-  {
-   "artist": "OURBIRTHDAY",
-   "type": "1st Single",
-   "title": "Our Birthday",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-OURBIRTHDAY-Members.webp",
-   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/OBD_offcl",
-    "https://www.instagram.com/ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY/releases"
-   ]
-  },
-  {
-   "artist": "ODD YOUTH",
-   "type": "3rd Single",
-   "title": "can’t go back",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
-   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/oddyouth_offcl",
-    "https://www.instagram.com/oddyouth_official",
-    "https://www.youtube.com/@ODD_YOUTH",
-    "https://www.tiktok.com/@odd_youth",
-    "https://www.youtube.com/@ODD_YOUTH/releases"
-   ]
-  },
-  {
-   "artist": "BIGBANG",
-   "type": "Digital Single",
-   "title": "BiiiG",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-BIGBANG-Members-for-Single-BiiiG.webp",
-   "url": "https://kpopofficial.com/album/bigbang-biiig/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/YG_GlobalVIP",
-    "https://www.instagram.com/bigbang_2xx6/",
-    "https://www.youtube.com/@BIGBANG",
-    "https://www.tiktok.com/@bigbang_2xx6",
-    "https://www.youtube.com/@BIGBANG/releases"
-   ]
-  },
-  {
-   "artist": "OURBIRTHDAY",
-   "type": "1st Single",
-   "title": "Our Birthday",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members-Group-Photo.webp",
-   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/OBD_offcl",
-    "https://www.instagram.com/ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@ourbirthday_official",
-    "https://www.youtube.com/@OURBIRTHDAY/releases"
-   ]
-  },
-  {
-   "artist": "AtHeart",
-   "type": "Single",
-   "title": "3!4!",
-   "titleTrack": null,
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-AtHeart-members-for-34.webp",
-   "url": "https://kpopofficial.com/album/atheart-3-4/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/atheart_titan",
-    "https://www.instagram.com/atheart.titan/",
-    "https://www.youtube.com/@AtHeart_TITAN",
-    "https://www.tiktok.com/@atheart.titan",
-    "https://www.youtube.com/@AtHeart_TITAN/releases"
    ]
   },
   {
@@ -489,6 +444,104 @@
    "mv": "https://www.youtube.com/watch?v=KrF66d_5CIo"
   },
   {
+   "artist": "ODD YOUTH",
+   "type": "3rd Single",
+   "title": "can’t go back",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
+   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/oddyouth_offcl",
+    "https://www.instagram.com/oddyouth_official",
+    "https://www.youtube.com/@ODD_YOUTH",
+    "https://www.tiktok.com/@odd_youth",
+    "https://www.youtube.com/@ODD_YOUTH/releases"
+   ]
+  },
+  {
+   "artist": "BIGBANG",
+   "type": "Digital Single",
+   "title": "BiiiG",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-BIGBANG-Members-for-Single-BiiiG.webp",
+   "url": "https://kpopofficial.com/album/bigbang-biiig/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/YG_GlobalVIP",
+    "https://www.instagram.com/bigbang_2xx6/",
+    "https://www.youtube.com/@BIGBANG",
+    "https://www.tiktok.com/@bigbang_2xx6",
+    "https://www.youtube.com/@BIGBANG/releases"
+   ]
+  },
+  {
+   "artist": "OURBIRTHDAY",
+   "type": "1st Single",
+   "title": "Our Birthday",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members-Group-Photo.webp",
+   "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/OBD_offcl",
+    "https://www.instagram.com/ourbirthday_official",
+    "https://www.youtube.com/@OURBIRTHDAY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@ourbirthday_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=0B809sqOuDE"
+  },
+  {
+   "artist": "AtHeart",
+   "type": "Single",
+   "title": "3!4!",
+   "titleTrack": null,
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-AtHeart-members-for-34.webp",
+   "url": "https://kpopofficial.com/album/atheart-3-4/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/atheart_titan",
+    "https://www.instagram.com/atheart.titan/",
+    "https://www.youtube.com/@AtHeart_TITAN",
+    "https://www.tiktok.com/@atheart.titan",
+    "https://www.youtube.com/@AtHeart_TITAN/releases"
+   ]
+  },
+  {
+   "artist": "Tiffany Young",
+   "type": "1st Full Album",
+   "title": "Edge of Calm",
+   "titleTrack": "Edge of Calm\",\"Lips Together (feat. MIYEON)",
+   "date": "2026-08-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Tiffany-Young-1st-Full-Album-Edge-of-Calm-Teaser.webp",
+   "url": "https://kpopofficial.com/album/tiffany-young-edge-of-calm/",
+   "tracklist": [
+    "Codes",
+    "Drip Drop",
+    "Halfway Honest",
+    "Moment",
+    "Come Call Me Yours",
+    "Edge of Calm – (Title)",
+    "Lips Together (feat. MIYEON) – (Title)",
+    "Lovers (feat. JUNNY)",
+    "Summer’s Not Over (KOR Ver.)",
+    "Summer’s Not Over",
+    "Moonlit Rain"
+   ],
+   "links": [
+    "https://x.com/teampmg_kr",
+    "https://www.instagram.com/teampmg_/",
+    "https://www.instagram.com/tiffanyyoungofficial/",
+    "https://www.youtube.com/@tiffanyyoungofficial"
+   ],
+   "mv": "https://www.youtube.com/watch?v=GqxpgBIioi8"
+  },
+  {
    "artist": "KIM JAE JOONG",
    "type": "Single Album",
    "title": "THE WAVE",
@@ -526,35 +579,6 @@
     "https://www.youtube.com/@OHMYGIRL",
     "https://www.tiktok.com/@wm_ohmygirl"
    ]
-  },
-  {
-   "artist": "Tiffany Young",
-   "type": "1st Full Album",
-   "title": "Edge of Calm",
-   "titleTrack": "Edge of Calm\",\"Lips Together (feat. MIYEON)",
-   "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Tiffany-Young-1st-Full-Album-Edge-of-Calm-Teaser.webp",
-   "url": "https://kpopofficial.com/album/tiffany-young-edge-of-calm/",
-   "tracklist": [
-    "Codes",
-    "Drip Drop",
-    "Halfway Honest",
-    "Moment",
-    "Come Call Me Yours",
-    "Edge of Calm – (Title)",
-    "Lips Together (feat. MIYEON) – (Title)",
-    "Lovers (feat. JUNNY)",
-    "Summer’s Not Over (KOR Ver.)",
-    "Summer’s Not Over",
-    "Moonlit Rain"
-   ],
-   "links": [
-    "https://x.com/teampmg_kr",
-    "https://www.instagram.com/teampmg_/",
-    "https://www.instagram.com/tiffanyyoungofficial/",
-    "https://www.youtube.com/@tiffanyyoungofficial"
-   ],
-   "mv": "https://www.youtube.com/watch?v=GqxpgBIioi8"
   },
   {
    "artist": "ENHYPEN",
@@ -636,6 +660,44 @@
    "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
   },
   {
+   "artist": "ALPHA DRIVE ONE",
+   "type": "2nd Mini Album",
+   "title": "UNBREAKABLE : 少年BEAST",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/ALPHA-DRIVE-ONE-members-for-euphoria.webp",
+   "url": "https://kpopofficial.com/album/alpha-drive-one-unbreakable-shonen-beast/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ALD1_official",
+    "https://www.instagram.com/ald1.official",
+    "https://www.youtube.com/@ALD1.official",
+    "https://www.tiktok.com/@ald1_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=bXv5egr4Pw4"
+  },
+  {
+   "artist": "NCT 127",
+   "type": "7th Album",
+   "title": "BLINGY",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Cover-NCT127-BLINGY.webp",
+   "url": "https://kpopofficial.com/album/nct-127-blingy/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NCTsmtown_127",
+    "https://x.com/NCTsmtown",
+    "https://www.instagram.com/nct127",
+    "https://www.instagram.com/nct",
+    "https://www.youtube.com/@NCT127",
+    "https://www.youtube.com/@NCTsmtown",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct"
+   ],
+   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
+  },
+  {
    "artist": "NEXZ",
    "type": "4th Mini Album",
    "title": "SAUCIN’",
@@ -687,27 +749,6 @@
     "https://www.tiktok.com/@tuide_official"
    ],
    "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
-  },
-  {
-   "artist": "NCT 127",
-   "type": "7th Album",
-   "title": "BLINGY",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Cover-NCT127-BLINGY.webp",
-   "url": "https://kpopofficial.com/album/nct-127-blingy/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/NCTsmtown_127",
-    "https://x.com/NCTsmtown",
-    "https://www.instagram.com/nct127",
-    "https://www.instagram.com/nct",
-    "https://www.youtube.com/@NCT127",
-    "https://www.youtube.com/@NCTsmtown",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
-   ],
-   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
   },
   {
    "artist": "SF9",
