@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T07:03:46+00:00",
+ "generated": "2026-08-18T13:07:17+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -624,24 +624,6 @@
    "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
   },
   {
-   "artist": "TUIDE",
-   "type": "1st EP",
-   "title": "TUNE & PLAY",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUIDE-Members.webp",
-   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/TUIDE_official",
-    "https://www.instagram.com/tuide_abd",
-    "https://www.youtube.com/@TUIDE_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tuide_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
-  },
-  {
    "artist": "NEXZ",
    "type": "4th Mini Album",
    "title": "SAUCIN’",
@@ -748,24 +730,6 @@
     "https://www.youtube.com/@HITGS_offcl",
     "https://www.tiktok.com/@hitgs.offcl"
    ]
-  },
-  {
-   "artist": "TAEMIN (SHINee)",
-   "type": "Album",
-   "title": "PHASE 1 : Soft Violence",
-   "titleTrack": null,
-   "date": "2026-08-31T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TAEMIN-PHASE-1-Soft-Violence.webp",
-   "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/Taemin_Xoalsox_",
-    "https://www.instagram.com/xoalsox/",
-    "https://www.instagram.com/taemin_xoalsox/",
-    "https://www.youtube.com/@taemin_xoalsox",
-    "https://www.tiktok.com/@taemin_xoalsox_"
-   ],
-   "mv": "https://www.youtube.com/watch?v=3Pbrd5piZNM"
   },
   {
    "artist": "TAEMIN (SHINee)",
@@ -885,24 +849,6 @@
    ]
   },
   {
-   "artist": "MINHO (SHINee)",
-   "type": "2nd Mini Album",
-   "title": "Make it hot",
-   "titleTrack": null,
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2022/11/SHINee-Minho-Chase-Album.jpeg",
-   "url": "https://kpopofficial.com/album/minho-make-it-hot/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/SHINee",
-    "https://www.instagram.com/shinee",
-    "https://www.youtube.com/@SHINee",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@shinee_official",
-    "https://www.youtube.com/channel/UC0JAQy39_dU5wEaIUPgRI7g"
-   ]
-  },
-  {
    "artist": "EVAN",
    "type": "1st Mini Album",
    "title": "DEATH OF ME",
@@ -935,6 +881,24 @@
     "https://www.tiktok.com/@the_verivery"
    ],
    "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
+  },
+  {
+   "artist": "MINHO (SHINee)",
+   "type": "2nd Mini Album",
+   "title": "Make it hot",
+   "titleTrack": null,
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2022/11/SHINee-Minho-Chase-Album.jpeg",
+   "url": "https://kpopofficial.com/album/minho-make-it-hot/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/SHINee",
+    "https://www.instagram.com/shinee",
+    "https://www.youtube.com/@SHINee",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@shinee_official",
+    "https://www.youtube.com/channel/UC0JAQy39_dU5wEaIUPgRI7g"
+   ]
   },
   {
    "artist": "&TEAM (KR)",
