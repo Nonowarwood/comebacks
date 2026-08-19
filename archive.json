@@ -1461,7 +1461,7 @@
    "artist": "JUN. K",
    "type": "Digital Single",
    "title": "Your Lips (Feat. WENDY)",
-   "titleTrack": null,
+   "titleTrack": "Your Lips (Feat. WENDY)",
    "date": "2026-08-17T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JUN-K-Your-Lips-Feat-WENDY-album-cover.webp",
    "url": "https://kpopofficial.com/album/jun-k-your-lips-wendy/",
@@ -1490,9 +1490,9 @@
    "artist": "BOYNEXTDOOR (JP)",
    "type": "2nd Japanese Digital Single",
    "title": "Boom Boom Boom",
-   "titleTrack": null,
+   "titleTrack": "Boom Boom Boom",
    "date": "2026-08-18T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-BOYNEXTDOOR-JP-2nd-Digital-Single-Boom-Boom-Boom.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/BOYNEXTDOOR-Japan-Single-Boom-Boom-Boom-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/boynextdoor-boom-boom-boom/",
    "tracklist": [],
    "links": [
@@ -1702,17 +1702,20 @@
     "https://www.instagram.com/tiffanyyoungofficial/",
     "https://www.youtube.com/@tiffanyyoungofficial"
    ],
-   "mv": "https://www.youtube.com/watch?v=GqxpgBIioi8"
+   "mv": "https://www.youtube.com/watch?v=OunXd55iKuA"
   },
   {
    "artist": "KIM JAE JOONG",
    "type": "Single Album",
    "title": "THE WAVE",
-   "titleTrack": null,
+   "titleTrack": "Tonight",
    "date": "2026-08-20T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/KIM-JAE-JOONG-for-THE-WAVE.webp",
    "url": "https://kpopofficial.com/album/kim-jae-joong-the-wave/",
-   "tracklist": [],
+   "tracklist": [
+    "Tonight – (Title)",
+    "마중길"
+   ],
    "links": [
     "https://x.com/inkodeofficial",
     "https://x.com/bornfreeonekiss",
@@ -1721,7 +1724,7 @@
     "https://www.youtube.com/@inkodeofficial",
     "https://www.youtube.com/@JAEJOONGJJOfficial"
    ],
-   "mv": "https://www.youtube.com/watch?v=ELYzz-4y57g"
+   "mv": "https://www.youtube.com/watch?v=5tsMCLjzvos"
   },
   {
    "artist": "MIMI (OH MY GIRL)",
@@ -1741,7 +1744,8 @@
     "https://www.instagram.com/wm_ohmygirl",
     "https://www.youtube.com/@OHMYGIRL",
     "https://www.tiktok.com/@wm_ohmygirl"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=02it5Bt7BSs"
   },
   {
    "artist": "ENHYPEN",
@@ -1797,18 +1801,26 @@
    "artist": "ALPHA DRIVE ONE",
    "type": "2nd Mini Album",
    "title": "UNBREAKABLE : 少年BEAST",
-   "titleTrack": null,
+   "titleTrack": "BORN DIRE",
    "date": "2026-08-24T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ALPHA-DRIVE-ONE-members-for-unbreakable-shonen-beast.webp",
    "url": "https://kpopofficial.com/album/alpha-drive-one-unbreakable-shonen-beast/",
-   "tracklist": [],
+   "tracklist": [
+    "BORN DIRE – (Title)",
+    "Diamond Hour",
+    "One More Time",
+    "Talk To Me",
+    "OMG!",
+    "Good Life",
+    "Welcome Home"
+   ],
    "links": [
     "https://x.com/ALD1_official",
     "https://www.instagram.com/ald1.official",
     "https://www.youtube.com/@ALD1.official",
     "https://www.tiktok.com/@ald1_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=bXv5egr4Pw4"
+   "mv": "https://www.youtube.com/watch?v=3yeWqkacfeY"
   },
   {
    "artist": "NCT 127",
@@ -1835,11 +1847,17 @@
    "artist": "TUIDE",
    "type": "1st EP",
    "title": "TUNE & PLAY",
-   "titleTrack": null,
+   "titleTrack": "Sun Kiss",
    "date": "2026-08-24T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUIDE-Members.webp",
    "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
-   "tracklist": [],
+   "tracklist": [
+    "ABD",
+    "Sun Kiss – (Title)",
+    "Echo",
+    "Flip-Flop Girl",
+    "GRLS"
+   ],
    "links": [
     "https://x.com/TUIDE_official",
     "https://www.instagram.com/tuide_abd",
@@ -1853,11 +1871,18 @@
    "artist": "NEXZ",
    "type": "4th Mini Album",
    "title": "SAUCIN’",
-   "titleTrack": null,
+   "titleTrack": "SAUCIN'",
    "date": "2026-08-24T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-NEXZ-for-Saucin.webp",
    "url": "https://kpopofficial.com/album/nexz-saucin/",
-   "tracklist": [],
+   "tracklist": [
+    "LOCO",
+    "SAUCIN’ – (Title)",
+    "APPETITE",
+    "UPGRADE",
+    "20 NOW",
+    "ALIENS"
+   ],
    "links": [
     "https://x.com/NEXZ_official",
     "https://www.instagram.com/real_nexz/",
@@ -1865,7 +1890,7 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@nexz_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=qQBF20Qy9KI"
+   "mv": "https://www.youtube.com/watch?v=cVSrz4Ex56w"
   },
   {
    "artist": "SF9",
