@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T18:55:31+00:00",
+ "generated": "2026-08-19T01:52:34+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -30,22 +30,28 @@
    "mv": "https://www.youtube.com/watch?v=BZ4UzthYTss"
   },
   {
-   "artist": "MIYEON (i-dle)",
-   "type": "Japan Digital Single",
-   "title": "RUN AWAY",
-   "titleTrack": "RUN AWAY",
-   "date": "2026-08-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MIYEON-RUN-AWAY-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/miyeon-run-away/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_i_dle",
-    "https://x.com/i_dle_JP",
-    "https://www.instagram.com/i_dle_official",
-    "https://www.youtube.com/@official_i_dle",
-    "https://www.tiktok.com/@official_i_dle"
+   "artist": "ARTMS",
+   "type": "2nd Mini Album",
+   "title": "Hyper-Ego",
+   "titleTrack": "Blue Blood",
+   "date": "2026-08-07T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ARTMS-Hyper-Ego-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/artms-hyper-ego/",
+   "tracklist": [
+    "From Wings To Soul",
+    "BORN STUNNER – (Pre-release)",
+    "Blue Blood – (Title)",
+    "ICARUS GANG",
+    "HYPER CRUSH",
+    "Pixel Memory"
    ],
-   "mv": "https://www.youtube.com/watch?v=kO_AAjLbiys"
+   "links": [
+    "https://x.com/official_artms",
+    "https://www.instagram.com/official_artms",
+    "https://www.youtube.com/@official_artms",
+    "https://www.tiktok.com/@official_artms"
+   ],
+   "mv": "https://www.youtube.com/watch?v=5fNS_nqwVWo"
   },
   {
    "artist": "WayV",
@@ -73,6 +79,24 @@
     "https://www.tiktok.com/@official_wayv"
    ],
    "mv": "https://www.youtube.com/watch?v=bfQ0eLJNWiw"
+  },
+  {
+   "artist": "MIYEON (i-dle)",
+   "type": "Japan Digital Single",
+   "title": "RUN AWAY",
+   "titleTrack": "RUN AWAY",
+   "date": "2026-08-10T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MIYEON-RUN-AWAY-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/miyeon-run-away/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://x.com/i_dle_JP",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=kO_AAjLbiys"
   },
   {
    "artist": "KiiiKiii",
@@ -246,7 +270,7 @@
    "artist": "JUN. K",
    "type": "Digital Single",
    "title": "Your Lips (Feat. WENDY)",
-   "titleTrack": "Your Lips (Feat. WENDY)",
+   "titleTrack": null,
    "date": "2026-08-17T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JUN-K-Your-Lips-Feat-WENDY-album-cover.webp",
    "url": "https://kpopofficial.com/album/jun-k-your-lips-wendy/",
@@ -264,7 +288,7 @@
    "artist": "BOYNEXTDOOR (JP)",
    "type": "2nd Japanese Digital Single",
    "title": "Boom Boom Boom",
-   "titleTrack": "Boom Boom Boom",
+   "titleTrack": null,
    "date": "2026-08-18T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/BOYNEXTDOOR-JP-2nd-Digital-Single-Boom-Boom-Boom.jpeg",
    "url": "https://kpopofficial.com/album/boynextdoor-boom-boom-boom/",
@@ -283,9 +307,9 @@
    "artist": "BOYNEXTDOOR (JP)",
    "type": "2nd Japanese Digital Single",
    "title": "Boom Boom Boom",
-   "titleTrack": "Boom Boom Boom",
+   "titleTrack": null,
    "date": "2026-08-18T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/BOYNEXTDOOR-Japan-Single-Boom-Boom-Boom-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-BOYNEXTDOOR-JP-2nd-Digital-Single-Boom-Boom-Boom.webp",
    "url": "https://kpopofficial.com/album/boynextdoor-boom-boom-boom/",
    "tracklist": [],
    "links": [
@@ -343,10 +367,27 @@
    "mv": "https://www.youtube.com/watch?v=0B809sqOuDE"
   },
   {
+   "artist": "ODD YOUTH",
+   "type": "3rd Single",
+   "title": "can’t go back",
+   "titleTrack": "can’t go back",
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
+   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/oddyouth_offcl",
+    "https://www.instagram.com/oddyouth_official",
+    "https://www.youtube.com/@ODD_YOUTH",
+    "https://www.tiktok.com/@odd_youth"
+   ],
+   "mv": "https://www.youtube.com/watch?v=CxljGa5BnkU"
+  },
+  {
    "artist": "BIGBANG",
    "type": "Digital Single",
    "title": "BiiiG",
-   "titleTrack": "BiiiG",
+   "titleTrack": null,
    "date": "2026-08-19T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-BIGBANG-Members-for-Single-BiiiG.webp",
    "url": "https://kpopofficial.com/album/bigbang-biiig/",
@@ -456,23 +497,6 @@
     "https://www.tiktok.com/@MADEIN_u"
    ],
    "mv": "https://www.youtube.com/watch?v=6nACnUsZSoI"
-  },
-  {
-   "artist": "ODD YOUTH",
-   "type": "3rd Single",
-   "title": "can’t go back",
-   "titleTrack": "can’t go back",
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
-   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/oddyouth_offcl",
-    "https://www.instagram.com/oddyouth_official",
-    "https://www.youtube.com/@ODD_YOUTH",
-    "https://www.tiktok.com/@odd_youth"
-   ],
-   "mv": "https://www.youtube.com/watch?v=CxljGa5BnkU"
   },
   {
    "artist": "KIM JAE JOONG",
@@ -737,7 +761,7 @@
    "title": "PHASE 1 : Soft Violence",
    "titleTrack": null,
    "date": "2026-08-31T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-TAEMIN-PHASE-1-Soft-Violence.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TAEMIN-PHASE-1-Soft-Violence.webp",
    "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
    "tracklist": [],
    "links": [
@@ -750,21 +774,22 @@
    "mv": "https://www.youtube.com/watch?v=3Pbrd5piZNM"
   },
   {
-   "artist": "CHUNG HA",
-   "type": "Digital Single",
-   "title": "México",
+   "artist": "TAEMIN (SHINee)",
+   "type": "Album",
+   "title": "PHASE 1 : Soft Violence",
    "titleTrack": null,
-   "date": "2026-09-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/CHUNG-HA-Mexico.webp",
-   "url": "https://kpopofficial.com/album/chung-ha-mexico/",
+   "date": "2026-08-31T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-TAEMIN-PHASE-1-Soft-Violence.webp",
+   "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
    "tracklist": [],
    "links": [
-    "https://x.com/CH_CHUN9HA",
-    "https://www.instagram.com/chungha.art/",
-    "https://www.youtube.com/@CHUNGHA__Official",
-    "https://www.tiktok.com/@chun9ha_official"
+    "https://x.com/Taemin_Xoalsox_",
+    "https://www.instagram.com/xoalsox/",
+    "https://www.instagram.com/taemin_xoalsox/",
+    "https://www.youtube.com/@taemin_xoalsox",
+    "https://www.tiktok.com/@taemin_xoalsox_"
    ],
-   "mv": "https://www.youtube.com/watch?v=t0aVRF8xa00"
+   "mv": "https://www.youtube.com/watch?v=3Pbrd5piZNM"
   },
   {
    "artist": "82MAJOR",
@@ -881,24 +906,6 @@
     "https://www.tiktok.com/@the_verivery"
    ],
    "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
-  },
-  {
-   "artist": "MINHO (SHINee)",
-   "type": "2nd Mini Album",
-   "title": "Make it hot",
-   "titleTrack": null,
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2022/11/SHINee-Minho-Chase-Album.jpeg",
-   "url": "https://kpopofficial.com/album/minho-make-it-hot/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/SHINee",
-    "https://www.instagram.com/shinee",
-    "https://www.youtube.com/@SHINee",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@shinee_official",
-    "https://www.youtube.com/channel/UC0JAQy39_dU5wEaIUPgRI7g"
-   ]
   },
   {
    "artist": "&TEAM (KR)",
