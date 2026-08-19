@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T13:08:10+00:00",
+ "generated": "2026-08-19T18:52:49+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -28,6 +28,54 @@
     "https://www.tiktok.com/@jypestraykids"
    ],
    "mv": "https://www.youtube.com/watch?v=BZ4UzthYTss"
+  },
+  {
+   "artist": "KiiiKiii",
+   "type": "3rd EP",
+   "title": "WhyKiiiKiii",
+   "titleTrack": "Pop Off Pop Off",
+   "date": "2026-08-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/KiiiKiii-3rd-EP-WhyKiiiKiii-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
+   "tracklist": [
+    "Ever2Late!",
+    "Hey Hi",
+    "Pop Off Pop Off",
+    "Sweet Sour",
+    "Candy Pink Magic Hole Flip Phone",
+    "Blue Hour"
+   ],
+   "links": [
+    "https://x.com/We_KiiiKiii",
+    "https://www.instagram.com/kiiikiii.official/",
+    "https://www.youtube.com/@KiiiKiii_starship",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@kiiikiii_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
+  },
+  {
+   "artist": "Hearts2Hearts (JP)",
+   "type": "1st Japan Single",
+   "title": "ICONIC HEART",
+   "titleTrack": "ICONIC HEART",
+   "date": "2026-08-12T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Hearts2Hearts-ICONIC-HEART-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/hearts2hearts-iconic-heart/",
+   "tracklist": [
+    "ICONIC HEART – (Title)",
+    "Lemon Tang (Japanese Ver.)",
+    "RUDE! (Japanese Ver.)"
+   ],
+   "links": [
+    "https://x.com/Hearts2Hearts",
+    "https://x.com/Hearts2HeartsJP",
+    "https://www.instagram.com/hearts2hearts/",
+    "https://www.youtube.com/@hearts2hearts.official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@hearts2hearts"
+   ],
+   "mv": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
   },
   {
    "artist": "Splayit",
@@ -160,27 +208,6 @@
    ]
   },
   {
-   "artist": "ZEROBASEONE (JP)",
-   "type": "Japan 2nd EP",
-   "title": "回帰LOVE",
-   "titleTrack": "イグジステンス",
-   "date": "2026-08-19T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-zerobaseone-kaiki-love.webp",
-   "url": "https://kpopofficial.com/album/zerobaseone-kaiki-love/",
-   "tracklist": [
-    "イグジステンス",
-    "Aphrodite",
-    "TOP 5 (Japanese ver.)"
-   ],
-   "links": [
-    "https://x.com/ZB1_official",
-    "https://x.com/ZB1_jp",
-    "https://www.instagram.com/zb1official/",
-    "https://www.youtube.com/@ZB1_official",
-    "https://www.tiktok.com/@zb1_official"
-   ]
-  },
-  {
    "artist": "ONEWE",
    "type": "3rd Full Album",
    "title": "面 : Unknown Atlas",
@@ -213,7 +240,45 @@
     "https://www.youtube.com/@ONEWE",
     "https://www.tiktok.com/@rbw_onewe"
    ],
-   "mv": "https://www.youtube.com/watch?v=Cfs20Q1x9zw"
+   "mv": "https://www.youtube.com/watch?v=Ds3zQuYu19M"
+  },
+  {
+   "artist": "ZEROBASEONE (JP)",
+   "type": "Japan 2nd EP",
+   "title": "回帰LOVE",
+   "titleTrack": "イグジステンス",
+   "date": "2026-08-19T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-zerobaseone-kaiki-love.webp",
+   "url": "https://kpopofficial.com/album/zerobaseone-kaiki-love/",
+   "tracklist": [
+    "イグジステンス",
+    "Aphrodite",
+    "TOP 5 (Japanese ver.)"
+   ],
+   "links": [
+    "https://x.com/ZB1_official",
+    "https://x.com/ZB1_jp",
+    "https://www.instagram.com/zb1official/",
+    "https://www.youtube.com/@ZB1_official",
+    "https://www.tiktok.com/@zb1_official"
+   ]
+  },
+  {
+   "artist": "BIGBANG",
+   "type": "Digital Single",
+   "title": "BiiiG",
+   "titleTrack": "BiiiG",
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-BIGBANG-Members-for-Single-BiiiG.webp",
+   "url": "https://kpopofficial.com/album/bigbang-biiig/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/YG_GlobalVIP",
+    "https://www.instagram.com/bigbang_2xx6/",
+    "https://www.youtube.com/@BIGBANG",
+    "https://www.tiktok.com/@bigbang_2xx6"
+   ],
+   "mv": "https://www.youtube.com/watch?v=L8ZnXgbyUuc"
   },
   {
    "artist": "OURBIRTHDAY",
@@ -236,24 +301,24 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@ourbirthday_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=0B809sqOuDE"
+   "mv": "https://www.youtube.com/watch?v=f5W2rZ1FdBQ"
   },
   {
-   "artist": "BIGBANG",
-   "type": "Digital Single",
-   "title": "BiiiG",
-   "titleTrack": "BiiiG",
+   "artist": "AtHeart",
+   "type": "Single",
+   "title": "3!4!",
+   "titleTrack": "3!4!",
    "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-BIGBANG-Members-for-Single-BiiiG.webp",
-   "url": "https://kpopofficial.com/album/bigbang-biiig/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-AtHeart-members-for-34.webp",
+   "url": "https://kpopofficial.com/album/atheart-3-4/",
    "tracklist": [],
    "links": [
-    "https://x.com/YG_GlobalVIP",
-    "https://www.instagram.com/bigbang_2xx6/",
-    "https://www.youtube.com/@BIGBANG",
-    "https://www.tiktok.com/@bigbang_2xx6"
+    "https://x.com/atheart_titan",
+    "https://www.instagram.com/atheart.titan/",
+    "https://www.youtube.com/@AtHeart_TITAN",
+    "https://www.tiktok.com/@atheart.titan"
    ],
-   "mv": "https://www.youtube.com/watch?v=ioiNLty2moY"
+   "mv": "https://www.youtube.com/watch?v=eV5tjvvqLhQ"
   },
   {
    "artist": "MASHIRO (MADEIN)",
@@ -294,23 +359,6 @@
     "https://www.tiktok.com/@odd_youth"
    ],
    "mv": "https://www.youtube.com/watch?v=CxljGa5BnkU"
-  },
-  {
-   "artist": "AtHeart",
-   "type": "Single",
-   "title": "3!4!",
-   "titleTrack": "3!4!",
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-AtHeart-members-for-34.webp",
-   "url": "https://kpopofficial.com/album/atheart-3-4/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/atheart_titan",
-    "https://www.instagram.com/atheart.titan/",
-    "https://www.youtube.com/@AtHeart_TITAN",
-    "https://www.tiktok.com/@atheart.titan"
-   ],
-   "mv": "https://www.youtube.com/watch?v=eV5tjvvqLhQ"
   },
   {
    "artist": "MASHIRO (MADEIN)",
@@ -367,7 +415,7 @@
     "https://www.youtube.com/@BIGBANG",
     "https://www.tiktok.com/@bigbang_2xx6"
    ],
-   "mv": "https://www.youtube.com/watch?v=ioiNLty2moY"
+   "mv": "https://www.youtube.com/watch?v=L8ZnXgbyUuc"
   },
   {
    "artist": "OURBIRTHDAY",
@@ -390,7 +438,7 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@ourbirthday_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=0B809sqOuDE"
+   "mv": "https://www.youtube.com/watch?v=f5W2rZ1FdBQ"
   },
   {
    "artist": "AtHeart",
@@ -442,36 +490,7 @@
     "https://www.youtube.com/@ONEWE",
     "https://www.tiktok.com/@rbw_onewe"
    ],
-   "mv": "https://www.youtube.com/watch?v=Cfs20Q1x9zw"
-  },
-  {
-   "artist": "Tiffany Young",
-   "type": "1st Full Album",
-   "title": "Edge of Calm",
-   "titleTrack": "Edge of Calm\",\"Lips Together (feat. MIYEON)",
-   "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-Tiffany-Young-Edge-of-Calm.webp",
-   "url": "https://kpopofficial.com/album/tiffany-young-edge-of-calm/",
-   "tracklist": [
-    "Codes",
-    "Drip Drop",
-    "Halfway Honest",
-    "Moment",
-    "Come Call Me Yours",
-    "Edge of Calm – (Title)",
-    "Lips Together (feat. MIYEON) – (Title)",
-    "Lovers (feat. JUNNY)",
-    "Summer’s Not Over (KOR Ver.)",
-    "Summer’s Not Over",
-    "Moonlit Rain"
-   ],
-   "links": [
-    "https://x.com/teampmg_kr",
-    "https://www.instagram.com/teampmg_/",
-    "https://www.instagram.com/tiffanyyoungofficial/",
-    "https://www.youtube.com/@tiffanyyoungofficial"
-   ],
-   "mv": "https://www.youtube.com/watch?v=OunXd55iKuA"
+   "mv": "https://www.youtube.com/watch?v=Ds3zQuYu19M"
   },
   {
    "artist": "Tiffany Young",
@@ -630,29 +649,25 @@
    "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
   },
   {
-   "artist": "ALPHA DRIVE ONE",
-   "type": "2nd Mini Album",
-   "title": "UNBREAKABLE : 少年BEAST",
-   "titleTrack": "BORN DIRE",
+   "artist": "NCT 127",
+   "type": "7th Album",
+   "title": "BLINGY",
+   "titleTrack": null,
    "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/ALPHA-DRIVE-ONE-members-for-euphoria.webp",
-   "url": "https://kpopofficial.com/album/alpha-drive-one-unbreakable-shonen-beast/",
-   "tracklist": [
-    "BORN DIRE – (Title)",
-    "Diamond Hour",
-    "One More Time",
-    "Talk To Me",
-    "OMG!",
-    "Good Life",
-    "Welcome Home"
-   ],
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Cover2-NCT127-BLINGY.webp",
+   "url": "https://kpopofficial.com/album/nct-127-blingy/",
+   "tracklist": [],
    "links": [
-    "https://x.com/ALD1_official",
-    "https://www.instagram.com/ald1.official",
-    "https://www.youtube.com/@ALD1.official",
-    "https://www.tiktok.com/@ald1_official"
+    "https://x.com/NCTsmtown_127",
+    "https://x.com/NCTsmtown",
+    "https://www.instagram.com/nct127",
+    "https://www.instagram.com/nct",
+    "https://www.youtube.com/@NCT127",
+    "https://www.youtube.com/@NCTsmtown",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct"
    ],
-   "mv": "https://www.youtube.com/watch?v=3yeWqkacfeY"
+   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
   },
   {
    "artist": "NEXZ",
@@ -789,24 +804,6 @@
    "title": "PHASE 1 : Soft Violence",
    "titleTrack": null,
    "date": "2026-08-31T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TAEMIN-PHASE-1-Soft-Violence.webp",
-   "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/Taemin_Xoalsox_",
-    "https://www.instagram.com/xoalsox/",
-    "https://www.instagram.com/taemin_xoalsox/",
-    "https://www.youtube.com/@taemin_xoalsox",
-    "https://www.tiktok.com/@taemin_xoalsox_"
-   ],
-   "mv": "https://www.youtube.com/watch?v=3Pbrd5piZNM"
-  },
-  {
-   "artist": "TAEMIN (SHINee)",
-   "type": "Album",
-   "title": "PHASE 1 : Soft Violence",
-   "titleTrack": null,
-   "date": "2026-08-31T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-TAEMIN-PHASE-1-Soft-Violence.webp",
    "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
    "tracklist": [],
@@ -919,6 +916,24 @@
    ]
   },
   {
+   "artist": "MINHO (SHINee)",
+   "type": "2nd Mini Album",
+   "title": "Make it hot",
+   "titleTrack": null,
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2022/11/SHINee-Minho-Chase-Album.jpeg",
+   "url": "https://kpopofficial.com/album/minho-make-it-hot/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/SHINee",
+    "https://www.instagram.com/shinee",
+    "https://www.youtube.com/@SHINee",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@shinee_official",
+    "https://www.youtube.com/channel/UC0JAQy39_dU5wEaIUPgRI7g"
+   ]
+  },
+  {
    "artist": "EVAN",
    "type": "1st Mini Album",
    "title": "DEATH OF ME",
@@ -951,24 +966,6 @@
     "https://www.tiktok.com/@the_verivery"
    ],
    "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
-  },
-  {
-   "artist": "MINHO (SHINee)",
-   "type": "2nd Mini Album",
-   "title": "Make it hot",
-   "titleTrack": null,
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2022/11/SHINee-Minho-Chase-Album.jpeg",
-   "url": "https://kpopofficial.com/album/minho-make-it-hot/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/SHINee",
-    "https://www.instagram.com/shinee",
-    "https://www.youtube.com/@SHINee",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@shinee_official",
-    "https://www.youtube.com/channel/UC0JAQy39_dU5wEaIUPgRI7g"
-   ]
   },
   {
    "artist": "&TEAM (KR)",
