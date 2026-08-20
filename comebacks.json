@@ -1,59 +1,7 @@
 {
- "generated": "2026-08-20T13:10:31+00:00",
+ "generated": "2026-08-20T18:58:49+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "Stray Kids",
-   "type": "Mini Album",
-   "title": "THIS & THAT",
-   "titleTrack": "This & That",
-   "date": "2026-08-07T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Stray-Kids-This-and-That-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/stray-kids-this-and-that/",
-   "tracklist": [
-    "RUN IT – (Pre-release)",
-    "This & That – (Title)",
-    "After You",
-    "FARMING",
-    "I Do",
-    "Way Out",
-    "Back Then",
-    "This & That (Festival Version)"
-   ],
-   "links": [
-    "https://x.com/Stray_Kids",
-    "https://www.instagram.com/realstraykids/",
-    "https://www.youtube.com/@StrayKids",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@jypestraykids"
-   ],
-   "mv": "https://www.youtube.com/watch?v=BZ4UzthYTss"
-  },
-  {
-   "artist": "KiiiKiii",
-   "type": "3rd EP",
-   "title": "WhyKiiiKiii",
-   "titleTrack": "Pop Off Pop Off",
-   "date": "2026-08-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/KiiiKiii-3rd-EP-WhyKiiiKiii-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
-   "tracklist": [
-    "Ever2Late!",
-    "Hey Hi",
-    "Pop Off Pop Off",
-    "Sweet Sour",
-    "Candy Pink Magic Hole Flip Phone",
-    "Blue Hour"
-   ],
-   "links": [
-    "https://x.com/We_KiiiKiii",
-    "https://www.instagram.com/kiiikiii.official/",
-    "https://www.youtube.com/@KiiiKiii_starship",
-    "https://www.youtube.com/@STARSHIP_official",
-    "https://www.tiktok.com/@kiiikiii_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
-  },
   {
    "artist": "TOMORROW X TOGETHER (JP)",
    "type": "Japan 5th Single",
@@ -98,6 +46,28 @@
    "mv": "https://www.youtube.com/watch?v=ntLoF0LnAwY"
   },
   {
+   "artist": "ZEROBASEONE (JP)",
+   "type": "Japan 2nd EP",
+   "title": "KAIKILOVE",
+   "titleTrack": "Existence",
+   "date": "2026-08-19T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ZEROBASEONE-KAIKILOVE-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/zerobaseone-kaiki-love/",
+   "tracklist": [
+    "Existence",
+    "Aphrodite",
+    "TOP 5 (Japanese ver.)"
+   ],
+   "links": [
+    "https://x.com/ZB1_official",
+    "https://x.com/ZB1_jp",
+    "https://www.instagram.com/zb1official/",
+    "https://www.youtube.com/@ZB1_official",
+    "https://www.tiktok.com/@zb1_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Fb8wqlOUink"
+  },
+  {
    "artist": "ONEWE",
    "type": "3rd Full Album",
    "title": "面 : Unknown Atlas",
@@ -131,28 +101,6 @@
     "https://www.tiktok.com/@rbw_onewe"
    ],
    "mv": "https://www.youtube.com/watch?v=Ds3zQuYu19M"
-  },
-  {
-   "artist": "ZEROBASEONE (JP)",
-   "type": "Japan 2nd EP",
-   "title": "KAIKILOVE",
-   "titleTrack": "Existence",
-   "date": "2026-08-19T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ZEROBASEONE-KAIKILOVE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/zerobaseone-kaiki-love/",
-   "tracklist": [
-    "Existence",
-    "Aphrodite",
-    "TOP 5 (Japanese ver.)"
-   ],
-   "links": [
-    "https://x.com/ZB1_official",
-    "https://x.com/ZB1_jp",
-    "https://www.instagram.com/zb1official/",
-    "https://www.youtube.com/@ZB1_official",
-    "https://www.tiktok.com/@zb1_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Fb8wqlOUink"
   },
   {
    "artist": "BIGBANG",
@@ -218,6 +166,23 @@
    "mv": "https://www.youtube.com/watch?v=tSA4D6_b51w"
   },
   {
+   "artist": "AtHeart",
+   "type": "Single",
+   "title": "3!4!",
+   "titleTrack": "3!4!",
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/AtHeart-34-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/atheart-3-4/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/atheart_titan",
+    "https://www.instagram.com/atheart.titan/",
+    "https://www.youtube.com/@AtHeart_TITAN",
+    "https://www.tiktok.com/@atheart.titan"
+   ],
+   "mv": "https://www.youtube.com/watch?v=b6bSGu1YdRM"
+  },
+  {
    "artist": "ODD YOUTH",
    "type": "3rd Single",
    "title": "can’t go back",
@@ -238,29 +203,12 @@
    "mv": "https://www.youtube.com/watch?v=hYRsfjuM0c8"
   },
   {
-   "artist": "AtHeart",
-   "type": "Single",
-   "title": "3!4!",
-   "titleTrack": "3!4!",
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/AtHeart-34-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/atheart-3-4/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/atheart_titan",
-    "https://www.instagram.com/atheart.titan/",
-    "https://www.youtube.com/@AtHeart_TITAN",
-    "https://www.tiktok.com/@atheart.titan"
-   ],
-   "mv": "https://www.youtube.com/watch?v=b6bSGu1YdRM"
-  },
-  {
    "artist": "Tiffany Young",
    "type": "1st Full Album",
    "title": "Edge of Calm",
    "titleTrack": "Edge of Calm\",\"Lips Together (feat. MIYEON)",
    "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-Tiffany-Young-Edge-of-Calm.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Tiffany-Young-Edge-of-Calm-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/tiffany-young-edge-of-calm/",
    "tracklist": [
     "Codes",
@@ -284,34 +232,12 @@
    "mv": "https://www.youtube.com/watch?v=mvm39vaffsM"
   },
   {
-   "artist": "KIM JAE JOONG",
-   "type": "Single Album",
-   "title": "THE WAVE",
-   "titleTrack": "Tonight",
-   "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-KIM-JAE-JOONG-for-THE-WAVE.webp",
-   "url": "https://kpopofficial.com/album/kim-jae-joong-the-wave/",
-   "tracklist": [
-    "Tonight – (Title)",
-    "Echoes of Us"
-   ],
-   "links": [
-    "https://x.com/inkodeofficial",
-    "https://x.com/bornfreeonekiss",
-    "https://www.instagram.com/jj_1986_jj/",
-    "https://www.instagram.com/inkode_official/",
-    "https://www.youtube.com/@inkodeofficial",
-    "https://www.youtube.com/@JAEJOONGJJOfficial"
-   ],
-   "mv": "https://www.youtube.com/watch?v=jTVyroDos5U"
-  },
-  {
    "artist": "MIMI (OH MY GIRL)",
    "type": "1st Single",
    "title": "Bish Bash Bosh",
    "titleTrack": "Bish Bash Bosh",
    "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-MIMI-Bish-Bash-Bosh.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MIMI-Bish-Bash-Bosh-Album-cover.webp",
    "url": "https://kpopofficial.com/album/mimi-bish-bash-bosh/",
    "tracklist": [
     "Bish Bash Bosh",
@@ -332,7 +258,7 @@
    "title": "THE WAVE",
    "titleTrack": "Tonight",
    "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/KIM-JAE-JOONG-for-THE-WAVE.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/KIM-JAE-JOONG-The-Wave-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/kim-jae-joong-the-wave/",
    "tracklist": [
     "Tonight – (Title)",
@@ -347,56 +273,6 @@
     "https://www.youtube.com/@JAEJOONGJJOfficial"
    ],
    "mv": "https://www.youtube.com/watch?v=jTVyroDos5U"
-  },
-  {
-   "artist": "MIMI (OH MY GIRL)",
-   "type": "1st Single",
-   "title": "Bish Bash Bosh",
-   "titleTrack": "Bish Bash Bosh",
-   "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MIMI-Bish-Bash-Bosh.webp",
-   "url": "https://kpopofficial.com/album/mimi-bish-bash-bosh/",
-   "tracklist": [
-    "Bish Bash Bosh",
-    "Bish Bash Bosh (Acapella) (LP Only)",
-    "Bish Bash Bosh (Inst.)"
-   ],
-   "links": [
-    "https://x.com/8_OHMYGIRL",
-    "https://www.instagram.com/wm_ohmygirl",
-    "https://www.youtube.com/@OHMYGIRL",
-    "https://www.tiktok.com/@wm_ohmygirl"
-   ],
-   "mv": "https://www.youtube.com/watch?v=sD1iBAKplqQ"
-  },
-  {
-   "artist": "Tiffany Young",
-   "type": "1st Full Album",
-   "title": "Edge of Calm",
-   "titleTrack": "Edge of Calm\",\"Lips Together (feat. MIYEON)",
-   "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Tiffany-Young-1st-Full-Album-Edge-of-Calm-Teaser.webp",
-   "url": "https://kpopofficial.com/album/tiffany-young-edge-of-calm/",
-   "tracklist": [
-    "Codes",
-    "Drip Drop",
-    "Halfway Honest",
-    "Moment",
-    "Come Call Me Yours",
-    "Edge of Calm – (Title)",
-    "Lips Together (feat. MIYEON) – (Title)",
-    "Lovers (feat. JUNNY)",
-    "Summer’s Not Over (KOR Ver.)",
-    "Summer’s Not Over",
-    "Moonlit Rain"
-   ],
-   "links": [
-    "https://x.com/teampmg_kr",
-    "https://www.instagram.com/teampmg_/",
-    "https://www.instagram.com/tiffanyyoungofficial/",
-    "https://www.youtube.com/@tiffanyyoungofficial"
-   ],
-   "mv": "https://www.youtube.com/watch?v=mvm39vaffsM"
   },
   {
    "artist": "ENHYPEN",
@@ -459,72 +335,6 @@
    "mv": "https://www.youtube.com/watch?v=ZKLWQT6QANg"
   },
   {
-   "artist": "NCT 127",
-   "type": "7th Album",
-   "title": "BLINGY",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Cover2-NCT127-BLINGY.webp",
-   "url": "https://kpopofficial.com/album/nct-127-blingy/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/NCTsmtown_127",
-    "https://x.com/NCTsmtown",
-    "https://www.instagram.com/nct127",
-    "https://www.instagram.com/nct",
-    "https://www.youtube.com/@NCT127",
-    "https://www.youtube.com/@NCTsmtown",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
-   ],
-   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
-  },
-  {
-   "artist": "TUIDE",
-   "type": "1st EP",
-   "title": "TUNE & PLAY",
-   "titleTrack": "Sun Kiss",
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUIDE-Members.webp",
-   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
-   "tracklist": [
-    "ABD",
-    "Sun Kiss – (Title)",
-    "Echo",
-    "Flip-Flop Girl",
-    "GRLS"
-   ],
-   "links": [
-    "https://x.com/TUIDE_official",
-    "https://www.instagram.com/tuide_abd",
-    "https://www.youtube.com/@TUIDE_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tuide_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
-  },
-  {
-   "artist": "NCT 127",
-   "type": "7th Album",
-   "title": "BLINGY",
-   "titleTrack": null,
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Cover-NCT127-BLINGY.webp",
-   "url": "https://kpopofficial.com/album/nct-127-blingy/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/NCTsmtown_127",
-    "https://x.com/NCTsmtown",
-    "https://www.instagram.com/nct127",
-    "https://www.instagram.com/nct",
-    "https://www.youtube.com/@NCT127",
-    "https://www.youtube.com/@NCTsmtown",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
-   ],
-   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
-  },
-  {
    "artist": "NEXZ",
    "type": "4th Mini Album",
    "title": "SAUCIN’",
@@ -573,6 +383,51 @@
     "https://www.tiktok.com/@ald1_official"
    ],
    "mv": "https://www.youtube.com/watch?v=3yeWqkacfeY"
+  },
+  {
+   "artist": "NCT 127",
+   "type": "7th Album",
+   "title": "BLINGY",
+   "titleTrack": null,
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Cover-NCT127-BLINGY.webp",
+   "url": "https://kpopofficial.com/album/nct-127-blingy/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NCTsmtown_127",
+    "https://x.com/NCTsmtown",
+    "https://www.instagram.com/nct127",
+    "https://www.instagram.com/nct",
+    "https://www.youtube.com/@NCT127",
+    "https://www.youtube.com/@NCTsmtown",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct"
+   ],
+   "mv": "https://www.youtube.com/watch?v=GnXnZqkYJIs"
+  },
+  {
+   "artist": "TUIDE",
+   "type": "1st EP",
+   "title": "TUNE & PLAY",
+   "titleTrack": "Sun Kiss",
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUIDE-Members.webp",
+   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
+   "tracklist": [
+    "ABD",
+    "Sun Kiss – (Title)",
+    "Echo",
+    "Flip-Flop Girl",
+    "GRLS"
+   ],
+   "links": [
+    "https://x.com/TUIDE_official",
+    "https://www.instagram.com/tuide_abd",
+    "https://www.youtube.com/@TUIDE_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tuide_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=0Yq74xnAotQ"
   },
   {
    "artist": "SF9",
@@ -627,23 +482,6 @@
    "mv": "https://www.youtube.com/watch?v=3Pbrd5piZNM"
   },
   {
-   "artist": "82MAJOR",
-   "type": "2nd Single Album",
-   "title": "HEAT",
-   "titleTrack": null,
-   "date": "2026-09-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-82MAJOR-HEAT.webp",
-   "url": "https://kpopofficial.com/album/82major-heat/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/82MAJOR_231011",
-    "https://www.instagram.com/82major_official",
-    "https://www.youtube.com/@82major_official",
-    "https://www.tiktok.com/@82major_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=AE3xB43P3pA"
-  },
-  {
    "artist": "CHUNG HA",
    "type": "Digital Single",
    "title": "México",
@@ -659,6 +497,23 @@
     "https://www.tiktok.com/@chun9ha_official"
    ],
    "mv": "https://www.youtube.com/watch?v=t0aVRF8xa00"
+  },
+  {
+   "artist": "82MAJOR",
+   "type": "2nd Single Album",
+   "title": "HEAT",
+   "titleTrack": null,
+   "date": "2026-09-01T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-82MAJOR-HEAT.webp",
+   "url": "https://kpopofficial.com/album/82major-heat/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/82MAJOR_231011",
+    "https://www.instagram.com/82major_official",
+    "https://www.youtube.com/@82major_official",
+    "https://www.tiktok.com/@82major_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=AE3xB43P3pA"
   },
   {
    "artist": "izna (JP)",
@@ -726,23 +581,6 @@
    ]
   },
   {
-   "artist": "VERIVERY",
-   "type": "8th Mini Album",
-   "title": "CONFETTI",
-   "titleTrack": null,
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/2-VERIVERY-Members-Group-Photo-for-Lost-and-found.webp",
-   "url": "https://kpopofficial.com/album/verivery-confetti/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/the_verivery",
-    "https://www.instagram.com/the_verivery/",
-    "https://www.youtube.com/@VERIVERY",
-    "https://www.tiktok.com/@the_verivery"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
-  },
-  {
    "artist": "EVAN",
    "type": "1st Mini Album",
    "title": "DEATH OF ME",
@@ -776,6 +614,23 @@
     "https://www.tiktok.com/@shinee_official",
     "https://www.youtube.com/channel/UC0JAQy39_dU5wEaIUPgRI7g"
    ]
+  },
+  {
+   "artist": "VERIVERY",
+   "type": "8th Mini Album",
+   "title": "CONFETTI",
+   "titleTrack": null,
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/2-VERIVERY-Members-Group-Photo-for-Lost-and-found.webp",
+   "url": "https://kpopofficial.com/album/verivery-confetti/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/the_verivery",
+    "https://www.instagram.com/the_verivery/",
+    "https://www.youtube.com/@VERIVERY",
+    "https://www.tiktok.com/@the_verivery"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
   },
   {
    "artist": "&TEAM (KR)",
