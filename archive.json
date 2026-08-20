@@ -1532,7 +1532,7 @@
    "title": "面 : Unknown Atlas",
    "titleTrack": "Scenario",
    "date": "2026-08-19T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-ONEWE-Members-for-Unknown-Atlas-Album.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ONEWE-Unknown-Atlas-Album-cover.webp",
    "url": "https://kpopofficial.com/album/onewe-unknown-atlas/",
    "tracklist": [
     "Scenario – (Title)",
@@ -1560,6 +1560,28 @@
     "https://www.tiktok.com/@rbw_onewe"
    ],
    "mv": "https://www.youtube.com/watch?v=Ds3zQuYu19M"
+  },
+  {
+   "artist": "ZEROBASEONE (JP)",
+   "type": "Japan 2nd EP",
+   "title": "KAIKILOVE",
+   "titleTrack": "Existence",
+   "date": "2026-08-19T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ZEROBASEONE-KAIKILOVE-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/zerobaseone-kaiki-love/",
+   "tracklist": [
+    "Existence",
+    "Aphrodite",
+    "TOP 5 (Japanese ver.)"
+   ],
+   "links": [
+    "https://x.com/ZB1_official",
+    "https://x.com/ZB1_jp",
+    "https://www.instagram.com/zb1official/",
+    "https://www.youtube.com/@ZB1_official",
+    "https://www.tiktok.com/@zb1_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Fb8wqlOUink"
   },
   {
    "artist": "ONEWE",
@@ -1602,7 +1624,7 @@
    "title": "24/11",
    "titleTrack": "HOTLINE (Feat. BOBBY)",
    "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/MADEIN-MASHIRO-for-1st-EP-24-11.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/MASHIRO-24-11-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/mashiro-24-11/",
    "tracklist": [
     "HOTLINE (Feat. BOBBY)",
@@ -1617,7 +1639,7 @@
     "https://www.youtube.com/@MADEIN_U",
     "https://www.tiktok.com/@MADEIN_u"
    ],
-   "mv": "https://www.youtube.com/watch?v=6nACnUsZSoI"
+   "mv": "https://www.youtube.com/watch?v=tSA4D6_b51w"
   },
   {
    "artist": "AtHeart",
@@ -1625,7 +1647,7 @@
    "title": "3!4!",
    "titleTrack": "3!4!",
    "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-AtHeart-members-for-34.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/AtHeart-34-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/atheart-3-4/",
    "tracklist": [],
    "links": [
@@ -1634,7 +1656,7 @@
     "https://www.youtube.com/@AtHeart_TITAN",
     "https://www.tiktok.com/@atheart.titan"
    ],
-   "mv": "https://www.youtube.com/watch?v=eV5tjvvqLhQ"
+   "mv": "https://www.youtube.com/watch?v=b6bSGu1YdRM"
   },
   {
    "artist": "OURBIRTHDAY",
@@ -1642,7 +1664,7 @@
    "title": "Our Birthday",
    "titleTrack": "SQUEEZY",
    "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-OURBIRTHDAY-Members-Group-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/OURBIRTHDAY-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/ourbirthday-our-birthday/",
    "tracklist": [
     "Our Birthday",
@@ -1665,7 +1687,7 @@
    "title": "BiiiG",
    "titleTrack": "BiiiG",
    "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-BIGBANG-Members-for-Single-BiiiG.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/BIGBANG-BiiiG-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/bigbang-biiig/",
    "tracklist": [],
    "links": [
@@ -1682,16 +1704,19 @@
    "title": "can’t go back",
    "titleTrack": "can’t go back",
    "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ODD-YOUTH-cant-go-back.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ODD-YOUTH-3rd-Single-cant-go-back.webp",
    "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
-   "tracklist": [],
+   "tracklist": [
+    "can’t go back",
+    "Happy"
+   ],
    "links": [
     "https://x.com/oddyouth_offcl",
     "https://www.instagram.com/oddyouth_official",
     "https://www.youtube.com/@ODD_YOUTH",
     "https://www.tiktok.com/@odd_youth"
    ],
-   "mv": "https://www.youtube.com/watch?v=CxljGa5BnkU"
+   "mv": "https://www.youtube.com/watch?v=hYRsfjuM0c8"
   },
   {
    "artist": "Tiffany Young",
