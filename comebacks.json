@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T13:10:24+00:00",
+ "generated": "2026-08-21T18:55:30+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -352,30 +352,6 @@
    "mv": "https://www.youtube.com/watch?v=ZKLWQT6QANg"
   },
   {
-   "artist": "TUIDE",
-   "type": "1st EP",
-   "title": "TUNE & PLAY",
-   "titleTrack": "SUN KISS",
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUIDE-Members.webp",
-   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
-   "tracklist": [
-    "ABD",
-    "SUN KISS – (Title)",
-    "Echo",
-    "Flip-Flop Girl",
-    "GRLS"
-   ],
-   "links": [
-    "https://x.com/TUIDE_official",
-    "https://www.instagram.com/tuide_abd",
-    "https://www.youtube.com/@TUIDE_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tuide_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=r0KCLM79ab8"
-  },
-  {
    "artist": "NEXZ",
    "type": "4th Mini Album",
    "title": "SAUCIN’",
@@ -399,6 +375,30 @@
     "https://www.tiktok.com/@nexz_official"
    ],
    "mv": "https://www.youtube.com/watch?v=cVSrz4Ex56w"
+  },
+  {
+   "artist": "TUIDE",
+   "type": "1st EP",
+   "title": "TUNE & PLAY",
+   "titleTrack": "SUN KISS",
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUIDE-Members.webp",
+   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
+   "tracklist": [
+    "ABD",
+    "SUN KISS – (Title)",
+    "Echo",
+    "Flip-Flop Girl",
+    "GRLS"
+   ],
+   "links": [
+    "https://x.com/TUIDE_official",
+    "https://www.instagram.com/tuide_abd",
+    "https://www.youtube.com/@TUIDE_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tuide_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=r0KCLM79ab8"
   },
   {
    "artist": "NEXZ",
@@ -535,22 +535,6 @@
    "mv": "https://www.youtube.com/watch?v=E3CdDP_ZS4s"
   },
   {
-   "artist": "HITGS",
-   "type": "Digital Single",
-   "title": "Things We Dream : Vol.3",
-   "titleTrack": null,
-   "date": "2026-08-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/10/HITGS-members-group-photo-3.webp",
-   "url": "https://kpopofficial.com/album/hitgs-things-we-dream-vol-3/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/HITGS_offcl",
-    "https://www.instagram.com/hitgs_offcl/",
-    "https://www.youtube.com/@HITGS_offcl",
-    "https://www.tiktok.com/@hitgs.offcl"
-   ]
-  },
-  {
    "artist": "TNX",
    "type": "3rd Digital Single",
    "title": "Die Another Day",
@@ -566,6 +550,22 @@
     "https://www.tiktok.com/@officialtnx"
    ],
    "mv": "https://www.youtube.com/watch?v=KDUERzYNNvM"
+  },
+  {
+   "artist": "HITGS",
+   "type": "Digital Single",
+   "title": "Things We Dream : Vol.3",
+   "titleTrack": null,
+   "date": "2026-08-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/10/HITGS-members-group-photo-3.webp",
+   "url": "https://kpopofficial.com/album/hitgs-things-we-dream-vol-3/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/HITGS_offcl",
+    "https://www.instagram.com/hitgs_offcl/",
+    "https://www.youtube.com/@HITGS_offcl",
+    "https://www.tiktok.com/@hitgs.offcl"
+   ]
   },
   {
    "artist": "TAEMIN (SHINee)",
