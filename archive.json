@@ -1724,7 +1724,7 @@
    "title": "Edge of Calm",
    "titleTrack": "Edge of Calm\",\"Lips Together (feat. MIYEON)",
    "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Tiffany-Young-1st-Full-Album-Edge-of-Calm-Teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Tiffany-Young-Edge-of-Calm-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/tiffany-young-edge-of-calm/",
    "tracklist": [
     "Codes",
@@ -1753,7 +1753,7 @@
    "title": "THE WAVE",
    "titleTrack": "Tonight",
    "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/KIM-JAE-JOONG-for-THE-WAVE.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/KIM-JAE-JOONG-The-Wave-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/kim-jae-joong-the-wave/",
    "tracklist": [
     "Tonight – (Title)",
@@ -1775,7 +1775,7 @@
    "title": "Bish Bash Bosh",
    "titleTrack": "Bish Bash Bosh",
    "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MIMI-Bish-Bash-Bosh.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MIMI-Bish-Bash-Bosh-Album-cover.webp",
    "url": "https://kpopofficial.com/album/mimi-bish-bash-bosh/",
    "tracklist": [
     "Bish Bash Bosh",
@@ -1800,15 +1800,11 @@
    "url": "https://kpopofficial.com/album/enhypen-the-sin-bliss/",
    "tracklist": [
     "Two Fools",
-    "속보",
     "Stuck",
     "Bad For You",
-    "사랑의 잔해",
     "Bloody Paradise – (Title)",
-    "최후의 순간",
     "Checkmate",
-    "Highlight",
-    "가려진 진실"
+    "Highlight"
    ],
    "links": [
     "https://x.com/ENHYPEN",
@@ -2008,6 +2004,23 @@
    ]
   },
   {
+   "artist": "TNX",
+   "type": "3rd Digital Single",
+   "title": "Die Another Day",
+   "titleTrack": null,
+   "date": "2026-08-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TNX-Members-for-Die-Another-Day.webp",
+   "url": "https://kpopofficial.com/album/tnx-die-another-day/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TNX_Official",
+    "https://www.instagram.com/official.tnx",
+    "https://www.youtube.com/@official_tnx",
+    "https://www.tiktok.com/@officialtnx"
+   ],
+   "mv": "https://www.youtube.com/watch?v=KDUERzYNNvM"
+  },
+  {
    "artist": "TAEMIN (SHINee)",
    "type": "Album",
    "title": "PHASE 1 : Soft Violence",
@@ -2115,6 +2128,23 @@
     "https://www.tiktok.com/@tunexx_official"
    ],
    "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
+  },
+  {
+   "artist": "UNCHILD",
+   "type": "2nd Digital Single",
+   "title": "TiNG TiNG",
+   "titleTrack": null,
+   "date": "2026-09-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-UNCHILD-Members.webp",
+   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/officialUNCHILD",
+    "https://www.instagram.com/official_unchild",
+    "https://www.youtube.com/@official_unchild",
+    "https://www.tiktok.com/@official_unchild",
+    "https://www.youtube.com/@official_unchild/releases"
+   ]
   },
   {
    "artist": "TUNEXX",
