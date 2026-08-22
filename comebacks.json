@@ -1,31 +1,56 @@
 {
- "generated": "2026-08-21T18:55:30+00:00",
+ "generated": "2026-08-22T01:49:35+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
-   "artist": "KiiiKiii",
-   "type": "3rd EP",
-   "title": "WhyKiiiKiii",
-   "titleTrack": "Pop Off Pop Off",
-   "date": "2026-08-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/KiiiKiii-3rd-EP-WhyKiiiKiii-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/kiiikiii-whykiiikiii/",
+   "artist": "Hearts2Hearts (JP)",
+   "type": "1st Japan Single",
+   "title": "ICONIC HEART",
+   "titleTrack": "ICONIC HEART",
+   "date": "2026-08-12T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Hearts2Hearts-ICONIC-HEART-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/hearts2hearts-iconic-heart/",
    "tracklist": [
-    "Ever2Late!",
-    "Hey Hi",
-    "Pop Off Pop Off",
-    "Sweet Sour",
-    "Candy Pink Magic Hole Flip Phone",
-    "Blue Hour"
+    "ICONIC HEART – (Title)",
+    "Lemon Tang (Japanese Ver.)",
+    "RUDE! (Japanese Ver.)"
    ],
    "links": [
-    "https://x.com/We_KiiiKiii",
-    "https://www.instagram.com/kiiikiii.official/",
-    "https://www.youtube.com/@KiiiKiii_starship",
-    "https://www.youtube.com/@STARSHIP_official",
-    "https://www.tiktok.com/@kiiikiii_official"
+    "https://x.com/Hearts2Hearts",
+    "https://x.com/Hearts2HeartsJP",
+    "https://www.instagram.com/hearts2hearts/",
+    "https://www.youtube.com/@hearts2hearts.official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@hearts2hearts"
    ],
-   "mv": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
+   "mv": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
+  },
+  {
+   "artist": "HYNN",
+   "type": "EP",
+   "title": "Traces of Summer",
+   "titleTrack": "Three days after –",
+   "date": "2026-08-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/HYNN-Traces-of-Summer-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/hynn-traces-of-summer/",
+   "tracklist": [
+    "Three days after –",
+    "(Title)",
+    "Not like the end of the world –",
+    "(Title)",
+    "Written ending",
+    "Misfit",
+    "Title Role",
+    "Three days after (Instrumental)",
+    "Not like the end of the world (Instrumental)"
+   ],
+   "links": [
+    "https://x.com/hynn_official",
+    "https://www.instagram.com/hynn_01/",
+    "https://www.youtube.com/@hynn9109",
+    "https://www.tiktok.com/@hynn0115"
+   ],
+   "mv": "https://www.youtube.com/watch?v=7tp45qgQuCQ"
   },
   {
    "artist": "TOMORROW X TOGETHER (JP)",
@@ -191,6 +216,23 @@
    "mv": "https://www.youtube.com/watch?v=tSA4D6_b51w"
   },
   {
+   "artist": "AtHeart",
+   "type": "Single",
+   "title": "3!4!",
+   "titleTrack": "3!4!",
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/AtHeart-34-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/atheart-3-4/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/atheart_titan",
+    "https://www.instagram.com/atheart.titan/",
+    "https://www.youtube.com/@AtHeart_TITAN",
+    "https://www.tiktok.com/@atheart.titan"
+   ],
+   "mv": "https://www.youtube.com/watch?v=b6bSGu1YdRM"
+  },
+  {
    "artist": "ODD YOUTH",
    "type": "3rd Single",
    "title": "can’t go back",
@@ -209,23 +251,6 @@
     "https://www.tiktok.com/@odd_youth"
    ],
    "mv": "https://www.youtube.com/watch?v=hYRsfjuM0c8"
-  },
-  {
-   "artist": "AtHeart",
-   "type": "Single",
-   "title": "3!4!",
-   "titleTrack": "3!4!",
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/AtHeart-34-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/atheart-3-4/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/atheart_titan",
-    "https://www.instagram.com/atheart.titan/",
-    "https://www.youtube.com/@AtHeart_TITAN",
-    "https://www.tiktok.com/@atheart.titan"
-   ],
-   "mv": "https://www.youtube.com/watch?v=b6bSGu1YdRM"
   },
   {
    "artist": "Tiffany Young",
@@ -257,27 +282,6 @@
    "mv": "https://www.youtube.com/watch?v=mvm39vaffsM"
   },
   {
-   "artist": "MIMI (OH MY GIRL)",
-   "type": "1st Single",
-   "title": "Bish Bash Bosh",
-   "titleTrack": "Bish Bash Bosh",
-   "date": "2026-08-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MIMI-Bish-Bash-Bosh-Album-cover.webp",
-   "url": "https://kpopofficial.com/album/mimi-bish-bash-bosh/",
-   "tracklist": [
-    "Bish Bash Bosh",
-    "Bish Bash Bosh (Acapella) (LP Only)",
-    "Bish Bash Bosh (Inst.)"
-   ],
-   "links": [
-    "https://x.com/8_OHMYGIRL",
-    "https://www.instagram.com/wm_ohmygirl",
-    "https://www.youtube.com/@OHMYGIRL",
-    "https://www.tiktok.com/@wm_ohmygirl"
-   ],
-   "mv": "https://www.youtube.com/watch?v=sD1iBAKplqQ"
-  },
-  {
    "artist": "KIM JAE JOONG",
    "type": "Single Album",
    "title": "THE WAVE",
@@ -300,30 +304,25 @@
    "mv": "https://www.youtube.com/watch?v=jTVyroDos5U"
   },
   {
-   "artist": "ENHYPEN",
-   "type": "8th Mini Album",
-   "title": "THE SIN : BLISS",
-   "titleTrack": "Bloody Paradise",
-   "date": "2026-08-21T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/enhypen-the-sin-bliss/",
+   "artist": "MIMI (OH MY GIRL)",
+   "type": "1st Single",
+   "title": "Bish Bash Bosh",
+   "titleTrack": "Bish Bash Bosh",
+   "date": "2026-08-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MIMI-Bish-Bash-Bosh-Album-cover.webp",
+   "url": "https://kpopofficial.com/album/mimi-bish-bash-bosh/",
    "tracklist": [
-    "Two Fools",
-    "Stuck",
-    "Bad For You",
-    "Bloody Paradise – (Title)",
-    "Checkmate",
-    "Highlight"
+    "Bish Bash Bosh",
+    "Bish Bash Bosh (Acapella) (LP Only)",
+    "Bish Bash Bosh (Inst.)"
    ],
    "links": [
-    "https://x.com/ENHYPEN",
-    "https://x.com/ENHYPEN_JP",
-    "https://www.instagram.com/enhypen/",
-    "https://www.youtube.com/@ENHYPENOFFICIAL",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@enhypen"
+    "https://x.com/8_OHMYGIRL",
+    "https://www.instagram.com/wm_ohmygirl",
+    "https://www.youtube.com/@OHMYGIRL",
+    "https://www.tiktok.com/@wm_ohmygirl"
    ],
-   "mv": "https://www.youtube.com/watch?v=ZKLWQT6QANg"
+   "mv": "https://www.youtube.com/watch?v=sD1iBAKplqQ"
   },
   {
    "artist": "ENHYPEN",
@@ -331,7 +330,7 @@
    "title": "THE SIN : BLISS",
    "titleTrack": "Bloody Paradise",
    "date": "2026-08-21T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS-Album-Cover-1.webp",
    "url": "https://kpopofficial.com/album/enhypen-the-sin-bliss/",
    "tracklist": [
     "Two Fools",
@@ -358,55 +357,6 @@
    "titleTrack": "SAUCIN'",
    "date": "2026-08-24T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-NEXZ-for-Saucin.webp",
-   "url": "https://kpopofficial.com/album/nexz-saucin/",
-   "tracklist": [
-    "LOCO",
-    "SAUCIN’ – (Title)",
-    "APPETITE",
-    "UPGRADE",
-    "20 NOW",
-    "ALIENS"
-   ],
-   "links": [
-    "https://x.com/NEXZ_official",
-    "https://www.instagram.com/real_nexz/",
-    "https://www.youtube.com/@NEXZ_official",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@nexz_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=cVSrz4Ex56w"
-  },
-  {
-   "artist": "TUIDE",
-   "type": "1st EP",
-   "title": "TUNE & PLAY",
-   "titleTrack": "SUN KISS",
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUIDE-Members.webp",
-   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
-   "tracklist": [
-    "ABD",
-    "SUN KISS – (Title)",
-    "Echo",
-    "Flip-Flop Girl",
-    "GRLS"
-   ],
-   "links": [
-    "https://x.com/TUIDE_official",
-    "https://www.instagram.com/tuide_abd",
-    "https://www.youtube.com/@TUIDE_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tuide_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=r0KCLM79ab8"
-  },
-  {
-   "artist": "NEXZ",
-   "type": "4th Mini Album",
-   "title": "SAUCIN’",
-   "titleTrack": "SAUCIN'",
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-NEXZ-for-Saucin.webp",
    "url": "https://kpopofficial.com/album/nexz-saucin/",
    "tracklist": [
     "LOCO",
@@ -506,6 +456,31 @@
    "mv": "https://www.youtube.com/watch?v=r0KCLM79ab8"
   },
   {
+   "artist": "NEXZ",
+   "type": "4th Mini Album",
+   "title": "SAUCIN’",
+   "titleTrack": "SAUCIN'",
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-NEXZ-for-Saucin.webp",
+   "url": "https://kpopofficial.com/album/nexz-saucin/",
+   "tracklist": [
+    "LOCO",
+    "SAUCIN’ – (Title)",
+    "APPETITE",
+    "UPGRADE",
+    "20 NOW",
+    "ALIENS"
+   ],
+   "links": [
+    "https://x.com/NEXZ_official",
+    "https://www.instagram.com/real_nexz/",
+    "https://www.youtube.com/@NEXZ_official",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@nexz_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=cVSrz4Ex56w"
+  },
+  {
    "artist": "SF9",
    "type": "2nd Album",
    "title": "TENACITY",
@@ -535,6 +510,22 @@
    "mv": "https://www.youtube.com/watch?v=E3CdDP_ZS4s"
   },
   {
+   "artist": "HITGS",
+   "type": "Digital Single",
+   "title": "Things We Dream : Vol.3",
+   "titleTrack": null,
+   "date": "2026-08-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/10/HITGS-members-group-photo-3.webp",
+   "url": "https://kpopofficial.com/album/hitgs-things-we-dream-vol-3/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/HITGS_offcl",
+    "https://www.instagram.com/hitgs_offcl/",
+    "https://www.youtube.com/@HITGS_offcl",
+    "https://www.tiktok.com/@hitgs.offcl"
+   ]
+  },
+  {
    "artist": "TNX",
    "type": "3rd Digital Single",
    "title": "Die Another Day",
@@ -552,20 +543,38 @@
    "mv": "https://www.youtube.com/watch?v=KDUERzYNNvM"
   },
   {
-   "artist": "HITGS",
-   "type": "Digital Single",
-   "title": "Things We Dream : Vol.3",
-   "titleTrack": null,
-   "date": "2026-08-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/10/HITGS-members-group-photo-3.webp",
-   "url": "https://kpopofficial.com/album/hitgs-things-we-dream-vol-3/",
+   "artist": "JENNIE (BLACKPINK)",
+   "type": "Digital EP",
+   "title": "Fallen Angel",
+   "titleTrack": "FALLEN ANGEL",
+   "date": "2026-08-28T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-JENNIE-Fallen-Angel.webp",
+   "url": "https://kpopofficial.com/album/jennie-fallen-angel/",
    "tracklist": [],
    "links": [
-    "https://x.com/HITGS_offcl",
-    "https://www.instagram.com/hitgs_offcl/",
-    "https://www.youtube.com/@HITGS_offcl",
-    "https://www.tiktok.com/@hitgs.offcl"
-   ]
+    "https://x.com/jennierubyjane",
+    "https://www.instagram.com/jennierubyjane",
+    "https://www.youtube.com/@jennierubyjane",
+    "https://www.tiktok.com/@jennierubyjane"
+   ],
+   "mv": "https://www.youtube.com/watch?v=CNQujRtii44"
+  },
+  {
+   "artist": "JENNIE (BLACKPINK)",
+   "type": "Digital EP",
+   "title": "Fallen Angel",
+   "titleTrack": "FALLEN ANGEL",
+   "date": "2026-08-28T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-JENNIE-Fallen-Angel.webp",
+   "url": "https://kpopofficial.com/album/jennie-fallen-angel/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/jennierubyjane",
+    "https://www.instagram.com/jennierubyjane",
+    "https://www.youtube.com/@jennierubyjane",
+    "https://www.tiktok.com/@jennierubyjane"
+   ],
+   "mv": "https://www.youtube.com/watch?v=CNQujRtii44"
   },
   {
    "artist": "TAEMIN (SHINee)",
@@ -584,6 +593,23 @@
     "https://www.tiktok.com/@taemin_xoalsox_"
    ],
    "mv": "https://www.youtube.com/watch?v=3Pbrd5piZNM"
+  },
+  {
+   "artist": "82MAJOR",
+   "type": "2nd Single Album",
+   "title": "HEAT",
+   "titleTrack": null,
+   "date": "2026-09-01T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-82MAJOR-5th-Mini-Album-FEELM-Teaser.webp",
+   "url": "https://kpopofficial.com/album/82major-heat/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/82MAJOR_231011",
+    "https://www.instagram.com/82major_official",
+    "https://www.youtube.com/@82major_official",
+    "https://www.tiktok.com/@82major_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=AE3xB43P3pA"
   },
   {
    "artist": "82MAJOR",
