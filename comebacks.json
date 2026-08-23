@@ -1,7 +1,34 @@
 {
- "generated": "2026-08-22T18:48:29+00:00",
+ "generated": "2026-08-23T01:58:55+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
+  {
+   "artist": "WayV",
+   "type": "8th Mini Album",
+   "title": "Vision Wings",
+   "titleTrack": "Vision Wings",
+   "date": "2026-08-10T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/WayV-Vision-Wings-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/wayv-vision-wings/",
+   "tracklist": [
+    "Vision Wings (鸢)",
+    "Blue Fever (焰光蓝)",
+    "Count It (满贯)",
+    "Icon (主场)",
+    "Afterparty (5 a.m.)",
+    "Heaven’s Here With Me (光云之境)",
+    "Vision Wings (English Ver.)"
+   ],
+   "links": [
+    "https://x.com/WayV_official",
+    "https://x.com/NCTsmtown",
+    "https://www.instagram.com/wayvofficial",
+    "https://www.youtube.com/@WayV",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_wayv"
+   ],
+   "mv": "https://www.youtube.com/watch?v=bfQ0eLJNWiw"
+  },
   {
    "artist": "Hearts2Hearts (JP)",
    "type": "1st Japan Single",
@@ -24,57 +51,6 @@
     "https://www.tiktok.com/@hearts2hearts"
    ],
    "mv": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
-  },
-  {
-   "artist": "HYNN",
-   "type": "EP",
-   "title": "Traces of Summer",
-   "titleTrack": "Three days after –",
-   "date": "2026-08-13T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/HYNN-Traces-of-Summer-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/hynn-traces-of-summer/",
-   "tracklist": [
-    "Three days after –",
-    "(Title)",
-    "Not like the end of the world –",
-    "(Title)",
-    "Written ending",
-    "Misfit",
-    "Title Role",
-    "Three days after (Instrumental)",
-    "Not like the end of the world (Instrumental)"
-   ],
-   "links": [
-    "https://x.com/hynn_official",
-    "https://www.instagram.com/hynn_01/",
-    "https://www.youtube.com/@hynn9109",
-    "https://www.tiktok.com/@hynn0115"
-   ],
-   "mv": "https://www.youtube.com/watch?v=7tp45qgQuCQ"
-  },
-  {
-   "artist": "TOMORROW X TOGETHER (JP)",
-   "type": "Japan 5th Single",
-   "title": "Setsuna Hanabi",
-   "titleTrack": "Setsuna Hanabi",
-   "date": "2026-08-17T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TXT-Nice-To-Meet-You.webp",
-   "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
-   "tracklist": [
-    "Setsuna Hanabi",
-    "Silence",
-    "Nice to Meet Ya",
-    "Setsuna Hanabi (Natsuyoi Ver.)"
-   ],
-   "links": [
-    "https://x.com/TXT_bighit",
-    "https://x.com/TXT_bighit_jp",
-    "https://www.instagram.com/txt_bighit",
-    "https://www.youtube.com/@TXT_bighit",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@txt.bighitent"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Tg076GY2a-Q"
   },
   {
    "artist": "BOYNEXTDOOR (JP)",
@@ -351,29 +327,28 @@
    "mv": "https://www.youtube.com/watch?v=ZKLWQT6QANg"
   },
   {
-   "artist": "NEXZ",
-   "type": "4th Mini Album",
-   "title": "SAUCIN’",
-   "titleTrack": "SAUCIN'",
+   "artist": "TUIDE",
+   "type": "1st EP",
+   "title": "TUNE & PLAY",
+   "titleTrack": "SUN KISS",
    "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-NEXZ-for-Saucin.webp",
-   "url": "https://kpopofficial.com/album/nexz-saucin/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUIDE-Members.webp",
+   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
    "tracklist": [
-    "LOCO",
-    "SAUCIN’ – (Title)",
-    "APPETITE",
-    "UPGRADE",
-    "20 NOW",
-    "ALIENS"
+    "ABD",
+    "SUN KISS – (Title)",
+    "Echo",
+    "Flip-Flop Girl",
+    "GRLS"
    ],
    "links": [
-    "https://x.com/NEXZ_official",
-    "https://www.instagram.com/real_nexz/",
-    "https://www.youtube.com/@NEXZ_official",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@nexz_official"
+    "https://x.com/TUIDE_official",
+    "https://www.instagram.com/tuide_abd",
+    "https://www.youtube.com/@TUIDE_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tuide_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=cVSrz4Ex56w"
+   "mv": "https://www.youtube.com/watch?v=r0KCLM79ab8"
   },
   {
    "artist": "NEXZ",
@@ -600,23 +575,6 @@
    "title": "HEAT",
    "titleTrack": null,
    "date": "2026-09-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-82MAJOR-5th-Mini-Album-FEELM-Teaser.webp",
-   "url": "https://kpopofficial.com/album/82major-heat/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/82MAJOR_231011",
-    "https://www.instagram.com/82major_official",
-    "https://www.youtube.com/@82major_official",
-    "https://www.tiktok.com/@82major_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=AE3xB43P3pA"
-  },
-  {
-   "artist": "82MAJOR",
-   "type": "2nd Single Album",
-   "title": "HEAT",
-   "titleTrack": null,
-   "date": "2026-09-01T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-82MAJOR-HEAT.webp",
    "url": "https://kpopofficial.com/album/82major-heat/",
    "tracklist": [],
@@ -701,6 +659,31 @@
     "https://www.tiktok.com/@tunexx_official"
    ],
    "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
+  },
+  {
+   "artist": "MONSTA X",
+   "type": "EP",
+   "title": "The Phase",
+   "titleTrack": "MAGIC",
+   "date": "2026-09-04T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-MONSTA-X-Members-for-English-Album-Unfold.webp",
+   "url": "https://kpopofficial.com/album/monsta-x-the-phase/",
+   "tracklist": [
+    "MAGIC – (Title)",
+    "Type X",
+    "SURVIVOR",
+    "Electric Heart",
+    "That’s My Girl",
+    "Sweet Night, Sweet Morning"
+   ],
+   "links": [
+    "https://x.com/OfficialMONSTAX",
+    "https://www.instagram.com/official_monsta_x/",
+    "https://www.youtube.com/@MONSTAX",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@monsta_x_514",
+    "https://www.youtube.com/@MONSTAX/releases"
+   ]
   },
   {
    "artist": "MONSTA X",
@@ -813,6 +796,25 @@
     "https://www.tiktok.com/@inaminute_official",
     "https://www.youtube.com/channel/UCJhmTIbdUYNmpZeNXjBhgxw"
    ]
+  },
+  {
+   "artist": "ONEW (JP)",
+   "type": "Japan 4th Single",
+   "title": "KAKERA -運命のピース-",
+   "titleTrack": null,
+   "date": "2026-09-16T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-ONEW-Japan-4th-Single-KAKERA.webp",
+   "url": "https://kpopofficial.com/album/onew-kakera/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ONEW_GRIFFIN",
+    "https://x.com/ONEW_JAPAN",
+    "https://www.instagram.com/dlstmxkakwldrl/",
+    "https://www.instagram.com/onew_griffin",
+    "https://www.youtube.com/@ONEW_GRIFFIN",
+    "https://www.tiktok.com/@onew_griffin"
+   ],
+   "mv": "https://www.youtube.com/watch?v=ZDH3sHHSZ8o"
   },
   {
    "artist": "ONEW (JP)",
