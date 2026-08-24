@@ -1,71 +1,30 @@
 {
- "generated": "2026-08-23T18:47:50+00:00",
+ "generated": "2026-08-24T01:57:03+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
-   "artist": "JEONG EUNJI (Apink)",
-   "type": "5th Mini Album",
-   "title": "Summer, I",
-   "titleTrack": "I Love LOVE",
-   "date": "2026-08-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JEONG-EUNJI-Summer-I-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/jeong-eunji-summer-i/",
+   "artist": "TOMORROW X TOGETHER (JP)",
+   "type": "Japan 5th Single",
+   "title": "Setsuna Hanabi",
+   "titleTrack": "Setsuna Hanabi",
+   "date": "2026-08-17T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TXT-Nice-To-Meet-You.webp",
+   "url": "https://kpopofficial.com/album/txt-setsuna-hanabi/",
    "tracklist": [
-    "i love LOVE",
-    "NO FIGHT",
-    "linguine",
-    "with the wind",
-    "gradually",
-    "rainy season",
-    "empty"
+    "Setsuna Hanabi",
+    "Silence",
+    "Nice to Meet Ya",
+    "Setsuna Hanabi (Natsuyoi Ver.)"
    ],
    "links": [
-    "https://x.com/JeongEunJi_X",
-    "https://www.instagram.com/artist_eunji/",
-    "https://www.youtube.com/@eunji3116"
-   ],
-   "mv": "https://www.youtube.com/watch?v=d2ItcKvY5yc"
-  },
-  {
-   "artist": "BOYNEXTDOOR (JP)",
-   "type": "2nd Japanese Digital Single",
-   "title": "Boom Boom Boom",
-   "titleTrack": "Boom Boom Boom",
-   "date": "2026-08-18T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/BOYNEXTDOOR-Japan-Single-Boom-Boom-Boom-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/boynextdoor-boom-boom-boom/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/BOYNEXTDOOR_KOZ",
-    "https://x.com/BOYNEXTDOOR_JP",
-    "https://www.instagram.com/BOYNEXTDOOR_official",
-    "https://www.youtube.com/@boynextdoor_official",
+    "https://x.com/TXT_bighit",
+    "https://x.com/TXT_bighit_jp",
+    "https://www.instagram.com/txt_bighit",
+    "https://www.youtube.com/@TXT_bighit",
     "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@boynextdoor_official"
+    "https://www.tiktok.com/@txt.bighitent"
    ],
-   "mv": "https://www.youtube.com/watch?v=ntLoF0LnAwY"
-  },
-  {
-   "artist": "ZEROBASEONE (JP)",
-   "type": "Japan 2nd EP",
-   "title": "KAIKILOVE",
-   "titleTrack": "Existence",
-   "date": "2026-08-19T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ZEROBASEONE-KAIKILOVE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/zerobaseone-kaiki-love/",
-   "tracklist": [
-    "Existence",
-    "Aphrodite",
-    "TOP 5 (Japanese ver.)"
-   ],
-   "links": [
-    "https://x.com/ZB1_official",
-    "https://x.com/ZB1_jp",
-    "https://www.instagram.com/zb1official/",
-    "https://www.youtube.com/@ZB1_official",
-    "https://www.tiktok.com/@zb1_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Fb8wqlOUink"
+   "mv": "https://www.youtube.com/watch?v=Tg076GY2a-Q"
   },
   {
    "artist": "ONEWE",
@@ -101,6 +60,45 @@
     "https://www.tiktok.com/@rbw_onewe"
    ],
    "mv": "https://www.youtube.com/watch?v=Ds3zQuYu19M"
+  },
+  {
+   "artist": "ZEROBASEONE (JP)",
+   "type": "Japan 2nd EP",
+   "title": "KAIKILOVE",
+   "titleTrack": "Existence",
+   "date": "2026-08-19T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/ZEROBASEONE-KAIKILOVE-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/zerobaseone-kaiki-love/",
+   "tracklist": [
+    "Existence",
+    "Aphrodite",
+    "TOP 5 (Japanese ver.)"
+   ],
+   "links": [
+    "https://x.com/ZB1_official",
+    "https://x.com/ZB1_jp",
+    "https://www.instagram.com/zb1official/",
+    "https://www.youtube.com/@ZB1_official",
+    "https://www.tiktok.com/@zb1_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Fb8wqlOUink"
+  },
+  {
+   "artist": "BIGBANG",
+   "type": "Digital Single",
+   "title": "BiiiG",
+   "titleTrack": "BiiiG",
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/BIGBANG-BiiiG-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/bigbang-biiig/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/YG_GlobalVIP",
+    "https://www.instagram.com/bigbang_2xx6/",
+    "https://www.youtube.com/@BIGBANG",
+    "https://www.tiktok.com/@bigbang_2xx6"
+   ],
+   "mv": "https://www.youtube.com/watch?v=L8ZnXgbyUuc"
   },
   {
    "artist": "OURBIRTHDAY",
@@ -164,43 +162,6 @@
     "https://www.tiktok.com/@atheart.titan"
    ],
    "mv": "https://www.youtube.com/watch?v=b6bSGu1YdRM"
-  },
-  {
-   "artist": "BIGBANG",
-   "type": "Digital Single",
-   "title": "BiiiG",
-   "titleTrack": "BiiiG",
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/BIGBANG-BiiiG-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/bigbang-biiig/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/YG_GlobalVIP",
-    "https://www.instagram.com/bigbang_2xx6/",
-    "https://www.youtube.com/@BIGBANG",
-    "https://www.tiktok.com/@bigbang_2xx6"
-   ],
-   "mv": "https://www.youtube.com/watch?v=L8ZnXgbyUuc"
-  },
-  {
-   "artist": "ODD YOUTH",
-   "type": "3rd Single",
-   "title": "can’t go back",
-   "titleTrack": "can’t go back",
-   "date": "2026-08-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ODD-YOUTH-3rd-Single-cant-go-back.webp",
-   "url": "https://kpopofficial.com/album/odd-youth-cant-go-back/",
-   "tracklist": [
-    "can’t go back",
-    "Happy"
-   ],
-   "links": [
-    "https://x.com/oddyouth_offcl",
-    "https://www.instagram.com/oddyouth_official",
-    "https://www.youtube.com/@ODD_YOUTH",
-    "https://www.tiktok.com/@odd_youth"
-   ],
-   "mv": "https://www.youtube.com/watch?v=hYRsfjuM0c8"
   },
   {
    "artist": "Tiffany Young",
@@ -298,7 +259,31 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@enhypen"
    ],
-   "mv": "https://www.youtube.com/watch?v=ZKLWQT6QANg"
+   "mv": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
+  },
+  {
+   "artist": "TUIDE",
+   "type": "1st EP",
+   "title": "TUNE & PLAY",
+   "titleTrack": "SUN KISS",
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUIDE-Members.webp",
+   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
+   "tracklist": [
+    "ABD",
+    "SUN KISS – (Title)",
+    "Echo",
+    "Flip-Flop Girl",
+    "GRLS"
+   ],
+   "links": [
+    "https://x.com/TUIDE_official",
+    "https://www.instagram.com/tuide_abd",
+    "https://www.youtube.com/@TUIDE_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tuide_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=r0KCLM79ab8"
   },
   {
    "artist": "ALPHA DRIVE ONE",
@@ -324,6 +309,62 @@
     "https://www.tiktok.com/@ald1_official"
    ],
    "mv": "https://www.youtube.com/watch?v=3yeWqkacfeY"
+  },
+  {
+   "artist": "NCT 127",
+   "type": "7th Album",
+   "title": "BLINGY",
+   "titleTrack": "Blingy",
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/Cover2-NCT127-BLINGY.webp",
+   "url": "https://kpopofficial.com/album/nct-127-blingy/",
+   "tracklist": [
+    "Blingy – (Title)",
+    "Legacy",
+    "Piñata",
+    "Step Up",
+    "IKR",
+    "Getaway",
+    "Day After Day",
+    "127 Million Miles",
+    "I Mean, It’s About Time"
+   ],
+   "links": [
+    "https://x.com/NCTsmtown_127",
+    "https://x.com/NCTsmtown",
+    "https://www.instagram.com/nct127",
+    "https://www.instagram.com/nct",
+    "https://www.youtube.com/@NCT127",
+    "https://www.youtube.com/@NCTsmtown",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct"
+   ],
+   "mv": "https://www.youtube.com/watch?v=bLtPgNPYTfQ"
+  },
+  {
+   "artist": "NEXZ",
+   "type": "4th Mini Album",
+   "title": "SAUCIN’",
+   "titleTrack": "SAUCIN'",
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-NEXZ-for-Saucin.webp",
+   "url": "https://kpopofficial.com/album/nexz-saucin/",
+   "tracklist": [
+    "LOCO",
+    "SAUCIN’ – (Title)",
+    "APPETITE",
+    "UPGRADE",
+    "20 NOW",
+    "ALIENS"
+   ],
+   "links": [
+    "https://x.com/NEXZ_official",
+    "https://www.instagram.com/real_nexz/",
+    "https://www.youtube.com/@NEXZ_official",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@nexz_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=cVSrz4Ex56w"
   },
   {
    "artist": "NEXZ",
@@ -498,6 +539,23 @@
    "title": "Fallen Angel",
    "titleTrack": "FALLEN ANGEL",
    "date": "2026-08-28T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-JENNIE-Fallen-Angel.webp",
+   "url": "https://kpopofficial.com/album/jennie-fallen-angel/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/jennierubyjane",
+    "https://www.instagram.com/jennierubyjane",
+    "https://www.youtube.com/@jennierubyjane",
+    "https://www.tiktok.com/@jennierubyjane"
+   ],
+   "mv": "https://www.youtube.com/watch?v=CNQujRtii44"
+  },
+  {
+   "artist": "JENNIE (BLACKPINK)",
+   "type": "Digital EP",
+   "title": "Fallen Angel",
+   "titleTrack": "FALLEN ANGEL",
+   "date": "2026-08-28T13:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-JENNIE-Fallen-Angel.webp",
    "url": "https://kpopofficial.com/album/jennie-fallen-angel/",
    "tracklist": [],
@@ -533,7 +591,7 @@
    "title": "HEAT",
    "titleTrack": null,
    "date": "2026-09-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-82MAJOR-5th-Mini-Album-FEELM-Teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-82MAJOR-HEAT.webp",
    "url": "https://kpopofficial.com/album/82major-heat/",
    "tracklist": [],
    "links": [
@@ -562,23 +620,6 @@
    "mv": "https://www.youtube.com/watch?v=t0aVRF8xa00"
   },
   {
-   "artist": "82MAJOR",
-   "type": "2nd Single Album",
-   "title": "HEAT",
-   "titleTrack": null,
-   "date": "2026-09-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-82MAJOR-HEAT.webp",
-   "url": "https://kpopofficial.com/album/82major-heat/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/82MAJOR_231011",
-    "https://www.instagram.com/82major_official",
-    "https://www.youtube.com/@82major_official",
-    "https://www.tiktok.com/@82major_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=AE3xB43P3pA"
-  },
-  {
    "artist": "izna (JP)",
    "type": "JAPAN 1st Mini Album",
    "title": "HANDLE WITH CARE",
@@ -602,21 +643,21 @@
    ]
   },
   {
-   "artist": "TUNEXX",
-   "type": "2nd Mini Album",
-   "title": "BLUE MODE",
+   "artist": "UNCHILD",
+   "type": "2nd Digital Single",
+   "title": "TiNG TiNG",
    "titleTrack": null,
    "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-Comeback-September-2026.webp",
-   "url": "https://kpopofficial.com/album/tunexx-blue-mode/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-UNCHILD-Members.webp",
+   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
    "tracklist": [],
    "links": [
-    "https://x.com/TUNEXX_official",
-    "https://www.instagram.com/tunexx_official/",
-    "https://www.youtube.com/@official_TUNEXX",
-    "https://www.tiktok.com/@tunexx_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
+    "https://x.com/officialUNCHILD",
+    "https://www.instagram.com/official_unchild",
+    "https://www.youtube.com/@official_unchild",
+    "https://www.tiktok.com/@official_unchild",
+    "https://www.youtube.com/@official_unchild/releases"
+   ]
   },
   {
    "artist": "UNCHILD",
@@ -634,6 +675,23 @@
     "https://www.tiktok.com/@official_unchild",
     "https://www.youtube.com/@official_unchild/releases"
    ]
+  },
+  {
+   "artist": "TUNEXX",
+   "type": "2nd Mini Album",
+   "title": "BLUE MODE",
+   "titleTrack": null,
+   "date": "2026-09-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-Comeback-September-2026.webp",
+   "url": "https://kpopofficial.com/album/tunexx-blue-mode/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TUNEXX_official",
+    "https://www.instagram.com/tunexx_official/",
+    "https://www.youtube.com/@official_TUNEXX",
+    "https://www.tiktok.com/@tunexx_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
   },
   {
    "artist": "MONSTA X",
@@ -659,6 +717,23 @@
     "https://www.tiktok.com/@monsta_x_514",
     "https://www.youtube.com/@MONSTAX/releases"
    ]
+  },
+  {
+   "artist": "VERIVERY",
+   "type": "8th Mini Album",
+   "title": "CONFETTI",
+   "titleTrack": null,
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/2-VERIVERY-Members-Group-Photo-for-Lost-and-found.webp",
+   "url": "https://kpopofficial.com/album/verivery-confetti/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/the_verivery",
+    "https://www.instagram.com/the_verivery/",
+    "https://www.youtube.com/@VERIVERY",
+    "https://www.tiktok.com/@the_verivery"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
   },
   {
    "artist": "EVAN",
@@ -694,23 +769,6 @@
     "https://www.tiktok.com/@shinee_official",
     "https://www.youtube.com/channel/UC0JAQy39_dU5wEaIUPgRI7g"
    ]
-  },
-  {
-   "artist": "VERIVERY",
-   "type": "8th Mini Album",
-   "title": "CONFETTI",
-   "titleTrack": null,
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/2-VERIVERY-Members-Group-Photo-for-Lost-and-found.webp",
-   "url": "https://kpopofficial.com/album/verivery-confetti/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/the_verivery",
-    "https://www.instagram.com/the_verivery/",
-    "https://www.youtube.com/@VERIVERY",
-    "https://www.tiktok.com/@the_verivery"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
   },
   {
    "artist": "&TEAM (KR)",
