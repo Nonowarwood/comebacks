@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T01:52:01+00:00",
+ "generated": "2026-08-25T07:07:35+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -307,7 +307,7 @@
    "title": "No Fear",
    "titleTrack": "No Fear (Feat. punchnello)",
    "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TEMPEST-HANBIN-No-Fear.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Tempest-Hanbin-No-Fear.webp",
    "url": "https://kpopofficial.com/album/hanbin-no-fear/",
    "tracklist": [
     "No Fear (Feat. punchnello)",
@@ -368,23 +368,6 @@
    "mv": "https://www.youtube.com/watch?v=eZGtA6aUn7s"
   },
   {
-   "artist": "TNX",
-   "type": "3rd Digital Single",
-   "title": "Die Another Day",
-   "titleTrack": null,
-   "date": "2026-08-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TNX-Members-for-Die-Another-Day.webp",
-   "url": "https://kpopofficial.com/album/tnx-die-another-day/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/TNX_Official",
-    "https://www.instagram.com/official.tnx",
-    "https://www.youtube.com/@official_tnx",
-    "https://www.tiktok.com/@officialtnx"
-   ],
-   "mv": "https://www.youtube.com/watch?v=eZGtA6aUn7s"
-  },
-  {
    "artist": "HITGS",
    "type": "Digital Single",
    "title": "Things We Dream : Vol.3",
@@ -400,6 +383,23 @@
     "https://www.tiktok.com/@hitgs.offcl"
    ],
    "mv": "https://www.youtube.com/watch?v=EAyreZMS5VI"
+  },
+  {
+   "artist": "TNX",
+   "type": "3rd Digital Single",
+   "title": "Die Another Day",
+   "titleTrack": null,
+   "date": "2026-08-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TNX-Members-for-Die-Another-Day.webp",
+   "url": "https://kpopofficial.com/album/tnx-die-another-day/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TNX_Official",
+    "https://www.instagram.com/official.tnx",
+    "https://www.youtube.com/@official_tnx",
+    "https://www.tiktok.com/@officialtnx"
+   ],
+   "mv": "https://www.youtube.com/watch?v=eZGtA6aUn7s"
   },
   {
    "artist": "JENNIE (BLACKPINK)",
@@ -583,6 +583,40 @@
    "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
   },
   {
+   "artist": "KWON EUNBI",
+   "type": "Digital Single Album",
+   "title": "DEJAVU",
+   "titleTrack": null,
+   "date": "2026-09-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-KWON-EUNBI-DEJAVU.webp",
+   "url": "https://kpopofficial.com/album/kwon-eunbi-dejavu/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/kwoneunbi_offcl",
+    "https://www.instagram.com/silver_rain.__/",
+    "https://www.youtube.com/@kwoneungbi",
+    "https://www.tiktok.com/@official_kwoneunbi",
+    "https://www.youtube.com/@KWONEUNBI/releases"
+   ]
+  },
+  {
+   "artist": "JISOO (BLACKPINK)",
+   "type": "Single",
+   "title": "CLICK",
+   "titleTrack": "CLICK",
+   "date": "2026-09-04T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JISOO-CLICK.webp",
+   "url": "https://kpopofficial.com/album/jisoo-click/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/officialBLISSOO",
+    "https://www.instagram.com/sooyaaa__/",
+    "https://www.instagram.com/blissoo_official/",
+    "https://www.youtube.com/@sooyaaa__",
+    "https://www.tiktok.com/@jisoo"
+   ]
+  },
+  {
    "artist": "MONSTA X",
    "type": "EP",
    "title": "The Phase",
@@ -678,6 +712,23 @@
    "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
   },
   {
+   "artist": "D.O. (EXO)",
+   "type": "4th Mini Album",
+   "title": "DOPAMINE",
+   "titleTrack": null,
+   "date": "2026-09-08T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/do-dopamine.webp",
+   "url": "https://kpopofficial.com/album/do-dopamine/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/DOHKYUNGSOO_X",
+    "https://www.instagram.com/dohkyungsoo_offcl/",
+    "https://www.instagram.com/d.o.hkyungsoo/",
+    "https://www.youtube.com/@DOHKYUNGSOO_offcl",
+    "https://www.youtube.com/@DOHKYUNGSOO_offcl/releases"
+   ]
+  },
+  {
    "artist": "In A Minute",
    "type": "1st Album",
    "title": "When the sun goes down : Midnight",
@@ -740,6 +791,25 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@xnghan.official",
     "https://www.youtube.com/@XngHan/releases"
+   ]
+  },
+  {
+   "artist": "LISA (BLACKPINK)",
+   "type": "EP",
+   "title": "PRESS PLAY",
+   "titleTrack": null,
+   "date": "2026-10-23T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-LISA-EP-PRESS-PLAY.webp",
+   "url": "https://kpopofficial.com/album/lisa-press-play/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/wearelloud",
+    "https://www.instagram.com/lalalalisa_m/",
+    "https://www.instagram.com/wearelloud/",
+    "https://www.youtube.com/@wearelloud",
+    "https://www.tiktok.com/@lalalalisa_m",
+    "https://www.tiktok.com/@wearelloud",
+    "https://www.youtube.com/@wearelloud/releases"
    ]
   }
  ]
