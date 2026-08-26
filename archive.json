@@ -1817,6 +1817,23 @@
    "mv": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
   },
   {
+   "artist": "Opius x Myung Hyungseo (CLASSy)",
+   "type": "Single",
+   "title": "Parachute",
+   "titleTrack": "Parachute",
+   "date": "2026-08-23T12:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Opius-Myung-Hyungseo-Parachute.webp",
+   "url": "https://kpopofficial.com/album/opius-myung-hyungseo-parachute/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/CLASSy_twt_",
+    "https://www.instagram.com/m25_classy/",
+    "https://www.youtube.com/@OFFICIAL_CLASSy",
+    "https://www.tiktok.com/@classy_tiktok_"
+   ],
+   "mv": "https://www.youtube.com/watch?v=yiPNzq-55m0"
+  },
+  {
    "artist": "NCT 127",
    "type": "7th Full Album",
    "title": null,
@@ -2086,6 +2103,23 @@
    "mv": "https://www.youtube.com/watch?v=CNQujRtii44"
   },
   {
+   "artist": "iii",
+   "type": "Digital Single",
+   "title": "WaiT",
+   "titleTrack": "WaiT",
+   "date": "2026-08-28T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/iii-members.webp",
+   "url": "https://kpopofficial.com/album/iii-wait/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/i_i_i_official",
+    "https://www.instagram.com/iii_bigocean.official",
+    "https://www.youtube.com/@iii_Official",
+    "https://www.tiktok.com/@iiiofficial"
+   ],
+   "mv": "https://www.youtube.com/watch?v=_N7qBiBMIG8"
+  },
+  {
    "artist": "TAEMIN (SHINee)",
    "type": "Album",
    "title": "PHASE 1 : Soft Violence",
@@ -2233,6 +2267,25 @@
    ]
   },
   {
+   "artist": "LISA (BLACKPINK)",
+   "type": "EP",
+   "title": "PRESS PLAY",
+   "titleTrack": "SaWaDiKa",
+   "date": "2026-09-03T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-LISA-EP-PRESS-PLAY.webp",
+   "url": "https://kpopofficial.com/album/lisa-sawadika/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/wearelloud",
+    "https://www.instagram.com/lalalalisa_m/",
+    "https://www.instagram.com/wearelloud/",
+    "https://www.youtube.com/@wearelloud",
+    "https://www.tiktok.com/@lalalalisa_m",
+    "https://www.tiktok.com/@wearelloud",
+    "https://www.youtube.com/@wearelloud/releases"
+   ]
+  },
+  {
    "artist": "KWON EUNBI",
    "type": "Digital Single Album",
    "title": "DEJAVU",
@@ -2359,6 +2412,23 @@
     "https://www.tiktok.com/@shinee_official",
     "https://www.youtube.com/channel/UC0JAQy39_dU5wEaIUPgRI7g"
    ]
+  },
+  {
+   "artist": "Soyeon (i-dle)",
+   "type": "1st Full Album",
+   "title": "끝내주는 인생 (What a Wonderful Life)",
+   "titleTrack": null,
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/idle-Soyeon.webp",
+   "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=4W_Wy-DgGRs"
   },
   {
    "artist": "&TEAM (KR)",
@@ -2596,6 +2666,22 @@
    "url": "https://kpopofficial.com/album/boynextdoor-home-repackaged/",
    "tracklist": [],
    "links": []
+  },
+  {
+   "artist": "MINZY (2NE1)",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-09-28T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MINZY-2NE1.webp",
+   "url": "https://kpopofficial.com/album/minzy-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/mingkki21",
+    "https://www.instagram.com/_minzy_mz/",
+    "https://www.youtube.com/@MINZYTV",
+    "https://www.tiktok.com/@_minzy_mz"
+   ]
   },
   {
    "artist": "XngHan&Xoul (JP)",
