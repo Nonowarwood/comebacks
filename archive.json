@@ -2057,7 +2057,7 @@
    "title": "TENACITY",
    "titleTrack": "Without Wings",
    "date": "2026-08-26T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-SF9-Members-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/SF9-TENACITY-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/sf9-tenacity/",
    "tracklist": [
     "Without Wings – (Title)",
@@ -2086,7 +2086,7 @@
    "title": "Things We Dream : Vol.3",
    "titleTrack": "Gulliver!",
    "date": "2026-08-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/10/HITGS-members-group-photo-3.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/hitgs-things-we-dream-vol-3.webp",
    "url": "https://kpopofficial.com/album/hitgs-things-we-dream-vol-3/",
    "tracklist": [],
    "links": [
@@ -2103,7 +2103,7 @@
    "title": "Die Another Day",
    "titleTrack": null,
    "date": "2026-08-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TNX-Members-for-Die-Another-Day.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TNX-Die-Another-Day-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/tnx-die-another-day/",
    "tracklist": [],
    "links": [
@@ -2122,14 +2122,18 @@
    "date": "2026-08-28T13:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-JENNIE-Fallen-Angel.webp",
    "url": "https://kpopofficial.com/album/jennie-fallen-angel/",
-   "tracklist": [],
+   "tracklist": [
+    "FALLEN ANGEL",
+    "HEAVEN",
+    "Less than a Lover"
+   ],
    "links": [
     "https://x.com/jennierubyjane",
     "https://www.instagram.com/jennierubyjane",
     "https://www.youtube.com/@jennierubyjane",
     "https://www.tiktok.com/@jennierubyjane"
    ],
-   "mv": "https://www.youtube.com/watch?v=CNQujRtii44"
+   "mv": "https://www.youtube.com/watch?v=s466YCiHfKw"
   },
   {
    "artist": "iii",
@@ -2137,7 +2141,7 @@
    "title": "WaiT",
    "titleTrack": "WaiT",
    "date": "2026-08-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/iii-members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/iii-members-photo.webp",
    "url": "https://kpopofficial.com/album/iii-wait/",
    "tracklist": [],
    "links": [
@@ -2146,7 +2150,7 @@
     "https://www.youtube.com/@iii_Official",
     "https://www.tiktok.com/@iiiofficial"
    ],
-   "mv": "https://www.youtube.com/watch?v=_N7qBiBMIG8"
+   "mv": "https://www.youtube.com/watch?v=BCXGsumoMkQ"
   },
   {
    "artist": "TAEMIN (SHINee)",
@@ -2311,6 +2315,26 @@
     "https://www.tiktok.com/@official_unchild",
     "https://www.youtube.com/@official_unchild/releases"
    ]
+  },
+  {
+   "artist": "ICHILLIN’ J",
+   "type": "1st Digital Single",
+   "title": "Look At Me!",
+   "titleTrack": "BANANA (Look At Me!)",
+   "date": "2026-09-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ICHILLIN-J-Members.webp",
+   "url": "https://kpopofficial.com/album/ichillin-j-look-at-me/",
+   "tracklist": [
+    "BANANA (Look At Me!)",
+    "Runaway"
+   ],
+   "links": [
+    "https://x.com/ichillin_km",
+    "https://www.instagram.com/ichillin_km/",
+    "https://www.youtube.com/@ICHILLIN",
+    "https://www.tiktok.com/@ichillin_km"
+   ],
+   "mv": "https://www.youtube.com/watch?v=2SkU72Hnj_8"
   },
   {
    "artist": "LISA (BLACKPINK)",
@@ -2561,6 +2585,58 @@
     "https://www.tiktok.com/@tunexx_official"
    ],
    "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
+  },
+  {
+   "artist": "MCND",
+   "type": "7th Mini Album",
+   "title": "Devil Youth Club",
+   "titleTrack": null,
+   "date": "2026-09-10T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MCND-Members-for-Devil-Youth-Club.webp",
+   "url": "https://kpopofficial.com/album/mcnd-devil-youth-club/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/McndOfficial_",
+    "https://www.instagram.com/mcnd_official/",
+    "https://www.youtube.com/@MCNDOfficial",
+    "https://www.youtube.com/@TOPmediaStar",
+    "https://www.tiktok.com/@mcndofficial_",
+    "https://www.youtube.com/@MCNDOfficial/releases"
+   ]
+  },
+  {
+   "artist": "LE SSERAFIM",
+   "type": "2nd Single Album",
+   "title": "Made My Night",
+   "titleTrack": null,
+   "date": "2026-09-11T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/LE-SSERAFIM-Members-Group-Photo-2.webp",
+   "url": "https://kpopofficial.com/album/le-sserafim-made-my-night/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/le_sserafim",
+    "https://www.instagram.com/le_sserafim",
+    "https://www.youtube.com/@LESSERAFIM_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@le_sserafim"
+   ],
+   "mv": "https://www.youtube.com/watch?v=OPgr9Gc5oZk"
+  },
+  {
+   "artist": "PENTAGON",
+   "type": "10th Anniversary Single",
+   "title": "겁쟁이",
+   "titleTrack": null,
+   "date": "2026-09-11T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Pentagon-Members.webp",
+   "url": "https://kpopofficial.com/album/pentagon-geopjaengi/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/CUBE_PTG",
+    "https://www.instagram.com/cube_ptg/",
+    "https://www.youtube.com/@CUBE_PTG",
+    "https://www.tiktok.com/@official_ptg"
+   ]
   },
   {
    "artist": "TUNEXX",
