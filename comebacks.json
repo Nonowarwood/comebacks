@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T16:43:12+00:00",
+ "generated": "2026-08-29T20:55:38+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -393,6 +393,23 @@
    ]
   },
   {
+   "artist": "CHUNG HA",
+   "type": "Digital Single",
+   "title": "México",
+   "titleTrack": null,
+   "date": "2026-09-01T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/CHUNG-HA-Mexico.webp",
+   "url": "https://kpopofficial.com/album/chung-ha-mexico/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/CH_CHUN9HA",
+    "https://www.instagram.com/chungha.art/",
+    "https://www.youtube.com/@CHUNGHA__Official",
+    "https://www.tiktok.com/@chun9ha_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=t0aVRF8xa00"
+  },
+  {
    "artist": "82MAJOR",
    "type": "2nd Single Album",
    "title": "HEAT",
@@ -411,23 +428,6 @@
     "https://www.tiktok.com/@82major_official"
    ],
    "mv": "https://www.youtube.com/watch?v=AE3xB43P3pA"
-  },
-  {
-   "artist": "CHUNG HA",
-   "type": "Digital Single",
-   "title": "México",
-   "titleTrack": null,
-   "date": "2026-09-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/CHUNG-HA-Mexico.webp",
-   "url": "https://kpopofficial.com/album/chung-ha-mexico/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/CH_CHUN9HA",
-    "https://www.instagram.com/chungha.art/",
-    "https://www.youtube.com/@CHUNGHA__Official",
-    "https://www.tiktok.com/@chun9ha_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=t0aVRF8xa00"
   },
   {
    "artist": "izna (JP)",
@@ -460,6 +460,23 @@
    "titleTrack": null,
    "date": "2026-09-02T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-UNCHILD-Members.webp",
+   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/officialUNCHILD",
+    "https://www.instagram.com/official_unchild",
+    "https://www.youtube.com/@official_unchild",
+    "https://www.tiktok.com/@official_unchild",
+    "https://www.youtube.com/@official_unchild/releases"
+   ]
+  },
+  {
+   "artist": "UNCHILD",
+   "type": "2nd Digital Single",
+   "title": "TiNG TiNG",
+   "titleTrack": null,
+   "date": "2026-09-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-UNCHILD-Members.webp",
    "url": "https://kpopofficial.com/album/unchild-ting-ting/",
    "tracklist": [],
    "links": [
@@ -511,23 +528,6 @@
     "https://www.tiktok.com/@ichillin_km"
    ],
    "mv": "https://www.youtube.com/watch?v=2SkU72Hnj_8"
-  },
-  {
-   "artist": "UNCHILD",
-   "type": "2nd Digital Single",
-   "title": "TiNG TiNG",
-   "titleTrack": null,
-   "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-UNCHILD-Members.webp",
-   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/officialUNCHILD",
-    "https://www.instagram.com/official_unchild",
-    "https://www.youtube.com/@official_unchild",
-    "https://www.tiktok.com/@official_unchild",
-    "https://www.youtube.com/@official_unchild/releases"
-   ]
   },
   {
    "artist": "LISA (BLACKPINK)",
@@ -585,23 +585,6 @@
    ]
   },
   {
-   "artist": "JISOO (BLACKPINK)",
-   "type": "Single",
-   "title": "CLICK",
-   "titleTrack": "CLICK",
-   "date": "2026-09-04T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JISOO-CLICK.webp",
-   "url": "https://kpopofficial.com/album/jisoo-click/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/officialBLISSOO",
-    "https://www.instagram.com/sooyaaa__/",
-    "https://www.instagram.com/blissoo_official/",
-    "https://www.youtube.com/@sooyaaa__",
-    "https://www.tiktok.com/@jisoo"
-   ]
-  },
-  {
    "artist": "MONSTA X",
    "type": "EP",
    "title": "The Phase",
@@ -627,38 +610,21 @@
    ]
   },
   {
-   "artist": "VERIVERY",
-   "type": "8th Mini Album",
-   "title": "CONFETTI",
-   "titleTrack": null,
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/2-VERIVERY-Members-Group-Photo-for-Lost-and-found.webp",
-   "url": "https://kpopofficial.com/album/verivery-confetti/",
+   "artist": "JISOO (BLACKPINK)",
+   "type": "Single",
+   "title": "CLICK",
+   "titleTrack": "CLICK",
+   "date": "2026-09-04T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JISOO-CLICK.webp",
+   "url": "https://kpopofficial.com/album/jisoo-click/",
    "tracklist": [],
    "links": [
-    "https://x.com/the_verivery",
-    "https://www.instagram.com/the_verivery/",
-    "https://www.youtube.com/@VERIVERY",
-    "https://www.tiktok.com/@the_verivery"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
-  },
-  {
-   "artist": "Soyeon (i-dle)",
-   "type": "1st Full Album",
-   "title": "끝내주는 인생 (What a Wonderful Life)",
-   "titleTrack": null,
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/idle-Soyeon.webp",
-   "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/official_i_dle",
-    "https://www.instagram.com/i_dle_official",
-    "https://www.youtube.com/@official_i_dle",
-    "https://www.tiktok.com/@official_i_dle"
-   ],
-   "mv": "https://www.youtube.com/watch?v=4W_Wy-DgGRs"
+    "https://x.com/officialBLISSOO",
+    "https://www.instagram.com/sooyaaa__/",
+    "https://www.instagram.com/blissoo_official/",
+    "https://www.youtube.com/@sooyaaa__",
+    "https://www.tiktok.com/@jisoo"
+   ]
   },
   {
    "artist": "MINHO (SHINee)",
@@ -694,6 +660,40 @@
     "https://www.tiktok.com/@h_evva_n",
     "https://www.youtube.com/@h_evva_n/releases"
    ]
+  },
+  {
+   "artist": "VERIVERY",
+   "type": "8th Mini Album",
+   "title": "CONFETTI",
+   "titleTrack": null,
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/2-VERIVERY-Members-Group-Photo-for-Lost-and-found.webp",
+   "url": "https://kpopofficial.com/album/verivery-confetti/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/the_verivery",
+    "https://www.instagram.com/the_verivery/",
+    "https://www.youtube.com/@VERIVERY",
+    "https://www.tiktok.com/@the_verivery"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
+  },
+  {
+   "artist": "Soyeon (i-dle)",
+   "type": "1st Full Album",
+   "title": "끝내주는 인생 (What a Wonderful Life)",
+   "titleTrack": null,
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/idle-Soyeon.webp",
+   "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=4W_Wy-DgGRs"
   },
   {
    "artist": "&TEAM (KR)",
