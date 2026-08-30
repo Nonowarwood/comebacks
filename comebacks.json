@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T16:40:42+00:00",
+ "generated": "2026-08-30T21:04:48+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -312,36 +312,6 @@
    "title": "PHASE 1 : Soft Violence",
    "titleTrack": "Float\" \"Gooey",
    "date": "2026-08-31T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TAEMIN-PHASE-1-Soft-Violence.webp",
-   "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
-   "tracklist": [
-    "Float – (Title)",
-    "Gooey – (Title)",
-    "Let Me Be The One",
-    "Permission",
-    "Sober",
-    "1004",
-    "Easy Loving You",
-    "Skin",
-    "Parasite",
-    "Frankenstein",
-    "This Is The End"
-   ],
-   "links": [
-    "https://x.com/Taemin_Xoalsox_",
-    "https://www.instagram.com/xoalsox/",
-    "https://www.instagram.com/taemin_xoalsox/",
-    "https://www.youtube.com/@taemin_xoalsox",
-    "https://www.tiktok.com/@taemin_xoalsox_"
-   ],
-   "mv": "https://www.youtube.com/watch?v=hM6piAikKKI"
-  },
-  {
-   "artist": "TAEMIN (SHINee)",
-   "type": "Album",
-   "title": "PHASE 1 : Soft Violence",
-   "titleTrack": "Float\" \"Gooey",
-   "date": "2026-08-31T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-TAEMIN-PHASE-1-Soft-Violence.webp",
    "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
    "tracklist": [
@@ -445,21 +415,26 @@
    "mv": "https://www.youtube.com/watch?v=TAxOdyU1XRw"
   },
   {
-   "artist": "UNCHILD",
-   "type": "2nd Digital Single",
-   "title": "TiNG TiNG",
-   "titleTrack": null,
+   "artist": "TUNEXX",
+   "type": "2nd Mini Album",
+   "title": "BLUE MODE",
+   "titleTrack": "BLUE MODE",
    "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-UNCHILD-Members.webp",
-   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
-   "tracklist": [],
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUNEXX-Members.webp",
+   "url": "https://kpopofficial.com/album/tunexx-blue-mode/",
+   "tracklist": [
+    "SYNC UP",
+    "BLUE MODE – (Title)",
+    "ANSWER",
+    "OVER X"
+   ],
    "links": [
-    "https://x.com/officialUNCHILD",
-    "https://www.instagram.com/official_unchild",
-    "https://www.youtube.com/@official_unchild",
-    "https://www.tiktok.com/@official_unchild",
-    "https://www.youtube.com/@official_unchild/releases"
-   ]
+    "https://x.com/TUNEXX_official",
+    "https://www.instagram.com/tunexx_official/",
+    "https://www.youtube.com/@official_TUNEXX",
+    "https://www.tiktok.com/@tunexx_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=aYGJolzFgXc"
   },
   {
    "artist": "TUNEXX",
@@ -502,6 +477,23 @@
     "https://www.tiktok.com/@ichillin_km"
    ],
    "mv": "https://www.youtube.com/watch?v=2SkU72Hnj_8"
+  },
+  {
+   "artist": "UNCHILD",
+   "type": "2nd Digital Single",
+   "title": "TiNG TiNG",
+   "titleTrack": null,
+   "date": "2026-09-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-UNCHILD-Members.webp",
+   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/officialUNCHILD",
+    "https://www.instagram.com/official_unchild",
+    "https://www.youtube.com/@official_unchild",
+    "https://www.tiktok.com/@official_unchild",
+    "https://www.youtube.com/@official_unchild/releases"
+   ]
   },
   {
    "artist": "LISA (BLACKPINK)",
@@ -560,12 +552,54 @@
    "mv": "https://www.youtube.com/watch?v=QWRwZg_G470"
   },
   {
+   "artist": "MONSTA X",
+   "type": "EP",
+   "title": "The Phase",
+   "titleTrack": "MAGIC",
+   "date": "2026-09-04T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-MONSTA-X-Members-for-English-Album-Unfold.webp",
+   "url": "https://kpopofficial.com/album/monsta-x-the-phase/",
+   "tracklist": [
+    "MAGIC – (Title)",
+    "Type X",
+    "SURVIVOR",
+    "Electric Heart",
+    "That’s My Girl",
+    "Sweet Night, Sweet Morning"
+   ],
+   "links": [
+    "https://x.com/OfficialMONSTAX",
+    "https://www.instagram.com/official_monsta_x/",
+    "https://www.youtube.com/@MONSTAX",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@monsta_x_514",
+    "https://www.youtube.com/@MONSTAX/releases"
+   ]
+  },
+  {
    "artist": "JISOO (BLACKPINK)",
    "type": "Single",
    "title": "CLICK",
    "titleTrack": "CLICK",
    "date": "2026-09-04T13:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-JISOO-CLICK.webp",
+   "url": "https://kpopofficial.com/album/jisoo-click/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/officialBLISSOO",
+    "https://www.instagram.com/sooyaaa__/",
+    "https://www.instagram.com/blissoo_official/",
+    "https://www.youtube.com/@sooyaaa__",
+    "https://www.tiktok.com/@jisoo"
+   ]
+  },
+  {
+   "artist": "JISOO (BLACKPINK)",
+   "type": "Single",
+   "title": "CLICK",
+   "titleTrack": "CLICK",
+   "date": "2026-09-04T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JISOO-CLICK.webp",
    "url": "https://kpopofficial.com/album/jisoo-click/",
    "tracklist": [],
    "links": [
@@ -602,21 +636,21 @@
    ]
   },
   {
-   "artist": "JISOO (BLACKPINK)",
-   "type": "Single",
-   "title": "CLICK",
-   "titleTrack": "CLICK",
-   "date": "2026-09-04T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JISOO-CLICK.webp",
-   "url": "https://kpopofficial.com/album/jisoo-click/",
+   "artist": "VERIVERY",
+   "type": "8th Mini Album",
+   "title": "CONFETTI",
+   "titleTrack": null,
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/2-VERIVERY-Members-Group-Photo-for-Lost-and-found.webp",
+   "url": "https://kpopofficial.com/album/verivery-confetti/",
    "tracklist": [],
    "links": [
-    "https://x.com/officialBLISSOO",
-    "https://www.instagram.com/sooyaaa__/",
-    "https://www.instagram.com/blissoo_official/",
-    "https://www.youtube.com/@sooyaaa__",
-    "https://www.tiktok.com/@jisoo"
-   ]
+    "https://x.com/the_verivery",
+    "https://www.instagram.com/the_verivery/",
+    "https://www.youtube.com/@VERIVERY",
+    "https://www.tiktok.com/@the_verivery"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
   },
   {
    "artist": "Soyeon (i-dle)",
@@ -669,41 +703,6 @@
     "https://www.tiktok.com/@h_evva_n",
     "https://www.youtube.com/@h_evva_n/releases"
    ]
-  },
-  {
-   "artist": "VERIVERY",
-   "type": "8th Mini Album",
-   "title": "CONFETTI",
-   "titleTrack": null,
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/2-VERIVERY-Members-Group-Photo-for-Lost-and-found.webp",
-   "url": "https://kpopofficial.com/album/verivery-confetti/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/the_verivery",
-    "https://www.instagram.com/the_verivery/",
-    "https://www.youtube.com/@VERIVERY",
-    "https://www.tiktok.com/@the_verivery"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
-  },
-  {
-   "artist": "&TEAM (KR)",
-   "type": "2nd Mini Album",
-   "title": "Mark on Me",
-   "titleTrack": null,
-   "date": "2026-09-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-ANDTEAM-KR-2nd-Mini-Album-Mark-on-Me.webp",
-   "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/andTEAMofficial",
-    "https://www.instagram.com/andteam_official",
-    "https://www.youtube.com/@andTEAM_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@andteam_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
   },
   {
    "artist": "D.O. (EXO)",
