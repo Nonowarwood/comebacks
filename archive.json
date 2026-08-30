@@ -2120,7 +2120,7 @@
    "title": "Fallen Angel",
    "titleTrack": "FALLEN ANGEL",
    "date": "2026-08-28T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-JENNIE-Fallen-Angel.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JENNIE-Fallen-Angel-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/jennie-fallen-angel/",
    "tracklist": [
     "FALLEN ANGEL",
@@ -2141,7 +2141,7 @@
    "title": "WaiT",
    "titleTrack": "WaiT",
    "date": "2026-08-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/iii-members-photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-iii-members.webp",
    "url": "https://kpopofficial.com/album/iii-wait/",
    "tracklist": [],
    "links": [
@@ -2234,7 +2234,7 @@
     "https://www.youtube.com/@82major_official",
     "https://www.tiktok.com/@82major_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=AE3xB43P3pA"
+   "mv": "https://www.youtube.com/watch?v=JzFE9zkGSnU"
   },
   {
    "artist": "CHUNG HA",
@@ -2251,7 +2251,7 @@
     "https://www.youtube.com/@CHUNGHA__Official",
     "https://www.tiktok.com/@chun9ha_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=t0aVRF8xa00"
+   "mv": "https://www.youtube.com/watch?v=8DGkR9LEB28"
   },
   {
    "artist": "izna (JP)",
@@ -2273,9 +2273,9 @@
     "https://x.com/izna_offcl_jp",
     "https://www.instagram.com/izna_offcl",
     "https://www.youtube.com/@izna_offcl",
-    "https://www.tiktok.com/@izna_offcl",
-    "https://www.youtube.com/@izna_offcl/releases"
-   ]
+    "https://www.tiktok.com/@izna_offcl"
+   ],
+   "mv": "https://www.youtube.com/watch?v=TAxOdyU1XRw"
   },
   {
    "artist": "TUNEXX",
@@ -2297,7 +2297,7 @@
     "https://www.youtube.com/@official_TUNEXX",
     "https://www.tiktok.com/@tunexx_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
+   "mv": "https://www.youtube.com/watch?v=aYGJolzFgXc"
   },
   {
    "artist": "UNCHILD",
@@ -2356,6 +2356,25 @@
    ]
   },
   {
+   "artist": "LISA (BLACKPINK)",
+   "type": "EP",
+   "title": "PRESS PLAY",
+   "titleTrack": "SaWaDiKa",
+   "date": "2026-09-03T09:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-LISA-EP-PRESS-PLAY.webp",
+   "url": "https://kpopofficial.com/album/lisa-sawadika/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/wearelloud",
+    "https://www.instagram.com/lalalalisa_m/",
+    "https://www.instagram.com/wearelloud/",
+    "https://www.youtube.com/@wearelloud",
+    "https://www.tiktok.com/@lalalalisa_m",
+    "https://www.tiktok.com/@wearelloud",
+    "https://www.youtube.com/@wearelloud/releases"
+   ]
+  },
+  {
    "artist": "KWON EUNBI",
    "type": "Digital Single Album",
    "title": "DEJAVU",
@@ -2367,10 +2386,11 @@
    "links": [
     "https://x.com/kwoneunbi_offcl",
     "https://www.instagram.com/silver_rain.__/",
+    "https://www.youtube.com/@KWONEUNBI_OFFICIAL",
     "https://www.youtube.com/@kwoneungbi",
-    "https://www.tiktok.com/@official_kwoneunbi",
-    "https://www.youtube.com/@KWONEUNBI/releases"
-   ]
+    "https://www.tiktok.com/@official_kwoneunbi"
+   ],
+   "mv": "https://www.youtube.com/watch?v=QWRwZg_G470"
   },
   {
    "artist": "TUNEXX",

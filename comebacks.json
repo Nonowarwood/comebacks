@@ -1,32 +1,23 @@
 {
- "generated": "2026-08-30T11:53:54+00:00",
+ "generated": "2026-08-30T16:40:42+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
-   "artist": "ENHYPEN",
-   "type": "8th Mini Album",
-   "title": "THE SIN : BLISS",
-   "titleTrack": "Bloody Paradise",
-   "date": "2026-08-21T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS-Album-Cover-1.webp",
-   "url": "https://kpopofficial.com/album/enhypen-the-sin-bliss/",
-   "tracklist": [
-    "Two Fools",
-    "Stuck",
-    "Bad For You",
-    "Bloody Paradise – (Title)",
-    "Checkmate",
-    "Highlight"
-   ],
+   "artist": "BIGBANG",
+   "type": "Digital Single",
+   "title": "BiiiG",
+   "titleTrack": "BiiiG",
+   "date": "2026-08-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/BIGBANG-BiiiG-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/bigbang-biiig/",
+   "tracklist": [],
    "links": [
-    "https://x.com/ENHYPEN",
-    "https://x.com/ENHYPEN_JP",
-    "https://www.instagram.com/enhypen/",
-    "https://www.youtube.com/@ENHYPENOFFICIAL",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@enhypen"
+    "https://x.com/YG_GlobalVIP",
+    "https://www.instagram.com/bigbang_2xx6/",
+    "https://www.youtube.com/@BIGBANG",
+    "https://www.tiktok.com/@bigbang_2xx6"
    ],
-   "mv": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
+   "mv": "https://www.youtube.com/watch?v=L8ZnXgbyUuc"
   },
   {
    "artist": "Opius x Myung Hyungseo (CLASSy)",
@@ -71,30 +62,6 @@
     "https://www.tiktok.com/@cortis_bighit"
    ],
    "mv": "https://www.youtube.com/watch?v=OhdvNHmJDsw"
-  },
-  {
-   "artist": "TUIDE",
-   "type": "1st EP",
-   "title": "TUNE & PLAY",
-   "titleTrack": "SUN KISS",
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUIDE-TUNE-PLAY-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
-   "tracklist": [
-    "ABD",
-    "SUN KISS – (Title)",
-    "Echo",
-    "Flip-Flop Girl",
-    "GRLS"
-   ],
-   "links": [
-    "https://x.com/TUIDE_official",
-    "https://www.instagram.com/tuide_abd",
-    "https://www.youtube.com/@TUIDE_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tuide_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=46h0LvDHgIs"
   },
   {
    "artist": "NCT 127",
@@ -198,6 +165,30 @@
    "mv": "https://www.youtube.com/watch?v=g9Q58A_k-HU"
   },
   {
+   "artist": "TUIDE",
+   "type": "1st EP",
+   "title": "TUNE & PLAY",
+   "titleTrack": "SUN KISS",
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUIDE-TUNE-PLAY-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
+   "tracklist": [
+    "ABD",
+    "SUN KISS – (Title)",
+    "Echo",
+    "Flip-Flop Girl",
+    "GRLS"
+   ],
+   "links": [
+    "https://x.com/TUIDE_official",
+    "https://www.instagram.com/tuide_abd",
+    "https://www.youtube.com/@TUIDE_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tuide_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=46h0LvDHgIs"
+  },
+  {
    "artist": "SF9",
    "type": "2nd Album",
    "title": "TENACITY",
@@ -227,23 +218,6 @@
    "mv": "https://www.youtube.com/watch?v=w54M18oEv8k"
   },
   {
-   "artist": "TNX",
-   "type": "3rd Digital Single",
-   "title": "Die Another Day",
-   "titleTrack": null,
-   "date": "2026-08-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TNX-Die-Another-Day-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/tnx-die-another-day/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/TNX_Official",
-    "https://www.instagram.com/official.tnx",
-    "https://www.youtube.com/@official_tnx",
-    "https://www.tiktok.com/@officialtnx"
-   ],
-   "mv": "https://www.youtube.com/watch?v=hXYjK4in0MM"
-  },
-  {
    "artist": "HITGS",
    "type": "Digital Single",
    "title": "Things We Dream : Vol.3",
@@ -261,25 +235,21 @@
    "mv": "https://www.youtube.com/watch?v=IM-N8trjDzk"
   },
   {
-   "artist": "JENNIE (BLACKPINK)",
-   "type": "Digital EP",
-   "title": "Fallen Angel",
-   "titleTrack": "FALLEN ANGEL",
-   "date": "2026-08-28T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JENNIE-Fallen-Angel-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/jennie-fallen-angel/",
-   "tracklist": [
-    "FALLEN ANGEL",
-    "HEAVEN",
-    "Less than a Lover"
-   ],
+   "artist": "TNX",
+   "type": "3rd Digital Single",
+   "title": "Die Another Day",
+   "titleTrack": null,
+   "date": "2026-08-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TNX-Die-Another-Day-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/tnx-die-another-day/",
+   "tracklist": [],
    "links": [
-    "https://x.com/jennierubyjane",
-    "https://www.instagram.com/jennierubyjane",
-    "https://www.youtube.com/@jennierubyjane",
-    "https://www.tiktok.com/@jennierubyjane"
+    "https://x.com/TNX_Official",
+    "https://www.instagram.com/official.tnx",
+    "https://www.youtube.com/@official_tnx",
+    "https://www.tiktok.com/@officialtnx"
    ],
-   "mv": "https://www.youtube.com/watch?v=s466YCiHfKw"
+   "mv": "https://www.youtube.com/watch?v=hXYjK4in0MM"
   },
   {
    "artist": "JENNIE (BLACKPINK)",
@@ -287,7 +257,7 @@
    "title": "Fallen Angel",
    "titleTrack": "FALLEN ANGEL",
    "date": "2026-08-28T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-JENNIE-Fallen-Angel.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JENNIE-Fallen-Angel-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/jennie-fallen-angel/",
    "tracklist": [
     "FALLEN ANGEL",
@@ -320,21 +290,21 @@
    "mv": "https://www.youtube.com/watch?v=BCXGsumoMkQ"
   },
   {
-   "artist": "iii",
-   "type": "Digital Single",
-   "title": "WaiT",
-   "titleTrack": "WaiT",
-   "date": "2026-08-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/iii-members-photo.webp",
-   "url": "https://kpopofficial.com/album/iii-wait/",
+   "artist": "HyoriSoo (Girls’ Generation)",
+   "type": "Debut Single",
+   "title": "Skibidi",
+   "titleTrack": null,
+   "date": "2026-08-31T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-HyoriSoo-Single-Skibidi.webp",
+   "url": "https://kpopofficial.com/album/hyorisoo-skibidi/",
    "tracklist": [],
    "links": [
-    "https://x.com/i_i_i_official",
-    "https://www.instagram.com/iii_bigocean.official",
-    "https://www.youtube.com/@iii_Official",
-    "https://www.tiktok.com/@iiiofficial"
-   ],
-   "mv": "https://www.youtube.com/watch?v=BCXGsumoMkQ"
+    "https://x.com/GirlsGeneration",
+    "https://www.instagram.com/girlsgeneration/",
+    "https://www.youtube.com/@GIRLSGENERATION",
+    "https://www.tiktok.com/@girlsgeneration.official",
+    "https://www.youtube.com/@GIRLSGENERATION/releases"
+   ]
   },
   {
    "artist": "TAEMIN (SHINee)",
@@ -365,23 +335,6 @@
     "https://www.tiktok.com/@taemin_xoalsox_"
    ],
    "mv": "https://www.youtube.com/watch?v=hM6piAikKKI"
-  },
-  {
-   "artist": "HyoriSoo (Girls’ Generation)",
-   "type": "Debut Single",
-   "title": "Skibidi",
-   "titleTrack": null,
-   "date": "2026-08-31T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-HyoriSoo-Single-Skibidi.webp",
-   "url": "https://kpopofficial.com/album/hyorisoo-skibidi/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/GirlsGeneration",
-    "https://www.instagram.com/girlsgeneration/",
-    "https://www.youtube.com/@GIRLSGENERATION",
-    "https://www.tiktok.com/@girlsgeneration.official",
-    "https://www.youtube.com/@GIRLSGENERATION/releases"
-   ]
   },
   {
    "artist": "TAEMIN (SHINee)",
@@ -448,7 +401,7 @@
     "https://www.youtube.com/@82major_official",
     "https://www.tiktok.com/@82major_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=AE3xB43P3pA"
+   "mv": "https://www.youtube.com/watch?v=JzFE9zkGSnU"
   },
   {
    "artist": "CHUNG HA",
@@ -465,7 +418,7 @@
     "https://www.youtube.com/@CHUNGHA__Official",
     "https://www.tiktok.com/@chun9ha_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=t0aVRF8xa00"
+   "mv": "https://www.youtube.com/watch?v=8DGkR9LEB28"
   },
   {
    "artist": "izna (JP)",
@@ -487,9 +440,9 @@
     "https://x.com/izna_offcl_jp",
     "https://www.instagram.com/izna_offcl",
     "https://www.youtube.com/@izna_offcl",
-    "https://www.tiktok.com/@izna_offcl",
-    "https://www.youtube.com/@izna_offcl/releases"
-   ]
+    "https://www.tiktok.com/@izna_offcl"
+   ],
+   "mv": "https://www.youtube.com/watch?v=TAxOdyU1XRw"
   },
   {
    "artist": "UNCHILD",
@@ -528,7 +481,7 @@
     "https://www.youtube.com/@official_TUNEXX",
     "https://www.tiktok.com/@tunexx_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=024zkXsHydo"
+   "mv": "https://www.youtube.com/watch?v=aYGJolzFgXc"
   },
   {
    "artist": "ICHILLIN’ J",
@@ -555,8 +508,27 @@
    "type": "EP",
    "title": "PRESS PLAY",
    "titleTrack": "SaWaDiKa",
-   "date": "2026-09-03T00:00:00+09:00",
+   "date": "2026-09-03T09:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-LISA-EP-PRESS-PLAY.webp",
+   "url": "https://kpopofficial.com/album/lisa-sawadika/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/wearelloud",
+    "https://www.instagram.com/lalalalisa_m/",
+    "https://www.instagram.com/wearelloud/",
+    "https://www.youtube.com/@wearelloud",
+    "https://www.tiktok.com/@lalalalisa_m",
+    "https://www.tiktok.com/@wearelloud",
+    "https://www.youtube.com/@wearelloud/releases"
+   ]
+  },
+  {
+   "artist": "LISA (BLACKPINK)",
+   "type": "EP",
+   "title": "PRESS PLAY",
+   "titleTrack": "SaWaDiKa",
+   "date": "2026-09-03T09:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-LISA-EP-PRESS-PLAY.webp",
    "url": "https://kpopofficial.com/album/lisa-sawadika/",
    "tracklist": [],
    "links": [
@@ -581,10 +553,11 @@
    "links": [
     "https://x.com/kwoneunbi_offcl",
     "https://www.instagram.com/silver_rain.__/",
+    "https://www.youtube.com/@KWONEUNBI_OFFICIAL",
     "https://www.youtube.com/@kwoneungbi",
-    "https://www.tiktok.com/@official_kwoneunbi",
-    "https://www.youtube.com/@KWONEUNBI/releases"
-   ]
+    "https://www.tiktok.com/@official_kwoneunbi"
+   ],
+   "mv": "https://www.youtube.com/watch?v=QWRwZg_G470"
   },
   {
    "artist": "JISOO (BLACKPINK)",
@@ -715,6 +688,24 @@
    "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
   },
   {
+   "artist": "&TEAM (KR)",
+   "type": "2nd Mini Album",
+   "title": "Mark on Me",
+   "titleTrack": null,
+   "date": "2026-09-08T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-ANDTEAM-KR-2nd-Mini-Album-Mark-on-Me.webp",
+   "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/andTEAMofficial",
+    "https://www.instagram.com/andteam_official",
+    "https://www.youtube.com/@andTEAM_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@andteam_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
+  },
+  {
    "artist": "D.O. (EXO)",
    "type": "4th Mini Album",
    "title": "DOPAMINE",
@@ -819,22 +810,6 @@
     "https://www.tiktok.com/@le_sserafim"
    ],
    "mv": "https://www.youtube.com/watch?v=OPgr9Gc5oZk"
-  },
-  {
-   "artist": "PENTAGON",
-   "type": "10th Anniversary Single",
-   "title": "겁쟁이",
-   "titleTrack": null,
-   "date": "2026-09-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-Pentagon-Members.jpg",
-   "url": "https://kpopofficial.com/album/pentagon-geopjaengi/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/CUBE_PTG",
-    "https://www.instagram.com/cube_ptg/",
-    "https://www.youtube.com/@CUBE_PTG",
-    "https://www.tiktok.com/@official_ptg"
-   ]
   },
   {
    "artist": "PENTAGON",
