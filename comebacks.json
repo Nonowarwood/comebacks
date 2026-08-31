@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T13:47:38+00:00",
+ "generated": "2026-08-31T22:51:03+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -78,37 +78,6 @@
     "https://www.tiktok.com/@tuide_official"
    ],
    "mv": "https://www.youtube.com/watch?v=46h0LvDHgIs"
-  },
-  {
-   "artist": "NCT 127",
-   "type": "7th Album",
-   "title": "BLINGY",
-   "titleTrack": "Blingy",
-   "date": "2026-08-24T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/NCT-127-BLINGY-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/nct-127-blingy/",
-   "tracklist": [
-    "Blingy – (Title)",
-    "Legacy",
-    "Piñata",
-    "Step Up",
-    "IKR",
-    "Getaway",
-    "Day After Day",
-    "127 Million Miles",
-    "I Mean, It’s About Time"
-   ],
-   "links": [
-    "https://x.com/NCTsmtown_127",
-    "https://x.com/NCTsmtown",
-    "https://www.instagram.com/nct127",
-    "https://www.instagram.com/nct",
-    "https://www.youtube.com/@NCT127",
-    "https://www.youtube.com/@NCTsmtown",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
-   ],
-   "mv": "https://www.youtube.com/watch?v=BjFX1eugZ-Y"
   },
   {
    "artist": "HANBIN (TEMPEST)",
@@ -283,22 +252,22 @@
   },
   {
    "artist": "TAEMIN (SHINee)",
-   "type": "Album",
+   "type": "EP",
    "title": "PHASE 1 : Soft Violence",
-   "titleTrack": "Float\" \"Gooey",
+   "titleTrack": "FLOAT\" \"Gooey",
    "date": "2026-08-31T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-TAEMIN-PHASE-1-Soft-Violence.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TAEMIN-PHASE-1-Soft-Violence.webp",
    "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
    "tracklist": [
-    "Float – (Title)",
+    "FLOAT – (Title)",
     "Gooey – (Title)",
     "Let Me Be The One",
-    "Permission",
+    "PERMISSION",
     "Sober",
     "1004",
     "Easy Loving You",
-    "Skin",
-    "Parasite",
+    "SKIN",
+    "PARASITE",
     "Frankenstein",
     "This Is The End"
    ],
@@ -309,71 +278,44 @@
     "https://www.youtube.com/@taemin_xoalsox",
     "https://www.tiktok.com/@taemin_xoalsox_"
    ],
-   "mv": "https://www.youtube.com/watch?v=hM6piAikKKI"
+   "mv": "https://www.youtube.com/watch?v=q4TWrmwiufo"
   },
   {
-   "artist": "HyoriSoo (Girls’ Generation)",
+   "artist": "HyoriSoo (Girls’ Generation-HRS)",
    "type": "Debut Single",
    "title": "Skibidi",
-   "titleTrack": null,
+   "titleTrack": "Skibidi",
    "date": "2026-08-31T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-HyoriSoo-Single-Skibidi.webp",
-   "url": "https://kpopofficial.com/album/hyorisoo-skibidi/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/GirlsGeneration",
-    "https://www.instagram.com/girlsgeneration/",
-    "https://www.youtube.com/@GIRLSGENERATION",
-    "https://www.tiktok.com/@girlsgeneration.official",
-    "https://www.youtube.com/@GIRLSGENERATION/releases"
-   ]
-  },
-  {
-   "artist": "HyoriSoo (Girls’ Generation)",
-   "type": "Debut Single",
-   "title": "Skibidi",
-   "titleTrack": null,
-   "date": "2026-08-31T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-Girls-Generation-Hyorisoo-members.webp",
-   "url": "https://kpopofficial.com/album/hyorisoo-skibidi/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/GirlsGeneration",
-    "https://www.instagram.com/girlsgeneration/",
-    "https://www.youtube.com/@GIRLSGENERATION",
-    "https://www.tiktok.com/@girlsgeneration.official",
-    "https://www.youtube.com/@GIRLSGENERATION/releases"
-   ]
-  },
-  {
-   "artist": "TAEMIN (SHINee)",
-   "type": "Album",
-   "title": "PHASE 1 : Soft Violence",
-   "titleTrack": "Float\" \"Gooey",
-   "date": "2026-08-31T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover-TAEMIN-PHASE-1-Soft-Violence.webp",
-   "url": "https://kpopofficial.com/album/taemin-phase-1-soft-violence/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Girls-Generation-HRS-Skibidi.webp",
+   "url": "https://kpopofficial.com/album/girls-generation-hrs-skibidi/",
    "tracklist": [
-    "Float – (Title)",
-    "Gooey – (Title)",
-    "Let Me Be The One",
-    "Permission",
-    "Sober",
-    "1004",
-    "Easy Loving You",
-    "Skin",
-    "Parasite",
-    "Frankenstein",
-    "This Is The End"
+    "Skibidi – (Title)",
+    "Lowkey In Love"
    ],
    "links": [
-    "https://x.com/Taemin_Xoalsox_",
-    "https://www.instagram.com/xoalsox/",
-    "https://www.instagram.com/taemin_xoalsox/",
-    "https://www.youtube.com/@taemin_xoalsox",
-    "https://www.tiktok.com/@taemin_xoalsox_"
+    "https://x.com/GirlsGeneration",
+    "https://www.instagram.com/girlsgeneration/",
+    "https://www.youtube.com/@GIRLSGENERATION",
+    "https://www.tiktok.com/@girlsgeneration.official"
    ],
-   "mv": "https://www.youtube.com/watch?v=hM6piAikKKI"
+   "mv": "https://www.youtube.com/watch?v=oAwzFFEYm38"
+  },
+  {
+   "artist": "CHUNG HA",
+   "type": "Digital Single",
+   "title": "México",
+   "titleTrack": "México",
+   "date": "2026-09-01T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-Chungha-single-mexico.webp",
+   "url": "https://kpopofficial.com/album/chung-ha-mexico/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/CH_CHUN9HA",
+    "https://www.instagram.com/chungha.art/",
+    "https://www.youtube.com/@CHUNGHA__Official",
+    "https://www.tiktok.com/@chun9ha_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=8DGkR9LEB28"
   },
   {
    "artist": "82MAJOR",
@@ -419,7 +361,7 @@
    "artist": "CHUNG HA",
    "type": "Digital Single",
    "title": "México",
-   "titleTrack": null,
+   "titleTrack": "México",
    "date": "2026-09-01T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-Chungha-single-mexico.webp",
    "url": "https://kpopofficial.com/album/chung-ha-mexico/",
@@ -498,26 +440,6 @@
    ]
   },
   {
-   "artist": "ICHILLIN’ J",
-   "type": "1st Digital Single",
-   "title": "Look At Me!",
-   "titleTrack": "BANANA (Look At Me!)",
-   "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ICHILLIN-J-Members.webp",
-   "url": "https://kpopofficial.com/album/ichillin-j-look-at-me/",
-   "tracklist": [
-    "BANANA (Look At Me!)",
-    "Runaway"
-   ],
-   "links": [
-    "https://x.com/ichillin_km",
-    "https://www.instagram.com/ichillin_km/",
-    "https://www.youtube.com/@ICHILLIN",
-    "https://www.tiktok.com/@ichillin_km"
-   ],
-   "mv": "https://www.youtube.com/watch?v=2SkU72Hnj_8"
-  },
-  {
    "artist": "UNCHILD",
    "type": "2nd Digital Single",
    "title": "TiNG TiNG",
@@ -557,23 +479,24 @@
    "mv": "https://www.youtube.com/watch?v=aYGJolzFgXc"
   },
   {
-   "artist": "LISA (BLACKPINK)",
-   "type": "EP",
-   "title": "PRESS PLAY",
-   "titleTrack": "SaWaDiKa",
-   "date": "2026-09-03T09:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-Lisa-SaWaDiKa.webp",
-   "url": "https://kpopofficial.com/album/lisa-sawadika/",
-   "tracklist": [],
+   "artist": "ICHILLIN’ J",
+   "type": "1st Digital Single",
+   "title": "Look At Me!",
+   "titleTrack": "BANANA (Look At Me!)",
+   "date": "2026-09-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ICHILLIN-J-Members.webp",
+   "url": "https://kpopofficial.com/album/ichillin-j-look-at-me/",
+   "tracklist": [
+    "BANANA (Look At Me!)",
+    "Runaway"
+   ],
    "links": [
-    "https://x.com/wearelloud",
-    "https://www.instagram.com/lalalalisa_m/",
-    "https://www.instagram.com/wearelloud/",
-    "https://www.youtube.com/@wearelloud",
-    "https://www.tiktok.com/@lalalalisa_m",
-    "https://www.tiktok.com/@wearelloud",
-    "https://www.youtube.com/@wearelloud/releases"
-   ]
+    "https://x.com/ichillin_km",
+    "https://www.instagram.com/ichillin_km/",
+    "https://www.youtube.com/@ICHILLIN",
+    "https://www.tiktok.com/@ichillin_km"
+   ],
+   "mv": "https://www.youtube.com/watch?v=2SkU72Hnj_8"
   },
   {
    "artist": "LISA (BLACKPINK)",
@@ -611,23 +534,6 @@
     "https://www.tiktok.com/@official_kwoneunbi"
    ],
    "mv": "https://www.youtube.com/watch?v=QWRwZg_G470"
-  },
-  {
-   "artist": "JISOO (BLACKPINK)",
-   "type": "Single",
-   "title": "CLICK",
-   "titleTrack": "CLICK",
-   "date": "2026-09-04T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-JISOO-CLICK.webp",
-   "url": "https://kpopofficial.com/album/jisoo-click/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/officialBLISSOO",
-    "https://www.instagram.com/sooyaaa__/",
-    "https://www.instagram.com/blissoo_official/",
-    "https://www.youtube.com/@sooyaaa__",
-    "https://www.tiktok.com/@jisoo"
-   ]
   },
   {
    "artist": "MONSTA X",
@@ -698,49 +604,6 @@
    "mv": "https://www.youtube.com/watch?v=4W_Wy-DgGRs"
   },
   {
-   "artist": "VERIVERY",
-   "type": "8th Mini Album",
-   "title": "CONFETTI",
-   "titleTrack": "Don’t Panic!",
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-VERIVERY-Members-for-Album-CONFETTI.webp",
-   "url": "https://kpopofficial.com/album/verivery-confetti/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/the_verivery",
-    "https://www.instagram.com/the_verivery/",
-    "https://www.youtube.com/@VERIVERY",
-    "https://www.tiktok.com/@the_verivery"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Lu5dWFrYMO4"
-  },
-  {
-   "artist": "Soyeon (i-dle)",
-   "type": "1st Full Album",
-   "title": "끝내주는 인생 (What a Wonderful Life)",
-   "titleTrack": "퇴사할게여",
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/idle-Soyeon.webp",
-   "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
-   "tracklist": [
-    "퇴사할게여 (Narr. Kian84)",
-    "Bankroll",
-    "IceBlueRabbit",
-    "Star",
-    "야채 싫어 송",
-    "Amigo (feat. 민수)",
-    "그냥 사랑하면 안 될까",
-    "낭만 보내기"
-   ],
-   "links": [
-    "https://x.com/official_i_dle",
-    "https://www.instagram.com/i_dle_official",
-    "https://www.youtube.com/@official_i_dle",
-    "https://www.tiktok.com/@official_i_dle"
-   ],
-   "mv": "https://www.youtube.com/watch?v=4W_Wy-DgGRs"
-  },
-  {
    "artist": "MINHO (SHINee)",
    "type": "2nd Mini Album",
    "title": "Make it hot",
@@ -790,6 +653,49 @@
     "https://www.tiktok.com/@h_evva_n",
     "https://www.youtube.com/@h_evva_n/releases"
    ]
+  },
+  {
+   "artist": "VERIVERY",
+   "type": "8th Mini Album",
+   "title": "CONFETTI",
+   "titleTrack": "Don’t Panic!",
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-VERIVERY-Members-for-Album-CONFETTI.webp",
+   "url": "https://kpopofficial.com/album/verivery-confetti/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/the_verivery",
+    "https://www.instagram.com/the_verivery/",
+    "https://www.youtube.com/@VERIVERY",
+    "https://www.tiktok.com/@the_verivery"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Lu5dWFrYMO4"
+  },
+  {
+   "artist": "Soyeon (i-dle)",
+   "type": "1st Full Album",
+   "title": "끝내주는 인생 (What a Wonderful Life)",
+   "titleTrack": "퇴사할게여",
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/idle-Soyeon.webp",
+   "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
+   "tracklist": [
+    "퇴사할게여 (Narr. Kian84)",
+    "Bankroll",
+    "IceBlueRabbit",
+    "Star",
+    "야채 싫어 송",
+    "Amigo (feat. 민수)",
+    "그냥 사랑하면 안 될까",
+    "낭만 보내기"
+   ],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=4W_Wy-DgGRs"
   },
   {
    "artist": "D.O. (EXO)",
@@ -914,6 +820,22 @@
    "title": "겁쟁이",
    "titleTrack": null,
    "date": "2026-09-11T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-PENTAGON-Single-겁쟁이.webp",
+   "url": "https://kpopofficial.com/album/pentagon-geopjaengi/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/CUBE_PTG",
+    "https://www.instagram.com/cube_ptg/",
+    "https://www.youtube.com/@CUBE_PTG",
+    "https://www.tiktok.com/@official_ptg"
+   ]
+  },
+  {
+   "artist": "PENTAGON",
+   "type": "10th Anniversary Single",
+   "title": "겁쟁이",
+   "titleTrack": null,
+   "date": "2026-09-11T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-PENTAGON-Single-겁쟁이.webp",
    "url": "https://kpopofficial.com/album/pentagon-geopjaengi/",
    "tracklist": [],
@@ -944,17 +866,6 @@
    "mv": "https://www.youtube.com/watch?v=ZDH3sHHSZ8o"
   },
   {
-   "artist": "BOYNEXTDOOR",
-   "type": "Repackaged Album",
-   "title": "HOME",
-   "titleTrack": null,
-   "date": "2026-09-28T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-BOYNEXTDOOR-Members-for-1st-Studio-Album-HOME.webp",
-   "url": "https://kpopofficial.com/album/boynextdoor-home-repackaged/",
-   "tracklist": [],
-   "links": []
-  },
-  {
    "artist": "MINZY (2NE1)",
    "type": "Comeback",
    "title": null,
@@ -969,6 +880,17 @@
     "https://www.youtube.com/@MINZYTV",
     "https://www.tiktok.com/@_minzy_mz"
    ]
+  },
+  {
+   "artist": "BOYNEXTDOOR",
+   "type": "Repackaged Album",
+   "title": "HOME",
+   "titleTrack": null,
+   "date": "2026-09-28T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-BOYNEXTDOOR-Members-for-1st-Studio-Album-HOME.webp",
+   "url": "https://kpopofficial.com/album/boynextdoor-home-repackaged/",
+   "tracklist": [],
+   "links": []
   },
   {
    "artist": "XngHan&Xoul (JP)",
