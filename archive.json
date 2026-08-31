@@ -2141,7 +2141,7 @@
    "title": "WaiT",
    "titleTrack": "WaiT",
    "date": "2026-08-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-iii-members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/iii-WaiT-Album-cover.webp",
    "url": "https://kpopofficial.com/album/iii-wait/",
    "tracklist": [],
    "links": [
@@ -2188,7 +2188,7 @@
    "title": "Skibidi",
    "titleTrack": null,
    "date": "2026-08-31T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/HyoriSoo-Single-Skibidi.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-Girls-Generation-Hyorisoo-members.webp",
    "url": "https://kpopofficial.com/album/hyorisoo-skibidi/",
    "tracklist": [],
    "links": [
@@ -2242,7 +2242,7 @@
    "title": "México",
    "titleTrack": null,
    "date": "2026-09-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/CHUNG-HA-Mexico.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-Chungha-single-mexico.webp",
    "url": "https://kpopofficial.com/album/chung-ha-mexico/",
    "tracklist": [],
    "links": [
@@ -2361,7 +2361,7 @@
    "title": "PRESS PLAY",
    "titleTrack": "SaWaDiKa",
    "date": "2026-09-03T09:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-LISA-EP-PRESS-PLAY.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Lisa-SaWaDiKa.webp",
    "url": "https://kpopofficial.com/album/lisa-sawadika/",
    "tracklist": [],
    "links": [
@@ -2455,11 +2455,20 @@
    "artist": "EVAN",
    "type": "1st Mini Album",
    "title": "DEATH OF ME",
-   "titleTrack": null,
+   "titleTrack": "Death of Me",
    "date": "2026-09-07T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-EVAN-Heeseung.webp",
    "url": "https://kpopofficial.com/album/evan-death-of-me/",
-   "tracklist": [],
+   "tracklist": [
+    "Not Enough",
+    "Noise",
+    "Ride or Die",
+    "Death of Me",
+    "Twilight",
+    "Immature",
+    "Overflow",
+    "Going Home"
+   ],
    "links": [
     "https://x.com/h_evva_n",
     "https://www.instagram.com/h_evva_n/",
@@ -2472,7 +2481,7 @@
    "artist": "VERIVERY",
    "type": "8th Mini Album",
    "title": "CONFETTI",
-   "titleTrack": null,
+   "titleTrack": "Don’t Panic!",
    "date": "2026-09-07T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2025/12/2-VERIVERY-Members-Group-Photo-for-Lost-and-found.webp",
    "url": "https://kpopofficial.com/album/verivery-confetti/",
@@ -2483,17 +2492,24 @@
     "https://www.youtube.com/@VERIVERY",
     "https://www.tiktok.com/@the_verivery"
    ],
-   "mv": "https://www.youtube.com/watch?v=Nu9QteMeILs"
+   "mv": "https://www.youtube.com/watch?v=Lu5dWFrYMO4"
   },
   {
    "artist": "MINHO (SHINee)",
    "type": "2nd Mini Album",
    "title": "Make it hot",
-   "titleTrack": null,
+   "titleTrack": "Make It Hot",
    "date": "2026-09-07T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2022/11/SHINee-Minho-Chase-Album.jpeg",
    "url": "https://kpopofficial.com/album/minho-make-it-hot/",
-   "tracklist": [],
+   "tracklist": [
+    "Make It Hot",
+    "Liquid (feat. Belle of KISS OF LIFE)",
+    "Love Me Now",
+    "Time 1.1",
+    "Out Of My Hands",
+    "Ending Scene"
+   ],
    "links": [
     "https://x.com/SHINee",
     "https://www.instagram.com/shinee",
@@ -2507,11 +2523,20 @@
    "artist": "Soyeon (i-dle)",
    "type": "1st Full Album",
    "title": "끝내주는 인생 (What a Wonderful Life)",
-   "titleTrack": null,
+   "titleTrack": "퇴사할게여",
    "date": "2026-09-07T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/idle-Soyeon.webp",
    "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
-   "tracklist": [],
+   "tracklist": [
+    "퇴사할게여 (Narr. Kian84)",
+    "Bankroll",
+    "IceBlueRabbit",
+    "Star",
+    "야채 싫어 송",
+    "Amigo (feat. 민수)",
+    "그냥 사랑하면 안 될까",
+    "낭만 보내기"
+   ],
    "links": [
     "https://x.com/official_i_dle",
     "https://www.instagram.com/i_dle_official",
@@ -2576,18 +2601,29 @@
    "artist": "In A Minute",
    "type": "1st Album",
    "title": "When the sun goes down : Midnight",
-   "titleTrack": null,
+   "titleTrack": "Midnight",
    "date": "2026-09-09T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-In-A-Minute-Members.webp",
    "url": "https://kpopofficial.com/album/in-a-minute-when-the-sun-goes-down-midnight/",
-   "tracklist": [],
+   "tracklist": [
+    "When The Sun Goes Down",
+    "Midnight",
+    "Painful (한상통)",
+    "Inner Peace",
+    "Pause (정지버튼)",
+    "Blah Blah (Hyunyeop solo)",
+    "Ordinary Day (Juntae solo)",
+    "Day & Night (Jaejun feat. AIDEN)",
+    "1AM",
+    "In_Complete (관람차)"
+   ],
    "links": [
     "https://x.com/INAMINUTE_OFFI",
     "https://www.instagram.com/inaminute_official/",
     "https://www.youtube.com/@Official_InAMinute",
-    "https://www.tiktok.com/@inaminute_official",
-    "https://www.youtube.com/channel/UCJhmTIbdUYNmpZeNXjBhgxw"
-   ]
+    "https://www.tiktok.com/@inaminute_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=1YAgqU1Xr_I"
   },
   {
    "artist": "TUNEXX",
@@ -2612,7 +2648,7 @@
    "title": "Devil Youth Club",
    "titleTrack": null,
    "date": "2026-09-10T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MCND-Members-for-Devil-Youth-Club.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-MCND-Members.webp",
    "url": "https://kpopofficial.com/album/mcnd-devil-youth-club/",
    "tracklist": [],
    "links": [
