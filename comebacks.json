@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T11:39:25+00:00",
+ "generated": "2026-09-01T16:38:58+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -863,22 +863,6 @@
    "mv": "https://www.youtube.com/watch?v=ZDH3sHHSZ8o"
   },
   {
-   "artist": "MINZY (2NE1)",
-   "type": "Comeback",
-   "title": null,
-   "titleTrack": null,
-   "date": "2026-09-28T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MINZY-2NE1.webp",
-   "url": "https://kpopofficial.com/album/minzy-comeback/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/mingkki21",
-    "https://www.instagram.com/_minzy_mz/",
-    "https://www.youtube.com/@MINZYTV",
-    "https://www.tiktok.com/@_minzy_mz"
-   ]
-  },
-  {
    "artist": "BOYNEXTDOOR",
    "type": "Repackaged Album",
    "title": "HOME",
@@ -888,6 +872,22 @@
    "url": "https://kpopofficial.com/album/boynextdoor-home-repackaged/",
    "tracklist": [],
    "links": []
+  },
+  {
+   "artist": "MINZY (2NE1)",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-09-28T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MINZY-2NE1.webp",
+   "url": "https://kpopofficial.com/album/minzy-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/mingkki21",
+    "https://www.instagram.com/_minzy_mz/",
+    "https://www.youtube.com/@MINZYTV",
+    "https://www.tiktok.com/@_minzy_mz"
+   ]
   },
   {
    "artist": "XngHan&Xoul (JP)",
