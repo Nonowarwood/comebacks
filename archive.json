@@ -2153,6 +2153,49 @@
    "mv": "https://www.youtube.com/watch?v=BCXGsumoMkQ"
   },
   {
+   "artist": "The Rose",
+   "type": "Album",
+   "title": "ROSE",
+   "titleTrack": null,
+   "date": "2026-08-30T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/The-Rose-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/the-rose-rose/",
+   "tracklist": [
+    "Threshold",
+    "Walking On Clouds",
+    "Utopia",
+    "Control",
+    "CHEMICAL",
+    "Truth",
+    "Blue Moon",
+    "Home"
+   ],
+   "links": [
+    "https://x.com/therose_0803",
+    "https://www.instagram.com/official_therose/",
+    "https://www.youtube.com/@theroseofficial",
+    "https://www.tiktok.com/@official.therose"
+   ],
+   "mv": "https://www.youtube.com/watch?v=videoseries"
+  },
+  {
+   "artist": "INFINITE",
+   "type": "Digital Single",
+   "title": "I Still Remember",
+   "titleTrack": "I Still Remember",
+   "date": "2026-08-31T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/INFINITE-I-Still-Remember-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/infinite-i-still-remember/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/IFNT_Official_",
+    "https://www.instagram.com/infinitecompany_official/",
+    "https://www.youtube.com/@IFNT.Official",
+    "https://www.tiktok.com/@infinitecompany_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=yvLCXv9RtzE"
+  },
+  {
    "artist": "TAEMIN (SHINee)",
    "type": "EP",
    "title": "PHASE 1 : Soft Violence",
@@ -2246,7 +2289,9 @@
    "url": "https://kpopofficial.com/album/82major-heat/",
    "tracklist": [
     "Like Fire",
-    "wyd?"
+    "wyd?",
+    "TROPHY (Spanish Ver.)",
+    "Sign (Viann Remix)"
    ],
    "links": [
     "https://x.com/82MAJOR_231011",
@@ -2254,7 +2299,7 @@
     "https://www.youtube.com/@82major_official",
     "https://www.tiktok.com/@82major_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=JzFE9zkGSnU"
+   "mv": "https://www.youtube.com/watch?v=L7HhTKJx0gU"
   },
   {
    "artist": "CHUNG HA",
@@ -2264,14 +2309,18 @@
    "date": "2026-09-01T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-Chungha-single-mexico.webp",
    "url": "https://kpopofficial.com/album/chung-ha-mexico/",
-   "tracklist": [],
+   "tracklist": [
+    "México",
+    "Mexico (English Version)",
+    "México (Versión Español)"
+   ],
    "links": [
     "https://x.com/CH_CHUN9HA",
     "https://www.instagram.com/chungha.art/",
     "https://www.youtube.com/@CHUNGHA__Official",
     "https://www.tiktok.com/@chun9ha_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=8DGkR9LEB28"
+   "mv": "https://www.youtube.com/watch?v=ts7-qWkpKYA"
   },
   {
    "artist": "izna (JP)",
@@ -2897,6 +2946,44 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@xnghan.official",
     "https://www.youtube.com/@XngHan/releases"
+   ]
+  },
+  {
+   "artist": "KickFlip",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-06T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
+   "url": "https://kpopofficial.com/album/kickflip-comeback/",
+   "tracklist": [
+    "News",
+    "Soompi"
+   ],
+   "links": [
+    "https://x.com/kickflip_jype",
+    "https://www.instagram.com/kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype/releases"
+   ]
+  },
+  {
+   "artist": "MODYSSEY",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-08T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover2-MODYSSEY-Members.webp",
+   "url": "https://kpopofficial.com/album/modyssey-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MODYSSEYWORLD",
+    "https://www.instagram.com/modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official",
+    "https://www.tiktok.com/@modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official/releases"
    ]
   },
   {
