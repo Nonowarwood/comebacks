@@ -2285,7 +2285,7 @@
    "title": "HEAT",
    "titleTrack": "Like Fire",
    "date": "2026-09-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/82MAJOR-Members-Group-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/82MAJOR-HEAT-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/82major-heat/",
    "tracklist": [
     "Like Fire",
@@ -2307,7 +2307,7 @@
    "title": "México",
    "titleTrack": "México",
    "date": "2026-09-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-Chungha-single-mexico.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/CHUNG-HA-Mexico-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/chung-ha-mexico/",
    "tracklist": [
     "México",
@@ -2403,7 +2403,7 @@
     "https://www.youtube.com/@ICHILLIN",
     "https://www.tiktok.com/@ichillin_km"
    ],
-   "mv": "https://www.youtube.com/watch?v=2SkU72Hnj_8"
+   "mv": "https://www.youtube.com/watch?v=13-5CVYrKeI"
   },
   {
    "artist": "LISA (BLACKPINK)",
@@ -2439,15 +2439,15 @@
     "https://www.instagram.com/wearelloud/",
     "https://www.youtube.com/@wearelloud",
     "https://www.tiktok.com/@lalalalisa_m",
-    "https://www.tiktok.com/@wearelloud",
-    "https://www.youtube.com/@wearelloud/releases"
-   ]
+    "https://www.tiktok.com/@wearelloud"
+   ],
+   "mv": "https://www.youtube.com/watch?v=h-7_04c_hVc"
   },
   {
    "artist": "KWON EUNBI",
    "type": "Digital Single Album",
    "title": "DEJAVU",
-   "titleTrack": null,
+   "titleTrack": "DEJAVU",
    "date": "2026-09-03T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-KWON-EUNBI-DEJAVU.webp",
    "url": "https://kpopofficial.com/album/kwon-eunbi-dejavu/",
@@ -2459,7 +2459,7 @@
     "https://www.youtube.com/@kwoneungbi",
     "https://www.tiktok.com/@official_kwoneunbi"
    ],
-   "mv": "https://www.youtube.com/watch?v=QWRwZg_G470"
+   "mv": "https://www.youtube.com/watch?v=n10HapbXBWU"
   },
   {
    "artist": "TUNEXX",
@@ -2499,9 +2499,9 @@
     "https://www.instagram.com/official_monsta_x/",
     "https://www.youtube.com/@MONSTAX",
     "https://www.youtube.com/@STARSHIP_official",
-    "https://www.tiktok.com/@monsta_x_514",
-    "https://www.youtube.com/@MONSTAX/releases"
-   ]
+    "https://www.tiktok.com/@monsta_x_514"
+   ],
+   "mv": "https://www.youtube.com/watch?v=7sX67ATFGJI"
   },
   {
    "artist": "JISOO (BLACKPINK)",
@@ -2519,6 +2519,29 @@
     "https://www.youtube.com/@sooyaaa__",
     "https://www.tiktok.com/@jisoo"
    ]
+  },
+  {
+   "artist": "ASC2NT",
+   "type": "2nd Mini Album",
+   "title": "Still with you",
+   "titleTrack": "If l Die Tomorrow",
+   "date": "2026-09-04T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-ASC2NT-Still-with-you-Teaser.webp",
+   "url": "https://kpopofficial.com/album/asc2nt-still-with-you/",
+   "tracklist": [
+    "If l Die Tomorrow",
+    "Mile Lo",
+    "I’m Thinking ’bout Tomorrow",
+    "MORSE CODE",
+    "Green light, Yellow light, Red light"
+   ],
+   "links": [
+    "https://x.com/ASC2NT_OFFICIAL",
+    "https://www.instagram.com/asc2nt_official/",
+    "https://www.youtube.com/@asc2nt_official",
+    "https://www.tiktok.com/@asc2nt_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=A4RzC2-DqcI"
   },
   {
    "artist": "EVAN",
@@ -2594,7 +2617,7 @@
    "title": "끝내주는 인생 (What a Wonderful Life)",
    "titleTrack": "퇴사할게여",
    "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/idle-Soyeon.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Soyeon-idle-teaser.webp",
    "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
    "tracklist": [
     "퇴사할게여 (Narr. Kian84)",
@@ -2636,11 +2659,17 @@
    "artist": "D.O. (EXO)",
    "type": "4th Mini Album",
    "title": "DOPAMINE",
-   "titleTrack": null,
+   "titleTrack": "Guitarist",
    "date": "2026-09-08T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-DO-Album-DOPAMINE.webp",
    "url": "https://kpopofficial.com/album/do-dopamine/",
-   "tracklist": [],
+   "tracklist": [
+    "Sing It Loud",
+    "Dancing Party",
+    "Guitarist",
+    "Don’t You",
+    "Dear"
+   ],
    "links": [
     "https://x.com/DOHKYUNGSOO_X",
     "https://www.instagram.com/dohkyungsoo_offcl/",
@@ -2735,17 +2764,18 @@
    "title": "Made My Night",
    "titleTrack": null,
    "date": "2026-09-11T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/LE-SSERAFIM-Members-Group-Photo-2.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/LE-SSERAFIM-Teaser-2nd-Single-Album-Made-My-Night-.webp",
    "url": "https://kpopofficial.com/album/le-sserafim-made-my-night/",
    "tracklist": [],
    "links": [
     "https://x.com/le_sserafim",
+    "https://x.com/SOURCEMUSIC",
     "https://www.instagram.com/le_sserafim",
     "https://www.youtube.com/@LESSERAFIM_official",
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@le_sserafim"
    ],
-   "mv": "https://www.youtube.com/watch?v=OPgr9Gc5oZk"
+   "mv": "https://www.youtube.com/watch?v=N2vFFxl-cdg"
   },
   {
    "artist": "PENTAGON",
@@ -3003,6 +3033,44 @@
    ]
   },
   {
+   "artist": "MODYSSEY",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-09T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover2-MODYSSEY-Members.webp",
+   "url": "https://kpopofficial.com/album/modyssey-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MODYSSEYWORLD",
+    "https://www.instagram.com/modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official",
+    "https://www.tiktok.com/@modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official/releases"
+   ]
+  },
+  {
+   "artist": "KickFlip",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-11T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
+   "url": "https://kpopofficial.com/album/kickflip-comeback/",
+   "tracklist": [
+    "News",
+    "Soompi"
+   ],
+   "links": [
+    "https://x.com/kickflip_jype",
+    "https://www.instagram.com/kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype/releases"
+   ]
+  },
+  {
    "artist": "LISA (BLACKPINK)",
    "type": "EP",
    "title": "PRESS PLAY",
@@ -3017,9 +3085,9 @@
     "https://www.instagram.com/wearelloud/",
     "https://www.youtube.com/@wearelloud",
     "https://www.tiktok.com/@lalalalisa_m",
-    "https://www.tiktok.com/@wearelloud",
-    "https://www.youtube.com/@wearelloud/releases"
-   ]
+    "https://www.tiktok.com/@wearelloud"
+   ],
+   "mv": "https://www.youtube.com/watch?v=h-7_04c_hVc"
   }
  ]
 }
