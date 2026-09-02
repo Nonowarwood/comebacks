@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T16:34:34+00:00",
+ "generated": "2026-09-02T21:02:29+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -426,28 +426,6 @@
    "mv": "https://www.youtube.com/watch?v=n10HapbXBWU"
   },
   {
-   "artist": "DONGHAE (Super Junior)",
-   "type": "Digital Single Album",
-   "title": "A:LIVE",
-   "titleTrack": "BABY (feat. CHANELLE MOON of FIFTY FIFTY)\" \"V10",
-   "date": "2026-09-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-DONGHAE-Super-Junior.webp",
-   "url": "https://kpopofficial.com/album/donghae-a-live/",
-   "tracklist": [
-    "BABY (feat. CHANELLE MOON of FIFTY FIFTY)",
-    "V10",
-    "EYE CONTACT",
-    "BREATHING"
-   ],
-   "links": [
-    "https://x.com/SJ_DnE_official",
-    "https://www.instagram.com/superjunior_dne_official/",
-    "https://www.youtube.com/@SUPERJUNIORDnE",
-    "https://www.tiktok.com/@superjunior_dne",
-    "https://www.youtube.com/channel/UCmVWsAkEEwi8DYDMyi_RIlg"
-   ]
-  },
-  {
    "artist": "JISOO (BLACKPINK)",
    "type": "Single",
    "title": "CLICK",
@@ -462,7 +440,8 @@
     "https://www.instagram.com/blissoo_official/",
     "https://www.youtube.com/@sooyaaa__",
     "https://www.tiktok.com/@jisoo"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=LzgE8ift2Uw"
   },
   {
    "artist": "JISOO (BLACKPINK)",
@@ -479,7 +458,8 @@
     "https://www.instagram.com/blissoo_official/",
     "https://www.youtube.com/@sooyaaa__",
     "https://www.tiktok.com/@jisoo"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=LzgE8ift2Uw"
   },
   {
    "artist": "MONSTA X",
@@ -737,24 +717,6 @@
    ]
   },
   {
-   "artist": "Mark Lee",
-   "type": "Single",
-   "title": "My Friend",
-   "titleTrack": "My Friend",
-   "date": "2026-09-10T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Mark-Lee.webp",
-   "url": "https://kpopofficial.com/album/mark-lee-my-friend/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/upperroomlabel",
-    "https://www.instagram.com/onyourm__ark/",
-    "https://www.instagram.com/uprmlabel/",
-    "https://www.youtube.com/@UpperRoomLabel",
-    "https://www.tiktok.com/@mark.lee"
-   ],
-   "mv": "https://www.youtube.com/watch?v=DVrGllbZiUI"
-  },
-  {
    "artist": "LE SSERAFIM",
    "type": "2nd Single Album",
    "title": "Made My Night",
@@ -828,23 +790,6 @@
    "mv": "https://www.youtube.com/watch?v=ZDH3sHHSZ8o"
   },
   {
-   "artist": "NCV",
-   "type": "1st Mini Album",
-   "title": "ACHIEVE",
-   "titleTrack": null,
-   "date": "2026-09-26T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/NCHIVE-NCV-Members.webp",
-   "url": "https://kpopofficial.com/album/ncv-achieve/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/nchiveofficial",
-    "https://www.instagram.com/official_nchive",
-    "https://www.youtube.com/@NCHIVE",
-    "https://www.tiktok.com/@nchive_official",
-    "https://www.youtube.com/channel/UCol3tLvPJRtVZ0JHjsLuJhQ"
-   ]
-  },
-  {
    "artist": "BOYNEXTDOOR",
    "type": "Repackaged Album",
    "title": "HOME",
@@ -894,7 +839,7 @@
    "type": "Comeback",
    "title": null,
    "titleTrack": null,
-   "date": "2026-10-11T00:00:00+09:00",
+   "date": "2026-10-09T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover2-MODYSSEY-Members.webp",
    "url": "https://kpopofficial.com/album/modyssey-comeback/",
    "tracklist": [],
