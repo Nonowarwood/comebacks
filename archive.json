@@ -2328,7 +2328,7 @@
    "title": "HANDLE WITH CARE",
    "titleTrack": "Dumb Hot!",
    "date": "2026-09-02T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-izna-members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/izna-HANDLE-WITH-CARE-Album-cover.webp",
    "url": "https://kpopofficial.com/album/izna-handle-with-care/",
    "tracklist": [
     "Dumb Hot!",
@@ -2352,7 +2352,7 @@
    "title": "BLUE MODE",
    "titleTrack": "BLUE MODE",
    "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-TUNEXX-Members-for-BLUE-MODE.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-BLUE-MODE-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/tunexx-blue-mode/",
    "tracklist": [
     "SYNC UP",
@@ -2374,7 +2374,7 @@
    "title": "TiNG TiNG",
    "titleTrack": null,
    "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-UNCHILD-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-UNCHILD-Members.webp",
    "url": "https://kpopofficial.com/album/unchild-ting-ting/",
    "tracklist": [],
    "links": [
@@ -2391,7 +2391,7 @@
    "title": "Look At Me!",
    "titleTrack": "BANANA (Look At Me!)",
    "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ICHILLIN-J-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ICHILLIN-J-Look-At-Me-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/ichillin-j-look-at-me/",
    "tracklist": [
     "BANANA (Look At Me!)",
@@ -2702,6 +2702,34 @@
    ]
   },
   {
+   "artist": "Lim Young Woong",
+   "type": "Special Digital Album",
+   "title": "IM HERO 10",
+   "titleTrack": "또또",
+   "date": "2026-09-08T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-Lim-Young-Woong-IM-HERO-10.webp",
+   "url": "https://kpopofficial.com/album/lim-young-woong-im-hero-10/",
+   "tracklist": [
+    "모이저",
+    "Baila",
+    "토토",
+    "Please Be Happy (부디 행복해질 거)",
+    "Hate You (미워요) (Remake)",
+    "Grain of Sand (모래 알갱이) (Remake)",
+    "Love Always Runs Away (사랑은 늘 도망가) (Remake)",
+    "A Bientot (Remake)",
+    "For Us (살아온 우리에게)",
+    "New York"
+   ],
+   "links": [
+    "https://x.com/limyoungwoong",
+    "https://www.instagram.com/im_hero____/",
+    "https://www.instagram.com/limyoungwoong.official",
+    "https://www.youtube.com/@LYW_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=By9YTCbsK4g"
+  },
+  {
    "artist": "TUNEXX",
    "type": "2nd Mini Album",
    "title": null,
@@ -2745,6 +2773,23 @@
     "https://www.tiktok.com/@inaminute_official"
    ],
    "mv": "https://www.youtube.com/watch?v=1YAgqU1Xr_I"
+  },
+  {
+   "artist": "Y:SY",
+   "type": "1st Mini Album",
+   "title": "GOODIES",
+   "titleTrack": null,
+   "date": "2026-09-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-YSY-GOODIES-Teaser.webp",
+   "url": "https://kpopofficial.com/album/ysy-goodies/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/H1GHRMUSIC",
+    "https://www.instagram.com/im_theyeon",
+    "https://www.youtube.com/@YSY_Official",
+    "https://www.youtube.com/@H1GHRMUSICOFFICIAL",
+    "https://www.youtube.com/@YSY_Official/releases"
+   ]
   },
   {
    "artist": "TUNEXX",
@@ -3168,6 +3213,44 @@
    "title": null,
    "titleTrack": null,
    "date": "2026-10-12T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
+   "url": "https://kpopofficial.com/album/kickflip-comeback/",
+   "tracklist": [
+    "News",
+    "Soompi"
+   ],
+   "links": [
+    "https://x.com/kickflip_jype",
+    "https://www.instagram.com/kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype/releases"
+   ]
+  },
+  {
+   "artist": "MODYSSEY",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-14T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover2-MODYSSEY-Members.webp",
+   "url": "https://kpopofficial.com/album/modyssey-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MODYSSEYWORLD",
+    "https://www.instagram.com/modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official",
+    "https://www.tiktok.com/@modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official/releases"
+   ]
+  },
+  {
+   "artist": "KickFlip",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-15T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
    "url": "https://kpopofficial.com/album/kickflip-comeback/",
    "tracklist": [

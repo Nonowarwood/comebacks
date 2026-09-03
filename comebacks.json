@@ -1,7 +1,33 @@
 {
- "generated": "2026-09-02T21:02:29+00:00",
+ "generated": "2026-09-03T04:23:02+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
+  {
+   "artist": "ENHYPEN",
+   "type": "8th Mini Album",
+   "title": "THE SIN : BLISS",
+   "titleTrack": "Bloody Paradise",
+   "date": "2026-08-21T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS-Album-Cover-1.webp",
+   "url": "https://kpopofficial.com/album/enhypen-the-sin-bliss/",
+   "tracklist": [
+    "Two Fools",
+    "Stuck",
+    "Bad For You",
+    "Bloody Paradise – (Title)",
+    "Checkmate",
+    "Highlight"
+   ],
+   "links": [
+    "https://x.com/ENHYPEN",
+    "https://x.com/ENHYPEN_JP",
+    "https://www.instagram.com/enhypen/",
+    "https://www.youtube.com/@ENHYPENOFFICIAL",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@enhypen"
+   ],
+   "mv": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
+  },
   {
    "artist": "CORTIS",
    "type": "2nd EP",
@@ -28,70 +54,6 @@
     "https://www.tiktok.com/@cortis_bighit"
    ],
    "mv": "https://www.youtube.com/watch?v=OhdvNHmJDsw"
-  },
-  {
-   "artist": "JENNIE (BLACKPINK)",
-   "type": "Digital EP",
-   "title": "Fallen Angel",
-   "titleTrack": "FALLEN ANGEL",
-   "date": "2026-08-28T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JENNIE-Fallen-Angel-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/jennie-fallen-angel/",
-   "tracklist": [
-    "FALLEN ANGEL",
-    "HEAVEN",
-    "Less than a Lover"
-   ],
-   "links": [
-    "https://x.com/jennierubyjane",
-    "https://www.instagram.com/jennierubyjane",
-    "https://www.youtube.com/@jennierubyjane",
-    "https://www.tiktok.com/@jennierubyjane"
-   ],
-   "mv": "https://www.youtube.com/watch?v=s466YCiHfKw"
-  },
-  {
-   "artist": "iii",
-   "type": "Digital Single",
-   "title": "WaiT",
-   "titleTrack": "WaiT",
-   "date": "2026-08-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/iii-WaiT-Album-cover.webp",
-   "url": "https://kpopofficial.com/album/iii-wait/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/i_i_i_official",
-    "https://www.instagram.com/iii_bigocean.official",
-    "https://www.youtube.com/@iii_Official",
-    "https://www.tiktok.com/@iiiofficial"
-   ],
-   "mv": "https://www.youtube.com/watch?v=BCXGsumoMkQ"
-  },
-  {
-   "artist": "The Rose",
-   "type": "Album",
-   "title": "ROSE",
-   "titleTrack": null,
-   "date": "2026-08-30T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/The-Rose-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/the-rose-rose/",
-   "tracklist": [
-    "Threshold",
-    "Walking On Clouds",
-    "Utopia",
-    "Control",
-    "CHEMICAL",
-    "Truth",
-    "Blue Moon",
-    "Home"
-   ],
-   "links": [
-    "https://x.com/therose_0803",
-    "https://www.instagram.com/official_therose/",
-    "https://www.youtube.com/@theroseofficial",
-    "https://www.tiktok.com/@official.therose"
-   ],
-   "mv": "https://www.youtube.com/watch?v=videoseries"
   },
   {
    "artist": "INFINITE",
@@ -209,31 +171,7 @@
    "title": "HANDLE WITH CARE",
    "titleTrack": "Dumb Hot!",
    "date": "2026-09-02T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/izna-members-for-JAPAN-1st-MINI-ALBUM-HANDLE-WITH-CARE.webp",
-   "url": "https://kpopofficial.com/album/izna-handle-with-care/",
-   "tracklist": [
-    "Dumb Hot!",
-    "Headache",
-    "Izna (Japanese Ver.)",
-    "Sign (Japanese Ver.)",
-    "Mamma Mia (Japanese Ver.)"
-   ],
-   "links": [
-    "https://x.com/izna_offcl",
-    "https://x.com/izna_offcl_jp",
-    "https://www.instagram.com/izna_offcl",
-    "https://www.youtube.com/@izna_offcl",
-    "https://www.tiktok.com/@izna_offcl"
-   ],
-   "mv": "https://www.youtube.com/watch?v=TAxOdyU1XRw"
-  },
-  {
-   "artist": "izna (JP)",
-   "type": "JAPAN 1st Mini Album",
-   "title": "HANDLE WITH CARE",
-   "titleTrack": "Dumb Hot!",
-   "date": "2026-09-02T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/07/cover2-izna-members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/izna-HANDLE-WITH-CARE-Album-cover.webp",
    "url": "https://kpopofficial.com/album/izna-handle-with-care/",
    "tracklist": [
     "Dumb Hot!",
@@ -274,7 +212,7 @@
    "title": "Look At Me!",
    "titleTrack": "BANANA (Look At Me!)",
    "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-ICHILLIN-J-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ICHILLIN-J-Look-At-Me-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/ichillin-j-look-at-me/",
    "tracklist": [
     "BANANA (Look At Me!)",
@@ -294,7 +232,7 @@
    "title": "BLUE MODE",
    "titleTrack": "BLUE MODE",
    "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-TUNEXX-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUNEXX-BLUE-MODE-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/tunexx-blue-mode/",
    "tracklist": [
     "SYNC UP",
@@ -309,65 +247,6 @@
     "https://www.tiktok.com/@tunexx_official"
    ],
    "mv": "https://www.youtube.com/watch?v=7x5Apnkx6ec"
-  },
-  {
-   "artist": "TUNEXX",
-   "type": "2nd Mini Album",
-   "title": "BLUE MODE",
-   "titleTrack": "BLUE MODE",
-   "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-TUNEXX-Members-for-BLUE-MODE.webp",
-   "url": "https://kpopofficial.com/album/tunexx-blue-mode/",
-   "tracklist": [
-    "SYNC UP",
-    "BLUE MODE – (Title)",
-    "ANSWER",
-    "OVER X"
-   ],
-   "links": [
-    "https://x.com/TUNEXX_official",
-    "https://www.instagram.com/tunexx_official/",
-    "https://www.youtube.com/@official_TUNEXX",
-    "https://www.tiktok.com/@tunexx_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=7x5Apnkx6ec"
-  },
-  {
-   "artist": "ICHILLIN’ J",
-   "type": "1st Digital Single",
-   "title": "Look At Me!",
-   "titleTrack": "BANANA (Look At Me!)",
-   "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ICHILLIN-J-Members.webp",
-   "url": "https://kpopofficial.com/album/ichillin-j-look-at-me/",
-   "tracklist": [
-    "BANANA (Look At Me!)",
-    "Runaway"
-   ],
-   "links": [
-    "https://x.com/ichillin_km",
-    "https://www.instagram.com/ichillin_km/",
-    "https://www.youtube.com/@ICHILLIN",
-    "https://www.tiktok.com/@ichillin_km"
-   ],
-   "mv": "https://www.youtube.com/watch?v=C1ILOsm8Zmc"
-  },
-  {
-   "artist": "UNCHILD",
-   "type": "2nd Digital Single",
-   "title": "TiNG TiNG",
-   "titleTrack": null,
-   "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-UNCHILD-Members.webp",
-   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/officialUNCHILD",
-    "https://www.instagram.com/official_unchild",
-    "https://www.youtube.com/@official_unchild",
-    "https://www.tiktok.com/@official_unchild",
-    "https://www.youtube.com/@official_unchild/releases"
-   ]
   },
   {
    "artist": "LISA (BLACKPINK)",
@@ -413,6 +292,46 @@
    "title": "DEJAVU",
    "titleTrack": "DEJAVU",
    "date": "2026-09-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-KWON-EUNBI-DEJAVU.webp",
+   "url": "https://kpopofficial.com/album/kwon-eunbi-dejavu/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/kwoneunbi_offcl",
+    "https://www.instagram.com/silver_rain.__/",
+    "https://www.youtube.com/@KWONEUNBI_OFFICIAL",
+    "https://www.youtube.com/@kwoneungbi",
+    "https://www.tiktok.com/@official_kwoneunbi"
+   ],
+   "mv": "https://www.youtube.com/watch?v=n10HapbXBWU"
+  },
+  {
+   "artist": "DONGHAE (Super Junior)",
+   "type": "Digital Single Album",
+   "title": "A:LIVE",
+   "titleTrack": "BABY (feat. CHANELLE MOON of FIFTY FIFTY)\" \"V10",
+   "date": "2026-09-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-DONGHAE-Super-Junior.webp",
+   "url": "https://kpopofficial.com/album/donghae-a-live/",
+   "tracklist": [
+    "BABY (feat. CHANELLE MOON of FIFTY FIFTY)",
+    "V10",
+    "EYE CONTACT",
+    "BREATHING"
+   ],
+   "links": [
+    "https://x.com/SJ_DnE_official",
+    "https://www.instagram.com/superjunior_dne_official/",
+    "https://www.youtube.com/@SUPERJUNIORDnE",
+    "https://www.tiktok.com/@superjunior_dne",
+    "https://www.youtube.com/channel/UCmVWsAkEEwi8DYDMyi_RIlg"
+   ]
+  },
+  {
+   "artist": "KWON EUNBI",
+   "type": "Digital Single Album",
+   "title": "DEJAVU",
+   "titleTrack": "DEJAVU",
+   "date": "2026-09-03T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-KWON-EUNBI-DEJAVU.webp",
    "url": "https://kpopofficial.com/album/kwon-eunbi-dejavu/",
    "tracklist": [],
@@ -424,6 +343,28 @@
     "https://www.tiktok.com/@official_kwoneunbi"
    ],
    "mv": "https://www.youtube.com/watch?v=n10HapbXBWU"
+  },
+  {
+   "artist": "DONGHAE (Super Junior)",
+   "type": "Digital Single Album",
+   "title": "A:LIVE",
+   "titleTrack": "BABY (feat. CHANELLE MOON of FIFTY FIFTY)\" \"V10",
+   "date": "2026-09-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-DONGHAE-Super-Junior.webp",
+   "url": "https://kpopofficial.com/album/donghae-a-live/",
+   "tracklist": [
+    "BABY (feat. CHANELLE MOON of FIFTY FIFTY)",
+    "V10",
+    "EYE CONTACT",
+    "BREATHING"
+   ],
+   "links": [
+    "https://x.com/SJ_DnE_official",
+    "https://www.instagram.com/superjunior_dne_official/",
+    "https://www.youtube.com/@SUPERJUNIORDnE",
+    "https://www.tiktok.com/@superjunior_dne",
+    "https://www.youtube.com/channel/UCmVWsAkEEwi8DYDMyi_RIlg"
+   ]
   },
   {
    "artist": "JISOO (BLACKPINK)",
@@ -515,49 +456,6 @@
    "title": "끝내주는 인생 (What a Wonderful Life)",
    "titleTrack": "퇴사할게여",
    "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-Soyeon-idle-teaser.webp",
-   "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
-   "tracklist": [
-    "퇴사할게여 (Narr. Kian84)",
-    "Bankroll",
-    "IceBlueRabbit",
-    "Star",
-    "야채 싫어 송",
-    "Amigo (feat. 민수)",
-    "그냥 사랑하면 안 될까",
-    "낭만 보내기"
-   ],
-   "links": [
-    "https://x.com/official_i_dle",
-    "https://www.instagram.com/i_dle_official",
-    "https://www.youtube.com/@official_i_dle",
-    "https://www.tiktok.com/@official_i_dle"
-   ],
-   "mv": "https://www.youtube.com/watch?v=4W_Wy-DgGRs"
-  },
-  {
-   "artist": "VERIVERY",
-   "type": "8th Mini Album",
-   "title": "CONFETTI",
-   "titleTrack": "Don’t Panic!",
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-VERIVERY-Members-for-Album-CONFETTI.webp",
-   "url": "https://kpopofficial.com/album/verivery-confetti/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/the_verivery",
-    "https://www.instagram.com/the_verivery/",
-    "https://www.youtube.com/@VERIVERY",
-    "https://www.tiktok.com/@the_verivery"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Lu5dWFrYMO4"
-  },
-  {
-   "artist": "Soyeon (i-dle)",
-   "type": "1st Full Album",
-   "title": "끝내주는 인생 (What a Wonderful Life)",
-   "titleTrack": "퇴사할게여",
-   "date": "2026-09-07T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Soyeon-idle-teaser.webp",
    "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
    "tracklist": [
@@ -630,6 +528,23 @@
    ]
   },
   {
+   "artist": "VERIVERY",
+   "type": "8th Mini Album",
+   "title": "CONFETTI",
+   "titleTrack": "Don’t Panic!",
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-VERIVERY-Members-for-Album-CONFETTI.webp",
+   "url": "https://kpopofficial.com/album/verivery-confetti/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/the_verivery",
+    "https://www.instagram.com/the_verivery/",
+    "https://www.youtube.com/@VERIVERY",
+    "https://www.tiktok.com/@the_verivery"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Lu5dWFrYMO4"
+  },
+  {
    "artist": "D.O. (EXO)",
    "type": "4th Mini Album",
    "title": "DOPAMINE",
@@ -653,6 +568,34 @@
    ]
   },
   {
+   "artist": "Lim Young Woong",
+   "type": "Special Digital Album",
+   "title": "IM HERO 10",
+   "titleTrack": "또또",
+   "date": "2026-09-08T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-Lim-Young-Woong-IM-HERO-10.webp",
+   "url": "https://kpopofficial.com/album/lim-young-woong-im-hero-10/",
+   "tracklist": [
+    "모이저",
+    "Baila",
+    "토토",
+    "Please Be Happy (부디 행복해질 거)",
+    "Hate You (미워요) (Remake)",
+    "Grain of Sand (모래 알갱이) (Remake)",
+    "Love Always Runs Away (사랑은 늘 도망가) (Remake)",
+    "A Bientot (Remake)",
+    "For Us (살아온 우리에게)",
+    "New York"
+   ],
+   "links": [
+    "https://x.com/limyoungwoong",
+    "https://www.instagram.com/im_hero____/",
+    "https://www.instagram.com/limyoungwoong.official",
+    "https://www.youtube.com/@LYW_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=By9YTCbsK4g"
+  },
+  {
    "artist": "&TEAM (KR)",
    "type": "2nd Mini Album",
    "title": "Mark on Me",
@@ -669,6 +612,23 @@
     "https://www.tiktok.com/@andteam_official"
    ],
    "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
+  },
+  {
+   "artist": "Y:SY",
+   "type": "1st Mini Album",
+   "title": "GOODIES",
+   "titleTrack": null,
+   "date": "2026-09-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-YSY-GOODIES-Teaser.webp",
+   "url": "https://kpopofficial.com/album/ysy-goodies/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/H1GHRMUSIC",
+    "https://www.instagram.com/im_theyeon",
+    "https://www.youtube.com/@YSY_Official",
+    "https://www.youtube.com/@H1GHRMUSICOFFICIAL",
+    "https://www.youtube.com/@YSY_Official/releases"
+   ]
   },
   {
    "artist": "In A Minute",
@@ -699,6 +659,23 @@
    "mv": "https://www.youtube.com/watch?v=1YAgqU1Xr_I"
   },
   {
+   "artist": "Y:SY",
+   "type": "1st Mini Album",
+   "title": "GOODIES",
+   "titleTrack": null,
+   "date": "2026-09-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-YSY-GOODIES-Teaser.webp",
+   "url": "https://kpopofficial.com/album/ysy-goodies/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/H1GHRMUSIC",
+    "https://www.instagram.com/im_theyeon",
+    "https://www.youtube.com/@YSY_Official",
+    "https://www.youtube.com/@H1GHRMUSICOFFICIAL",
+    "https://www.youtube.com/@YSY_Official/releases"
+   ]
+  },
+  {
    "artist": "MCND",
    "type": "7th Mini Album",
    "title": "Devil Youth Club",
@@ -715,6 +692,24 @@
     "https://www.tiktok.com/@mcndofficial_",
     "https://www.youtube.com/@MCNDOfficial/releases"
    ]
+  },
+  {
+   "artist": "Mark Lee",
+   "type": "Single",
+   "title": "My Friend",
+   "titleTrack": "My Friend",
+   "date": "2026-09-10T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Mark-Lee.webp",
+   "url": "https://kpopofficial.com/album/mark-lee-my-friend/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/upperroomlabel",
+    "https://www.instagram.com/onyourm__ark/",
+    "https://www.instagram.com/uprmlabel/",
+    "https://www.youtube.com/@UpperRoomLabel",
+    "https://www.tiktok.com/@mark.lee"
+   ],
+   "mv": "https://www.youtube.com/watch?v=DVrGllbZiUI"
   },
   {
    "artist": "LE SSERAFIM",
@@ -771,6 +766,23 @@
    ]
   },
   {
+   "artist": "LEE CHANGSUB",
+   "type": "3rd Mini Album",
+   "title": "Lee;Make (Fragmenta Amoris)",
+   "titleTrack": null,
+   "date": "2026-09-15T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/10/Lee-Changsub-BTOB.webp",
+   "url": "https://kpopofficial.com/album/lee-changsub-lee-make-fragmenta-amoris/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/LeeCS_Official",
+    "https://www.instagram.com/lee_cs_btob",
+    "https://www.instagram.com/leecs_official/",
+    "https://www.youtube.com/@offclLEECHANGSUB"
+   ],
+   "mv": "https://www.youtube.com/watch?v=mCUTQHf6iL0"
+  },
+  {
    "artist": "ONEW (JP)",
    "type": "Japan 4th Single",
    "title": "KAKERA -運命のピース-",
@@ -788,6 +800,23 @@
     "https://www.tiktok.com/@onew_griffin"
    ],
    "mv": "https://www.youtube.com/watch?v=ZDH3sHHSZ8o"
+  },
+  {
+   "artist": "NCV",
+   "type": "1st Mini Album",
+   "title": "ACHIEVE",
+   "titleTrack": null,
+   "date": "2026-09-26T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/NCHIVE-NCV-Members.webp",
+   "url": "https://kpopofficial.com/album/ncv-achieve/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/nchiveofficial",
+    "https://www.instagram.com/official_nchive",
+    "https://www.youtube.com/@NCHIVE",
+    "https://www.tiktok.com/@nchive_official",
+    "https://www.youtube.com/channel/UCol3tLvPJRtVZ0JHjsLuJhQ"
+   ]
   },
   {
    "artist": "BOYNEXTDOOR",
@@ -839,7 +868,7 @@
    "type": "Comeback",
    "title": null,
    "titleTrack": null,
-   "date": "2026-10-09T00:00:00+09:00",
+   "date": "2026-10-14T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover2-MODYSSEY-Members.webp",
    "url": "https://kpopofficial.com/album/modyssey-comeback/",
    "tracklist": [],
@@ -856,7 +885,7 @@
    "type": "Comeback",
    "title": null,
    "titleTrack": null,
-   "date": "2026-10-11T00:00:00+09:00",
+   "date": "2026-10-15T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
    "url": "https://kpopofficial.com/album/kickflip-comeback/",
    "tracklist": [
@@ -871,6 +900,25 @@
     "https://www.tiktok.com/@kickflip_jype",
     "https://www.youtube.com/@kickflip_jype/releases"
    ]
+  },
+  {
+   "artist": "LISA (BLACKPINK)",
+   "type": "EP",
+   "title": "PRESS PLAY",
+   "titleTrack": null,
+   "date": "2026-10-23T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-LISA-EP-PRESS-PLAY.webp",
+   "url": "https://kpopofficial.com/album/lisa-press-play/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/wearelloud",
+    "https://www.instagram.com/lalalalisa_m/",
+    "https://www.instagram.com/wearelloud/",
+    "https://www.youtube.com/@wearelloud",
+    "https://www.tiktok.com/@lalalalisa_m",
+    "https://www.tiktok.com/@wearelloud"
+   ],
+   "mv": "https://www.youtube.com/watch?v=h-7_04c_hVc"
   },
   {
    "artist": "LISA (BLACKPINK)",
