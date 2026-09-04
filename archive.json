@@ -2449,7 +2449,7 @@
    "title": "DEJAVU",
    "titleTrack": "DEJAVU",
    "date": "2026-09-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-KWON-EUNBI-DEJAVU.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/KWON-EUNBI-DEJAVU-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/kwon-eunbi-dejavu/",
    "tracklist": [],
    "links": [
@@ -2467,7 +2467,7 @@
    "title": "A:LIVE",
    "titleTrack": "BABY (feat. CHANELLE MOON of FIFTY FIFTY)\" \"V10",
    "date": "2026-09-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-DONGHAE-Super-Junior.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Super-Junior-Donghae-A-LIVE-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/donghae-a-live/",
    "tracklist": [
     "BABY (feat. CHANELLE MOON of FIFTY FIFTY)",
@@ -2540,7 +2540,7 @@
     "https://www.tiktok.com/@lalalalisa_m",
     "https://www.tiktok.com/@wearelloud"
    ],
-   "mv": "https://www.youtube.com/watch?v=h-7_04c_hVc"
+   "mv": "https://www.youtube.com/watch?v=FyS5dAywkEo"
   },
   {
    "artist": "MONSTA X",
@@ -2583,7 +2583,7 @@
     "https://www.youtube.com/@sooyaaa__",
     "https://www.tiktok.com/@jisoo"
    ],
-   "mv": "https://www.youtube.com/watch?v=LzgE8ift2Uw"
+   "mv": "https://www.youtube.com/watch?v=sf02ugzPFE4"
   },
   {
    "artist": "ASC2NT",
@@ -2915,6 +2915,24 @@
    "mv": "https://www.youtube.com/watch?v=DVrGllbZiUI"
   },
   {
+   "artist": "IU",
+   "type": "Digital Single",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-09-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/IU-photo.webp",
+   "url": "https://kpopofficial.com/album/iu-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/_IUofficial",
+    "https://www.instagram.com/dlwlrma/",
+    "https://www.instagram.com/iu_edamofficial/",
+    "https://www.youtube.com/@dlwlrma",
+    "https://www.tiktok.com/@_iuofficial"
+   ],
+   "mv": "https://www.youtube.com/watch?v=ZwepBCcTqBM"
+  },
+  {
    "artist": "LE SSERAFIM",
    "type": "2nd Single Album",
    "title": "Made My Night",
@@ -3145,7 +3163,7 @@
    "title": "HOME",
    "titleTrack": null,
    "date": "2026-09-28T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-BOYNEXTDOOR-Members-for-1st-Studio-Album-HOME.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-BOYNEXTDOOR-Members-for-1st-Studio-Album-HOME.webp",
    "url": "https://kpopofficial.com/album/boynextdoor-home-repackaged/",
    "tracklist": [],
    "links": []
@@ -3181,6 +3199,25 @@
     "https://www.youtube.com/@MINZYTV",
     "https://www.tiktok.com/@_minzy_mz"
    ]
+  },
+  {
+   "artist": "ONEW (SHINee)",
+   "type": "1st Single Album",
+   "title": "착각",
+   "titleTrack": null,
+   "date": "2026-09-29T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-ONEW-Comeback.webp",
+   "url": "https://kpopofficial.com/album/onew-1st-title-track-release/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ONEW_GRIFFIN",
+    "https://x.com/ONEW_JAPAN",
+    "https://www.instagram.com/dlstmxkakwldrl/",
+    "https://www.instagram.com/onew_griffin",
+    "https://www.youtube.com/@ONEW_GRIFFIN",
+    "https://www.tiktok.com/@onew_griffin"
+   ],
+   "mv": "https://www.youtube.com/watch?v=T4gzREOrYLU"
   },
   {
    "artist": "XngHan&Xoul (JP)",
@@ -3220,6 +3257,25 @@
     "https://www.tiktok.com/@kickflip_jype",
     "https://www.youtube.com/@kickflip_jype/releases"
    ]
+  },
+  {
+   "artist": "ONEW (SHINee)",
+   "type": "1st Single Album",
+   "title": "착각",
+   "titleTrack": null,
+   "date": "2026-10-07T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-ONEW-Comeback.webp",
+   "url": "https://kpopofficial.com/album/onew-2nd-title-track-release/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ONEW_GRIFFIN",
+    "https://x.com/ONEW_JAPAN",
+    "https://www.instagram.com/dlstmxkakwldrl/",
+    "https://www.instagram.com/onew_griffin",
+    "https://www.youtube.com/@ONEW_GRIFFIN",
+    "https://www.tiktok.com/@onew_griffin"
+   ],
+   "mv": "https://www.youtube.com/watch?v=T4gzREOrYLU"
   },
   {
    "artist": "MODYSSEY",
@@ -3435,6 +3491,46 @@
     "https://www.tiktok.com/@kickflip_jype",
     "https://www.youtube.com/@kickflip_jype/releases"
    ]
+  },
+  {
+   "artist": "KickFlip",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-19T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
+   "url": "https://kpopofficial.com/album/kickflip-comeback/",
+   "tracklist": [
+    "News",
+    "Soompi"
+   ],
+   "links": [
+    "https://x.com/kickflip_jype",
+    "https://www.instagram.com/kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype/releases"
+   ]
+  },
+  {
+   "artist": "ONEW (SHINee)",
+   "type": "1st Single Album",
+   "title": "착각",
+   "titleTrack": null,
+   "date": "2026-10-20T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-ONEW-Comeback.webp",
+   "url": "https://kpopofficial.com/album/onew-chakgak/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ONEW_GRIFFIN",
+    "https://x.com/ONEW_JAPAN",
+    "https://www.instagram.com/dlstmxkakwldrl/",
+    "https://www.instagram.com/onew_griffin",
+    "https://www.youtube.com/@ONEW_GRIFFIN",
+    "https://www.tiktok.com/@onew_griffin"
+   ],
+   "mv": "https://www.youtube.com/watch?v=T4gzREOrYLU"
   },
   {
    "artist": "LISA (BLACKPINK)",
