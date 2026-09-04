@@ -2449,7 +2449,7 @@
    "title": "DEJAVU",
    "titleTrack": "DEJAVU",
    "date": "2026-09-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-KWON-EUNBI-DEJAVU.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/KWON-EUNBI-DEJAVU-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/kwon-eunbi-dejavu/",
    "tracklist": [],
    "links": [
@@ -2467,7 +2467,7 @@
    "title": "A:LIVE",
    "titleTrack": "BABY (feat. CHANELLE MOON of FIFTY FIFTY)\" \"V10",
    "date": "2026-09-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-DONGHAE-Super-Junior.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Super-Junior-Donghae-A-LIVE-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/donghae-a-live/",
    "tracklist": [
     "BABY (feat. CHANELLE MOON of FIFTY FIFTY)",
@@ -3163,7 +3163,7 @@
    "title": "HOME",
    "titleTrack": null,
    "date": "2026-09-28T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-BOYNEXTDOOR-Members-for-1st-Studio-Album-HOME.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-BOYNEXTDOOR-Members-for-1st-Studio-Album-HOME.webp",
    "url": "https://kpopofficial.com/album/boynextdoor-home-repackaged/",
    "tracklist": [],
    "links": []
@@ -3451,6 +3451,23 @@
    ]
   },
   {
+   "artist": "MODYSSEY",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-15T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover2-MODYSSEY-Members.webp",
+   "url": "https://kpopofficial.com/album/modyssey-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MODYSSEYWORLD",
+    "https://www.instagram.com/modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official",
+    "https://www.tiktok.com/@modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official/releases"
+   ]
+  },
+  {
    "artist": "KickFlip",
    "type": "Comeback",
    "title": null,
@@ -3531,6 +3548,27 @@
     "https://www.tiktok.com/@onew_griffin"
    ],
    "mv": "https://www.youtube.com/watch?v=T4gzREOrYLU"
+  },
+  {
+   "artist": "KickFlip",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-20T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
+   "url": "https://kpopofficial.com/album/kickflip-comeback/",
+   "tracklist": [
+    "News",
+    "Soompi"
+   ],
+   "links": [
+    "https://x.com/kickflip_jype",
+    "https://www.instagram.com/kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype/releases"
+   ]
   },
   {
    "artist": "LISA (BLACKPINK)",
