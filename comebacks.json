@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T04:26:52+00:00",
+ "generated": "2026-09-05T10:33:54+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -57,26 +57,6 @@
     "https://www.tiktok.com/@taemin_xoalsox_"
    ],
    "mv": "https://www.youtube.com/watch?v=q4TWrmwiufo"
-  },
-  {
-   "artist": "HyoriSoo (Girls’ Generation-HRS)",
-   "type": "Debut Single",
-   "title": "Skibidi",
-   "titleTrack": "Skibidi",
-   "date": "2026-08-31T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Girls-Generation-HRS-Skibidi.webp",
-   "url": "https://kpopofficial.com/album/girls-generation-hrs-skibidi/",
-   "tracklist": [
-    "Skibidi – (Title)",
-    "Lowkey In Love"
-   ],
-   "links": [
-    "https://x.com/GirlsGeneration",
-    "https://www.instagram.com/girlsgeneration/",
-    "https://www.youtube.com/@GIRLSGENERATION",
-    "https://www.tiktok.com/@girlsgeneration.official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=oAwzFFEYm38"
   },
   {
    "artist": "CHUNG HA",
@@ -425,6 +405,24 @@
    "mv": "https://www.youtube.com/watch?v=Lu5dWFrYMO4"
   },
   {
+   "artist": "&TEAM (KR)",
+   "type": "2nd Mini Album",
+   "title": "Mark on Me",
+   "titleTrack": null,
+   "date": "2026-09-08T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ANDTEAM-KR-2nd-Mini-Album-Mark-on-Me.webp",
+   "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/andTEAMofficial",
+    "https://www.instagram.com/andteam_official",
+    "https://www.youtube.com/@andTEAM_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@andteam_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
+  },
+  {
    "artist": "D.O. (EXO)",
    "type": "4th Mini Album",
    "title": "DOPAMINE",
@@ -474,24 +472,6 @@
     "https://www.youtube.com/@LYW_official"
    ],
    "mv": "https://www.youtube.com/watch?v=By9YTCbsK4g"
-  },
-  {
-   "artist": "&TEAM (KR)",
-   "type": "2nd Mini Album",
-   "title": "Mark on Me",
-   "titleTrack": null,
-   "date": "2026-09-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ANDTEAM-KR-2nd-Mini-Album-Mark-on-Me.webp",
-   "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/andTEAMofficial",
-    "https://www.instagram.com/andteam_official",
-    "https://www.youtube.com/@andTEAM_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@andteam_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
   },
   {
    "artist": "Y:SY",
