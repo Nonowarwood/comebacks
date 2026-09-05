@@ -2529,7 +2529,7 @@
    "title": "PRESS PLAY",
    "titleTrack": "SaWaDiKa",
    "date": "2026-09-04T09:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Lisa-SaWaDiKa.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/LISA-SaWaDiKa-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/lisa-sawadika/",
    "tracklist": [],
    "links": [
@@ -2548,7 +2548,7 @@
    "title": "The Phase",
    "titleTrack": "MAGIC",
    "date": "2026-09-04T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MONSTA-X-The-Phase.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MONSTA-X-The-Phase-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/monsta-x-the-phase/",
    "tracklist": [
     "MAGIC – (Title)",
@@ -2573,7 +2573,7 @@
    "title": "CLICK",
    "titleTrack": "CLICK",
    "date": "2026-09-04T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-JISOO-Click-Teaser2.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JISOO-CLICK-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/jisoo-click/",
    "tracklist": [],
    "links": [
@@ -2591,7 +2591,7 @@
    "title": "Still with you",
    "titleTrack": "If l Die Tomorrow",
    "date": "2026-09-04T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-ASC2NT-Still-with-you-Teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/ASC2NT-Still-with-you-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/asc2nt-still-with-you/",
    "tracklist": [
     "If l Die Tomorrow",
@@ -3489,6 +3489,23 @@
    ]
   },
   {
+   "artist": "MODYSSEY",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-17T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover2-MODYSSEY-Members.webp",
+   "url": "https://kpopofficial.com/album/modyssey-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MODYSSEYWORLD",
+    "https://www.instagram.com/modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official",
+    "https://www.tiktok.com/@modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official/releases"
+   ]
+  },
+  {
    "artist": "KickFlip",
    "type": "Comeback",
    "title": null,
@@ -3555,6 +3572,27 @@
    "title": null,
    "titleTrack": null,
    "date": "2026-10-20T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
+   "url": "https://kpopofficial.com/album/kickflip-comeback/",
+   "tracklist": [
+    "News",
+    "Soompi"
+   ],
+   "links": [
+    "https://x.com/kickflip_jype",
+    "https://www.instagram.com/kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype/releases"
+   ]
+  },
+  {
+   "artist": "KickFlip",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-22T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
    "url": "https://kpopofficial.com/album/kickflip-comeback/",
    "tracklist": [
