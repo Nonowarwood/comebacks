@@ -1,7 +1,31 @@
 {
- "generated": "2026-09-05T10:33:54+00:00",
+ "generated": "2026-09-05T15:12:45+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
+  {
+   "artist": "TUIDE",
+   "type": "1st EP",
+   "title": "TUNE & PLAY",
+   "titleTrack": "SUN KISS",
+   "date": "2026-08-24T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/TUIDE-TUNE-PLAY-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/tuide-tune-and-play/",
+   "tracklist": [
+    "ABD",
+    "SUN KISS – (Title)",
+    "Echo",
+    "Flip-Flop Girl",
+    "GRLS"
+   ],
+   "links": [
+    "https://x.com/TUIDE_official",
+    "https://www.instagram.com/tuide_abd",
+    "https://www.youtube.com/@TUIDE_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tuide_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=46h0LvDHgIs"
+  },
   {
    "artist": "The Rose",
    "type": "Album",
@@ -57,6 +81,26 @@
     "https://www.tiktok.com/@taemin_xoalsox_"
    ],
    "mv": "https://www.youtube.com/watch?v=q4TWrmwiufo"
+  },
+  {
+   "artist": "HyoriSoo (Girls’ Generation-HRS)",
+   "type": "Debut Single",
+   "title": "Skibidi",
+   "titleTrack": "Skibidi",
+   "date": "2026-08-31T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Girls-Generation-HRS-Skibidi.webp",
+   "url": "https://kpopofficial.com/album/girls-generation-hrs-skibidi/",
+   "tracklist": [
+    "Skibidi – (Title)",
+    "Lowkey In Love"
+   ],
+   "links": [
+    "https://x.com/GirlsGeneration",
+    "https://www.instagram.com/girlsgeneration/",
+    "https://www.youtube.com/@GIRLSGENERATION",
+    "https://www.tiktok.com/@girlsgeneration.official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=oAwzFFEYm38"
   },
   {
    "artist": "CHUNG HA",
@@ -309,6 +353,32 @@
     "https://www.tiktok.com/@asc2nt_official"
    ],
    "mv": "https://www.youtube.com/watch?v=7rcEjMns6xI"
+  },
+  {
+   "artist": "Soyeon (i-dle)",
+   "type": "1st Full Album",
+   "title": "끝내주는 인생 (What a Wonderful Life)",
+   "titleTrack": "퇴사할게여",
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-Soyeon-idle-teaser.webp",
+   "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
+   "tracklist": [
+    "퇴사할게여 (Narr. Kian84)",
+    "Bankroll",
+    "IceBlueRabbit",
+    "Star",
+    "야채 싫어 송",
+    "Amigo (feat. 민수)",
+    "그냥 사랑하면 안 될까",
+    "낭만 보내기"
+   ],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=4W_Wy-DgGRs"
   },
   {
    "artist": "Soyeon (i-dle)",
@@ -783,7 +853,7 @@
    "type": "Comeback",
    "title": null,
    "titleTrack": null,
-   "date": "2026-10-17T00:00:00+09:00",
+   "date": "2026-10-18T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover2-MODYSSEY-Members.webp",
    "url": "https://kpopofficial.com/album/modyssey-comeback/",
    "tracklist": [],
