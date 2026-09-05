@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T15:12:45+00:00",
+ "generated": "2026-09-05T20:19:37+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -381,32 +381,6 @@
    "mv": "https://www.youtube.com/watch?v=4W_Wy-DgGRs"
   },
   {
-   "artist": "Soyeon (i-dle)",
-   "type": "1st Full Album",
-   "title": "끝내주는 인생 (What a Wonderful Life)",
-   "titleTrack": "퇴사할게여",
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Soyeon-idle-teaser.webp",
-   "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
-   "tracklist": [
-    "퇴사할게여 (Narr. Kian84)",
-    "Bankroll",
-    "IceBlueRabbit",
-    "Star",
-    "야채 싫어 송",
-    "Amigo (feat. 민수)",
-    "그냥 사랑하면 안 될까",
-    "낭만 보내기"
-   ],
-   "links": [
-    "https://x.com/official_i_dle",
-    "https://www.instagram.com/i_dle_official",
-    "https://www.youtube.com/@official_i_dle",
-    "https://www.tiktok.com/@official_i_dle"
-   ],
-   "mv": "https://www.youtube.com/watch?v=4W_Wy-DgGRs"
-  },
-  {
    "artist": "MINHO (SHINee)",
    "type": "2nd Mini Album",
    "title": "Make it hot",
@@ -475,22 +449,30 @@
    "mv": "https://www.youtube.com/watch?v=Lu5dWFrYMO4"
   },
   {
-   "artist": "&TEAM (KR)",
-   "type": "2nd Mini Album",
-   "title": "Mark on Me",
-   "titleTrack": null,
-   "date": "2026-09-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ANDTEAM-KR-2nd-Mini-Album-Mark-on-Me.webp",
-   "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/andTEAMofficial",
-    "https://www.instagram.com/andteam_official",
-    "https://www.youtube.com/@andTEAM_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@andteam_official"
+   "artist": "Soyeon (i-dle)",
+   "type": "1st Full Album",
+   "title": "끝내주는 인생 (What a Wonderful Life)",
+   "titleTrack": "퇴사할게여",
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Soyeon-idle-teaser.webp",
+   "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
+   "tracklist": [
+    "퇴사할게여 (Narr. Kian84)",
+    "Bankroll",
+    "IceBlueRabbit",
+    "Star",
+    "야채 싫어 송",
+    "Amigo (feat. 민수)",
+    "그냥 사랑하면 안 될까",
+    "낭만 보내기"
    ],
-   "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=4W_Wy-DgGRs"
   },
   {
    "artist": "D.O. (EXO)",
@@ -542,6 +524,24 @@
     "https://www.youtube.com/@LYW_official"
    ],
    "mv": "https://www.youtube.com/watch?v=By9YTCbsK4g"
+  },
+  {
+   "artist": "&TEAM (KR)",
+   "type": "2nd Mini Album",
+   "title": "Mark on Me",
+   "titleTrack": null,
+   "date": "2026-09-08T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ANDTEAM-KR-2nd-Mini-Album-Mark-on-Me.webp",
+   "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/andTEAMofficial",
+    "https://www.instagram.com/andteam_official",
+    "https://www.youtube.com/@andTEAM_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@andteam_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
   },
   {
    "artist": "Y:SY",
