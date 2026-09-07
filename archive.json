@@ -2630,9 +2630,10 @@
     "https://x.com/h_evva_n",
     "https://www.instagram.com/h_evva_n/",
     "https://www.youtube.com/@h_evva_n",
+    "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@h_evva_n"
    ],
-   "mv": "https://www.youtube.com/watch?v=MFs8rk9NeCI"
+   "mv": "https://www.youtube.com/watch?v=iNMvUYjaieA"
   },
   {
    "artist": "VERIVERY",
@@ -2642,14 +2643,20 @@
    "date": "2026-09-07T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-VERIVERY-Members-for-Album-CONFETTI.webp",
    "url": "https://kpopofficial.com/album/verivery-confetti/",
-   "tracklist": [],
+   "tracklist": [
+    "Way to Zero",
+    "Don’t Panic!",
+    "DRAMA",
+    "Touch (Y2K Unit)",
+    "Eye Contact (DYG Unit)"
+   ],
    "links": [
     "https://x.com/the_verivery",
     "https://www.instagram.com/the_verivery/",
     "https://www.youtube.com/@VERIVERY",
     "https://www.tiktok.com/@the_verivery"
    ],
-   "mv": "https://www.youtube.com/watch?v=Lu5dWFrYMO4"
+   "mv": "https://www.youtube.com/watch?v=58qUa2d8erc"
   },
   {
    "artist": "MINHO (SHINee)",
@@ -2672,9 +2679,9 @@
     "https://www.instagram.com/shinee",
     "https://www.youtube.com/@SHINee",
     "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@shinee_official",
-    "https://www.youtube.com/channel/UC0JAQy39_dU5wEaIUPgRI7g"
-   ]
+    "https://www.tiktok.com/@shinee_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=7SI019urRx0"
   },
   {
    "artist": "Soyeon (i-dle)",
@@ -2701,6 +2708,32 @@
     "https://www.tiktok.com/@official_i_dle"
    ],
    "mv": "https://www.youtube.com/watch?v=4W_Wy-DgGRs"
+  },
+  {
+   "artist": "SOYEON (i-dle)",
+   "type": "1st Full Album",
+   "title": "What a Wonderful Life",
+   "titleTrack": "I’m gonna TOESA",
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Soyeon-idle-teaser.webp",
+   "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
+   "tracklist": [
+    "I’m gonna TOESA (Narr. Kian84)",
+    "Bankroll",
+    "icebluerabbit",
+    "STAR",
+    "Hate veggie song",
+    "Amigo (feat. Minsu)",
+    "Would you love me",
+    "Goodbye, Romance"
+   ],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=7mDDM0eBWR0"
   },
   {
    "artist": "Lim Young Woong",
@@ -2734,11 +2767,18 @@
    "artist": "&TEAM (KR)",
    "type": "2nd Mini Album",
    "title": "Mark on Me",
-   "titleTrack": null,
+   "titleTrack": "Mark on Me",
    "date": "2026-09-08T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ANDTEAM-KR-2nd-Mini-Album-Mark-on-Me.webp",
    "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
-   "tracklist": [],
+   "tracklist": [
+    "Mark on Me",
+    "Good Boy",
+    "Love Jang",
+    "Accelerate",
+    "Empty",
+    "Night to Howl!"
+   ],
    "links": [
     "https://x.com/andTEAMofficial",
     "https://www.instagram.com/andteam_official",
@@ -2767,9 +2807,9 @@
     "https://x.com/DOHKYUNGSOO_X",
     "https://www.instagram.com/dohkyungsoo_offcl/",
     "https://www.instagram.com/d.o.hkyungsoo/",
-    "https://www.youtube.com/@DOHKYUNGSOO_offcl",
-    "https://www.youtube.com/@DOHKYUNGSOO_offcl/releases"
-   ]
+    "https://www.youtube.com/@DOHKYUNGSOO_offcl"
+   ],
+   "mv": "https://www.youtube.com/watch?v=zOKPwAqwKUY"
   },
   {
    "artist": "Lim Young Woong",
@@ -2797,7 +2837,7 @@
     "https://www.instagram.com/limyoungwoong.official",
     "https://www.youtube.com/@LYW_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=By9YTCbsK4g"
+   "mv": "https://www.youtube.com/watch?v=d6rrtRhN9YM"
   },
   {
    "artist": "TUNEXX",
@@ -2842,7 +2882,7 @@
     "https://www.youtube.com/@Official_InAMinute",
     "https://www.tiktok.com/@inaminute_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=1YAgqU1Xr_I"
+   "mv": "https://www.youtube.com/watch?v=qBhhpLuqHEE"
   },
   {
    "artist": "Y:SY",
@@ -2882,19 +2922,24 @@
    "artist": "MCND",
    "type": "7th Mini Album",
    "title": "Devil Youth Club",
-   "titleTrack": null,
+   "titleTrack": "Devil Youth Club",
    "date": "2026-09-10T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MCND-Members-for-Devil-Youth-Club.webp",
    "url": "https://kpopofficial.com/album/mcnd-devil-youth-club/",
-   "tracklist": [],
+   "tracklist": [
+    "Devil Youth Club",
+    "Beat Don’t Stop",
+    "Hot stuff",
+    "She Got That"
+   ],
    "links": [
     "https://x.com/McndOfficial_",
     "https://www.instagram.com/mcnd_official/",
     "https://www.youtube.com/@MCNDOfficial",
     "https://www.youtube.com/@TOPmediaStar",
-    "https://www.tiktok.com/@mcndofficial_",
-    "https://www.youtube.com/@MCNDOfficial/releases"
-   ]
+    "https://www.tiktok.com/@mcndofficial_"
+   ],
+   "mv": "https://www.youtube.com/watch?v=mBnhkaNBC9c"
   },
   {
    "artist": "Mark Lee",
@@ -2902,7 +2947,7 @@
    "title": "My Friend",
    "titleTrack": "My Friend",
    "date": "2026-09-10T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Mark-Lee.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Mark-Lee-Single-My-Friend.webp",
    "url": "https://kpopofficial.com/album/mark-lee-my-friend/",
    "tracklist": [],
    "links": [
@@ -2931,6 +2976,51 @@
     "https://www.tiktok.com/@_iuofficial"
    ],
    "mv": "https://www.youtube.com/watch?v=ZwepBCcTqBM"
+  },
+  {
+   "artist": "IU",
+   "type": "Digital Single",
+   "title": "Unknown Planet",
+   "titleTrack": "Dear my crazy soulmate",
+   "date": "2026-09-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/IU-photo.webp",
+   "url": "https://kpopofficial.com/album/iu-unknown-planet/",
+   "tracklist": [
+    "Dear my crazy soulmate",
+    "이 별로부터 (Unknown Planet)"
+   ],
+   "links": [
+    "https://x.com/_IUofficial",
+    "https://www.instagram.com/dlwlrma/",
+    "https://www.instagram.com/iu_edamofficial/",
+    "https://www.youtube.com/@dlwlrma",
+    "https://www.tiktok.com/@_iuofficial"
+   ],
+   "mv": "https://www.youtube.com/watch?v=ZwepBCcTqBM"
+  },
+  {
+   "artist": "ALL(H)OURS",
+   "type": "6th Mini Album",
+   "title": "UNBOUND",
+   "titleTrack": "DANG DANG",
+   "date": "2026-09-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/ALLHOURS-UNBOUND-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/all-hours-unbound/",
+   "tracklist": [
+    "HOP",
+    "DANG DANG",
+    "Only Me",
+    "S!REN",
+    "헤엄",
+    "VIVA"
+   ],
+   "links": [
+    "https://x.com/ALL_H_OURS",
+    "https://www.instagram.com/all_h_ours",
+    "https://www.youtube.com/@ALL_H_OURS",
+    "https://www.tiktok.com/@ALL_H_OURS"
+   ],
+   "mv": "https://www.youtube.com/watch?v=fX4HdLsDgIM"
   },
   {
    "artist": "LE SSERAFIM",
@@ -3201,6 +3291,44 @@
    ]
   },
   {
+   "artist": "MINZY (2NE1)",
+   "type": "Single",
+   "title": "Calling",
+   "titleTrack": "Calling",
+   "date": "2026-09-28T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-MINZY-2NE1.webp",
+   "url": "https://kpopofficial.com/album/minzy-calling/",
+   "tracklist": [
+    "Calling",
+    "Calling (Eng Ver.)",
+    "We Almost Were"
+   ],
+   "links": [
+    "https://x.com/mingkki21",
+    "https://www.instagram.com/_minzy_mz/",
+    "https://www.youtube.com/@MINZYTV",
+    "https://www.tiktok.com/@_minzy_mz"
+   ]
+  },
+  {
+   "artist": "KickFlip",
+   "type": "5th Mini Album",
+   "title": "KICK OFF THE WALL Pt. 1",
+   "titleTrack": null,
+   "date": "2026-09-28T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
+   "url": "https://kpopofficial.com/album/kickflip-pre-release/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/kickflip_jype",
+    "https://www.instagram.com/kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype/releases"
+   ]
+  },
+  {
    "artist": "ONEW (SHINee)",
    "type": "1st Single Album",
    "title": "착각",
@@ -3249,6 +3377,24 @@
     "News",
     "Soompi"
    ],
+   "links": [
+    "https://x.com/kickflip_jype",
+    "https://www.instagram.com/kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype/releases"
+   ]
+  },
+  {
+   "artist": "KickFlip",
+   "type": "5th Mini Album",
+   "title": "KICK OFF THE WALL Pt. 1",
+   "titleTrack": null,
+   "date": "2026-10-06T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
+   "url": "https://kpopofficial.com/album/kickflip-kick-off-the-wall-pt-1/",
+   "tracklist": [],
    "links": [
     "https://x.com/kickflip_jype",
     "https://www.instagram.com/kickflip_jype",
@@ -3368,6 +3514,25 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@kickflip_jype",
     "https://www.youtube.com/@kickflip_jype/releases"
+   ]
+  },
+  {
+   "artist": "Sung Han Bin (ZEROBASEONE)",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-12T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-ZEROBASEONE-Sung-Han-Bin.webp",
+   "url": "https://kpopofficial.com/album/sung-han-bin-solo-debut/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/THEL1VE_LABEL",
+    "https://x.com/sunghanbin_twt",
+    "https://www.instagram.com/sunghanbin_official",
+    "https://www.instagram.com/sunghan._.bin/",
+    "https://www.youtube.com/@sunghanbin",
+    "https://www.youtube.com/@THEL1VE",
+    "https://www.youtube.com/channel/UCl343UM43s_kO0LqVmevwMQ"
    ]
   },
   {
@@ -3660,6 +3825,23 @@
     "https://www.tiktok.com/@wearelloud"
    ],
    "mv": "https://www.youtube.com/watch?v=FyS5dAywkEo"
+  },
+  {
+   "artist": "MODYSSEY",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-23T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover2-MODYSSEY-Members.webp",
+   "url": "https://kpopofficial.com/album/modyssey-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MODYSSEYWORLD",
+    "https://www.instagram.com/modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official",
+    "https://www.tiktok.com/@modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official/releases"
+   ]
   },
   {
    "artist": "KickFlip",
