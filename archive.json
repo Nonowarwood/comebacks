@@ -2741,7 +2741,7 @@
    "title": "IM HERO 10",
    "titleTrack": "또또",
    "date": "2026-09-08T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Lim-Young-Woong-IM-HERO-10-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-Lim-Young-Woong-IM-HERO-10.webp",
    "url": "https://kpopofficial.com/album/lim-young-woong-im-hero-10/",
    "tracklist": [
     "모이저",
@@ -2769,7 +2769,7 @@
    "title": "Mark on Me",
    "titleTrack": "Mark on Me",
    "date": "2026-09-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/AndTeam-Mark-on-Me-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ANDTEAM-KR-2nd-Mini-Album-Mark-on-Me.webp",
    "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
    "tracklist": [
     "Mark on Me",
@@ -2794,7 +2794,7 @@
    "title": "DOPAMINE",
    "titleTrack": "Guitarist",
    "date": "2026-09-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/EXO-DO-Dopamine-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-DO-Album-DOPAMINE.webp",
    "url": "https://kpopofficial.com/album/do-dopamine/",
    "tracklist": [
     "Sing It Loud",
@@ -2888,18 +2888,23 @@
    "artist": "Y:SY",
    "type": "1st Mini Album",
    "title": "GOODIES",
-   "titleTrack": null,
+   "titleTrack": "ENERGY\" \"LANGUAGE",
    "date": "2026-09-09T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-YSY-GOODIES-Teaser.webp",
    "url": "https://kpopofficial.com/album/ysy-goodies/",
-   "tracklist": [],
+   "tracklist": [
+    "My Blanket",
+    "LANGUAGE – (Title)",
+    "ENERGY – (Title)",
+    "Stay Beautiful"
+   ],
    "links": [
     "https://x.com/H1GHRMUSIC",
     "https://www.instagram.com/im_theyeon",
     "https://www.youtube.com/@YSY_Official",
-    "https://www.youtube.com/@H1GHRMUSICOFFICIAL",
-    "https://www.youtube.com/@YSY_Official/releases"
-   ]
+    "https://www.youtube.com/@H1GHRMUSICOFFICIAL"
+   ],
+   "mv": "https://www.youtube.com/watch?v=uUkc1cZiB7M"
   },
   {
    "artist": "Hearts2Hearts x Kia",
@@ -3038,7 +3043,7 @@
     "https://www.youtube.com/@dlwlrma",
     "https://www.tiktok.com/@_iuofficial"
    ],
-   "mv": "https://www.youtube.com/watch?v=ZwepBCcTqBM"
+   "mv": "https://www.youtube.com/watch?v=MEk1LonlG7A"
   },
   {
    "artist": "ALL(H)OURS",
@@ -3119,6 +3124,22 @@
    ]
   },
   {
+   "artist": "PENTAGON",
+   "type": "10th Anniversary Single",
+   "title": "겁쟁이 (Coward)",
+   "titleTrack": null,
+   "date": "2026-09-11T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-PENTAGON-Single-겁쟁이.webp",
+   "url": "https://kpopofficial.com/album/pentagon-geopjaengi/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/CUBE_PTG",
+    "https://www.instagram.com/cube_ptg/",
+    "https://www.youtube.com/@CUBE_PTG",
+    "https://www.tiktok.com/@official_ptg"
+   ]
+  },
+  {
    "artist": "TUNEXX",
    "type": "2nd Mini Album",
    "title": null,
@@ -3175,11 +3196,17 @@
    "artist": "ONEW (JP)",
    "type": "Japan 4th Single",
    "title": "KAKERA -運命のピース-",
-   "titleTrack": null,
+   "titleTrack": "KAKERA -運命のピース-",
    "date": "2026-09-16T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-ONEW-Japan-4th-Single-KAKERA.webp",
    "url": "https://kpopofficial.com/album/onew-kakera/",
-   "tracklist": [],
+   "tracklist": [
+    "KAKERA -運命のピース-",
+    "Tock-Talk",
+    "Spring Rain",
+    "明日への手紙",
+    "エイリアンズ"
+   ],
    "links": [
     "https://x.com/ONEW_GRIFFIN",
     "https://x.com/ONEW_JAPAN",
@@ -3188,7 +3215,7 @@
     "https://www.youtube.com/@ONEW_GRIFFIN",
     "https://www.tiktok.com/@onew_griffin"
    ],
-   "mv": "https://www.youtube.com/watch?v=ZDH3sHHSZ8o"
+   "mv": "https://www.youtube.com/watch?v=zKAPsPd70ME"
   },
   {
    "artist": "TUNEXX",
@@ -3359,11 +3386,20 @@
    "artist": "KickFlip",
    "type": "5th Mini Album",
    "title": "KICK OFF THE WALL Pt. 1",
-   "titleTrack": null,
+   "titleTrack": "Puzzle Piece\" \"Kick Off The Wall (Feat. iann dior)",
    "date": "2026-09-28T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
    "url": "https://kpopofficial.com/album/kickflip-pre-release/",
-   "tracklist": [],
+   "tracklist": [
+    "미완성 (Puzzle Piece) *title",
+    "Kick Off The Wall (Feat. iann dior) *title",
+    "0 (Young)",
+    "휘청 (Rockin’)",
+    "hate blueberry",
+    "Drop In",
+    "우리 같이 청춘을 낭비해 (Waste It All With You)",
+    "Kick Off The Wall"
+   ],
    "links": [
     "https://x.com/kickflip_jype",
     "https://www.instagram.com/kickflip_jype",
@@ -3396,11 +3432,26 @@
    "artist": "BOYNEXTDOOR",
    "type": "1st Studio Album Repackage",
    "title": "HOME: DELUXE",
-   "titleTrack": null,
+   "titleTrack": "ANIMAL",
    "date": "2026-09-28T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-BOYNEXTDOOR-Members-for-1st-Studio-Album-HOME.webp",
    "url": "https://kpopofficial.com/album/boynextdoor-home-deluxe/",
-   "tracklist": [],
+   "tracklist": [
+    "ANIMAL – (Title)",
+    "CLICHE",
+    "06070",
+    "Viral",
+    "Ddok Ddok Ddok (똑똑똑)",
+    "Adios!",
+    "Upside Down",
+    "Dive",
+    "Forever You (기억해줘요)",
+    "I Wonder",
+    "I Wonder, Always (CD only)",
+    "Count to Love (Korean ver.)",
+    "400 Years",
+    "Boom Boom Boom"
+   ],
    "links": [
     "https://x.com/BOYNEXTDOOR_KOZ",
     "https://www.instagram.com/BOYNEXTDOOR_official",
@@ -3489,11 +3540,20 @@
    "artist": "KickFlip",
    "type": "5th Mini Album",
    "title": "KICK OFF THE WALL Pt. 1",
-   "titleTrack": null,
+   "titleTrack": "Puzzle Piece\" \"Kick Off The Wall (Feat. iann dior)",
    "date": "2026-10-06T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover1-KickFlip-Members-for-My-First-Kick-Album.webp",
    "url": "https://kpopofficial.com/album/kickflip-kick-off-the-wall-pt-1/",
-   "tracklist": [],
+   "tracklist": [
+    "미완성 (Puzzle Piece) *title",
+    "Kick Off The Wall (Feat. iann dior) *title",
+    "0 (Young)",
+    "휘청 (Rockin’)",
+    "hate blueberry",
+    "Drop In",
+    "우리 같이 청춘을 낭비해 (Waste It All With You)",
+    "Kick Off The Wall"
+   ],
    "links": [
     "https://x.com/kickflip_jype",
     "https://www.instagram.com/kickflip_jype",
