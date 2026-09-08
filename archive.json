@@ -2614,7 +2614,7 @@
    "title": "DEATH OF ME",
    "titleTrack": "Death of Me",
    "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-EVAN-Album-DEATH-OF-ME.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/EVAN-DEATH-OF-ME-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/evan-death-of-me/",
    "tracklist": [
     "Not Enough",
@@ -2641,7 +2641,7 @@
    "title": "CONFETTI",
    "titleTrack": "Don’t Panic!",
    "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-VERIVERY-Members-for-Album-CONFETTI.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/VERIVERY-CONFETTI-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/verivery-confetti/",
    "tracklist": [
     "Way to Zero",
@@ -2664,7 +2664,7 @@
    "title": "Make it hot",
    "titleTrack": "Make It Hot",
    "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MINHO-Album-Make-it-hot.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/MINHO-Make-it-hot-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/minho-make-it-hot/",
    "tracklist": [
     "Make It Hot",
@@ -2715,7 +2715,7 @@
    "title": "What a Wonderful Life",
    "titleTrack": "I’m gonna TOESA",
    "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/Soyeon-idle-teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Soyeon-What-a-Wonderful-Life-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
    "tracklist": [
     "I’m gonna TOESA (Narr. Kian84)",
@@ -2761,7 +2761,7 @@
     "https://www.instagram.com/limyoungwoong.official",
     "https://www.youtube.com/@LYW_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=By9YTCbsK4g"
+   "mv": "https://www.youtube.com/watch?v=d6rrtRhN9YM"
   },
   {
    "artist": "&TEAM (KR)",
@@ -2786,7 +2786,7 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@andteam_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=ywm_k3Mwitc"
+   "mv": "https://www.youtube.com/watch?v=5PJWEMeyGcM"
   },
   {
    "artist": "D.O. (EXO)",
@@ -2900,6 +2900,48 @@
     "https://www.youtube.com/@H1GHRMUSICOFFICIAL",
     "https://www.youtube.com/@YSY_Official/releases"
    ]
+  },
+  {
+   "artist": "Hearts2Hearts x Kia",
+   "type": "Single",
+   "title": "Moonride",
+   "titleTrack": "Moonride",
+   "date": "2026-09-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Hearts2Hearts-Members.webp",
+   "url": "https://kpopofficial.com/album/hearts2hearts-moonride/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/Hearts2Hearts",
+    "https://www.instagram.com/hearts2hearts/",
+    "https://www.youtube.com/@hearts2hearts.official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@hearts2hearts"
+   ],
+   "mv": "https://www.youtube.com/watch?v=vAv7P8AEJPQ"
+  },
+  {
+   "artist": "hrtz.wav",
+   "type": "2nd Mini Album",
+   "title": "The Second Wave : MOMENTUM",
+   "titleTrack": "ALIVE (Feat. Sungchan of RIIZE)",
+   "date": "2026-09-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/hrtz-wav-The-Second-Wave-MOMENTUM.webp",
+   "url": "https://kpopofficial.com/album/hrtz-wav-the-second-wave-momentum/",
+   "tracklist": [
+    "Mind",
+    "ALIVE (Feat. Sungchan of RIIZE)",
+    "Sunday Morning",
+    "Play My Guitar",
+    "Thinkin’ Bout You",
+    "First Daylight"
+   ],
+   "links": [
+    "https://x.com/hrtzwav",
+    "https://www.instagram.com/hrtzwav/",
+    "https://www.youtube.com/@hrtzwav",
+    "https://www.tiktok.com/@hrtzwav"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Ky0ZexRQiUI"
   },
   {
    "artist": "TUNEXX",
@@ -3026,11 +3068,14 @@
    "artist": "LE SSERAFIM",
    "type": "2nd Single Album",
    "title": "Made My Night",
-   "titleTrack": null,
+   "titleTrack": "Made My Night",
    "date": "2026-09-11T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/LE-SSERAFIM-Teaser-2nd-Single-Album-Made-My-Night-.webp",
    "url": "https://kpopofficial.com/album/le-sserafim-made-my-night/",
-   "tracklist": [],
+   "tracklist": [
+    "Made My Night",
+    "AEIOU"
+   ],
    "links": [
     "https://x.com/le_sserafim",
     "https://x.com/SOURCEMUSIC",
@@ -3039,7 +3084,7 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@le_sserafim"
    ],
-   "mv": "https://www.youtube.com/watch?v=N2vFFxl-cdg"
+   "mv": "https://www.youtube.com/watch?v=gCii_J4BnDQ"
   },
   {
    "artist": "PENTAGON",
@@ -3329,6 +3374,43 @@
    ]
   },
   {
+   "artist": "NiziU (KR)",
+   "type": "Korea 1st Mini Album",
+   "title": "Sour Grapes",
+   "titleTrack": null,
+   "date": "2026-09-28T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/NiziU-Members.webp",
+   "url": "https://kpopofficial.com/album/niziu-sour-grapes/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NiziU__official",
+    "https://www.instagram.com/niziu_info_official/",
+    "https://www.instagram.com/niziu_artist_official/",
+    "https://www.youtube.com/@NiziUOfficial",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@niziu_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=KNtFpGxtg_U"
+  },
+  {
+   "artist": "BOYNEXTDOOR",
+   "type": "1st Studio Album Repackage",
+   "title": "HOME: DELUXE",
+   "titleTrack": null,
+   "date": "2026-09-28T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-BOYNEXTDOOR-Members-for-1st-Studio-Album-HOME.webp",
+   "url": "https://kpopofficial.com/album/boynextdoor-home-deluxe/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/BOYNEXTDOOR_KOZ",
+    "https://www.instagram.com/BOYNEXTDOOR_official",
+    "https://www.youtube.com/@boynextdoor_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@boynextdoor_official",
+    "https://www.youtube.com/@boynextdoor_official/releases"
+   ]
+  },
+  {
    "artist": "ONEW (SHINee)",
    "type": "1st Single Album",
    "title": "착각",
@@ -3363,6 +3445,23 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@xnghan.official",
     "https://www.youtube.com/@XngHan/releases"
+   ]
+  },
+  {
+   "artist": "CLOSE YOUR EYES",
+   "type": "4th Mini Album",
+   "title": "256th Note",
+   "titleTrack": null,
+   "date": "2026-09-30T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/07/CLOSE-YOUR-EYES-comeback-update-2025.webp",
+   "url": "https://kpopofficial.com/album/close-your-eyes-256th-note/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/closeyoureyes_7",
+    "https://www.instagram.com/close.your.eyes.official",
+    "https://www.youtube.com/@close.your.eyes.official",
+    "https://www.tiktok.com/@closeyoureyes_official",
+    "https://www.youtube.com/@close.your.eyes.official/releases"
    ]
   },
   {
@@ -3862,6 +3961,23 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@kickflip_jype",
     "https://www.youtube.com/@kickflip_jype/releases"
+   ]
+  },
+  {
+   "artist": "MODYSSEY",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-25T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover2-MODYSSEY-Members.webp",
+   "url": "https://kpopofficial.com/album/modyssey-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MODYSSEYWORLD",
+    "https://www.instagram.com/modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official",
+    "https://www.tiktok.com/@modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official/releases"
    ]
   },
   {
