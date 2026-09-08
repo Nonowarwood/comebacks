@@ -2741,7 +2741,7 @@
    "title": "IM HERO 10",
    "titleTrack": "또또",
    "date": "2026-09-08T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-Lim-Young-Woong-IM-HERO-10.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Lim-Young-Woong-IM-HERO-10-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/lim-young-woong-im-hero-10/",
    "tracklist": [
     "모이저",
@@ -2769,7 +2769,7 @@
    "title": "Mark on Me",
    "titleTrack": "Mark on Me",
    "date": "2026-09-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ANDTEAM-KR-2nd-Mini-Album-Mark-on-Me.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/AndTeam-Mark-on-Me-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
    "tracklist": [
     "Mark on Me",
@@ -2794,7 +2794,7 @@
    "title": "DOPAMINE",
    "titleTrack": "Guitarist",
    "date": "2026-09-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-DO-Album-DOPAMINE.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/EXO-DO-Dopamine-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/do-dopamine/",
    "tracklist": [
     "Sing It Loud",
@@ -3999,6 +3999,23 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@kickflip_jype",
     "https://www.youtube.com/@kickflip_jype/releases"
+   ]
+  },
+  {
+   "artist": "MODYSSEY",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover2-MODYSSEY-Members.webp",
+   "url": "https://kpopofficial.com/album/modyssey-comeback/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/MODYSSEYWORLD",
+    "https://www.instagram.com/modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official",
+    "https://www.tiktok.com/@modyssey.official",
+    "https://www.youtube.com/@MODYSSEY.Official/releases"
    ]
   }
  ]
