@@ -1,7 +1,28 @@
 {
- "generated": "2026-09-08T21:09:29+00:00",
+ "generated": "2026-09-09T04:40:32+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
+  {
+   "artist": "JENNIE (BLACKPINK)",
+   "type": "Digital EP",
+   "title": "Fallen Angel",
+   "titleTrack": "FALLEN ANGEL",
+   "date": "2026-08-28T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/JENNIE-Fallen-Angel-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/jennie-fallen-angel/",
+   "tracklist": [
+    "FALLEN ANGEL",
+    "HEAVEN",
+    "Less than a Lover"
+   ],
+   "links": [
+    "https://x.com/jennierubyjane",
+    "https://www.instagram.com/jennierubyjane",
+    "https://www.youtube.com/@jennierubyjane",
+    "https://www.tiktok.com/@jennierubyjane"
+   ],
+   "mv": "https://www.youtube.com/watch?v=s466YCiHfKw"
+  },
   {
    "artist": "TAEMIN (SHINee)",
    "type": "EP",
@@ -33,21 +54,26 @@
    "mv": "https://www.youtube.com/watch?v=q4TWrmwiufo"
   },
   {
-   "artist": "UNCHILD",
-   "type": "2nd Digital Single",
-   "title": "TiNG TiNG",
-   "titleTrack": null,
-   "date": "2026-09-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-UNCHILD-Members.webp",
-   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
-   "tracklist": [],
+   "artist": "82MAJOR",
+   "type": "2nd Single Album",
+   "title": "HEAT",
+   "titleTrack": "Like Fire",
+   "date": "2026-09-01T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/82MAJOR-HEAT-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/82major-heat/",
+   "tracklist": [
+    "Like Fire",
+    "wyd?",
+    "TROPHY (Spanish Ver.)",
+    "Sign (Viann Remix)"
+   ],
    "links": [
-    "https://x.com/officialUNCHILD",
-    "https://www.instagram.com/official_unchild",
-    "https://www.youtube.com/@official_unchild",
-    "https://www.tiktok.com/@official_unchild",
-    "https://www.youtube.com/@official_unchild/releases"
-   ]
+    "https://x.com/82MAJOR_231011",
+    "https://www.instagram.com/82major_official",
+    "https://www.youtube.com/@82major_official",
+    "https://www.tiktok.com/@82major_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=L7HhTKJx0gU"
   },
   {
    "artist": "KWON EUNBI",
@@ -66,51 +92,6 @@
     "https://www.tiktok.com/@official_kwoneunbi"
    ],
    "mv": "https://www.youtube.com/watch?v=74PtgzSSWR8"
-  },
-  {
-   "artist": "ChRocktikal",
-   "type": "1st Mini Album",
-   "title": "Bloom & Gloom",
-   "titleTrack": "REQUIEM",
-   "date": "2026-09-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/ChRocktikal-Bloom-and-Gloom-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/chrocktikal-bloom-and-gloom/",
-   "tracklist": [
-    "Intro",
-    "REQUIEM",
-    "Green",
-    "WTH",
-    "Guilty",
-    "¡Corre!"
-   ],
-   "links": [
-    "https://x.com/CRTK_official",
-    "https://www.instagram.com/chrocktikal_official/",
-    "https://www.youtube.com/@ChRocktikal_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=LoxFsAHCBSQ"
-  },
-  {
-   "artist": "DONGHAE (Super Junior)",
-   "type": "Digital Single Album",
-   "title": "A:LIVE",
-   "titleTrack": "BABY (feat. CHANELLE MOON of FIFTY FIFTY)\" \"V10",
-   "date": "2026-09-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Super-Junior-Donghae-A-LIVE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/donghae-a-live/",
-   "tracklist": [
-    "BABY (feat. CHANELLE MOON of FIFTY FIFTY)",
-    "V10",
-    "EYE CONTACT",
-    "BREATHING"
-   ],
-   "links": [
-    "https://x.com/SJ_DnE_official",
-    "https://www.instagram.com/superjunior_dne_official/",
-    "https://www.youtube.com/@SUPERJUNIORDnE",
-    "https://www.tiktok.com/@superjunior_dne"
-   ],
-   "mv": "https://www.youtube.com/watch?v=videoseries"
   },
   {
    "artist": "LISA (BLACKPINK)",
@@ -198,32 +179,6 @@
    "mv": "https://www.youtube.com/watch?v=7rcEjMns6xI"
   },
   {
-   "artist": "SOYEON (i-dle)",
-   "type": "1st Full Album",
-   "title": "What a Wonderful Life",
-   "titleTrack": "I’m gonna TOESA",
-   "date": "2026-09-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Soyeon-What-a-Wonderful-Life-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
-   "tracklist": [
-    "I’m gonna TOESA (Narr. Kian84)",
-    "Bankroll",
-    "icebluerabbit",
-    "STAR",
-    "Hate veggie song",
-    "Amigo (feat. Minsu)",
-    "Would you love me",
-    "Goodbye, Romance"
-   ],
-   "links": [
-    "https://x.com/official_i_dle",
-    "https://www.instagram.com/i_dle_official",
-    "https://www.youtube.com/@official_i_dle",
-    "https://www.tiktok.com/@official_i_dle"
-   ],
-   "mv": "https://www.youtube.com/watch?v=7mDDM0eBWR0"
-  },
-  {
    "artist": "EVAN",
    "type": "1st Mini Album",
    "title": "DEATH OF ME",
@@ -249,6 +204,32 @@
     "https://www.tiktok.com/@h_evva_n"
    ],
    "mv": "https://www.youtube.com/watch?v=iNMvUYjaieA"
+  },
+  {
+   "artist": "SOYEON (i-dle)",
+   "type": "1st Full Album",
+   "title": "What a Wonderful Life",
+   "titleTrack": "I’m gonna TOESA",
+   "date": "2026-09-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Soyeon-What-a-Wonderful-Life-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/soyeon-what-a-wonderful-life/",
+   "tracklist": [
+    "I’m gonna TOESA (Narr. Kian84)",
+    "Bankroll",
+    "icebluerabbit",
+    "STAR",
+    "Hate veggie song",
+    "Amigo (feat. Minsu)",
+    "Would you love me",
+    "Goodbye, Romance"
+   ],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle"
+   ],
+   "mv": "https://www.youtube.com/watch?v=7mDDM0eBWR0"
   },
   {
    "artist": "MINHO (SHINee)",
@@ -304,7 +285,7 @@
    "title": "IM HERO 10",
    "titleTrack": "또또",
    "date": "2026-09-08T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-Lim-Young-Woong-IM-HERO-10.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Lim-Young-Woong-IM-HERO-10-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/lim-young-woong-im-hero-10/",
    "tracklist": [
     "모이저",
@@ -332,7 +313,7 @@
    "title": "Mark on Me",
    "titleTrack": "Mark on Me",
    "date": "2026-09-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-ANDTEAM-KR-2nd-Mini-Album-Mark-on-Me.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/AndTeam-Mark-on-Me-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
    "tracklist": [
     "Mark on Me",
@@ -350,59 +331,6 @@
     "https://www.tiktok.com/@andteam_official"
    ],
    "mv": "https://www.youtube.com/watch?v=F-NcvXY8_vU"
-  },
-  {
-   "artist": "&TEAM (KR)",
-   "type": "2nd Korean Mini Album",
-   "title": "Mark on Me",
-   "titleTrack": "Mark on Me",
-   "date": "2026-09-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ANDTEAM-KR-2nd-Mini-Album-Mark-on-Me.webp",
-   "url": "https://kpopofficial.com/album/andteam-mark-on-me/",
-   "tracklist": [
-    "Mark on Me",
-    "Good Boy",
-    "Love Jang",
-    "Accelerate",
-    "Empty",
-    "Night to Howl!"
-   ],
-   "links": [
-    "https://x.com/andTEAMofficial",
-    "https://www.instagram.com/andteam_official",
-    "https://www.youtube.com/@andTEAM_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@andteam_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=F-NcvXY8_vU"
-  },
-  {
-   "artist": "Lim Young Woong",
-   "type": "Special Digital Album",
-   "title": "IM HERO 10",
-   "titleTrack": "또또",
-   "date": "2026-09-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-Lim-Young-Woong-IM-HERO-10.webp",
-   "url": "https://kpopofficial.com/album/lim-young-woong-im-hero-10/",
-   "tracklist": [
-    "모이저",
-    "Baila",
-    "토토",
-    "Please Be Happy (부디 행복해질 거)",
-    "Hate You (미워요) (Remake)",
-    "Grain of Sand (모래 알갱이) (Remake)",
-    "Love Always Runs Away (사랑은 늘 도망가) (Remake)",
-    "A Bientot (Remake)",
-    "For Us (살아온 우리에게)",
-    "New York"
-   ],
-   "links": [
-    "https://x.com/limyoungwoong",
-    "https://www.instagram.com/im_hero____/",
-    "https://www.instagram.com/limyoungwoong.official",
-    "https://www.youtube.com/@LYW_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=d6rrtRhN9YM"
   },
   {
    "artist": "D.O. (EXO)",
@@ -410,7 +338,7 @@
    "title": "DOPAMINE",
    "titleTrack": "Guitarist",
    "date": "2026-09-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-DO-Album-DOPAMINE.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/EXO-DO-Dopamine-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/do-dopamine/",
    "tracklist": [
     "Sing It Loud",
@@ -426,28 +354,6 @@
     "https://www.youtube.com/@DOHKYUNGSOO_offcl"
    ],
    "mv": "https://www.youtube.com/watch?v=V3b1JrAl_1Q"
-  },
-  {
-   "artist": "Y:SY",
-   "type": "1st Mini Album",
-   "title": "GOODIES",
-   "titleTrack": "ENERGY\" \"LANGUAGE",
-   "date": "2026-09-09T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-YSY-GOODIES-Teaser.webp",
-   "url": "https://kpopofficial.com/album/ysy-goodies/",
-   "tracklist": [
-    "My Blanket",
-    "LANGUAGE – (Title)",
-    "ENERGY – (Title)",
-    "Stay Beautiful"
-   ],
-   "links": [
-    "https://x.com/H1GHRMUSIC",
-    "https://www.instagram.com/im_theyeon",
-    "https://www.youtube.com/@YSY_Official",
-    "https://www.youtube.com/@H1GHRMUSICOFFICIAL"
-   ],
-   "mv": "https://www.youtube.com/watch?v=uUkc1cZiB7M"
   },
   {
    "artist": "In A Minute",
@@ -654,7 +560,7 @@
    "title": "Made My Night",
    "titleTrack": "Made My Night",
    "date": "2026-09-11T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-LE-SSERAFIM-Teaser-Album-Made-My-Night-.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/LE-SSERAFIM-Teaser-2nd-Single-Album-Made-My-Night-.webp",
    "url": "https://kpopofficial.com/album/le-sserafim-made-my-night/",
    "tracklist": [
     "Made My Night",
@@ -671,26 +577,20 @@
    "mv": "https://www.youtube.com/watch?v=gCii_J4BnDQ"
   },
   {
-   "artist": "LE SSERAFIM",
-   "type": "2nd Single Album",
-   "title": "Made My Night",
-   "titleTrack": "Made My Night",
-   "date": "2026-09-11T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/LE-SSERAFIM-Teaser-2nd-Single-Album-Made-My-Night-.webp",
-   "url": "https://kpopofficial.com/album/le-sserafim-made-my-night/",
-   "tracklist": [
-    "Made My Night",
-    "AEIOU"
-   ],
+   "artist": "Ryu Sujeong",
+   "type": "4th EP",
+   "title": "ALL THE COLORS I AM",
+   "titleTrack": null,
+   "date": "2026-09-11T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-Ryu-Sujeong-ALL-THE-COLORS-I-AM.webp",
+   "url": "https://kpopofficial.com/album/ryu-sujeong-all-the-colors-i-am/",
+   "tracklist": [],
    "links": [
-    "https://x.com/le_sserafim",
-    "https://x.com/SOURCEMUSIC",
-    "https://www.instagram.com/le_sserafim",
-    "https://www.youtube.com/@LESSERAFIM_official",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@le_sserafim"
-   ],
-   "mv": "https://www.youtube.com/watch?v=gCii_J4BnDQ"
+    "https://www.instagram.com/ryusujeong_official/",
+    "https://www.instagram.com/iloveryu._/",
+    "https://www.youtube.com/@ryufficial",
+    "https://www.youtube.com/channel/UCblszyLBesuvSST61mLHuzQ"
+   ]
   },
   {
    "artist": "PENTAGON",
@@ -784,23 +684,36 @@
    ]
   },
   {
-   "artist": "MINZY (2NE1)",
-   "type": "Single",
-   "title": "Calling",
-   "titleTrack": "Calling",
+   "artist": "BOYNEXTDOOR",
+   "type": "1st Studio Album Repackage",
+   "title": "HOME: DELUXE",
+   "titleTrack": "ANIMAL",
    "date": "2026-09-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-MINZY-2NE1.webp",
-   "url": "https://kpopofficial.com/album/minzy-calling/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover2-BOYNEXTDOOR-Members-for-1st-Studio-Album-HOME.webp",
+   "url": "https://kpopofficial.com/album/boynextdoor-home-deluxe/",
    "tracklist": [
-    "Calling",
-    "Calling (Eng Ver.)",
-    "We Almost Were"
+    "ANIMAL – (Title)",
+    "CLICHE",
+    "06070",
+    "Viral",
+    "Ddok Ddok Ddok (똑똑똑)",
+    "Adios!",
+    "Upside Down",
+    "Dive",
+    "Forever You (기억해줘요)",
+    "I Wonder",
+    "I Wonder, Always (CD only)",
+    "Count to Love (Korean ver.)",
+    "400 Years",
+    "Boom Boom Boom"
    ],
    "links": [
-    "https://x.com/mingkki21",
-    "https://www.instagram.com/_minzy_mz/",
-    "https://www.youtube.com/@MINZYTV",
-    "https://www.tiktok.com/@_minzy_mz"
+    "https://x.com/BOYNEXTDOOR_KOZ",
+    "https://www.instagram.com/BOYNEXTDOOR_official",
+    "https://www.youtube.com/@boynextdoor_official",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@boynextdoor_official",
+    "https://www.youtube.com/@boynextdoor_official/releases"
    ]
   },
   {
@@ -971,9 +884,9 @@
     "https://x.com/closeyoureyes_7",
     "https://www.instagram.com/close.your.eyes.official",
     "https://www.youtube.com/@close.your.eyes.official",
-    "https://www.tiktok.com/@closeyoureyes_official",
-    "https://www.youtube.com/@close.your.eyes.official/releases"
-   ]
+    "https://www.tiktok.com/@closeyoureyes_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Vq_XMQgOzPc"
   },
   {
    "artist": "KickFlip",
@@ -1065,25 +978,6 @@
    "title": "PRESS PLAY",
    "titleTrack": null,
    "date": "2026-10-23T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-LISA-EP-PRESS-PLAY.webp",
-   "url": "https://kpopofficial.com/album/lisa-press-play/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/wearelloud",
-    "https://www.instagram.com/lalalalisa_m/",
-    "https://www.instagram.com/wearelloud/",
-    "https://www.youtube.com/@wearelloud",
-    "https://www.tiktok.com/@lalalalisa_m",
-    "https://www.tiktok.com/@wearelloud"
-   ],
-   "mv": "https://www.youtube.com/watch?v=FyS5dAywkEo"
-  },
-  {
-   "artist": "LISA (BLACKPINK)",
-   "type": "EP",
-   "title": "PRESS PLAY",
-   "titleTrack": null,
-   "date": "2026-10-23T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-LISA-EP-PRESS-PLAY.webp",
    "url": "https://kpopofficial.com/album/lisa-press-play/",
    "tracklist": [],
@@ -1102,7 +996,7 @@
    "type": "Comeback",
    "title": null,
    "titleTrack": null,
-   "date": "2026-10-25T00:00:00+09:00",
+   "date": "2026-10-26T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/03/cover2-MODYSSEY-Members.webp",
    "url": "https://kpopofficial.com/album/modyssey-comeback/",
    "tracklist": [],
