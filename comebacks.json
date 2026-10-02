@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T22:42:02+00:00",
+ "generated": "2026-10-02T05:36:58+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -378,38 +378,6 @@
    "mv": "https://www.youtube.com/watch?v=FJrHpuZxpSs"
   },
   {
-   "artist": "X:IN",
-   "type": "1st Studio Album",
-   "title": "Chain Reaction",
-   "titleTrack": "ZZIRIT (Feat. Luisa Sonza)",
-   "date": "2026-10-06T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/XIN-Members-Chain-Reaction.webp",
-   "url": "https://kpopofficial.com/album/xin-chain-reaction/",
-   "tracklist": [
-    "Title – \"ZZIRIT (Feat. Luisa Sonza)\"",
-    "ZZIRIT (Feat. Luisa Sonza)",
-    "Brain Chemistry",
-    "Octane",
-    "Chemical Moment",
-    "Tempered Steel",
-    "Zero Kelvin",
-    "Boom! Crash",
-    "Neurotoxin (Feat. tiLLie)",
-    "H",
-    "2",
-    "O",
-    "pH7",
-    "Girls On Fire (Hardbass Remix)"
-   ],
-   "links": [
-    "https://x.com/X_in_official",
-    "https://www.instagram.com/x.in_official",
-    "https://www.youtube.com/@xin.official",
-    "https://www.tiktok.com/@camera_roll_x.in",
-    "https://www.youtube.com/@xin.official/releases"
-   ]
-  },
-  {
    "artist": "KickFlip",
    "type": "5th Mini Album",
    "title": "KICK OFF THE WALL Pt. 1",
@@ -466,6 +434,38 @@
     "https://www.youtube.com/@YESUNG_official"
    ],
    "mv": "https://www.youtube.com/watch?v=JbRgxtJ2rUE"
+  },
+  {
+   "artist": "X:IN",
+   "type": "1st Studio Album",
+   "title": "Chain Reaction",
+   "titleTrack": "ZZIRIT (Feat. Luisa Sonza)",
+   "date": "2026-10-06T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/XIN-Members-Chain-Reaction.webp",
+   "url": "https://kpopofficial.com/album/xin-chain-reaction/",
+   "tracklist": [
+    "Title – \"ZZIRIT (Feat. Luisa Sonza)\"",
+    "ZZIRIT (Feat. Luisa Sonza)",
+    "Brain Chemistry",
+    "Octane",
+    "Chemical Moment",
+    "Tempered Steel",
+    "Zero Kelvin",
+    "Boom! Crash",
+    "Neurotoxin (Feat. tiLLie)",
+    "H",
+    "2",
+    "O",
+    "pH7",
+    "Girls On Fire (Hardbass Remix)"
+   ],
+   "links": [
+    "https://x.com/X_in_official",
+    "https://www.instagram.com/x.in_official",
+    "https://www.youtube.com/@xin.official",
+    "https://www.tiktok.com/@camera_roll_x.in",
+    "https://www.youtube.com/@xin.official/releases"
+   ]
   },
   {
    "artist": "ONEW (SHINee)",
@@ -641,6 +641,60 @@
    ]
   },
   {
+   "artist": "MEOVV",
+   "type": "Single Album",
+   "title": "GO HARD",
+   "titleTrack": null,
+   "date": "2026-10-12T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-MEOVV-GO-HARD.webp",
+   "url": "https://kpopofficial.com/album/meovv-go-hard/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/OFFICIAL_MEOVV",
+    "https://www.instagram.com/meovv/",
+    "https://www.youtube.com/@MEOVV_OFFICIAL",
+    "https://www.youtube.com/@THEBLACKLABEL",
+    "https://www.tiktok.com/@meovv_official"
+   ]
+  },
+  {
+   "artist": "NCT WISH",
+   "type": "4th Mini Album",
+   "title": "I SPY",
+   "titleTrack": "I Spy",
+   "date": "2026-10-12T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-NCT-WISH-I-SPY.webp",
+   "url": "https://kpopofficial.com/album/nct-wish-i-spy/",
+   "tracklist": [
+    "Title – \"I Spy\""
+   ],
+   "links": [
+    "https://x.com/nctwishofficial",
+    "https://www.instagram.com/nctwish_official",
+    "https://www.youtube.com/@NCTWISH",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct"
+   ],
+   "mv": "https://www.youtube.com/watch?v=OwgvFefFAVA"
+  },
+  {
+   "artist": "PLAVE",
+   "type": "5th Mini Album",
+   "title": "HYPERDRIVE",
+   "titleTrack": null,
+   "date": "2026-10-12T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-PLAVE-HYPERDRIVE-2026.webp",
+   "url": "https://kpopofficial.com/album/plave-hyperdrive/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/plave_official",
+    "https://www.instagram.com/plave_official/",
+    "https://www.youtube.com/@plave_official",
+    "https://www.tiktok.com/@plave_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=CvKkZNuakv0"
+  },
+  {
    "artist": "MODYSSEY",
    "type": "1st EP",
    "title": "2.Multitude: How We Bloom",
@@ -703,60 +757,6 @@
    "mv": "https://www.youtube.com/watch?v=7YwBCVaeATI"
   },
   {
-   "artist": "MEOVV",
-   "type": "Single Album",
-   "title": "GO HARD",
-   "titleTrack": null,
-   "date": "2026-10-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-MEOVV-GO-HARD.webp",
-   "url": "https://kpopofficial.com/album/meovv-go-hard/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/OFFICIAL_MEOVV",
-    "https://www.instagram.com/meovv/",
-    "https://www.youtube.com/@MEOVV_OFFICIAL",
-    "https://www.youtube.com/@THEBLACKLABEL",
-    "https://www.tiktok.com/@meovv_official"
-   ]
-  },
-  {
-   "artist": "NCT WISH",
-   "type": "4th Mini Album",
-   "title": "I SPY",
-   "titleTrack": "I Spy",
-   "date": "2026-10-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-NCT-WISH-I-SPY.webp",
-   "url": "https://kpopofficial.com/album/nct-wish-i-spy/",
-   "tracklist": [
-    "Title – \"I Spy\""
-   ],
-   "links": [
-    "https://x.com/nctwishofficial",
-    "https://www.instagram.com/nctwish_official",
-    "https://www.youtube.com/@NCTWISH",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
-   ],
-   "mv": "https://www.youtube.com/watch?v=OwgvFefFAVA"
-  },
-  {
-   "artist": "PLAVE",
-   "type": "5th Mini Album",
-   "title": "HYPERDRIVE",
-   "titleTrack": null,
-   "date": "2026-10-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-PLAVE-HYPERDRIVE-2026.webp",
-   "url": "https://kpopofficial.com/album/plave-hyperdrive/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/plave_official",
-    "https://www.instagram.com/plave_official/",
-    "https://www.youtube.com/@plave_official",
-    "https://www.tiktok.com/@plave_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=CvKkZNuakv0"
-  },
-  {
    "artist": "V01D",
    "type": "2nd Mini Album",
    "title": "YOUTHQUAKE",
@@ -796,31 +796,6 @@
     "https://www.youtube.com/@DAILYDIRECTION_official/videos",
     "https://www.tiktok.com/@daily_direction",
     "https://www.youtube.com/channel/UCoDWFsIb5tfXSuIcpIMdlXw"
-   ]
-  },
-  {
-   "artist": "FLARE U",
-   "type": "2nd Mini Album",
-   "title": "LOVEHOOD",
-   "titleTrack": "Bloom",
-   "date": "2026-10-14T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/FLARE-U-Members-for-1st-Mini-Album-YOUTH-ERROR.webp",
-   "url": "https://kpopofficial.com/album/flare-u-lovehood/",
-   "tracklist": [
-    "Title – \"Bloom\"",
-    "Bloom",
-    "Hundred Nights",
-    "False Alarm",
-    "Madly in Love",
-    "Window View",
-    "Never Ever"
-   ],
-   "links": [
-    "https://x.com/flareu_official",
-    "https://www.instagram.com/flareu_official/",
-    "https://www.youtube.com/@flareu_official",
-    "https://www.tiktok.com/@flareu_official",
-    "https://www.youtube.com/@flareu_official/releases"
    ]
   },
   {
@@ -870,6 +845,31 @@
     "https://www.instagram.com/1gyul_2gyul/",
     "https://www.youtube.com/@LEE_HAN_GYUL",
     "https://www.tiktok.com/@lee_han_gyul"
+   ]
+  },
+  {
+   "artist": "FLARE U",
+   "type": "2nd Mini Album",
+   "title": "LOVEHOOD",
+   "titleTrack": "Bloom",
+   "date": "2026-10-14T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/FLARE-U-Members-for-1st-Mini-Album-YOUTH-ERROR.webp",
+   "url": "https://kpopofficial.com/album/flare-u-lovehood/",
+   "tracklist": [
+    "Title – \"Bloom\"",
+    "Bloom",
+    "Hundred Nights",
+    "False Alarm",
+    "Madly in Love",
+    "Window View",
+    "Never Ever"
+   ],
+   "links": [
+    "https://x.com/flareu_official",
+    "https://www.instagram.com/flareu_official/",
+    "https://www.youtube.com/@flareu_official",
+    "https://www.tiktok.com/@flareu_official",
+    "https://www.youtube.com/@flareu_official/releases"
    ]
   },
   {
@@ -931,6 +931,26 @@
    ]
   },
   {
+   "artist": "MAX CHANGMIN (TVXQ)",
+   "type": "3rd Mini Album",
+   "title": "All Of My Life",
+   "titleTrack": "All Of My Life",
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-MAX-CHANGMIN-All-Of-My-Life.webp",
+   "url": "https://kpopofficial.com/album/max-changmin-all-of-my-life/",
+   "tracklist": [
+    "Title – \"All Of My Life\""
+   ],
+   "links": [
+    "https://x.com/TVXQ",
+    "https://www.instagram.com/tvxq.official/",
+    "https://www.youtube.com/@TVXQ",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@tvxq_official",
+    "https://www.youtube.com/channel/UC9B2Nk_PRhAjp59o0AT9-sQ"
+   ]
+  },
+  {
    "artist": "NMIXX",
    "type": "6th EP",
    "title": "Strange Muse",
@@ -970,26 +990,6 @@
     "https://www.youtube.com/@EVNNE",
     "https://www.tiktok.com/@evnne_official",
     "https://www.youtube.com/@EVNNE/releases"
-   ]
-  },
-  {
-   "artist": "MAX CHANGMIN (TVXQ)",
-   "type": "3rd Mini Album",
-   "title": "All Of My Life",
-   "titleTrack": "All Of My Life",
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-MAX-CHANGMIN-All-Of-My-Life.webp",
-   "url": "https://kpopofficial.com/album/max-changmin-all-of-my-life/",
-   "tracklist": [
-    "Title – \"All Of My Life\""
-   ],
-   "links": [
-    "https://x.com/TVXQ",
-    "https://www.instagram.com/tvxq.official/",
-    "https://www.youtube.com/@TVXQ",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@tvxq_official",
-    "https://www.youtube.com/channel/UC9B2Nk_PRhAjp59o0AT9-sQ"
    ]
   },
   {
