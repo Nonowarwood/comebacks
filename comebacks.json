@@ -1,56 +1,7 @@
 {
- "generated": "2026-10-02T05:36:58+00:00",
+ "generated": "2026-10-02T12:33:12+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "Def. (JAY B)",
-   "type": "1st LP",
-   "title": "2018.12.25",
-   "titleTrack": "BoY",
-   "date": "2026-09-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Def-2018-12-25.webp",
-   "url": "https://kpopofficial.com/album/def-2018-12-25/",
-   "tracklist": [
-    "Title – \"BoY\"",
-    "Intro",
-    "aNYBODY",
-    "n",
-    "BoY",
-    "cITY",
-    "weLL",
-    "MiSTY",
-    "I CAN’t",
-    "COLd"
-   ],
-   "links": [
-    "https://x.com/528hzkr",
-    "https://x.com/defjaybkr",
-    "https://www.instagram.com/528hz.kr/",
-    "https://www.instagram.com/defjayb.kr/",
-    "https://www.youtube.com/@528hzkr",
-    "https://www.youtube.com/@Defjaybkr",
-    "https://www.tiktok.com/@jayb.kr"
-   ],
-   "mv": "https://www.youtube.com/watch?v=LLh8Bkw5M88"
-  },
-  {
-   "artist": "UNIS",
-   "type": "Digital Single",
-   "title": "Milky Way",
-   "titleTrack": null,
-   "date": "2026-09-23T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/UNIS-Milky-Way-Album-Cover-1.webp",
-   "url": "https://kpopofficial.com/album/unis-milky-way/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/UNIS_offcl",
-    "https://x.com/UNIS_offcl_JP",
-    "https://www.instagram.com/unis_offcl/",
-    "https://www.youtube.com/@UNIS_Offcl",
-    "https://www.tiktok.com/@unis_offcl"
-   ],
-   "mv": "https://www.youtube.com/watch?v=LhEBIGua1dM"
-  },
   {
    "artist": "KickFlip",
    "type": "5th Mini Album",
@@ -129,37 +80,6 @@
     "https://www.tiktok.com/@allday_project"
    ],
    "mv": "https://www.youtube.com/watch?v=lQ-w9M447w0"
-  },
-  {
-   "artist": "YESUNG (Super Junior)",
-   "type": "2nd Album",
-   "title": "Where We Are",
-   "titleTrack": null,
-   "date": "2026-09-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/YESUNG-Winds-of-Time-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/yesung-winds-of-time/",
-   "tracklist": [
-    "Pre-release – Winds of Time",
-    "Winds of Time",
-    "Pedazos",
-    "Lonely Night",
-    "And Then, Tomorrow",
-    "Let’s Dance",
-    "Time Will Heal",
-    "MATADAYO",
-    "여전히 영원히",
-    "Ordinary Miracles",
-    "The Rain Between Us",
-    "The Forest Dwellers",
-    "After The Dream"
-   ],
-   "links": [
-    "https://x.com/YESUNG_smtown",
-    "https://www.instagram.com/yesung_smtown",
-    "https://www.instagram.com/yesung1106/",
-    "https://www.youtube.com/@YESUNG_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=JbRgxtJ2rUE"
   },
   {
    "artist": "BOYNEXTDOOR",
@@ -376,6 +296,65 @@
     "https://www.tiktok.com/@tiot_now"
    ],
    "mv": "https://www.youtube.com/watch?v=FJrHpuZxpSs"
+  },
+  {
+   "artist": "KickFlip",
+   "type": "5th Mini Album",
+   "title": "KICK OFF THE WALL Pt. 1",
+   "titleTrack": "Puzzle Piece\" \"Kick Off The Wall (Feat. iann dior)",
+   "date": "2026-10-06T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-KickFlip-Members.webp",
+   "url": "https://kpopofficial.com/album/kickflip-kick-off-the-wall-pt-1/",
+   "tracklist": [
+    "미완성 (Puzzle Piece) *title",
+    "Kick Off The Wall (Feat. iann dior) *title",
+    "0 (Young)",
+    "휘청 (Rockin’)",
+    "hate blueberry",
+    "Drop In",
+    "우리 같이 청춘을 낭비해 (Waste It All With You)",
+    "Kick Off The Wall"
+   ],
+   "links": [
+    "https://x.com/kickflip_jype",
+    "https://www.instagram.com/kickflip_jype",
+    "https://www.youtube.com/@kickflip_jype",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@kickflip_jype"
+   ],
+   "mv": "https://www.youtube.com/watch?v=wX_Jf29sr2g"
+  },
+  {
+   "artist": "X:IN",
+   "type": "1st Studio Album",
+   "title": "Chain Reaction",
+   "titleTrack": "ZZIRIT (Feat. Luisa Sonza)",
+   "date": "2026-10-06T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/XIN-Comeback-2026.webp",
+   "url": "https://kpopofficial.com/album/xin-chain-reaction/",
+   "tracklist": [
+    "Title – \"ZZIRIT (Feat. Luisa Sonza)\"",
+    "ZZIRIT (Feat. Luisa Sonza)",
+    "Brain Chemistry",
+    "Octane",
+    "Chemical Moment",
+    "Tempered Steel",
+    "Zero Kelvin",
+    "Boom! Crash",
+    "Neurotoxin (Feat. tiLLie)",
+    "H",
+    "2",
+    "O",
+    "pH7",
+    "Girls On Fire (Hardbass Remix)"
+   ],
+   "links": [
+    "https://x.com/X_in_official",
+    "https://www.instagram.com/x.in_official",
+    "https://www.youtube.com/@xin.official",
+    "https://www.tiktok.com/@camera_roll_x.in",
+    "https://www.youtube.com/@xin.official/releases"
+   ]
   },
   {
    "artist": "KickFlip",
@@ -774,28 +753,47 @@
    "mv": "https://www.youtube.com/watch?v=xMCdo1CuDug"
   },
   {
-   "artist": "DAILY:DIRECTION",
-   "type": "1st Mini Album",
-   "title": "WHICH WAY",
-   "titleTrack": "Which Way",
+   "artist": "YUJU",
+   "type": "4th Mini Album",
+   "title": "file. 07",
+   "titleTrack": "미제",
    "date": "2026-10-14T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/cover2-DAILY-DIRECTION-Members.webp",
-   "url": "https://kpopofficial.com/album/daily-direction-which-way/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-YUJU-file-07.webp",
+   "url": "https://kpopofficial.com/album/yuju-file-07/",
    "tracklist": [
-    "Title – \"Which Way\"",
-    "Which Way",
-    "As You Say So",
-    "Trapped",
-    "Down With It",
-    "Who I Am",
-    "Up"
+    "Title – \"미제\"",
+    "그 뒤가 얼마나 무서울지 모른 채",
+    "미제",
+    "LoveGamer (feat. JUNNY)",
+    "SOS",
+    "Rock Bottom",
+    "추신"
    ],
    "links": [
-    "https://x.com/_official_DD",
-    "https://www.instagram.com/daily_direction_official",
-    "https://www.youtube.com/@DAILYDIRECTION_official/videos",
-    "https://www.tiktok.com/@daily_direction",
-    "https://www.youtube.com/channel/UCoDWFsIb5tfXSuIcpIMdlXw"
+    "https://x.com/YUJU_atarea",
+    "https://www.instagram.com/yuju_atarea/",
+    "https://www.instagram.com/yuuzth/",
+    "https://www.youtube.com/@YUJU_atarea",
+    "https://www.tiktok.com/@yuju_atarea"
+   ],
+   "mv": "https://www.youtube.com/watch?v=QCcLZnUaIt8"
+  },
+  {
+   "artist": "NAMWOOHYUN",
+   "type": "2nd Album",
+   "title": "2X8",
+   "titleTrack": null,
+   "date": "2026-10-14T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NAMWOOHYUN-2026.webp",
+   "url": "https://kpopofficial.com/album/namwoohyun-2x8/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/NWH_officialtwt",
+    "https://www.instagram.com/official_namwoohyun",
+    "https://www.instagram.com/nwh91",
+    "https://www.youtube.com/@NAMWOOHYUN_OFFICIAL",
+    "https://www.tiktok.com/@infinitewh",
+    "https://www.youtube.com/@NAMWOOHYUN_OFFICIAL/releases"
    ]
   },
   {
@@ -895,6 +893,27 @@
    "title": "Looks Can Kill",
    "titleTrack": null,
    "date": "2026-10-19T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
+   "url": "https://kpopofficial.com/album/ive-pre-release/",
+   "tracklist": [
+    "Pre-release"
+   ],
+   "links": [
+    "https://x.com/IVEstarship",
+    "https://x.com/IVEstarship_JP",
+    "https://www.instagram.com/IVEstarship",
+    "https://www.youtube.com/@IVEstarship",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@ive.official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=iBeo74ujfes"
+  },
+  {
+   "artist": "IVE",
+   "type": "EP",
+   "title": "Looks Can Kill",
+   "titleTrack": null,
+   "date": "2026-10-19T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-IVE-JAPAN-LUCID-DREAM.webp",
    "url": "https://kpopofficial.com/album/ive-pre-release/",
    "tracklist": [
@@ -911,23 +930,45 @@
    "mv": "https://www.youtube.com/watch?v=iBeo74ujfes"
   },
   {
-   "artist": "MAX CHANGMIN (TVXQ)",
-   "type": "3rd Mini Album",
-   "title": "All Of My Life",
-   "titleTrack": "All Of My Life",
+   "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
+   "type": "1st Mini Album",
+   "title": "DREAMSCAPE",
+   "titleTrack": null,
    "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-MAX-CHANGMIN-All-Of-My-Life.webp",
-   "url": "https://kpopofficial.com/album/max-changmin-all-of-my-life/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-SEVENTEEN-JxJ-JEONGHAN-JOSHUA.webp",
+   "url": "https://kpopofficial.com/album/jeonghan-joshua-dreamscape/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/pledis_17",
+    "https://www.instagram.com/saythename_17/",
+    "https://www.youtube.com/@pledis17",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@seventeen17_official"
+   ]
+  },
+  {
+   "artist": "NMIXX",
+   "type": "6th EP",
+   "title": "Strange Muse",
+   "titleTrack": "Birthday Wish",
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-NMIXX-Members-Group-Photo.webp",
+   "url": "https://kpopofficial.com/album/nmixx-strange-muse/",
    "tracklist": [
-    "Title – \"All Of My Life\""
+    "Title – \"Birthday Wish\"",
+    "Birthday Wish",
+    "Kerosene",
+    "RudE TaLK",
+    "Sing to the Moon (LILY, HAEWON)",
+    "Hot ‘n Unbothered (SULLYOON, BAE)",
+    "WHIP (JIWOO, KYUJIN)"
    ],
    "links": [
-    "https://x.com/TVXQ",
-    "https://www.instagram.com/tvxq.official/",
-    "https://www.youtube.com/@TVXQ",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@tvxq_official",
-    "https://www.youtube.com/channel/UC9B2Nk_PRhAjp59o0AT9-sQ"
+    "https://x.com/NMIXX_official",
+    "https://www.instagram.com/nmixx_official",
+    "https://www.youtube.com/@NMIXXOfficial",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@nmixx_official"
    ]
   },
   {
@@ -948,6 +989,23 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@tvxq_official",
     "https://www.youtube.com/channel/UC9B2Nk_PRhAjp59o0AT9-sQ"
+   ]
+  },
+  {
+   "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
+   "type": "1st Mini Album",
+   "title": "DREAMSCAPE",
+   "titleTrack": null,
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/SEVENTEEN-JxJ-JEONGHAN-JOSHUA.webp",
+   "url": "https://kpopofficial.com/album/jeonghan-joshua-dreamscape/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/pledis_17",
+    "https://www.instagram.com/saythename_17/",
+    "https://www.youtube.com/@pledis17",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@seventeen17_official"
    ]
   },
   {
@@ -993,23 +1051,6 @@
    ]
   },
   {
-   "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
-   "type": "1st Mini Album",
-   "title": "DREAMSCAPE",
-   "titleTrack": null,
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/SEVENTEEN-JxJ-JEONGHAN-JOSHUA.webp",
-   "url": "https://kpopofficial.com/album/jeonghan-joshua-dreamscape/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/pledis_17",
-    "https://www.instagram.com/saythename_17/",
-    "https://www.youtube.com/@pledis17",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@seventeen17_official"
-   ]
-  },
-  {
    "artist": "ONEW (SHINee)",
    "type": "1st Single Album",
    "title": "착각",
@@ -1034,7 +1075,7 @@
    "title": "PRESS PLAY",
    "titleTrack": null,
    "date": "2026-10-23T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-LISA-EP-PRESS-PLAY.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-LISA-EP-PRESS-PLAY.webp",
    "url": "https://kpopofficial.com/album/lisa-press-play/",
    "tracklist": [],
    "links": [
@@ -1048,22 +1089,23 @@
    "mv": "https://www.youtube.com/watch?v=FyS5dAywkEo"
   },
   {
-   "artist": "RIIZE",
-   "type": "Digital Single",
-   "title": null,
+   "artist": "LISA (BLACKPINK)",
+   "type": "EP",
+   "title": "PRESS PLAY",
    "titleTrack": null,
-   "date": "2026-10-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/RIIZE-Members-group-photo.webp",
-   "url": "https://kpopofficial.com/album/riize-digital-single/",
+   "date": "2026-10-23T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-LISA-EP-PRESS-PLAY.webp",
+   "url": "https://kpopofficial.com/album/lisa-press-play/",
    "tracklist": [],
    "links": [
-    "https://x.com/RIIZE_official",
-    "https://www.instagram.com/riize_official/",
-    "https://www.youtube.com/@RIIZE_official",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@riize_official",
-    "https://www.youtube.com/@RIIZE_official/releases"
-   ]
+    "https://x.com/wearelloud",
+    "https://www.instagram.com/lalalalisa_m/",
+    "https://www.instagram.com/wearelloud/",
+    "https://www.youtube.com/@wearelloud",
+    "https://www.tiktok.com/@lalalalisa_m",
+    "https://www.tiktok.com/@wearelloud"
+   ],
+   "mv": "https://www.youtube.com/watch?v=FyS5dAywkEo"
   },
   {
    "artist": "IVE",
@@ -1081,6 +1123,24 @@
     "https://www.youtube.com/@IVEstarship",
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@ive.official"
+   ]
+  },
+  {
+   "artist": "RIIZE",
+   "type": "Digital Single",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/RIIZE-Members-group-photo.webp",
+   "url": "https://kpopofficial.com/album/riize-digital-single/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/RIIZE_official",
+    "https://www.instagram.com/riize_official/",
+    "https://www.youtube.com/@RIIZE_official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@riize_official",
+    "https://www.youtube.com/@RIIZE_official/releases"
    ]
   },
   {
@@ -1215,6 +1275,23 @@
     "https://www.instagram.com/rescene_official",
     "https://www.youtube.com/@RESCENE_official",
     "https://www.tiktok.com/@rescene_official"
+   ]
+  },
+  {
+   "artist": "TOMORROW X TOGETHER (TXT)",
+   "type": "9th Mini Album",
+   "title": "PERFECT STORM",
+   "titleTrack": null,
+   "date": "2026-11-16T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
+   "url": "https://kpopofficial.com/album/txt-perfect-storm/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TXT_bighit",
+    "https://www.instagram.com/txt_bighit",
+    "https://www.youtube.com/@TXT_bighit",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@txt.bighitent"
    ]
   },
   {
