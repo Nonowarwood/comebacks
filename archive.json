@@ -3864,6 +3864,25 @@
    ]
   },
   {
+   "artist": "Hearts2Hearts",
+   "type": "Single",
+   "title": "ICONIC HEART (Korean Ver.)",
+   "titleTrack": "ICONIC HEART (Korean Ver.)",
+   "date": "2026-10-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/Hearts2Hearts-Members.webp",
+   "url": "https://kpopofficial.com/album/hearts2hearts-iconic-heart-korean-ver/",
+   "tracklist": [
+    "Title – \"ICONIC HEART (Korean Ver.)\""
+   ],
+   "links": [
+    "https://x.com/Hearts2Hearts",
+    "https://www.instagram.com/hearts2hearts/",
+    "https://www.youtube.com/@hearts2hearts.official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@hearts2hearts"
+   ]
+  },
+  {
    "artist": "KickFlip",
    "type": "Comeback",
    "title": null,
@@ -3909,7 +3928,7 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@kickflip_jype"
    ],
-   "mv": "https://www.youtube.com/watch?v=wX_Jf29sr2g"
+   "mv": "https://www.youtube.com/watch?v=iUIdlLnI-vc"
   },
   {
    "artist": "KickFlip",
@@ -4121,7 +4140,7 @@
     "https://www.youtube.com/@official_i_dle",
     "https://www.tiktok.com/@official_i_dle"
    ],
-   "mv": "https://www.youtube.com/watch?v=ZK-_MKiyTVQ"
+   "mv": "https://www.youtube.com/watch?v=PL9o0xj7RyM"
   },
   {
    "artist": "N.Flying",
@@ -4265,17 +4284,26 @@
    "artist": "MODYSSEY",
    "type": "1st EP",
    "title": "2.Multitude: How We Bloom",
-   "titleTrack": null,
+   "titleTrack": "CAN YOU HEAR THAT",
    "date": "2026-10-12T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/MODYSSEY-Members-photo-2026.webp",
    "url": "https://kpopofficial.com/album/modyssey-2-multitude-how-we-bloom/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"CAN YOU HEAR THAT\"",
+    "BONE SHAKER",
+    "SKIT (*CD Only)",
+    "CAN YOU HEAR THAT",
+    "RIGHT NOW",
+    "SILLY",
+    "CAN YOU HEAR THAT (Chinese Ver.)"
+   ],
    "links": [
     "https://x.com/MODYSSEYWORLD",
     "https://www.instagram.com/modyssey.official",
     "https://www.youtube.com/@MODYSSEY.Official",
     "https://www.tiktok.com/@modyssey.official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=OvuItlnXGlg"
   },
   {
    "artist": "Xdinary Heroes",
@@ -4730,9 +4758,15 @@
    "titleTrack": null,
    "date": "2026-10-19T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-IVE-JAPAN-LUCID-DREAM.webp",
-   "url": "https://kpopofficial.com/album/ive-pre-release/",
+   "url": "https://kpopofficial.com/album/ive-pre-release-looks-can-kill/",
    "tracklist": [
-    "Pre-release"
+    "Pre-release – \"Looks Can Kill\"",
+    "Looks Can Kill",
+    "Mirror Mirror",
+    "SNAKESKIN",
+    "CRUMBS",
+    "Girls Girls Girls",
+    "Glow Motion"
    ],
    "links": [
     "https://x.com/IVEstarship",
@@ -5018,11 +5052,19 @@
    "artist": "IVE",
    "type": "EP",
    "title": "Looks Can Kill",
-   "titleTrack": null,
+   "titleTrack": "Looks Can Kill",
    "date": "2026-10-26T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-IVE-JAPAN-LUCID-DREAM.webp",
    "url": "https://kpopofficial.com/album/ive-looks-can-kill/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"Looks Can Kill\"",
+    "Looks Can Kill",
+    "Mirror Mirror",
+    "SNAKESKIN",
+    "CRUMBS",
+    "Girls Girls Girls",
+    "Glow Motion"
+   ],
    "links": [
     "https://x.com/IVEstarship",
     "https://x.com/IVEstarship_JP",
@@ -5038,7 +5080,7 @@
    "title": "BREAK EVEN",
    "titleTrack": "You're Under Arrest",
    "date": "2026-10-26T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/Teaser-for-ILLIT-4th-Mini-Album-MAMIHLAPINATAPAI.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ILLIT-Members-for-BREAK-EVEN.webp",
    "url": "https://kpopofficial.com/album/illit-break-even/",
    "tracklist": [
     "Title – \"You’re Under Arrest\"",
