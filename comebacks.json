@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T13:23:10+00:00",
+ "generated": "2026-10-07T23:06:04+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -259,13 +259,15 @@
   {
    "artist": "YOUNG POSSE",
    "type": "3rd Digital Single",
-   "title": "GO해",
+   "title": "GO AHEAD",
    "titleTrack": "GO해",
    "date": "2026-10-07T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-YOUNG-POSSE-GO-AHEAD.webp",
    "url": "https://kpopofficial.com/album/young-posse-go-ahead/",
    "tracklist": [
-    "Title – \"GO해\""
+    "Title – \"GO AHEAD\"",
+    "GO AHEAD",
+    "GO AHEAD (Inst.)"
    ],
    "links": [
     "https://x.com/youngposseup",
@@ -273,7 +275,7 @@
     "https://www.youtube.com/@YOUNGPOSSEUP",
     "https://www.tiktok.com/@youngposseup"
    ],
-   "mv": "https://www.youtube.com/watch?v=fXRPWJmjzGk"
+   "mv": "https://www.youtube.com/watch?v=J997YfFCw2I"
   },
   {
    "artist": "KIM JAE HWAN",
@@ -285,9 +287,9 @@
    "url": "https://kpopofficial.com/album/kim-jae-hwan-love-from-here/",
    "tracklist": [
     "Title – \"Call It Love\"",
-    "사랑이라 부를지도 모를 거야",
-    "너잖아",
-    "우리에게 한계는 없다!"
+    "Call It Love",
+    "It’s You",
+    "No Limits for Us!"
    ],
    "links": [
     "https://x.com/KJH_officialtwt",
@@ -296,49 +298,7 @@
     "https://www.youtube.com/@JAEHWANKIM_official",
     "https://www.tiktok.com/@kjh_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=gAnJJLsnnHo"
-  },
-  {
-   "artist": "KIM JAE HWAN",
-   "type": "Single Album",
-   "title": "Love, From Here",
-   "titleTrack": "Call It Love",
-   "date": "2026-10-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/KIM-JAE-HWAN-photo-2026.webp",
-   "url": "https://kpopofficial.com/album/kim-jae-hwan-love-from-here/",
-   "tracklist": [
-    "Title – \"Call It Love\"",
-    "사랑이라 부를지도 모를 거야",
-    "너잖아",
-    "우리에게 한계는 없다!"
-   ],
-   "links": [
-    "https://x.com/KJH_officialtwt",
-    "https://www.instagram.com/kjh_official/",
-    "https://www.instagram.com/jaehwan0527/",
-    "https://www.youtube.com/@JAEHWANKIM_official",
-    "https://www.tiktok.com/@kjh_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=gAnJJLsnnHo"
-  },
-  {
-   "artist": "YOUNG POSSE",
-   "type": "3rd Digital Single",
-   "title": "GO해",
-   "titleTrack": "GO해",
-   "date": "2026-10-07T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-YOUNG-POSSE-Members-Photo-2026.webp",
-   "url": "https://kpopofficial.com/album/young-posse-go-ahead/",
-   "tracklist": [
-    "Title – \"GO해\""
-   ],
-   "links": [
-    "https://x.com/youngposseup",
-    "https://www.instagram.com/youngposseup",
-    "https://www.youtube.com/@YOUNGPOSSEUP",
-    "https://www.tiktok.com/@youngposseup"
-   ],
-   "mv": "https://www.youtube.com/watch?v=fXRPWJmjzGk"
+   "mv": "https://www.youtube.com/watch?v=U2GPFUaulWM"
   },
   {
    "artist": "ONEW, ZICO",
@@ -362,6 +322,50 @@
     "https://www.tiktok.com/@onew_griffin"
    ],
    "mv": "https://www.youtube.com/watch?v=0vvWN8unyTo"
+  },
+  {
+   "artist": "KIM JAE HWAN",
+   "type": "Single Album",
+   "title": "Love, From Here",
+   "titleTrack": "Call It Love",
+   "date": "2026-10-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/KIM-JAE-HWAN-photo-2026.webp",
+   "url": "https://kpopofficial.com/album/kim-jae-hwan-love-from-here/",
+   "tracklist": [
+    "Title – \"Call It Love\"",
+    "Call It Love",
+    "It’s You",
+    "No Limits for Us!"
+   ],
+   "links": [
+    "https://x.com/KJH_officialtwt",
+    "https://www.instagram.com/kjh_official/",
+    "https://www.instagram.com/jaehwan0527/",
+    "https://www.youtube.com/@JAEHWANKIM_official",
+    "https://www.tiktok.com/@kjh_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=U2GPFUaulWM"
+  },
+  {
+   "artist": "YOUNG POSSE",
+   "type": "3rd Digital Single",
+   "title": "GO AHEAD",
+   "titleTrack": "GO해",
+   "date": "2026-10-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-YOUNG-POSSE-Members-Photo-2026.webp",
+   "url": "https://kpopofficial.com/album/young-posse-go-ahead/",
+   "tracklist": [
+    "Title – \"GO AHEAD\"",
+    "GO AHEAD",
+    "GO AHEAD (Inst.)"
+   ],
+   "links": [
+    "https://x.com/youngposseup",
+    "https://www.instagram.com/youngposseup",
+    "https://www.youtube.com/@YOUNGPOSSEUP",
+    "https://www.tiktok.com/@youngposseup"
+   ],
+   "mv": "https://www.youtube.com/watch?v=J997YfFCw2I"
   },
   {
    "artist": "LEE CHAEYEON (JP)",
@@ -801,31 +805,54 @@
    "mv": "https://www.youtube.com/watch?v=iBeo74ujfes"
   },
   {
-   "artist": "IVE",
-   "type": "EP",
-   "title": "Looks Can Kill",
-   "titleTrack": null,
-   "date": "2026-10-19T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
-   "url": "https://kpopofficial.com/album/ive-pre-release-looks-can-kill/",
+   "artist": "NMIXX",
+   "type": "6th EP",
+   "title": "Strange Muse",
+   "titleTrack": "Birthday Wish",
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-NMIXX-Members-Group-Photo.webp",
+   "url": "https://kpopofficial.com/album/nmixx-strange-muse/",
    "tracklist": [
-    "Pre-release – \"Looks Can Kill\"",
-    "Looks Can Kill",
-    "Mirror Mirror",
-    "SNAKESKIN",
-    "CRUMBS",
-    "Girls Girls Girls",
-    "Glow Motion"
+    "Title – \"Birthday Wish\"",
+    "Birthday Wish",
+    "Kerosene",
+    "RudE TaLK",
+    "Sing to the Moon (LILY, HAEWON)",
+    "Hot ‘n Unbothered (SULLYOON, BAE)",
+    "WHIP (JIWOO, KYUJIN)"
    ],
    "links": [
-    "https://x.com/IVEstarship",
-    "https://x.com/IVEstarship_JP",
-    "https://www.instagram.com/IVEstarship",
-    "https://www.youtube.com/@IVEstarship",
-    "https://www.youtube.com/@STARSHIP_official",
-    "https://www.tiktok.com/@ive.official"
+    "https://x.com/NMIXX_official",
+    "https://www.instagram.com/nmixx_official",
+    "https://www.youtube.com/@NMIXXOfficial",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@nmixx_official"
+   ]
+  },
+  {
+   "artist": "NMIXX",
+   "type": "6th EP",
+   "title": "Strange Muse",
+   "titleTrack": "Birthday Wish",
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-NMIXX-Members-Group-Photo-2.webp",
+   "url": "https://kpopofficial.com/album/nmixx-strange-muse/",
+   "tracklist": [
+    "Title – \"Birthday Wish\"",
+    "Birthday Wish",
+    "Kerosene",
+    "RudE TaLK",
+    "Sing to the Moon (LILY, HAEWON)",
+    "Hot ‘n Unbothered (SULLYOON, BAE)",
+    "WHIP (JIWOO, KYUJIN)"
    ],
-   "mv": "https://www.youtube.com/watch?v=iBeo74ujfes"
+   "links": [
+    "https://x.com/NMIXX_official",
+    "https://www.instagram.com/nmixx_official",
+    "https://www.youtube.com/@NMIXXOfficial",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@nmixx_official"
+   ]
   },
   {
    "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
@@ -854,26 +881,6 @@
    ]
   },
   {
-   "artist": "MAX CHANGMIN (TVXQ)",
-   "type": "3rd Mini Album",
-   "title": "All Of My Life",
-   "titleTrack": "All Of My Life",
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-MAX-CHANGMIN-All-Of-My-Life.webp",
-   "url": "https://kpopofficial.com/album/max-changmin-all-of-my-life/",
-   "tracklist": [
-    "Title – \"All Of My Life\""
-   ],
-   "links": [
-    "https://x.com/TVXQ",
-    "https://www.instagram.com/tvxq.official/",
-    "https://www.youtube.com/@TVXQ",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@tvxq_official",
-    "https://www.youtube.com/channel/UC9B2Nk_PRhAjp59o0AT9-sQ"
-   ]
-  },
-  {
    "artist": "EVNNE",
    "type": "6th Mini Album",
    "title": "on: our noise",
@@ -891,28 +898,23 @@
    ]
   },
   {
-   "artist": "NMIXX",
-   "type": "6th EP",
-   "title": "Strange Muse",
-   "titleTrack": "Birthday Wish",
+   "artist": "MAX CHANGMIN (TVXQ)",
+   "type": "3rd Mini Album",
+   "title": "All Of My Life",
+   "titleTrack": "All Of My Life",
    "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-NMIXX-Members-Group-Photo-2.webp",
-   "url": "https://kpopofficial.com/album/nmixx-strange-muse/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-MAX-CHANGMIN-All-Of-My-Life.webp",
+   "url": "https://kpopofficial.com/album/max-changmin-all-of-my-life/",
    "tracklist": [
-    "Title – \"Birthday Wish\"",
-    "Birthday Wish",
-    "Kerosene",
-    "RudE TaLK",
-    "Sing to the Moon (LILY, HAEWON)",
-    "Hot ‘n Unbothered (SULLYOON, BAE)",
-    "WHIP (JIWOO, KYUJIN)"
+    "Title – \"All Of My Life\""
    ],
    "links": [
-    "https://x.com/NMIXX_official",
-    "https://www.instagram.com/nmixx_official",
-    "https://www.youtube.com/@NMIXXOfficial",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@nmixx_official"
+    "https://x.com/TVXQ",
+    "https://www.instagram.com/tvxq.official/",
+    "https://www.youtube.com/@TVXQ",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@tvxq_official",
+    "https://www.youtube.com/channel/UC9B2Nk_PRhAjp59o0AT9-sQ"
    ]
   },
   {
@@ -989,6 +991,32 @@
     "https://www.instagram.com/babymonster_ygofficial",
     "https://www.youtube.com/@BABYMONSTER",
     "https://www.tiktok.com/@babymonster_yg_tiktok"
+   ]
+  },
+  {
+   "artist": "IVE",
+   "type": "EP",
+   "title": "Looks Can Kill",
+   "titleTrack": "Looks Can Kill",
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
+   "url": "https://kpopofficial.com/album/ive-looks-can-kill/",
+   "tracklist": [
+    "Title – \"Looks Can Kill\"",
+    "Looks Can Kill",
+    "Mirror Mirror",
+    "SNAKESKIN",
+    "CRUMBS",
+    "Girls Girls Girls",
+    "Glow Motion"
+   ],
+   "links": [
+    "https://x.com/IVEstarship",
+    "https://x.com/IVEstarship_JP",
+    "https://www.instagram.com/IVEstarship",
+    "https://www.youtube.com/@IVEstarship",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@ive.official"
    ]
   },
   {

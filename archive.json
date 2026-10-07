@@ -4070,9 +4070,9 @@
    "url": "https://kpopofficial.com/album/kim-jae-hwan-love-from-here/",
    "tracklist": [
     "Title – \"Call It Love\"",
-    "사랑이라 부를지도 모를 거야",
-    "너잖아",
-    "우리에게 한계는 없다!"
+    "Call It Love",
+    "It’s You",
+    "No Limits for Us!"
    ],
    "links": [
     "https://x.com/KJH_officialtwt",
@@ -4081,7 +4081,7 @@
     "https://www.youtube.com/@JAEHWANKIM_official",
     "https://www.tiktok.com/@kjh_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=gAnJJLsnnHo"
+   "mv": "https://www.youtube.com/watch?v=U2GPFUaulWM"
   },
   {
    "artist": "ONEW, ZICO",
@@ -4105,6 +4105,27 @@
     "https://www.tiktok.com/@onew_griffin"
    ],
    "mv": "https://www.youtube.com/watch?v=0vvWN8unyTo"
+  },
+  {
+   "artist": "YOUNG POSSE",
+   "type": "3rd Digital Single",
+   "title": "GO AHEAD",
+   "titleTrack": "GO해",
+   "date": "2026-10-07T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-YOUNG-POSSE-Members-Photo-2026.webp",
+   "url": "https://kpopofficial.com/album/young-posse-go-ahead/",
+   "tracklist": [
+    "Title – \"GO AHEAD\"",
+    "GO AHEAD",
+    "GO AHEAD (Inst.)"
+   ],
+   "links": [
+    "https://x.com/youngposseup",
+    "https://www.instagram.com/youngposseup",
+    "https://www.youtube.com/@YOUNGPOSSEUP",
+    "https://www.tiktok.com/@youngposseup"
+   ],
+   "mv": "https://www.youtube.com/watch?v=J997YfFCw2I"
   },
   {
    "artist": "MODYSSEY",
@@ -4800,7 +4821,7 @@
    "title": "Looks Can Kill",
    "titleTrack": null,
    "date": "2026-10-19T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-IVE-JAPAN-LUCID-DREAM.webp",
    "url": "https://kpopofficial.com/album/ive-pre-release-looks-can-kill/",
    "tracklist": [
     "Pre-release – \"Looks Can Kill\"",
