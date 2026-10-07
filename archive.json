@@ -4104,7 +4104,7 @@
     "https://www.youtube.com/@ONEW_GRIFFIN",
     "https://www.tiktok.com/@onew_griffin"
    ],
-   "mv": "https://www.youtube.com/watch?v=T4gzREOrYLU"
+   "mv": "https://www.youtube.com/watch?v=0vvWN8unyTo"
   },
   {
    "artist": "MODYSSEY",
@@ -4294,18 +4294,21 @@
    "artist": "MEOVV",
    "type": "Single Album",
    "title": "GO HARD",
-   "titleTrack": null,
+   "titleTrack": "GO HARD",
    "date": "2026-10-12T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-MEOVV-GO-HARD.webp",
    "url": "https://kpopofficial.com/album/meovv-go-hard/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"GO HARD\""
+   ],
    "links": [
     "https://x.com/OFFICIAL_MEOVV",
     "https://www.instagram.com/meovv/",
     "https://www.youtube.com/@MEOVV_OFFICIAL",
     "https://www.youtube.com/@THEBLACKLABEL",
     "https://www.tiktok.com/@meovv_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=tGragtYHmz0"
   },
   {
    "artist": "MODYSSEY",
@@ -4884,11 +4887,20 @@
    "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
    "type": "1st Mini Album",
    "title": "DREAMSCAPE",
-   "titleTrack": null,
+   "titleTrack": "12 o'clock",
    "date": "2026-10-19T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/09/SEVENTEEN-JxJ-JEONGHAN-JOSHUA.webp",
    "url": "https://kpopofficial.com/album/jeonghan-joshua-dreamscape/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"12 o’clock\"",
+    "Like you",
+    "12 o’clock",
+    "Outside",
+    "One plus one",
+    "Not personal (JOSHUA Solo)",
+    "컬러링 (JEONGHAN Solo)",
+    "No looking back"
+   ],
    "links": [
     "https://x.com/pledis_17",
     "https://www.instagram.com/saythename_17/",
@@ -5014,6 +5026,22 @@
     "https://www.youtube.com/@MODYSSEY.Official",
     "https://www.tiktok.com/@modyssey.official",
     "https://www.youtube.com/@MODYSSEY.Official/releases"
+   ]
+  },
+  {
+   "artist": "BABYMONSTER",
+   "type": "Comeback",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-23T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-BABYMONSTER-Members-for-Single-SUGAR-HONEY-ICE-TEA.webp",
+   "url": "https://kpopofficial.com/album/babymonster-coming-soon/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/YGBABYMONSTER_",
+    "https://www.instagram.com/babymonster_ygofficial",
+    "https://www.youtube.com/@BABYMONSTER",
+    "https://www.tiktok.com/@babymonster_yg_tiktok"
    ]
   },
   {
@@ -5219,6 +5247,24 @@
     "https://www.tiktok.com/@xikers_official",
     "https://www.youtube.com/@xikers_official/releases"
    ]
+  },
+  {
+   "artist": "TWS",
+   "type": "2nd Single Album",
+   "title": "TO US",
+   "titleTrack": null,
+   "date": "2026-11-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-TWS-NO-TRAGEDY-Teaser.webp",
+   "url": "https://kpopofficial.com/album/tws-to-us/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TWS_PLEDIS",
+    "https://www.instagram.com/tws_pledis",
+    "https://www.youtube.com/@TWS_PLEDIS",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tws_pledis"
+   ],
+   "mv": "https://www.youtube.com/watch?v=5xcEJHC6ufo"
   },
   {
    "artist": "RESCENE",
