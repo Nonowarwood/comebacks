@@ -4150,7 +4150,7 @@
    "title": "My Voice",
    "titleTrack": "ボクノコエ (My Voice)",
    "date": "2026-10-08T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-LEE-CHAEYEON-My-Voice.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/LEE-CHAEYEON-My-Voice-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/lee-chaeyeon-my-voice/",
    "tracklist": [
     "Title – \"ボクノコエ (My Voice)\"",
@@ -4173,7 +4173,7 @@
    "title": "二十七 (27)",
    "titleTrack": "Stay",
    "date": "2026-10-08T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/YUQI-idle-photo-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/YUQI-27-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/yuqi-27/",
    "tracklist": [
     "Title – \"Stay\"",
@@ -4198,7 +4198,7 @@
    "title": "Still",
    "titleTrack": "Still",
    "date": "2026-10-08T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/NFlying-Members-Photo-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/NFlying-Still-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/nflying-still/",
    "tracklist": [
     "Title – \"Still\"",
@@ -4501,6 +4501,45 @@
     "https://www.tiktok.com/@v01d_ix"
    ],
    "mv": "https://www.youtube.com/watch?v=xMCdo1CuDug"
+  },
+  {
+   "artist": "A2O LITE",
+   "type": "Debut Digital Single",
+   "title": "NEON",
+   "titleTrack": null,
+   "date": "2026-10-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-A2O-LITE-Kpop.webp",
+   "url": "https://kpopofficial.com/album/a2o-lite-neon/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/A2OWORLD",
+    "https://x.com/A2O_LITE",
+    "https://www.instagram.com/a2o.world/",
+    "https://www.instagram.com/a2o.lite/",
+    "https://www.youtube.com/@A2OWORLD",
+    "https://www.youtube.com/@A2OLITE",
+    "https://www.tiktok.com/@a2o.lite"
+   ],
+   "mv": "https://www.youtube.com/watch?v=iXQsuYOyvos"
+  },
+  {
+   "artist": "A2O SOUL",
+   "type": "Debut Album Pre-Release Single",
+   "title": "SUPERSTAR",
+   "titleTrack": null,
+   "date": "2026-10-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-A2O-Soul-kpop.webp",
+   "url": "https://kpopofficial.com/album/a2o-soul-superstar/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/A2OWORLD",
+    "https://x.com/A2O_SOUL",
+    "https://www.instagram.com/a2o.world/",
+    "https://www.instagram.com/a2o.soul/",
+    "https://www.youtube.com/@A2OWORLD",
+    "https://www.youtube.com/@A2OSOUL",
+    "https://www.tiktok.com/@a2o.soul"
+   ]
   },
   {
    "artist": "MODYSSEY",
