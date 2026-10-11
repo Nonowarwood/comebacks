@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T12:47:55+00:00",
+ "generated": "2026-10-11T21:57:21+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -69,6 +69,37 @@
    "mv": "https://www.youtube.com/watch?v=iUNLe0iD9P8"
   },
   {
+   "artist": "YESUNG (Super Junior)",
+   "type": "2nd Album",
+   "title": "Where We Are",
+   "titleTrack": "Pedazos",
+   "date": "2026-10-06T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/YESUNG-Where-We-Are-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/yesung-where-we-are/",
+   "tracklist": [
+    "Title – \"Pedazos\"",
+    "Winds of Time",
+    "Pedazos",
+    "Lonely Night",
+    "And then, Tomorrow",
+    "Let’s Dance",
+    "Time Will Heal",
+    "MATADAYO",
+    "Our Youth",
+    "Ordinary Miracles",
+    "The Rain Between Us",
+    "The Forest Dwellers",
+    "After The Dream"
+   ],
+   "links": [
+    "https://x.com/YESUNG_smtown",
+    "https://www.instagram.com/yesung_smtown",
+    "https://www.instagram.com/yesung1106/",
+    "https://www.youtube.com/@YESUNG_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=yhcmT6gd4kQ"
+  },
+  {
    "artist": "KickFlip",
    "type": "5th Mini Album",
    "title": "KICK OFF THE WALL Pt. 1",
@@ -127,37 +158,6 @@
     "https://www.tiktok.com/@camera_roll_x.in"
    ],
    "mv": "https://www.youtube.com/watch?v=1dQkdNs_6Hc"
-  },
-  {
-   "artist": "YESUNG (Super Junior)",
-   "type": "2nd Album",
-   "title": "Where We Are",
-   "titleTrack": "Pedazos",
-   "date": "2026-10-06T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/YESUNG-Where-We-Are-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/yesung-where-we-are/",
-   "tracklist": [
-    "Title – \"Pedazos\"",
-    "Winds of Time",
-    "Pedazos",
-    "Lonely Night",
-    "And then, Tomorrow",
-    "Let’s Dance",
-    "Time Will Heal",
-    "MATADAYO",
-    "Our Youth",
-    "Ordinary Miracles",
-    "The Rain Between Us",
-    "The Forest Dwellers",
-    "After The Dream"
-   ],
-   "links": [
-    "https://x.com/YESUNG_smtown",
-    "https://www.instagram.com/yesung_smtown",
-    "https://www.instagram.com/yesung1106/",
-    "https://www.youtube.com/@YESUNG_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=yhcmT6gd4kQ"
   },
   {
    "artist": "YOUNG POSSE",
@@ -309,7 +309,9 @@
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-MEOVV-GO-HARD.webp",
    "url": "https://kpopofficial.com/album/meovv-go-hard/",
    "tracklist": [
-    "Title – \"GO HARD\""
+    "Title – \"GO HARD\"",
+    "GO HARD",
+    "Indestructible"
    ],
    "links": [
     "https://x.com/OFFICIAL_MEOVV",
@@ -319,32 +321,6 @@
     "https://www.tiktok.com/@meovv_official"
    ],
    "mv": "https://www.youtube.com/watch?v=tGragtYHmz0"
-  },
-  {
-   "artist": "NCT WISH",
-   "type": "4th Mini Album",
-   "title": "I SPY",
-   "titleTrack": "I Spy",
-   "date": "2026-10-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/cover-NCT-WISH-Japan-1st-Mini-Album-WISHLIST.webp",
-   "url": "https://kpopofficial.com/album/nct-wish-i-spy/",
-   "tracklist": [
-    "Title – \"I Spy\"",
-    "I Spy",
-    "We Own This Street",
-    "Upgrade",
-    "Super Major",
-    "Hubble Time",
-    "Like A Dream (꿈결)"
-   ],
-   "links": [
-    "https://x.com/nctwishofficial",
-    "https://www.instagram.com/nctwish_official",
-    "https://www.youtube.com/@NCTWISH",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
-   ],
-   "mv": "https://www.youtube.com/watch?v=OwgvFefFAVA"
   },
   {
    "artist": "Xdinary Heroes",
@@ -371,7 +347,7 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@xheroes_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=xSei20DgRnQ"
+   "mv": "https://www.youtube.com/watch?v=gtgO9-qv3Xs"
   },
   {
    "artist": "MODYSSEY",
@@ -425,7 +401,7 @@
     "https://www.youtube.com/@sunghanbin",
     "https://www.youtube.com/@THEL1VE"
    ],
-   "mv": "https://www.youtube.com/watch?v=kiTWUCrhQGg"
+   "mv": "https://www.youtube.com/watch?v=kI6Y0R89w18"
   },
   {
    "artist": "NCT WISH",
@@ -451,7 +427,7 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@official_nct"
    ],
-   "mv": "https://www.youtube.com/watch?v=OwgvFefFAVA"
+   "mv": "https://www.youtube.com/watch?v=8is5ASK6v-w"
   },
   {
    "artist": "MEOVV",
@@ -462,7 +438,9 @@
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-MEOVV-GO-HARD.webp",
    "url": "https://kpopofficial.com/album/meovv-go-hard/",
    "tracklist": [
-    "Title – \"GO HARD\""
+    "Title – \"GO HARD\"",
+    "GO HARD",
+    "Indestructible"
    ],
    "links": [
     "https://x.com/OFFICIAL_MEOVV",
@@ -716,58 +694,6 @@
    "mv": "https://www.youtube.com/watch?v=iBeo74ujfes"
   },
   {
-   "artist": "IVE",
-   "type": "EP",
-   "title": "Looks Can Kill",
-   "titleTrack": null,
-   "date": "2026-10-19T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
-   "url": "https://kpopofficial.com/album/ive-pre-release-looks-can-kill/",
-   "tracklist": [
-    "Pre-release – \"Looks Can Kill\"",
-    "Looks Can Kill",
-    "Mirror Mirror",
-    "SNAKESKIN",
-    "CRUMBS",
-    "Girls Girls Girls",
-    "Glow Motion"
-   ],
-   "links": [
-    "https://x.com/IVEstarship",
-    "https://x.com/IVEstarship_JP",
-    "https://www.instagram.com/IVEstarship",
-    "https://www.youtube.com/@IVEstarship",
-    "https://www.youtube.com/@STARSHIP_official",
-    "https://www.tiktok.com/@ive.official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=iBeo74ujfes"
-  },
-  {
-   "artist": "NMIXX",
-   "type": "6th EP",
-   "title": "Strange Muse",
-   "titleTrack": "Birthday Wish",
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-NMIXX-Members-Group-Photo.webp",
-   "url": "https://kpopofficial.com/album/nmixx-strange-muse/",
-   "tracklist": [
-    "Title – \"Birthday Wish\"",
-    "Birthday Wish",
-    "Kerosene",
-    "RudE TaLK",
-    "Sing to the Moon (LILY, HAEWON)",
-    "Hot ‘n Unbothered (SULLYOON, BAE)",
-    "WHIP (JIWOO, KYUJIN)"
-   ],
-   "links": [
-    "https://x.com/NMIXX_official",
-    "https://www.instagram.com/nmixx_official",
-    "https://www.youtube.com/@NMIXXOfficial",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@nmixx_official"
-   ]
-  },
-  {
    "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
    "type": "1st Mini Album",
    "title": "DREAMSCAPE",
@@ -948,24 +874,6 @@
    ]
   },
   {
-   "artist": "RIIZE",
-   "type": "Digital Single",
-   "title": null,
-   "titleTrack": null,
-   "date": "2026-10-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/RIIZE-Members-group-photo.webp",
-   "url": "https://kpopofficial.com/album/riize-digital-single/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/RIIZE_official",
-    "https://www.instagram.com/riize_official/",
-    "https://www.youtube.com/@RIIZE_official",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@riize_official",
-    "https://www.youtube.com/@RIIZE_official/releases"
-   ]
-  },
-  {
    "artist": "IVE",
    "type": "EP",
    "title": "Looks Can Kill",
@@ -989,6 +897,24 @@
     "https://www.youtube.com/@IVEstarship",
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@ive.official"
+   ]
+  },
+  {
+   "artist": "RIIZE",
+   "type": "Digital Single",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/RIIZE-Members-group-photo.webp",
+   "url": "https://kpopofficial.com/album/riize-digital-single/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/RIIZE_official",
+    "https://www.instagram.com/riize_official/",
+    "https://www.youtube.com/@RIIZE_official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@riize_official",
+    "https://www.youtube.com/@RIIZE_official/releases"
    ]
   },
   {
