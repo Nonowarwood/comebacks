@@ -4874,7 +4874,7 @@
    "title": "Looks Can Kill",
    "titleTrack": null,
    "date": "2026-10-19T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-IVE-JAPAN-LUCID-DREAM.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/ive-pre-release-looks-can-kill/",
    "tracklist": [
     "Pre-release – \"Looks Can Kill\"",
@@ -5305,6 +5305,29 @@
    ]
   },
   {
+   "artist": "AM8IC",
+   "type": "1st Single Album",
+   "title": "RASCALS (Find The Pearl)",
+   "titleTrack": "Rascals (Find The Pearl)",
+   "date": "2026-10-29T12:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-AM8IC-RASCALS-Find-The-Pearl.webp",
+   "url": "https://kpopofficial.com/album/am8ic-rascals-find-the-pearl/",
+   "tracklist": [
+    "Title – \"Rascals (Find The Pearl)\"",
+    "Rascals (Find The Pearl)",
+    "Diamonds",
+    "Rascals (Find The Pearl) (Pop Punk Remix)"
+   ],
+   "links": [
+    "https://x.com/AM8IC_TOV",
+    "https://www.instagram.com/am8ic_tov/",
+    "https://www.youtube.com/@toventertainment",
+    "https://www.youtube.com/@AM8IC_TOV",
+    "https://www.tiktok.com/@am8ic_tov",
+    "https://www.youtube.com/@AM8IC_TOV/releases"
+   ]
+  },
+  {
    "artist": "xikers",
    "type": "8th Mini Album",
    "title": "ROUTE ZERO : The CALLING",
@@ -5355,6 +5378,24 @@
     "https://www.youtube.com/@RESCENE_official",
     "https://www.tiktok.com/@rescene_official"
    ]
+  },
+  {
+   "artist": "LNGSHOT",
+   "type": "EP",
+   "title": "S.W.I.S.H.",
+   "titleTrack": null,
+   "date": "2026-11-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Teaser-LNGSHOT-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/lngshot-swish/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/LNGSHOT4sho",
+    "https://www.instagram.com/lngshot4sho/",
+    "https://www.youtube.com/@LNGSHOT4SHO",
+    "https://www.youtube.com/@MOREVISION",
+    "https://www.tiktok.com/@lngshot4sho"
+   ],
+   "mv": "https://www.youtube.com/watch?v=b_hgDjQrVOE"
   },
   {
    "artist": "ATEEZ",
