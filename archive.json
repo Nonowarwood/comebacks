@@ -4492,6 +4492,23 @@
    "type": "2nd Mini Album",
    "title": "YOUTHQUAKE",
    "titleTrack": null,
+   "date": "2026-10-13T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-V01D-Members-Photo-2026.webp",
+   "url": "https://kpopofficial.com/album/v01d-youthquake/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/V01D_iX",
+    "https://www.instagram.com/v01d_ix",
+    "https://www.youtube.com/@v01d-ix",
+    "https://www.tiktok.com/@v01d_ix"
+   ],
+   "mv": "https://www.youtube.com/watch?v=xMCdo1CuDug"
+  },
+  {
+   "artist": "V01D",
+   "type": "2nd Mini Album",
+   "title": "YOUTHQUAKE",
+   "titleTrack": null,
    "date": "2026-10-13T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-V01D-Members-Photo-2026.webp",
    "url": "https://kpopofficial.com/album/v01d-youthquake/",
@@ -4512,7 +4529,9 @@
    "date": "2026-10-13T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Cover-A2O-LITE-Members.webp",
    "url": "https://kpopofficial.com/album/a2o-lite-neon/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"NEON\""
+   ],
    "links": [
     "https://x.com/A2OWORLD",
     "https://x.com/A2O_LITE",
@@ -4532,7 +4551,9 @@
    "date": "2026-10-13T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-A2O-SOUL-Members.webp",
    "url": "https://kpopofficial.com/album/a2o-soul-superstar/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"SUPERSTAR\""
+   ],
    "links": [
     "https://x.com/A2OWORLD",
     "https://x.com/A2O_SOUL",
@@ -4543,6 +4564,27 @@
     "https://www.tiktok.com/@a2o.soul"
    ],
    "mv": "https://www.youtube.com/watch?v=D8CYC5P6Z8Y"
+  },
+  {
+   "artist": "EPIK HIGH x DAVICHI",
+   "type": "Single",
+   "title": "Mise en scène",
+   "titleTrack": "Mise en scène",
+   "date": "2026-10-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-EPIK-HIGH-DAVICHI-Mise-en-scene.webp",
+   "url": "https://kpopofficial.com/album/epik-high-davichi-mise-en-scene/",
+   "tracklist": [
+    "Title – \"Mise en scène\"",
+    "Mise en scène",
+    "Mise en scène (Clean Ver.)"
+   ],
+   "links": [
+    "https://x.com/EpikHighHQ",
+    "https://www.instagram.com/blobyblo",
+    "https://www.youtube.com/@OfficialEpikHigh",
+    "https://www.tiktok.com/@epikhighishere"
+   ],
+   "mv": "https://www.youtube.com/watch?v=pTziJ4RaYnk"
   },
   {
    "artist": "MODYSSEY",
@@ -4603,9 +4645,9 @@
     "https://x.com/_official_DD",
     "https://www.instagram.com/daily_direction_official",
     "https://www.youtube.com/@DAILYDIRECTION_official/videos",
-    "https://www.tiktok.com/@daily_direction",
-    "https://www.youtube.com/channel/UCoDWFsIb5tfXSuIcpIMdlXw"
-   ]
+    "https://www.tiktok.com/@daily_direction"
+   ],
+   "mv": "https://www.youtube.com/watch?v=z4wi0Xp3xow"
   },
   {
    "artist": "FLARE U",
@@ -4630,7 +4672,7 @@
     "https://www.youtube.com/@flareu_official",
     "https://www.tiktok.com/@flareu_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=le8yhCzKruI"
+   "mv": "https://www.youtube.com/watch?v=1HSw3D6Mgwk"
   },
   {
    "artist": "LEE HAN GYUL",
@@ -4654,7 +4696,8 @@
     "https://www.instagram.com/1gyul_2gyul/",
     "https://www.youtube.com/@LEE_HAN_GYUL",
     "https://www.tiktok.com/@lee_han_gyul"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=n5fL9rDHaqU"
   },
   {
    "artist": "YUJU",
@@ -4690,15 +4733,17 @@
    "date": "2026-10-14T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NAMWOOHYUN-2026.webp",
    "url": "https://kpopofficial.com/album/namwoohyun-2x8/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"DEVIL\""
+   ],
    "links": [
     "https://x.com/NWH_officialtwt",
     "https://www.instagram.com/official_namwoohyun",
     "https://www.instagram.com/nwh91",
     "https://www.youtube.com/@NAMWOOHYUN_OFFICIAL",
-    "https://www.tiktok.com/@infinitewh",
-    "https://www.youtube.com/@NAMWOOHYUN_OFFICIAL/releases"
-   ]
+    "https://www.tiktok.com/@infinitewh"
+   ],
+   "mv": "https://www.youtube.com/watch?v=1t26PLbizJ0"
   },
   {
    "artist": "KickFlip",
@@ -4746,14 +4791,21 @@
    "date": "2026-10-15T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-TEEN-TOP-Members-2026.webp",
    "url": "https://kpopofficial.com/album/teen-top-dont-stop/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"DON’T STOP\"",
+    "DON’T STOP",
+    "Everglow",
+    "Come Over",
+    "See My Angel",
+    "Miss Right"
+   ],
    "links": [
     "https://x.com/TEEN_TOP",
     "https://www.instagram.com/official_teentop/",
     "https://www.youtube.com/@teentopofficial",
-    "https://www.tiktok.com/@official_teentop",
-    "https://www.youtube.com/@teentopofficial/releases"
-   ]
+    "https://www.tiktok.com/@official_teentop"
+   ],
+   "mv": "https://www.youtube.com/watch?v=nDxpQ8WR1js"
   },
   {
    "artist": "tripleS",
