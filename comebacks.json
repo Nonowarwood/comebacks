@@ -1,7 +1,30 @@
 {
- "generated": "2026-10-13T22:44:32+00:00",
+ "generated": "2026-10-14T04:52:08+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
+  {
+   "artist": "LEE CHAEYEON (JP)",
+   "type": "Japan 1st Single Album",
+   "title": "My Voice",
+   "titleTrack": "ボクノコエ (My Voice)",
+   "date": "2026-10-08T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/LEE-CHAEYEON-My-Voice-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/lee-chaeyeon-my-voice/",
+   "tracklist": [
+    "Title – \"ボクノコエ (My Voice)\"",
+    "My Voice",
+    "No Tears On the Dancefloor (Jp Ver.)"
+   ],
+   "links": [
+    "https://x.com/official_LCY",
+    "https://x.com/officialLCY_JP",
+    "https://www.instagram.com/official.lcy",
+    "https://www.instagram.com/chaestival_/",
+    "https://www.youtube.com/@official_LCY",
+    "https://www.tiktok.com/@official.lcy"
+   ],
+   "mv": "https://www.youtube.com/watch?v=6UWiyhBv41Y"
+  },
   {
    "artist": "YUQI (i-dle)",
    "type": "2nd Mini Album",
@@ -103,6 +126,56 @@
    "mv": "https://www.youtube.com/watch?v=10_1vuZAeP0"
   },
   {
+   "artist": "PLAVE",
+   "type": "5th Mini Album",
+   "title": "HYPERDRIVE",
+   "titleTrack": "Star Trace",
+   "date": "2026-10-12T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/PLAVE-HYPERDRIVE-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/plave-hyperdrive/",
+   "tracklist": [
+    "Title – \"Star Trace\"",
+    "GGUN",
+    "Sweet Rain",
+    "Star Trace",
+    "The Answer Is Yes",
+    "Rewind"
+   ],
+   "links": [
+    "https://x.com/plave_official",
+    "https://www.instagram.com/plave_official/",
+    "https://www.youtube.com/@plave_official",
+    "https://www.tiktok.com/@plave_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=TBmE7m0yEwY"
+  },
+  {
+   "artist": "NCT WISH",
+   "type": "4th Mini Album",
+   "title": "I SPY",
+   "titleTrack": "I Spy",
+   "date": "2026-10-12T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NCT-WISH-I-SPY-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/nct-wish-i-spy/",
+   "tracklist": [
+    "Title – \"I Spy\"",
+    "I Spy",
+    "We Own This Street",
+    "Upgrade",
+    "Super Major",
+    "Hubble Time",
+    "Like A Dream (꿈결)"
+   ],
+   "links": [
+    "https://x.com/nctwishofficial",
+    "https://www.instagram.com/nctwish_official",
+    "https://www.youtube.com/@NCTWISH",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct"
+   ],
+   "mv": "https://www.youtube.com/watch?v=xIlFjHHUfI0"
+  },
+  {
    "artist": "SUNGHANBIN (ZEROBASEONE)",
    "type": "1st EP",
    "title": "DEAD:ALIVE",
@@ -132,56 +205,6 @@
    "mv": "https://www.youtube.com/watch?v=CWewoEBGIos"
   },
   {
-   "artist": "NCT WISH",
-   "type": "4th Mini Album",
-   "title": "I SPY",
-   "titleTrack": "I Spy",
-   "date": "2026-10-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NCT-WISH-I-SPY-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/nct-wish-i-spy/",
-   "tracklist": [
-    "Title – \"I Spy\"",
-    "I Spy",
-    "We Own This Street",
-    "Upgrade",
-    "Super Major",
-    "Hubble Time",
-    "Like A Dream (꿈결)"
-   ],
-   "links": [
-    "https://x.com/nctwishofficial",
-    "https://www.instagram.com/nctwish_official",
-    "https://www.youtube.com/@NCTWISH",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
-   ],
-   "mv": "https://www.youtube.com/watch?v=xIlFjHHUfI0"
-  },
-  {
-   "artist": "PLAVE",
-   "type": "5th Mini Album",
-   "title": "HYPERDRIVE",
-   "titleTrack": "Star Trace",
-   "date": "2026-10-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/PLAVE-HYPERDRIVE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/plave-hyperdrive/",
-   "tracklist": [
-    "Title – \"Star Trace\"",
-    "GGUN",
-    "Sweet Rain",
-    "Star Trace",
-    "The Answer Is Yes",
-    "Rewind"
-   ],
-   "links": [
-    "https://x.com/plave_official",
-    "https://www.instagram.com/plave_official/",
-    "https://www.youtube.com/@plave_official",
-    "https://www.tiktok.com/@plave_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=TBmE7m0yEwY"
-  },
-  {
    "artist": "MODYSSEY",
    "type": "1st EP",
    "title": "2.Multitude: How We Bloom",
@@ -207,27 +230,10 @@
    "mv": "https://www.youtube.com/watch?v=3bx6fS455sA"
   },
   {
-   "artist": "V01D",
-   "type": "2nd Mini Album",
-   "title": "YOUTHQUAKE",
-   "titleTrack": null,
-   "date": "2026-10-13T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-V01D-Members-Photo-2026.webp",
-   "url": "https://kpopofficial.com/album/v01d-youthquake/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/V01D_iX",
-    "https://www.instagram.com/v01d_ix",
-    "https://www.youtube.com/@v01d-ix",
-    "https://www.tiktok.com/@v01d_ix"
-   ],
-   "mv": "https://www.youtube.com/watch?v=xMCdo1CuDug"
-  },
-  {
    "artist": "A2O LITE",
    "type": "Debut Digital Single",
    "title": "NEON",
-   "titleTrack": null,
+   "titleTrack": "NEON",
    "date": "2026-10-13T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/A2O-LITE-Kpop.webp",
    "url": "https://kpopofficial.com/album/a2o-lite-neon/",
@@ -249,7 +255,7 @@
    "artist": "A2O SOUL",
    "type": "Debut Album Pre-Release Single",
    "title": "SUPERSTAR",
-   "titleTrack": null,
+   "titleTrack": "SUPERSTAR",
    "date": "2026-10-13T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/A2O-Soul-kpop.webp",
    "url": "https://kpopofficial.com/album/a2o-soul-superstar/",
@@ -273,7 +279,7 @@
    "title": "Mise en scène",
    "titleTrack": "Mise en scène",
    "date": "2026-10-13T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-EPIK-HIGH-DAVICHI-Mise-en-scene.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/EPIK-HIGH-DAVICHI-Mise-en-scene-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/epik-high-davichi-mise-en-scene/",
    "tracklist": [
     "Title – \"Mise en scène\"",
@@ -287,87 +293,6 @@
     "https://www.tiktok.com/@epikhighishere"
    ],
    "mv": "https://www.youtube.com/watch?v=pTziJ4RaYnk"
-  },
-  {
-   "artist": "A2O LITE",
-   "type": "Debut Digital Single",
-   "title": "NEON",
-   "titleTrack": null,
-   "date": "2026-10-13T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Cover-A2O-LITE-Members.webp",
-   "url": "https://kpopofficial.com/album/a2o-lite-neon/",
-   "tracklist": [
-    "Title – \"NEON\""
-   ],
-   "links": [
-    "https://x.com/A2OWORLD",
-    "https://x.com/A2O_LITE",
-    "https://www.instagram.com/a2o.world/",
-    "https://www.instagram.com/a2o.lite/",
-    "https://www.youtube.com/@A2OWORLD",
-    "https://www.youtube.com/@A2OLITE",
-    "https://www.tiktok.com/@a2o.lite"
-   ],
-   "mv": "https://www.youtube.com/watch?v=D968qfUZMUE"
-  },
-  {
-   "artist": "A2O SOUL",
-   "type": "Debut Album Pre-Release Single",
-   "title": "SUPERSTAR",
-   "titleTrack": null,
-   "date": "2026-10-13T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-A2O-SOUL-Members.webp",
-   "url": "https://kpopofficial.com/album/a2o-soul-superstar/",
-   "tracklist": [
-    "Title – \"SUPERSTAR\""
-   ],
-   "links": [
-    "https://x.com/A2OWORLD",
-    "https://x.com/A2O_SOUL",
-    "https://www.instagram.com/a2o.world/",
-    "https://www.instagram.com/a2o.soul/",
-    "https://www.youtube.com/@A2OWORLD",
-    "https://www.youtube.com/@A2OSOUL",
-    "https://www.tiktok.com/@a2o.soul"
-   ],
-   "mv": "https://www.youtube.com/watch?v=D8CYC5P6Z8Y"
-  },
-  {
-   "artist": "V01D",
-   "type": "2nd Mini Album",
-   "title": "YOUTHQUAKE",
-   "titleTrack": null,
-   "date": "2026-10-13T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-V01D-Members-Photo-2026.webp",
-   "url": "https://kpopofficial.com/album/v01d-youthquake/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/V01D_iX",
-    "https://www.instagram.com/v01d_ix",
-    "https://www.youtube.com/@v01d-ix",
-    "https://www.tiktok.com/@v01d_ix"
-   ],
-   "mv": "https://www.youtube.com/watch?v=xMCdo1CuDug"
-  },
-  {
-   "artist": "NAMWOOHYUN",
-   "type": "2nd Album",
-   "title": "2X8",
-   "titleTrack": null,
-   "date": "2026-10-14T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NAMWOOHYUN-2026.webp",
-   "url": "https://kpopofficial.com/album/namwoohyun-2x8/",
-   "tracklist": [
-    "Title – \"DEVIL\""
-   ],
-   "links": [
-    "https://x.com/NWH_officialtwt",
-    "https://www.instagram.com/official_namwoohyun",
-    "https://www.instagram.com/nwh91",
-    "https://www.youtube.com/@NAMWOOHYUN_OFFICIAL",
-    "https://www.tiktok.com/@infinitewh"
-   ],
-   "mv": "https://www.youtube.com/watch?v=1t26PLbizJ0"
   },
   {
    "artist": "FLARE U",
@@ -395,6 +320,31 @@
    "mv": "https://www.youtube.com/watch?v=1HSw3D6Mgwk"
   },
   {
+   "artist": "DAILY:DIRECTION",
+   "type": "1st Mini Album",
+   "title": "WHICH WAY",
+   "titleTrack": "Which Way",
+   "date": "2026-10-14T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/DAILY-DIRECTION-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/daily-direction-which-way/",
+   "tracklist": [
+    "Title – \"Which Way\"",
+    "Which Way",
+    "As You Say So",
+    "Trapped",
+    "Down With It",
+    "Who I Am",
+    "Up"
+   ],
+   "links": [
+    "https://x.com/_official_DD",
+    "https://www.instagram.com/daily_direction_official",
+    "https://www.youtube.com/@DAILYDIRECTION_official/videos",
+    "https://www.tiktok.com/@daily_direction"
+   ],
+   "mv": "https://www.youtube.com/watch?v=z4wi0Xp3xow"
+  },
+  {
    "artist": "LEE HAN GYUL",
    "type": "1st Mini Album",
    "title": "NOISE",
@@ -418,31 +368,6 @@
     "https://www.tiktok.com/@lee_han_gyul"
    ],
    "mv": "https://www.youtube.com/watch?v=n5fL9rDHaqU"
-  },
-  {
-   "artist": "DAILY:DIRECTION",
-   "type": "1st Mini Album",
-   "title": "WHICH WAY",
-   "titleTrack": "Which Way",
-   "date": "2026-10-14T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/DAILY-DIRECTION-Members-for-2nd-Single-MONKEY-MODE.webp",
-   "url": "https://kpopofficial.com/album/daily-direction-which-way/",
-   "tracklist": [
-    "Title – \"Which Way\"",
-    "Which Way",
-    "As You Say So",
-    "Trapped",
-    "Down With It",
-    "Who I Am",
-    "Up"
-   ],
-   "links": [
-    "https://x.com/_official_DD",
-    "https://www.instagram.com/daily_direction_official",
-    "https://www.youtube.com/@DAILYDIRECTION_official/videos",
-    "https://www.tiktok.com/@daily_direction"
-   ],
-   "mv": "https://www.youtube.com/watch?v=z4wi0Xp3xow"
   },
   {
    "artist": "YUJU",
@@ -471,10 +396,30 @@
    "mv": "https://www.youtube.com/watch?v=QCcLZnUaIt8"
   },
   {
+   "artist": "NAMWOOHYUN",
+   "type": "2nd Album",
+   "title": "2X8",
+   "titleTrack": "DEVIL",
+   "date": "2026-10-14T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NAMWOOHYUN-2026.webp",
+   "url": "https://kpopofficial.com/album/namwoohyun-2x8/",
+   "tracklist": [
+    "Title – \"DEVIL\""
+   ],
+   "links": [
+    "https://x.com/NWH_officialtwt",
+    "https://www.instagram.com/official_namwoohyun",
+    "https://www.instagram.com/nwh91",
+    "https://www.youtube.com/@NAMWOOHYUN_OFFICIAL",
+    "https://www.tiktok.com/@infinitewh"
+   ],
+   "mv": "https://www.youtube.com/watch?v=1t26PLbizJ0"
+  },
+  {
    "artist": "TEEN TOP",
    "type": "11th Mini Album",
    "title": "DON’T STOP",
-   "titleTrack": null,
+   "titleTrack": "DON'T STOP",
    "date": "2026-10-15T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-TEEN-TOP-Members-2026.webp",
    "url": "https://kpopofficial.com/album/teen-top-dont-stop/",
@@ -518,6 +463,23 @@
    "title": "Next Chapter",
    "titleTrack": null,
    "date": "2026-10-16T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-Hearts2Hearts-Members-for-Next-Chapter-2026.webp",
+   "url": "https://kpopofficial.com/album/hearts2hearts-next-chapter/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/Hearts2Hearts",
+    "https://www.instagram.com/hearts2hearts/",
+    "https://www.youtube.com/@hearts2hearts.official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@hearts2hearts"
+   ]
+  },
+  {
+   "artist": "Hearts2Hearts",
+   "type": "Single",
+   "title": "Next Chapter",
+   "titleTrack": null,
+   "date": "2026-10-16T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Hearts2Hearts-Members-for-Next-Chapter-2026.webp",
    "url": "https://kpopofficial.com/album/hearts2hearts-next-chapter/",
    "tracklist": [],
@@ -535,7 +497,7 @@
    "title": "Looks Can Kill",
    "titleTrack": null,
    "date": "2026-10-19T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-IVE-JAPAN-LUCID-DREAM.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/IVE-Members-for-Looks-Can-Kill.webp",
    "url": "https://kpopofficial.com/album/ive-pre-release-looks-can-kill/",
    "tracklist": [
     "Pre-release – \"Looks Can Kill\"",
@@ -555,6 +517,40 @@
     "https://www.tiktok.com/@ive.official"
    ],
    "mv": "https://www.youtube.com/watch?v=iBeo74ujfes"
+  },
+  {
+   "artist": "EVNNE",
+   "type": "6th Mini Album",
+   "title": "on: our noise",
+   "titleTrack": null,
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-EVNNE-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/evnne-on-our-noise/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/EVNNE_official",
+    "https://www.instagram.com/evnne_official/",
+    "https://www.youtube.com/@EVNNE",
+    "https://www.tiktok.com/@evnne_official",
+    "https://www.youtube.com/@EVNNE/releases"
+   ]
+  },
+  {
+   "artist": "EVNNE",
+   "type": "6th Mini Album",
+   "title": "on: our noise",
+   "titleTrack": null,
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/EVNNE-Members.webp",
+   "url": "https://kpopofficial.com/album/evnne-on-our-noise/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/EVNNE_official",
+    "https://www.instagram.com/evnne_official/",
+    "https://www.youtube.com/@EVNNE",
+    "https://www.tiktok.com/@evnne_official",
+    "https://www.youtube.com/@EVNNE/releases"
+   ]
   },
   {
    "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
@@ -603,6 +599,23 @@
    ]
   },
   {
+   "artist": "V01D",
+   "type": "2nd Mini Album",
+   "title": "YOUTHQUAKE",
+   "titleTrack": null,
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-V01D-Members-Photo-2026.webp",
+   "url": "https://kpopofficial.com/album/v01d-youthquake/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/V01D_iX",
+    "https://www.instagram.com/v01d_ix",
+    "https://www.youtube.com/@v01d-ix",
+    "https://www.tiktok.com/@v01d_ix"
+   ],
+   "mv": "https://www.youtube.com/watch?v=xMCdo1CuDug"
+  },
+  {
    "artist": "NMIXX",
    "type": "6th EP",
    "title": "Strange Muse",
@@ -625,23 +638,6 @@
     "https://www.youtube.com/@NMIXXOfficial",
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@nmixx_official"
-   ]
-  },
-  {
-   "artist": "EVNNE",
-   "type": "6th Mini Album",
-   "title": "on: our noise",
-   "titleTrack": null,
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/EVNNE-Members.webp",
-   "url": "https://kpopofficial.com/album/evnne-on-our-noise/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/EVNNE_official",
-    "https://www.instagram.com/evnne_official/",
-    "https://www.youtube.com/@EVNNE",
-    "https://www.tiktok.com/@evnne_official",
-    "https://www.youtube.com/@EVNNE/releases"
    ]
   },
   {
@@ -741,8 +737,24 @@
    "title": "DESERVE",
    "titleTrack": null,
    "date": "2026-10-23T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-BABYMONSTER-Members-Group-Photo-2.webp",
+   "url": "https://kpopofficial.com/album/babymonster-deserve/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/YGBABYMONSTER_",
+    "https://www.instagram.com/babymonster_ygofficial",
+    "https://www.youtube.com/@BABYMONSTER",
+    "https://www.tiktok.com/@babymonster_yg_tiktok"
+   ]
+  },
+  {
+   "artist": "BABYMONSTER",
+   "type": "Digital Single",
+   "title": "DESERVE",
+   "titleTrack": null,
+   "date": "2026-10-23T13:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-BABYMONSTER-Members-for-Single-SUGAR-HONEY-ICE-TEA.webp",
-   "url": "https://kpopofficial.com/album/babymonster-coming-soon/",
+   "url": "https://kpopofficial.com/album/babymonster-deserve/",
    "tracklist": [],
    "links": [
     "https://x.com/YGBABYMONSTER_",
@@ -757,7 +769,7 @@
    "title": "Looks Can Kill",
    "titleTrack": "Looks Can Kill",
    "date": "2026-10-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-IVE-JAPAN-LUCID-DREAM.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/2-IVE-Members-for-Looks-Can-Kill.webp",
    "url": "https://kpopofficial.com/album/ive-looks-can-kill/",
    "tracklist": [
     "Title – \"Looks Can Kill\"",
@@ -863,33 +875,6 @@
    "title": "i=!",
    "titleTrack": "HUSH\" \"Tooth Gem Chiwawa",
    "date": "2026-10-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-XLOV-Members.webp",
-   "url": "https://kpopofficial.com/album/xlov-3rd-mini-album/",
-   "tracklist": [
-    "Title – \"HUSH\" \"Tooth Gem Chiwawa\"",
-    "CAT MOVE",
-    "HUSH",
-    "All Tied Up (Rui & Haru)",
-    "Tooth Gem Chiwawa",
-    "Silence (Wumuti & Hyun)",
-    "Tooth Gem Chiwawa (Sped Up)",
-    "HUSH (Inst.)",
-    "Tooth Gem Chiwawa (Inst.)"
-   ],
-   "links": [
-    "https://x.com/XLOV_official",
-    "https://www.instagram.com/xlov_official/",
-    "https://www.youtube.com/@XLOV_official",
-    "https://www.tiktok.com/@xlov_official",
-    "https://www.youtube.com/@XLOV_official/releases"
-   ]
-  },
-  {
-   "artist": "XLOV",
-   "type": "3rd Mini Album",
-   "title": "i=!",
-   "titleTrack": "HUSH\" \"Tooth Gem Chiwawa",
-   "date": "2026-10-28T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/05/XLOV-Members-Group-Photo.webp",
    "url": "https://kpopofficial.com/album/xlov-3rd-mini-album/",
    "tracklist": [
@@ -940,6 +925,24 @@
    "title": "TO US",
    "titleTrack": null,
    "date": "2026-11-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover2-TWS-NO-TRAGEDY-Teaser.webp",
+   "url": "https://kpopofficial.com/album/tws-to-us/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TWS_PLEDIS",
+    "https://www.instagram.com/tws_pledis",
+    "https://www.youtube.com/@TWS_PLEDIS",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tws_pledis"
+   ],
+   "mv": "https://www.youtube.com/watch?v=5xcEJHC6ufo"
+  },
+  {
+   "artist": "TWS",
+   "type": "2nd Single Album",
+   "title": "TO US",
+   "titleTrack": null,
+   "date": "2026-11-02T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-TWS-NO-TRAGEDY-Teaser.webp",
    "url": "https://kpopofficial.com/album/tws-to-us/",
    "tracklist": [],
@@ -968,22 +971,6 @@
     "https://www.youtube.com/@KQENT",
     "https://www.tiktok.com/@xikers_official",
     "https://www.youtube.com/@xikers_official/releases"
-   ]
-  },
-  {
-   "artist": "RESCENE",
-   "type": "4th Mini Album",
-   "title": "PULSE",
-   "titleTrack": null,
-   "date": "2026-11-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-RESCENE-Special-Single-Pretty-Girl.webp",
-   "url": "https://kpopofficial.com/album/rescene-pulse/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/RESCENEofficial",
-    "https://www.instagram.com/rescene_official",
-    "https://www.youtube.com/@RESCENE_official",
-    "https://www.tiktok.com/@rescene_official"
    ]
   },
   {

@@ -4525,9 +4525,9 @@
    "artist": "A2O LITE",
    "type": "Debut Digital Single",
    "title": "NEON",
-   "titleTrack": null,
+   "titleTrack": "NEON",
    "date": "2026-10-13T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Cover-A2O-LITE-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/A2O-LITE-Kpop.webp",
    "url": "https://kpopofficial.com/album/a2o-lite-neon/",
    "tracklist": [
     "Title – \"NEON\""
@@ -4547,9 +4547,9 @@
    "artist": "A2O SOUL",
    "type": "Debut Album Pre-Release Single",
    "title": "SUPERSTAR",
-   "titleTrack": null,
+   "titleTrack": "SUPERSTAR",
    "date": "2026-10-13T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-A2O-SOUL-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/A2O-Soul-kpop.webp",
    "url": "https://kpopofficial.com/album/a2o-soul-superstar/",
    "tracklist": [
     "Title – \"SUPERSTAR\""
@@ -4571,7 +4571,7 @@
    "title": "Mise en scène",
    "titleTrack": "Mise en scène",
    "date": "2026-10-13T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-EPIK-HIGH-DAVICHI-Mise-en-scene.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/EPIK-HIGH-DAVICHI-Mise-en-scene-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/epik-high-davichi-mise-en-scene/",
    "tracklist": [
     "Title – \"Mise en scène\"",
@@ -4630,7 +4630,7 @@
    "title": "WHICH WAY",
    "titleTrack": "Which Way",
    "date": "2026-10-14T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/DAILY-DIRECTION-Members-for-2nd-Single-MONKEY-MODE.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/DAILY-DIRECTION-Members-2026.webp",
    "url": "https://kpopofficial.com/album/daily-direction-which-way/",
    "tracklist": [
     "Title – \"Which Way\"",
@@ -4729,7 +4729,7 @@
    "artist": "NAMWOOHYUN",
    "type": "2nd Album",
    "title": "2X8",
-   "titleTrack": null,
+   "titleTrack": "DEVIL",
    "date": "2026-10-14T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NAMWOOHYUN-2026.webp",
    "url": "https://kpopofficial.com/album/namwoohyun-2x8/",
@@ -4787,7 +4787,7 @@
    "artist": "TEEN TOP",
    "type": "11th Mini Album",
    "title": "DON’T STOP",
-   "titleTrack": null,
+   "titleTrack": "DON'T STOP",
    "date": "2026-10-15T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-TEEN-TOP-Members-2026.webp",
    "url": "https://kpopofficial.com/album/teen-top-dont-stop/",
@@ -4962,7 +4962,7 @@
    "title": "Looks Can Kill",
    "titleTrack": null,
    "date": "2026-10-19T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-IVE-JAPAN-LUCID-DREAM.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/IVE-Members-for-Looks-Can-Kill.webp",
    "url": "https://kpopofficial.com/album/ive-pre-release-looks-can-kill/",
    "tracklist": [
     "Pre-release – \"Looks Can Kill\"",
@@ -5070,6 +5070,23 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@seventeen17_official"
    ]
+  },
+  {
+   "artist": "V01D",
+   "type": "2nd Mini Album",
+   "title": "YOUTHQUAKE",
+   "titleTrack": null,
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-V01D-Members-Photo-2026.webp",
+   "url": "https://kpopofficial.com/album/v01d-youthquake/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/V01D_iX",
+    "https://www.instagram.com/v01d_ix",
+    "https://www.youtube.com/@v01d-ix",
+    "https://www.tiktok.com/@v01d_ix"
+   ],
+   "mv": "https://www.youtube.com/watch?v=xMCdo1CuDug"
   },
   {
    "artist": "ONEW (SHINee)",
@@ -5256,7 +5273,7 @@
    "titleTrack": null,
    "date": "2026-10-23T13:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-BABYMONSTER-Members-for-Single-SUGAR-HONEY-ICE-TEA.webp",
-   "url": "https://kpopofficial.com/album/babymonster-coming-soon/",
+   "url": "https://kpopofficial.com/album/babymonster-deserve/",
    "tracklist": [],
    "links": [
     "https://x.com/YGBABYMONSTER_",
@@ -5365,7 +5382,7 @@
    "title": "Looks Can Kill",
    "titleTrack": "Looks Can Kill",
    "date": "2026-10-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-IVE-JAPAN-LUCID-DREAM.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/2-IVE-Members-for-Looks-Can-Kill.webp",
    "url": "https://kpopofficial.com/album/ive-looks-can-kill/",
    "tracklist": [
     "Title – \"Looks Can Kill\"",
