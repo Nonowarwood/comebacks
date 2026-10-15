@@ -4821,7 +4821,7 @@
     "https://www.youtube.com/@teentopofficial",
     "https://www.tiktok.com/@official_teentop"
    ],
-   "mv": "https://www.youtube.com/watch?v=nDxpQ8WR1js"
+   "mv": "https://www.youtube.com/watch?v=RpOEdbRCMBw"
   },
   {
    "artist": "tripleS",
@@ -4839,7 +4839,8 @@
     "https://www.instagram.com/triplescosmos",
     "https://www.youtube.com/@triplescosmos",
     "https://www.tiktok.com/@triplescosmos"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=AAf0b4MyrJY"
   },
   {
    "artist": "Hearts2Hearts",
@@ -4849,14 +4850,17 @@
    "date": "2026-10-16T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Hearts2Hearts-Members-for-Next-Chapter-2026.webp",
    "url": "https://kpopofficial.com/album/hearts2hearts-next-chapter/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"Next Chapter\""
+   ],
    "links": [
     "https://x.com/Hearts2Hearts",
     "https://www.instagram.com/hearts2hearts/",
     "https://www.youtube.com/@hearts2hearts.official",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@hearts2hearts"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=w8x0KaNUnz4"
   },
   {
    "artist": "KickFlip",
@@ -5085,7 +5089,8 @@
     "https://www.youtube.com/@pledis17",
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@seventeen17_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=izUj1RMN5fs"
   },
   {
    "artist": "V01D",
@@ -5249,6 +5254,7 @@
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-LISA-EP-PRESS-PLAY.webp",
    "url": "https://kpopofficial.com/album/lisa-press-play/",
    "tracklist": [
+    "Title – \"Tarantino\"",
     "SaWaDiKa",
     "V12",
     "Cobra",
@@ -5398,7 +5404,7 @@
    "title": "Looks Can Kill",
    "titleTrack": "Looks Can Kill",
    "date": "2026-10-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/2-IVE-Members-for-Looks-Can-Kill.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/ive-looks-can-kill/",
    "tracklist": [
     "Title – \"Looks Can Kill\"",

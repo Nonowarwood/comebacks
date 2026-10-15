@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T04:36:36+00:00",
+ "generated": "2026-10-15T11:27:10+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -324,7 +324,7 @@
     "https://www.youtube.com/@teentopofficial",
     "https://www.tiktok.com/@official_teentop"
    ],
-   "mv": "https://www.youtube.com/watch?v=nDxpQ8WR1js"
+   "mv": "https://www.youtube.com/watch?v=RpOEdbRCMBw"
   },
   {
    "artist": "TEEN TOP",
@@ -348,7 +348,7 @@
     "https://www.youtube.com/@teentopofficial",
     "https://www.tiktok.com/@official_teentop"
    ],
-   "mv": "https://www.youtube.com/watch?v=nDxpQ8WR1js"
+   "mv": "https://www.youtube.com/watch?v=RpOEdbRCMBw"
   },
   {
    "artist": "tripleS",
@@ -366,7 +366,8 @@
     "https://www.instagram.com/triplescosmos",
     "https://www.youtube.com/@triplescosmos",
     "https://www.tiktok.com/@triplescosmos"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=AAf0b4MyrJY"
   },
   {
    "artist": "tripleS",
@@ -384,7 +385,8 @@
     "https://www.instagram.com/triplescosmos",
     "https://www.youtube.com/@triplescosmos",
     "https://www.tiktok.com/@triplescosmos"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=AAf0b4MyrJY"
   },
   {
    "artist": "Hearts2Hearts",
@@ -394,14 +396,17 @@
    "date": "2026-10-16T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-Hearts2Hearts-Members-for-Next-Chapter-2026.webp",
    "url": "https://kpopofficial.com/album/hearts2hearts-next-chapter/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"Next Chapter\""
+   ],
    "links": [
     "https://x.com/Hearts2Hearts",
     "https://www.instagram.com/hearts2hearts/",
     "https://www.youtube.com/@hearts2hearts.official",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@hearts2hearts"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=w8x0KaNUnz4"
   },
   {
    "artist": "Hearts2Hearts",
@@ -411,14 +416,17 @@
    "date": "2026-10-16T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Hearts2Hearts-Members-for-Next-Chapter-2026.webp",
    "url": "https://kpopofficial.com/album/hearts2hearts-next-chapter/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"Next Chapter\""
+   ],
    "links": [
     "https://x.com/Hearts2Hearts",
     "https://www.instagram.com/hearts2hearts/",
     "https://www.youtube.com/@hearts2hearts.official",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@hearts2hearts"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=w8x0KaNUnz4"
   },
   {
    "artist": "IVE",
@@ -446,6 +454,70 @@
     "https://www.tiktok.com/@ive.official"
    ],
    "mv": "https://www.youtube.com/watch?v=iBeo74ujfes"
+  },
+  {
+   "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
+   "type": "1st Mini Album",
+   "title": "DREAMSCAPE",
+   "titleTrack": "12 o'clock",
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/SEVENTEEN-JxJ-JEONGHAN-JOSHUA.webp",
+   "url": "https://kpopofficial.com/album/jeonghan-joshua-dreamscape/",
+   "tracklist": [
+    "Title – \"12 o’clock\"",
+    "Like you",
+    "12 o’clock",
+    "Outside",
+    "One plus one",
+    "Not personal (JOSHUA Solo)",
+    "컬러링 (JEONGHAN Solo)",
+    "No looking back"
+   ],
+   "links": [
+    "https://x.com/pledis_17",
+    "https://www.instagram.com/saythename_17/",
+    "https://www.youtube.com/@pledis17",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@seventeen17_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=izUj1RMN5fs"
+  },
+  {
+   "artist": "MAX CHANGMIN (TVXQ)",
+   "type": "3rd Mini Album",
+   "title": "All Of My Life",
+   "titleTrack": "All Of My Life",
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-MAX-CHANGMIN-All-Of-My-Life.webp",
+   "url": "https://kpopofficial.com/album/max-changmin-all-of-my-life/",
+   "tracklist": [
+    "Title – \"All Of My Life\""
+   ],
+   "links": [
+    "https://x.com/TVXQ",
+    "https://www.instagram.com/tvxq.official/",
+    "https://www.youtube.com/@TVXQ",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@tvxq_official",
+    "https://www.youtube.com/channel/UC9B2Nk_PRhAjp59o0AT9-sQ"
+   ]
+  },
+  {
+   "artist": "V01D",
+   "type": "2nd Mini Album",
+   "title": "YOUTHQUAKE",
+   "titleTrack": null,
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-V01D-Members-Photo-2026.webp",
+   "url": "https://kpopofficial.com/album/v01d-youthquake/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/V01D_iX",
+    "https://www.instagram.com/v01d_ix",
+    "https://www.youtube.com/@v01d-ix",
+    "https://www.tiktok.com/@v01d_ix"
+   ],
+   "mv": "https://www.youtube.com/watch?v=xMCdo1CuDug"
   },
   {
    "artist": "EVNNE",
@@ -488,69 +560,6 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@nmixx_official"
    ]
-  },
-  {
-   "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
-   "type": "1st Mini Album",
-   "title": "DREAMSCAPE",
-   "titleTrack": "12 o'clock",
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/SEVENTEEN-JxJ-JEONGHAN-JOSHUA.webp",
-   "url": "https://kpopofficial.com/album/jeonghan-joshua-dreamscape/",
-   "tracklist": [
-    "Title – \"12 o’clock\"",
-    "Like you",
-    "12 o’clock",
-    "Outside",
-    "One plus one",
-    "Not personal (JOSHUA Solo)",
-    "컬러링 (JEONGHAN Solo)",
-    "No looking back"
-   ],
-   "links": [
-    "https://x.com/pledis_17",
-    "https://www.instagram.com/saythename_17/",
-    "https://www.youtube.com/@pledis17",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@seventeen17_official"
-   ]
-  },
-  {
-   "artist": "MAX CHANGMIN (TVXQ)",
-   "type": "3rd Mini Album",
-   "title": "All Of My Life",
-   "titleTrack": "All Of My Life",
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-MAX-CHANGMIN-All-Of-My-Life.webp",
-   "url": "https://kpopofficial.com/album/max-changmin-all-of-my-life/",
-   "tracklist": [
-    "Title – \"All Of My Life\""
-   ],
-   "links": [
-    "https://x.com/TVXQ",
-    "https://www.instagram.com/tvxq.official/",
-    "https://www.youtube.com/@TVXQ",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@tvxq_official",
-    "https://www.youtube.com/channel/UC9B2Nk_PRhAjp59o0AT9-sQ"
-   ]
-  },
-  {
-   "artist": "V01D",
-   "type": "2nd Mini Album",
-   "title": "YOUTHQUAKE",
-   "titleTrack": null,
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-V01D-Members-Photo-2026.webp",
-   "url": "https://kpopofficial.com/album/v01d-youthquake/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/V01D_iX",
-    "https://www.instagram.com/v01d_ix",
-    "https://www.youtube.com/@v01d-ix",
-    "https://www.tiktok.com/@v01d_ix"
-   ],
-   "mv": "https://www.youtube.com/watch?v=xMCdo1CuDug"
   },
   {
    "artist": "ONEW",
@@ -600,6 +609,7 @@
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-LISA-EP-PRESS-PLAY.webp",
    "url": "https://kpopofficial.com/album/lisa-press-play/",
    "tracklist": [
+    "Title – \"Tarantino\"",
     "SaWaDiKa",
     "V12",
     "Cobra",
@@ -626,6 +636,7 @@
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-LISA-EP-PRESS-PLAY.webp",
    "url": "https://kpopofficial.com/album/lisa-press-play/",
    "tracklist": [
+    "Title – \"Tarantino\"",
     "SaWaDiKa",
     "V12",
     "Cobra",
@@ -700,6 +711,32 @@
    "titleTrack": "Looks Can Kill",
    "date": "2026-10-26T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/2-IVE-Members-for-Looks-Can-Kill.webp",
+   "url": "https://kpopofficial.com/album/ive-looks-can-kill/",
+   "tracklist": [
+    "Title – \"Looks Can Kill\"",
+    "Looks Can Kill",
+    "Mirror Mirror",
+    "SNAKESKIN",
+    "CRUMBS",
+    "Girls Girls Girls",
+    "Glow Motion"
+   ],
+   "links": [
+    "https://x.com/IVEstarship",
+    "https://x.com/IVEstarship_JP",
+    "https://www.instagram.com/IVEstarship",
+    "https://www.youtube.com/@IVEstarship",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@ive.official"
+   ]
+  },
+  {
+   "artist": "IVE",
+   "type": "EP",
+   "title": "Looks Can Kill",
+   "titleTrack": "Looks Can Kill",
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/ive-looks-can-kill/",
    "tracklist": [
     "Title – \"Looks Can Kill\"",
@@ -876,24 +913,6 @@
    ]
   },
   {
-   "artist": "xikers",
-   "type": "8th Mini Album",
-   "title": "ROUTE ZERO : The CALLING",
-   "titleTrack": null,
-   "date": "2026-11-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-xikers-members.webp",
-   "url": "https://kpopofficial.com/album/xikers-route-zero-the-calling/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/xikers_official",
-    "https://www.instagram.com/xikers_official/",
-    "https://www.youtube.com/@xikers_official",
-    "https://www.youtube.com/@KQENT",
-    "https://www.tiktok.com/@xikers_official",
-    "https://www.youtube.com/@xikers_official/releases"
-   ]
-  },
-  {
    "artist": "TWS",
    "type": "2nd Single Album",
    "title": "TO US",
@@ -910,6 +929,24 @@
     "https://www.tiktok.com/@tws_pledis"
    ],
    "mv": "https://www.youtube.com/watch?v=5xcEJHC6ufo"
+  },
+  {
+   "artist": "xikers",
+   "type": "8th Mini Album",
+   "title": "ROUTE ZERO : The CALLING",
+   "titleTrack": null,
+   "date": "2026-11-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-xikers-members.webp",
+   "url": "https://kpopofficial.com/album/xikers-route-zero-the-calling/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/xikers_official",
+    "https://www.instagram.com/xikers_official/",
+    "https://www.youtube.com/@xikers_official",
+    "https://www.youtube.com/@KQENT",
+    "https://www.tiktok.com/@xikers_official",
+    "https://www.youtube.com/@xikers_official/releases"
+   ]
   },
   {
    "artist": "RESCENE",
