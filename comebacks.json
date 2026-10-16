@@ -1,31 +1,63 @@
 {
- "generated": "2026-10-15T16:59:31+00:00",
+ "generated": "2026-10-16T04:30:38+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
-   "artist": "YUQI (i-dle)",
-   "type": "2nd Mini Album",
-   "title": "二十七 (27)",
-   "titleTrack": "Stay",
-   "date": "2026-10-08T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/YUQI-27-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/yuqi-27/",
+   "artist": "YESUNG (Super Junior)",
+   "type": "2nd Album",
+   "title": "Where We Are",
+   "titleTrack": "Pedazos",
+   "date": "2026-10-06T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/YESUNG-Where-We-Are-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/yesung-where-we-are/",
    "tracklist": [
-    "Title – \"Stay\"",
-    "Sadness",
-    "Chamomile Tea",
-    "I Like You",
-    "Feels Right",
-    "Dance of the Galaxy",
-    "Stay"
+    "Title – \"Pedazos\"",
+    "Winds of Time",
+    "Pedazos",
+    "Lonely Night",
+    "And then, Tomorrow",
+    "Let’s Dance",
+    "Time Will Heal",
+    "MATADAYO",
+    "Our Youth",
+    "Ordinary Miracles",
+    "The Rain Between Us",
+    "The Forest Dwellers",
+    "After The Dream"
    ],
    "links": [
-    "https://x.com/official_i_dle",
-    "https://www.instagram.com/i_dle_official",
-    "https://www.youtube.com/@official_i_dle",
-    "https://www.tiktok.com/@official_i_dle"
+    "https://x.com/YESUNG_smtown",
+    "https://www.instagram.com/yesung_smtown",
+    "https://www.instagram.com/yesung1106/",
+    "https://www.youtube.com/@YESUNG_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=GdBXgPHM3h0"
+   "mv": "https://www.youtube.com/watch?v=yhcmT6gd4kQ"
+  },
+  {
+   "artist": "N.Flying",
+   "type": "9th Mini Album",
+   "title": "Still",
+   "titleTrack": "Still",
+   "date": "2026-10-08T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/NFlying-Still-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/nflying-still/",
+   "tracklist": [
+    "Title – \"Still\"",
+    "Still",
+    "My Dearest",
+    "Wake Up",
+    "The Way We Were",
+    "Hongsil",
+    "Our Ending",
+    "Fading Away"
+   ],
+   "links": [
+    "https://x.com/NFlyingofficial",
+    "https://www.instagram.com/letsroll_nf",
+    "https://www.youtube.com/@nflyingofficial",
+    "https://www.tiktok.com/@nflyingofficial"
+   ],
+   "mv": "https://www.youtube.com/watch?v=gYAduKnFHG4"
   },
   {
    "artist": "MEOVV",
@@ -48,57 +80,6 @@
     "https://www.tiktok.com/@meovv_official"
    ],
    "mv": "https://www.youtube.com/watch?v=8aKR2Ho--5k"
-  },
-  {
-   "artist": "Xdinary Heroes",
-   "type": "9th Mini Album",
-   "title": "IMPULSE",
-   "titleTrack": "Obsessed with Youth",
-   "date": "2026-10-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Xdinary-Heroes-IMPULSE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/xdinary-heroes-impulse/",
-   "tracklist": [
-    "Title – \"Obsessed with Youth\"",
-    "Obsessed with Youth",
-    "Give Up The Ghost",
-    "Slashhh!",
-    "u and me in arguments",
-    "You Right There",
-    "Love in dystopia",
-    "Breathe in, Breathe out"
-   ],
-   "links": [
-    "https://x.com/XH_official",
-    "https://www.instagram.com/xdinaryheroes_official",
-    "https://www.youtube.com/c/xdinaryheroesofficial",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@xheroes_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=10_1vuZAeP0"
-  },
-  {
-   "artist": "PLAVE",
-   "type": "5th Mini Album",
-   "title": "HYPERDRIVE",
-   "titleTrack": "Star Trace",
-   "date": "2026-10-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/PLAVE-HYPERDRIVE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/plave-hyperdrive/",
-   "tracklist": [
-    "Title – \"Star Trace\"",
-    "GGUN",
-    "Sweet Rain",
-    "Star Trace",
-    "The Answer Is Yes",
-    "Rewind"
-   ],
-   "links": [
-    "https://x.com/plave_official",
-    "https://www.instagram.com/plave_official/",
-    "https://www.youtube.com/@plave_official",
-    "https://www.tiktok.com/@plave_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=TBmE7m0yEwY"
   },
   {
    "artist": "A2O LITE",
@@ -166,32 +147,6 @@
    "mv": "https://www.youtube.com/watch?v=pTziJ4RaYnk"
   },
   {
-   "artist": "YUJU",
-   "type": "4th Mini Album",
-   "title": "file. 07",
-   "titleTrack": "Nameless",
-   "date": "2026-10-14T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/YUJU-file-07-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/yuju-file-07/",
-   "tracklist": [
-    "Title – \"Nameless\"",
-    "What comes after",
-    "Nameless",
-    "Love Gamer (feat. JUNNY)",
-    "SOS",
-    "Rock Bottom",
-    "P.S."
-   ],
-   "links": [
-    "https://x.com/YUJU_atarea",
-    "https://www.instagram.com/yuju_atarea/",
-    "https://www.instagram.com/yuuzth/",
-    "https://www.youtube.com/@YUJU_atarea",
-    "https://www.tiktok.com/@yuju_atarea"
-   ],
-   "mv": "https://www.youtube.com/watch?v=aYj0FnBrTN0"
-  },
-  {
    "artist": "FLARE U",
    "type": "2nd Mini Album",
    "title": "LOVEHOOD",
@@ -253,6 +208,32 @@
    "mv": "https://www.youtube.com/watch?v=zAgbhCtfdWI"
   },
   {
+   "artist": "YUJU",
+   "type": "4th Mini Album",
+   "title": "file. 07",
+   "titleTrack": "Nameless",
+   "date": "2026-10-14T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/YUJU-file-07-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/yuju-file-07/",
+   "tracklist": [
+    "Title – \"Nameless\"",
+    "What comes after",
+    "Nameless",
+    "Love Gamer (feat. JUNNY)",
+    "SOS",
+    "Rock Bottom",
+    "P.S."
+   ],
+   "links": [
+    "https://x.com/YUJU_atarea",
+    "https://www.instagram.com/yuju_atarea/",
+    "https://www.instagram.com/yuuzth/",
+    "https://www.youtube.com/@YUJU_atarea",
+    "https://www.tiktok.com/@yuju_atarea"
+   ],
+   "mv": "https://www.youtube.com/watch?v=aYj0FnBrTN0"
+  },
+  {
    "artist": "DAILY:DIRECTION",
    "type": "1st Mini Album",
    "title": "WHICH WAY",
@@ -308,7 +289,7 @@
    "title": "DON’T STOP",
    "titleTrack": "DON'T STOP",
    "date": "2026-10-15T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-TEEN-TOP-Members-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/TEEN-TOP-DONT-STOP-Album-Cover.jpg",
    "url": "https://kpopofficial.com/album/teen-top-dont-stop/",
    "tracklist": [
     "Title – \"DON’T STOP\"",
@@ -327,28 +308,23 @@
    "mv": "https://www.youtube.com/watch?v=RpOEdbRCMBw"
   },
   {
-   "artist": "TEEN TOP",
-   "type": "11th Mini Album",
-   "title": "DON’T STOP",
-   "titleTrack": "DON'T STOP",
+   "artist": "HYOJUNG (OH MY GIRL)",
+   "type": "1st Mini Album",
+   "title": "Lost & Found",
+   "titleTrack": "미완성일지도",
    "date": "2026-10-15T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-TEEN-TOP-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/teen-top-dont-stop/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/HYOJUNG-Lost-and-Found-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/hyojung-lost-and-found/",
    "tracklist": [
-    "Title – \"DON’T STOP\"",
-    "DON’T STOP",
-    "Everglow",
-    "Come Over",
-    "See My Angel",
-    "Miss Right"
+    "Title – \"미완성일지도\""
    ],
    "links": [
-    "https://x.com/TEEN_TOP",
-    "https://www.instagram.com/official_teentop/",
-    "https://www.youtube.com/@teentopofficial",
-    "https://www.tiktok.com/@official_teentop"
+    "https://x.com/8_OHMYGIRL",
+    "https://www.instagram.com/wm_ohmygirl",
+    "https://www.youtube.com/@OHMYGIRL",
+    "https://www.tiktok.com/@wm_ohmygirl"
    ],
-   "mv": "https://www.youtube.com/watch?v=RpOEdbRCMBw"
+   "mv": "https://www.youtube.com/watch?v=dzeyCw6LgvI"
   },
   {
    "artist": "tripleS",
@@ -392,7 +368,7 @@
    "artist": "Hearts2Hearts",
    "type": "Single",
    "title": "Next Chapter",
-   "titleTrack": null,
+   "titleTrack": "Next Chapter",
    "date": "2026-10-16T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-Hearts2Hearts-Members-for-Next-Chapter-2026.webp",
    "url": "https://kpopofficial.com/album/hearts2hearts-next-chapter/",
@@ -412,7 +388,7 @@
    "artist": "Hearts2Hearts",
    "type": "Single",
    "title": "Next Chapter",
-   "titleTrack": null,
+   "titleTrack": "Next Chapter",
    "date": "2026-10-16T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Hearts2Hearts-Members-for-Next-Chapter-2026.webp",
    "url": "https://kpopofficial.com/album/hearts2hearts-next-chapter/",
@@ -435,6 +411,33 @@
    "titleTrack": null,
    "date": "2026-10-19T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/IVE-Members-for-Looks-Can-Kill.webp",
+   "url": "https://kpopofficial.com/album/ive-pre-release-looks-can-kill/",
+   "tracklist": [
+    "Pre-release – \"Looks Can Kill\"",
+    "Looks Can Kill",
+    "Mirror Mirror",
+    "SNAKESKIN",
+    "CRUMBS",
+    "Girls Girls Girls",
+    "Glow Motion"
+   ],
+   "links": [
+    "https://x.com/IVEstarship",
+    "https://x.com/IVEstarship_JP",
+    "https://www.instagram.com/IVEstarship",
+    "https://www.youtube.com/@IVEstarship",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@ive.official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=iBeo74ujfes"
+  },
+  {
+   "artist": "IVE",
+   "type": "EP",
+   "title": "Looks Can Kill",
+   "titleTrack": null,
+   "date": "2026-10-19T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
    "url": "https://kpopofficial.com/album/ive-pre-release-looks-can-kill/",
    "tracklist": [
     "Pre-release – \"Looks Can Kill\"",
@@ -604,7 +607,7 @@
    "artist": "LISA",
    "type": "EP",
    "title": "PRESS PLAY",
-   "titleTrack": null,
+   "titleTrack": "Tarantino",
    "date": "2026-10-23T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-LISA-EP-PRESS-PLAY.webp",
    "url": "https://kpopofficial.com/album/lisa-press-play/",
@@ -631,7 +634,7 @@
    "artist": "LISA",
    "type": "EP",
    "title": "PRESS PLAY",
-   "titleTrack": null,
+   "titleTrack": "Tarantino",
    "date": "2026-10-23T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-LISA-EP-PRESS-PLAY.webp",
    "url": "https://kpopofficial.com/album/lisa-press-play/",
@@ -687,24 +690,6 @@
    ]
   },
   {
-   "artist": "RIIZE",
-   "type": "Digital Single",
-   "title": null,
-   "titleTrack": null,
-   "date": "2026-10-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/RIIZE-Members-group-photo.webp",
-   "url": "https://kpopofficial.com/album/riize-digital-single/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/RIIZE_official",
-    "https://www.instagram.com/riize_official/",
-    "https://www.youtube.com/@RIIZE_official",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@riize_official",
-    "https://www.youtube.com/@RIIZE_official/releases"
-   ]
-  },
-  {
    "artist": "IVE",
    "type": "EP",
    "title": "Looks Can Kill",
@@ -728,6 +713,24 @@
     "https://www.youtube.com/@IVEstarship",
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@ive.official"
+   ]
+  },
+  {
+   "artist": "RIIZE",
+   "type": "Digital Single",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/RIIZE-Members-group-photo.webp",
+   "url": "https://kpopofficial.com/album/riize-digital-single/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/RIIZE_official",
+    "https://www.instagram.com/riize_official/",
+    "https://www.youtube.com/@RIIZE_official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@riize_official",
+    "https://www.youtube.com/@RIIZE_official/releases"
    ]
   },
   {
@@ -973,25 +976,6 @@
     "https://www.tiktok.com/@lngshot4sho"
    ],
    "mv": "https://www.youtube.com/watch?v=b_hgDjQrVOE"
-  },
-  {
-   "artist": "ATEEZ",
-   "type": "Mini Album",
-   "title": "GOLDEN HOUR : Part.6",
-   "titleTrack": null,
-   "date": "2026-11-13T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-ATEEZ-Members.webp",
-   "url": "https://kpopofficial.com/album/ateez-golden-hour-part-6/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ATEEZofficial",
-    "https://x.com/ATEEZofficialjp",
-    "https://www.instagram.com/ateez_official_/",
-    "https://www.youtube.com/@ATEEZofficial",
-    "https://www.youtube.com/@KQENT",
-    "https://www.tiktok.com/@ateez_official_"
-   ],
-   "mv": "https://www.youtube.com/watch?v=SHIL6u0iRuk"
   },
   {
    "artist": "ATEEZ",
