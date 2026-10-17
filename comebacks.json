@@ -1,7 +1,29 @@
 {
- "generated": "2026-10-17T04:23:36+00:00",
+ "generated": "2026-10-17T10:42:11+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
+  {
+   "artist": "MEOVV",
+   "type": "Single Album",
+   "title": "GO HARD",
+   "titleTrack": "GO HARD",
+   "date": "2026-10-12T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/MEOVV-GO-HARD-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/meovv-go-hard/",
+   "tracklist": [
+    "Title – \"GO HARD\"",
+    "GO HARD",
+    "Indestructible"
+   ],
+   "links": [
+    "https://x.com/OFFICIAL_MEOVV",
+    "https://www.instagram.com/meovv/",
+    "https://www.youtube.com/@MEOVV_OFFICIAL",
+    "https://www.youtube.com/@THEBLACKLABEL",
+    "https://www.tiktok.com/@meovv_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=8aKR2Ho--5k"
+  },
   {
    "artist": "A2O LITE",
    "type": "Debut Digital Single",
@@ -395,6 +417,23 @@
    "mv": "https://www.youtube.com/watch?v=izUj1RMN5fs"
   },
   {
+   "artist": "V01D",
+   "type": "2nd Mini Album",
+   "title": "YOUTHQUAKE",
+   "titleTrack": null,
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-V01D-Members-Photo-2026.webp",
+   "url": "https://kpopofficial.com/album/v01d-youthquake/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/V01D_iX",
+    "https://www.instagram.com/v01d_ix",
+    "https://www.youtube.com/@v01d-ix",
+    "https://www.tiktok.com/@v01d_ix"
+   ],
+   "mv": "https://www.youtube.com/watch?v=xMCdo1CuDug"
+  },
+  {
    "artist": "NMIXX",
    "type": "6th EP",
    "title": "Strange Muse",
@@ -482,23 +521,6 @@
     "https://www.tiktok.com/@evnne_official",
     "https://www.youtube.com/@EVNNE/releases"
    ]
-  },
-  {
-   "artist": "V01D",
-   "type": "2nd Mini Album",
-   "title": "YOUTHQUAKE",
-   "titleTrack": null,
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-V01D-Members-Photo-2026.webp",
-   "url": "https://kpopofficial.com/album/v01d-youthquake/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/V01D_iX",
-    "https://www.instagram.com/v01d_ix",
-    "https://www.youtube.com/@v01d-ix",
-    "https://www.tiktok.com/@v01d_ix"
-   ],
-   "mv": "https://www.youtube.com/watch?v=xMCdo1CuDug"
   },
   {
    "artist": "ONEW",
@@ -826,24 +848,6 @@
    ]
   },
   {
-   "artist": "TWS",
-   "type": "2nd Single Album",
-   "title": "TO US",
-   "titleTrack": null,
-   "date": "2026-11-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-TWS-NO-TRAGEDY-Teaser.webp",
-   "url": "https://kpopofficial.com/album/tws-to-us/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/TWS_PLEDIS",
-    "https://www.instagram.com/tws_pledis",
-    "https://www.youtube.com/@TWS_PLEDIS",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tws_pledis"
-   ],
-   "mv": "https://www.youtube.com/watch?v=5xcEJHC6ufo"
-  },
-  {
    "artist": "xikers",
    "type": "8th Mini Album",
    "title": "ROUTE ZERO : The CALLING",
@@ -860,6 +864,24 @@
     "https://www.tiktok.com/@xikers_official",
     "https://www.youtube.com/@xikers_official/releases"
    ]
+  },
+  {
+   "artist": "TWS",
+   "type": "2nd Single Album",
+   "title": "TO US",
+   "titleTrack": null,
+   "date": "2026-11-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-TWS-NO-TRAGEDY-Teaser.webp",
+   "url": "https://kpopofficial.com/album/tws-to-us/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TWS_PLEDIS",
+    "https://www.instagram.com/tws_pledis",
+    "https://www.youtube.com/@TWS_PLEDIS",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tws_pledis"
+   ],
+   "mv": "https://www.youtube.com/watch?v=5xcEJHC6ufo"
   },
   {
    "artist": "RESCENE",
@@ -899,24 +921,6 @@
    "title": "S.W.I.S.H.",
    "titleTrack": null,
    "date": "2026-11-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Teaser-LNGSHOT-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/lngshot-swish/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/LNGSHOT4sho",
-    "https://www.instagram.com/lngshot4sho/",
-    "https://www.youtube.com/@LNGSHOT4SHO",
-    "https://www.youtube.com/@MOREVISION",
-    "https://www.tiktok.com/@lngshot4sho"
-   ],
-   "mv": "https://www.youtube.com/watch?v=b_hgDjQrVOE"
-  },
-  {
-   "artist": "LNGSHOT",
-   "type": "EP",
-   "title": "S.W.I.S.H.",
-   "titleTrack": null,
-   "date": "2026-11-10T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Teaser-LNGSHOT-Members-2026.webp",
    "url": "https://kpopofficial.com/album/lngshot-swish/",
    "tracklist": [],
@@ -928,25 +932,6 @@
     "https://www.tiktok.com/@lngshot4sho"
    ],
    "mv": "https://www.youtube.com/watch?v=b_hgDjQrVOE"
-  },
-  {
-   "artist": "ATEEZ",
-   "type": "Mini Album",
-   "title": "GOLDEN HOUR : Part.6",
-   "titleTrack": null,
-   "date": "2026-11-13T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-ATEEZ-Members.webp",
-   "url": "https://kpopofficial.com/album/ateez-golden-hour-part-6/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ATEEZofficial",
-    "https://x.com/ATEEZofficialjp",
-    "https://www.instagram.com/ateez_official_/",
-    "https://www.youtube.com/@ATEEZofficial",
-    "https://www.youtube.com/@KQENT",
-    "https://www.tiktok.com/@ateez_official_"
-   ],
-   "mv": "https://www.youtube.com/watch?v=SHIL6u0iRuk"
   },
   {
    "artist": "ATEEZ",
