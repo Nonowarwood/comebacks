@@ -5022,7 +5022,7 @@
     "https://www.youtube.com/@STARSHIP_official",
     "https://www.tiktok.com/@ive.official"
    ],
-   "mv": "https://www.youtube.com/watch?v=iBeo74ujfes"
+   "mv": "https://www.youtube.com/watch?v=qseXLKgLQj8"
   },
   {
    "artist": "MAX CHANGMIN (TVXQ)",
@@ -5030,7 +5030,7 @@
    "title": "All Of My Life",
    "titleTrack": "All Of My Life",
    "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-MAX-CHANGMIN-All-Of-My-Life.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover-MAX-CHANGMIN-All-of-my-life.webp",
    "url": "https://kpopofficial.com/album/max-changmin-all-of-my-life/",
    "tracklist": [
     "Title – \"All Of My Life\"",
@@ -5056,7 +5056,7 @@
    "title": "Strange Muse",
    "titleTrack": "Birthday Wish",
    "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-NMIXX-Members-Group-Photo-2.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/NMIXX-Strange-Muse.webp",
    "url": "https://kpopofficial.com/album/nmixx-strange-muse/",
    "tracklist": [
     "Title – \"Birthday Wish\"",
@@ -5073,24 +5073,32 @@
     "https://www.youtube.com/@NMIXXOfficial",
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@nmixx_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=AP0QM38rMs4"
   },
   {
    "artist": "EVNNE",
    "type": "6th Mini Album",
    "title": "on: our noise",
-   "titleTrack": null,
+   "titleTrack": "LOOK AT MA",
    "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/EVNNE-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/EVNNE-Members-2026.webp",
    "url": "https://kpopofficial.com/album/evnne-on-our-noise/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"LOOK AT MA\"",
+    "Bless",
+    "Look At Ma",
+    "Know Wassup",
+    "A-OK",
+    "That’s OMG"
+   ],
    "links": [
     "https://x.com/EVNNE_official",
     "https://www.instagram.com/evnne_official/",
     "https://www.youtube.com/@EVNNE",
-    "https://www.tiktok.com/@evnne_official",
-    "https://www.youtube.com/@EVNNE/releases"
-   ]
+    "https://www.tiktok.com/@evnne_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=jtGl2L75RI0"
   },
   {
    "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
@@ -5123,18 +5131,20 @@
    "artist": "V01D",
    "type": "2nd Mini Album",
    "title": "YOUTHQUAKE",
-   "titleTrack": null,
+   "titleTrack": "My Youth",
    "date": "2026-10-19T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-V01D-Members-Photo-2026.webp",
    "url": "https://kpopofficial.com/album/v01d-youthquake/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"My Youth\""
+   ],
    "links": [
     "https://x.com/V01D_iX",
     "https://www.instagram.com/v01d_ix",
     "https://www.youtube.com/@v01d-ix",
     "https://www.tiktok.com/@v01d_ix"
    ],
-   "mv": "https://www.youtube.com/watch?v=xMCdo1CuDug"
+   "mv": "https://www.youtube.com/watch?v=ZeVFr6AEqoY"
   },
   {
    "artist": "ONEW (SHINee)",
@@ -5298,6 +5308,23 @@
     "https://www.tiktok.com/@wearelloud"
    ],
    "mv": "https://www.youtube.com/watch?v=FyS5dAywkEo"
+  },
+  {
+   "artist": "MINNIE (i-dle)",
+   "type": "Digital EP",
+   "title": "i love you to the moon and back",
+   "titleTrack": null,
+   "date": "2026-10-23T12:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-MINNIE-i-love-you-to-the-moon-and-back.webp",
+   "url": "https://kpopofficial.com/album/minnie-i-love-you-to-the-moon-and-back/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_i_dle",
+    "https://www.instagram.com/i_dle_official",
+    "https://www.youtube.com/@official_i_dle",
+    "https://www.tiktok.com/@official_i_dle",
+    "https://www.youtube.com/channel/UCdV5ocUMVD9_0vsI9YOPxwg"
+   ]
   },
   {
    "artist": "BABYMONSTER",
@@ -5607,6 +5634,53 @@
     "https://www.instagram.com/rescene_official",
     "https://www.youtube.com/@RESCENE_official",
     "https://www.tiktok.com/@rescene_official"
+   ]
+  },
+  {
+   "artist": "CHAERYEONG (ITZY)",
+   "type": "Solo Debut Album",
+   "title": "Lovesick",
+   "titleTrack": "Lovesick",
+   "date": "2026-11-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Chaeryeong-Itzy-Lovesick.webp",
+   "url": "https://kpopofficial.com/album/chaeryeong-lovesick/",
+   "tracklist": [
+    "Title – \"Lovesick\"",
+    "Lovesick",
+    "Moonlit Club",
+    "Scent",
+    "Favorite Reason"
+   ],
+   "links": [
+    "https://x.com/ITZYofficial",
+    "https://www.instagram.com/itzy.all.in.us",
+    "https://www.youtube.com/@ITZY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@itzyofficial"
+   ],
+   "mv": "https://www.youtube.com/watch?v=UIwWaChgPno"
+  },
+  {
+   "artist": "NCT DREAM",
+   "type": "6th Full Album",
+   "title": "DREAM AFTER DREAM",
+   "titleTrack": "Boogie Woogie",
+   "date": "2026-11-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NCT-DREAM-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/nct-dream-album-dream-after-dream/",
+   "tracklist": [
+    "Title – \"Boogie Woogie\""
+   ],
+   "links": [
+    "https://x.com/NCTsmtown",
+    "https://x.com/NCTsmtown_DREAM",
+    "https://www.instagram.com/nct",
+    "https://www.instagram.com/nct_dream",
+    "https://www.youtube.com/@NCTsmtown",
+    "https://www.youtube.com/@NCTDREAM",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct",
+    "https://www.youtube.com/@NCTDREAM/releases"
    ]
   },
   {
