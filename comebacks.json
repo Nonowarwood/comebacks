@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T04:48:47+00:00",
+ "generated": "2026-10-20T11:34:19+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -270,15 +270,16 @@
   {
    "artist": "ONEW",
    "type": "1st Single Album",
-   "title": "착각",
-   "titleTrack": "착각",
+   "title": "Illusion",
+   "titleTrack": "Illusion",
    "date": "2026-10-20T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/ONEW-2026.webp",
    "url": "https://kpopofficial.com/album/onew-chakgak/",
    "tracklist": [
-    "Title – \"착각\"",
-    "Mind Games",
-    "Tic Tac Toe"
+    "Title – \"Illusion\"",
+    "Illusion",
+    "Tic Tac Toe",
+    "Mind Games"
    ],
    "links": [
     "https://x.com/ONEW_GRIFFIN",
@@ -288,20 +289,21 @@
     "https://www.youtube.com/@ONEW_GRIFFIN",
     "https://www.tiktok.com/@onew_griffin"
    ],
-   "mv": "https://www.youtube.com/watch?v=oMS7rxDP61U"
+   "mv": "https://www.youtube.com/watch?v=z_Y932BHvUE"
   },
   {
    "artist": "ONEW",
    "type": "1st Single Album",
-   "title": "착각",
-   "titleTrack": "착각",
+   "title": "Illusion",
+   "titleTrack": "Illusion",
    "date": "2026-10-20T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-SHINee-ONEW-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/ONEW-Illusion-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/onew-chakgak/",
    "tracklist": [
-    "Title – \"착각\"",
-    "Mind Games",
-    "Tic Tac Toe"
+    "Title – \"Illusion\"",
+    "Illusion",
+    "Tic Tac Toe",
+    "Mind Games"
    ],
    "links": [
     "https://x.com/ONEW_GRIFFIN",
@@ -311,7 +313,7 @@
     "https://www.youtube.com/@ONEW_GRIFFIN",
     "https://www.tiktok.com/@onew_griffin"
    ],
-   "mv": "https://www.youtube.com/watch?v=oMS7rxDP61U"
+   "mv": "https://www.youtube.com/watch?v=z_Y932BHvUE"
   },
   {
    "artist": "WOODZ",
@@ -319,10 +321,12 @@
    "title": "Come into my world!",
    "titleTrack": "Come into my world!",
    "date": "2026-10-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-WOODZ-Come-into-my-world.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/WOODZ-Come-into-my-world-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/woodz-come-into-my-world/",
    "tracklist": [
-    "Title – \"Come into my world!\""
+    "Title – \"Come into my world!\"",
+    "Come into my world!",
+    "Come into my world! (Instrumental)"
    ],
    "links": [
     "https://x.com/c_woodzofficial",
@@ -330,7 +334,7 @@
     "https://www.instagram.com/woodz.co.kr/",
     "https://www.youtube.com/@WOODZ_dnwm"
    ],
-   "mv": "https://www.youtube.com/watch?v=o4t4vwaqSd0"
+   "mv": "https://www.youtube.com/watch?v=cwLCZQHm06o"
   },
   {
    "artist": "WOODZ",
@@ -341,7 +345,9 @@
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-WOODZ-Come-into-my-world.webp",
    "url": "https://kpopofficial.com/album/woodz-come-into-my-world/",
    "tracklist": [
-    "Title – \"Come into my world!\""
+    "Title – \"Come into my world!\"",
+    "Come into my world!",
+    "Come into my world! (Instrumental)"
    ],
    "links": [
     "https://x.com/c_woodzofficial",
@@ -349,7 +355,7 @@
     "https://www.instagram.com/woodz.co.kr/",
     "https://www.youtube.com/@WOODZ_dnwm"
    ],
-   "mv": "https://www.youtube.com/watch?v=o4t4vwaqSd0"
+   "mv": "https://www.youtube.com/watch?v=cwLCZQHm06o"
   },
   {
    "artist": "LISA",
@@ -472,24 +478,6 @@
    ]
   },
   {
-   "artist": "RIIZE",
-   "type": "Digital Single",
-   "title": null,
-   "titleTrack": null,
-   "date": "2026-10-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/RIIZE-Members-group-photo.webp",
-   "url": "https://kpopofficial.com/album/riize-digital-single/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/RIIZE_official",
-    "https://www.instagram.com/riize_official/",
-    "https://www.youtube.com/@RIIZE_official",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@riize_official",
-    "https://www.youtube.com/@RIIZE_official/releases"
-   ]
-  },
-  {
    "artist": "IVE",
    "type": "EP",
    "title": "Looks Can Kill",
@@ -515,6 +503,24 @@
     "https://www.tiktok.com/@ive.official"
    ],
    "mv": "https://www.youtube.com/watch?v=rsNhWkC4neE"
+  },
+  {
+   "artist": "RIIZE",
+   "type": "Digital Single",
+   "title": null,
+   "titleTrack": null,
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/RIIZE-Members-group-photo.webp",
+   "url": "https://kpopofficial.com/album/riize-digital-single/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/RIIZE_official",
+    "https://www.instagram.com/riize_official/",
+    "https://www.youtube.com/@RIIZE_official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@riize_official",
+    "https://www.youtube.com/@RIIZE_official/releases"
+   ]
   },
   {
    "artist": "IVE",
@@ -725,6 +731,29 @@
    ]
   },
   {
+   "artist": "NCT DREAM",
+   "type": "6th Full Album",
+   "title": "DREAM AFTER DREAM",
+   "titleTrack": "Boogie Woogie",
+   "date": "2026-11-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NCT-DREAM-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/nct-dream-album-dream-after-dream/",
+   "tracklist": [
+    "Title – \"Boogie Woogie\""
+   ],
+   "links": [
+    "https://x.com/NCTsmtown",
+    "https://x.com/NCTsmtown_DREAM",
+    "https://www.instagram.com/nct",
+    "https://www.instagram.com/nct_dream",
+    "https://www.youtube.com/@NCTsmtown",
+    "https://www.youtube.com/@NCTDREAM",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct",
+    "https://www.youtube.com/@NCTDREAM/releases"
+   ]
+  },
+  {
    "artist": "CHAERYEONG (ITZY)",
    "type": "Solo Debut Album",
    "title": "Lovesick",
@@ -749,27 +778,22 @@
    "mv": "https://www.youtube.com/watch?v=UIwWaChgPno"
   },
   {
-   "artist": "NCT DREAM",
-   "type": "6th Full Album",
-   "title": "DREAM AFTER DREAM",
-   "titleTrack": "Boogie Woogie",
-   "date": "2026-11-09T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NCT-DREAM-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/nct-dream-album-dream-after-dream/",
-   "tracklist": [
-    "Title – \"Boogie Woogie\""
-   ],
+   "artist": "LNGSHOT",
+   "type": "EP",
+   "title": "S.W.I.S.H.",
+   "titleTrack": null,
+   "date": "2026-11-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Teaser-LNGSHOT-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/lngshot-swish/",
+   "tracklist": [],
    "links": [
-    "https://x.com/NCTsmtown",
-    "https://x.com/NCTsmtown_DREAM",
-    "https://www.instagram.com/nct",
-    "https://www.instagram.com/nct_dream",
-    "https://www.youtube.com/@NCTsmtown",
-    "https://www.youtube.com/@NCTDREAM",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct",
-    "https://www.youtube.com/@NCTDREAM/releases"
-   ]
+    "https://x.com/LNGSHOT4sho",
+    "https://www.instagram.com/lngshot4sho/",
+    "https://www.youtube.com/@LNGSHOT4SHO",
+    "https://www.youtube.com/@MOREVISION",
+    "https://www.tiktok.com/@lngshot4sho"
+   ],
+   "mv": "https://www.youtube.com/watch?v=b_hgDjQrVOE"
   },
   {
    "artist": "LNGSHOT",

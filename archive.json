@@ -5220,6 +5220,30 @@
    "mv": "https://www.youtube.com/watch?v=oMS7rxDP61U"
   },
   {
+   "artist": "ONEW",
+   "type": "1st Single Album",
+   "title": "Illusion",
+   "titleTrack": "Illusion",
+   "date": "2026-10-20T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/ONEW-Illusion-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/onew-chakgak/",
+   "tracklist": [
+    "Title – \"Illusion\"",
+    "Illusion",
+    "Tic Tac Toe",
+    "Mind Games"
+   ],
+   "links": [
+    "https://x.com/ONEW_GRIFFIN",
+    "https://x.com/ONEW_JAPAN",
+    "https://www.instagram.com/dlstmxkakwldrl/",
+    "https://www.instagram.com/onew_griffin",
+    "https://www.youtube.com/@ONEW_GRIFFIN",
+    "https://www.tiktok.com/@onew_griffin"
+   ],
+   "mv": "https://www.youtube.com/watch?v=z_Y932BHvUE"
+  },
+  {
    "artist": "WOODZ",
    "type": "Digital Single",
    "title": "Come into my world!",
@@ -5228,7 +5252,9 @@
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-WOODZ-Come-into-my-world.webp",
    "url": "https://kpopofficial.com/album/woodz-come-into-my-world/",
    "tracklist": [
-    "Title – \"Come into my world!\""
+    "Title – \"Come into my world!\"",
+    "Come into my world!",
+    "Come into my world! (Instrumental)"
    ],
    "links": [
     "https://x.com/c_woodzofficial",
@@ -5236,7 +5262,7 @@
     "https://www.instagram.com/woodz.co.kr/",
     "https://www.youtube.com/@WOODZ_dnwm"
    ],
-   "mv": "https://www.youtube.com/watch?v=o4t4vwaqSd0"
+   "mv": "https://www.youtube.com/watch?v=cwLCZQHm06o"
   },
   {
    "artist": "KickFlip",
