@@ -1,56 +1,7 @@
 {
- "generated": "2026-10-22T04:42:16+00:00",
+ "generated": "2026-10-22T11:50:21+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "MEOVV",
-   "type": "Single Album",
-   "title": "GO HARD",
-   "titleTrack": "GO HARD",
-   "date": "2026-10-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/MEOVV-GO-HARD-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/meovv-go-hard/",
-   "tracklist": [
-    "Title – \"GO HARD\"",
-    "GO HARD",
-    "Indestructible"
-   ],
-   "links": [
-    "https://x.com/OFFICIAL_MEOVV",
-    "https://www.instagram.com/meovv/",
-    "https://www.youtube.com/@MEOVV_OFFICIAL",
-    "https://www.youtube.com/@THEBLACKLABEL",
-    "https://www.tiktok.com/@meovv_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=8aKR2Ho--5k"
-  },
-  {
-   "artist": "Xdinary Heroes",
-   "type": "9th Mini Album",
-   "title": "IMPULSE",
-   "titleTrack": "Obsessed with Youth",
-   "date": "2026-10-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Xdinary-Heroes-IMPULSE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/xdinary-heroes-impulse/",
-   "tracklist": [
-    "Title – \"Obsessed with Youth\"",
-    "Obsessed with Youth",
-    "Give Up The Ghost",
-    "Slashhh!",
-    "u and me in arguments",
-    "You Right There",
-    "Love in dystopia",
-    "Breathe in, Breathe out"
-   ],
-   "links": [
-    "https://x.com/XH_official",
-    "https://www.instagram.com/xdinaryheroes_official",
-    "https://www.youtube.com/c/xdinaryheroesofficial",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@xheroes_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=10_1vuZAeP0"
-  },
   {
    "artist": "A2O LITE",
    "type": "Debut Digital Single",
@@ -344,7 +295,7 @@
    "title": "Talk to me",
    "titleTrack": "Talk to me",
    "date": "2026-10-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-ALPHA-DRIVE-ONE-Members-for-No-School-Tomorrow.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/ALPHA-DRIVE-ONE-Talk-To-Me-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/alpha-drive-one-talk-to-me/",
    "tracklist": [
     "Title – \"Talk to me\""
@@ -354,7 +305,8 @@
     "https://www.instagram.com/ald1.official",
     "https://www.youtube.com/@ALD1.official",
     "https://www.tiktok.com/@ald1_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=videoseries"
   },
   {
    "artist": "ALPHA DRIVE ONE",
@@ -372,7 +324,8 @@
     "https://www.instagram.com/ald1.official",
     "https://www.youtube.com/@ALD1.official",
     "https://www.tiktok.com/@ald1_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=videoseries"
   },
   {
    "artist": "LISA",
@@ -489,6 +442,27 @@
    ]
   },
   {
+   "artist": "ATEEZ",
+   "type": "15th Mini Album",
+   "title": "GOLDEN HOUR : Part.6",
+   "titleTrack": null,
+   "date": "2026-10-23T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-ATEEZ-Members.webp",
+   "url": "https://kpopofficial.com/album/ateez-drip/",
+   "tracklist": [
+    "Pre-release – \"Drip\""
+   ],
+   "links": [
+    "https://x.com/ATEEZofficial",
+    "https://x.com/ATEEZofficialjp",
+    "https://www.instagram.com/ateez_official_/",
+    "https://www.youtube.com/@ATEEZofficial",
+    "https://www.youtube.com/@KQENT",
+    "https://www.tiktok.com/@ateez_official_"
+   ],
+   "mv": "https://www.youtube.com/watch?v=VGZ627FEau8"
+  },
+  {
    "artist": "BABYMONSTER",
    "type": "Digital Single",
    "title": "DESERVE",
@@ -570,6 +544,33 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@riize_official"
    ]
+  },
+  {
+   "artist": "IVE",
+   "type": "EP",
+   "title": "Looks Can Kill",
+   "titleTrack": "Looks Can Kill",
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
+   "url": "https://kpopofficial.com/album/ive-looks-can-kill/",
+   "tracklist": [
+    "Title – \"Looks Can Kill\"",
+    "Looks Can Kill",
+    "Mirror Mirror",
+    "SNAKESKIN",
+    "CRUMBS",
+    "Girls Girls Girls",
+    "Glow Motion"
+   ],
+   "links": [
+    "https://x.com/IVEstarship",
+    "https://x.com/IVEstarship_JP",
+    "https://www.instagram.com/IVEstarship",
+    "https://www.youtube.com/@IVEstarship",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@ive.official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=rsNhWkC4neE"
   },
   {
    "artist": "ILLIT",
@@ -870,6 +871,25 @@
     "https://www.tiktok.com/@lngshot4sho"
    ],
    "mv": "https://www.youtube.com/watch?v=b_hgDjQrVOE"
+  },
+  {
+   "artist": "ATEEZ",
+   "type": "15th Mini Album",
+   "title": "GOLDEN HOUR : Part.6",
+   "titleTrack": null,
+   "date": "2026-11-13T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-ATEEZ-Members.webp",
+   "url": "https://kpopofficial.com/album/ateez-golden-hour-part-6/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ATEEZofficial",
+    "https://x.com/ATEEZofficialjp",
+    "https://www.instagram.com/ateez_official_/",
+    "https://www.youtube.com/@ATEEZofficial",
+    "https://www.youtube.com/@KQENT",
+    "https://www.tiktok.com/@ateez_official_"
+   ],
+   "mv": "https://www.youtube.com/watch?v=VGZ627FEau8"
   },
   {
    "artist": "ATEEZ",
