@@ -5270,7 +5270,7 @@
    "title": "seesaw (feat. IU)",
    "titleTrack": "seesaw (feat. IU)",
    "date": "2026-10-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Crush-seesaw-IU.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Crush-seesaw-IU-album-cover.webp",
    "url": "https://kpopofficial.com/album/crush-iu-seesaw/",
    "tracklist": [
     "Title – \"seesaw (feat. IU)\""
@@ -5290,7 +5290,7 @@
    "title": "Blue",
    "titleTrack": "Blue",
    "date": "2026-10-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2025/09/Kang-Daniel-No-Day-Single.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/KANGDANIEL-BLUE-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/kangdaniel-blue/",
    "tracklist": [
     "Title – \"Blue\"",
@@ -5325,6 +5325,24 @@
     "https://www.youtube.com/@JYPEntertainment",
     "https://www.tiktok.com/@kickflip_jype",
     "https://www.youtube.com/@kickflip_jype/releases"
+   ]
+  },
+  {
+   "artist": "ALPHA DRIVE ONE",
+   "type": "Digital Single",
+   "title": "Talk to me",
+   "titleTrack": "Talk to me",
+   "date": "2026-10-22T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ALPHA-DRIVE-ONE-members-for-unbreakable-shonen-beast.webp",
+   "url": "https://kpopofficial.com/album/alpha-drive-one-talk-to-me/",
+   "tracklist": [
+    "Title – \"Talk to me\""
+   ],
+   "links": [
+    "https://x.com/ALD1_official",
+    "https://www.instagram.com/ald1.official",
+    "https://www.youtube.com/@ALD1.official",
+    "https://www.tiktok.com/@ald1_official"
    ]
   },
   {
@@ -5388,23 +5406,27 @@
     "https://www.tiktok.com/@lalalalisa_m",
     "https://www.tiktok.com/@wearelloud"
    ],
-   "mv": "https://www.youtube.com/watch?v=FyS5dAywkEo"
+   "mv": "https://www.youtube.com/watch?v=671wXVviVAI"
   },
   {
    "artist": "MINNIE (i-dle)",
    "type": "Digital EP",
    "title": "i love you to the moon and back",
-   "titleTrack": null,
+   "titleTrack": "to the moon",
    "date": "2026-10-23T12:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-MINNIE-i-love-you-to-the-moon-and-back.webp",
    "url": "https://kpopofficial.com/album/minnie-i-love-you-to-the-moon-and-back/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"to the moon\"",
+    "to the moon",
+    "insomnia",
+    "White Clouds"
+   ],
    "links": [
     "https://x.com/official_i_dle",
     "https://www.instagram.com/i_dle_official",
     "https://www.youtube.com/@official_i_dle",
-    "https://www.tiktok.com/@official_i_dle",
-    "https://www.youtube.com/channel/UCdV5ocUMVD9_0vsI9YOPxwg"
+    "https://www.tiktok.com/@official_i_dle"
    ],
    "mv": "https://www.youtube.com/watch?v=8chdJTT1nYE"
   },
@@ -5439,6 +5461,27 @@
     "https://www.youtube.com/@BABYMONSTER",
     "https://www.tiktok.com/@babymonster_yg_tiktok"
    ]
+  },
+  {
+   "artist": "ATEEZ",
+   "type": "15th Mini Album",
+   "title": "GOLDEN HOUR : Part.6",
+   "titleTrack": null,
+   "date": "2026-10-23T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ATEEZ-Members-for-Mini-Album-GOLDEN-HOUR-Part-6.webp",
+   "url": "https://kpopofficial.com/album/ateez-drip/",
+   "tracklist": [
+    "Pre-release – \"Drip\""
+   ],
+   "links": [
+    "https://x.com/ATEEZofficial",
+    "https://x.com/ATEEZofficialjp",
+    "https://www.instagram.com/ateez_official_/",
+    "https://www.youtube.com/@ATEEZofficial",
+    "https://www.youtube.com/@KQENT",
+    "https://www.tiktok.com/@ateez_official_"
+   ],
+   "mv": "https://www.youtube.com/watch?v=VGZ627FEau8"
   },
   {
    "artist": "KickFlip",
@@ -5540,7 +5583,7 @@
    "title": "Looks Can Kill",
    "titleTrack": "Looks Can Kill",
    "date": "2026-10-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/2-IVE-Members-for-Looks-Can-Kill.webp",
    "url": "https://kpopofficial.com/album/ive-looks-can-kill/",
    "tracklist": [
     "Title – \"Looks Can Kill\"",
@@ -5560,6 +5603,25 @@
     "https://www.tiktok.com/@ive.official"
    ],
    "mv": "https://www.youtube.com/watch?v=rsNhWkC4neE"
+  },
+  {
+   "artist": "RIIZE",
+   "type": "Digital Single",
+   "title": "Insomnia",
+   "titleTrack": "Insomnia",
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/RIIZE-Insomnia.webp",
+   "url": "https://kpopofficial.com/album/riize-insomnia/",
+   "tracklist": [
+    "Title – \"Insomnia\""
+   ],
+   "links": [
+    "https://x.com/RIIZE_official",
+    "https://www.instagram.com/riize_official/",
+    "https://www.youtube.com/@RIIZE_official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@riize_official"
+   ]
   },
   {
    "artist": "ILLIT",
@@ -5804,11 +5866,11 @@
   },
   {
    "artist": "ATEEZ",
-   "type": "Mini Album",
+   "type": "15th Mini Album",
    "title": "GOLDEN HOUR : Part.6",
    "titleTrack": null,
    "date": "2026-11-13T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/01/cover2-ATEEZ-Members-for-GOLDEN-HOUR-Part-4-1.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ATEEZ-Members-for-Mini-Album-GOLDEN-HOUR-Part-6.webp",
    "url": "https://kpopofficial.com/album/ateez-golden-hour-part-6/",
    "tracklist": [],
    "links": [
@@ -5819,7 +5881,26 @@
     "https://www.youtube.com/@KQENT",
     "https://www.tiktok.com/@ateez_official_"
    ],
-   "mv": "https://www.youtube.com/watch?v=SHIL6u0iRuk"
+   "mv": "https://www.youtube.com/watch?v=VGZ627FEau8"
+  },
+  {
+   "artist": "H1-KEY",
+   "type": "Digital Single",
+   "title": "Unbelievable",
+   "titleTrack": "Unbelievable",
+   "date": "2026-11-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2025/12/cover-H1-KEY-Single-not-like-a-movie-comeback-image.webp",
+   "url": "https://kpopofficial.com/album/h1-key-unbelievable/",
+   "tracklist": [
+    "Title – \"Unbelievable\""
+   ],
+   "links": [
+    "https://x.com/H1KEY_official",
+    "https://www.instagram.com/h1key_official",
+    "https://www.youtube.com/@H1KEY_official",
+    "https://www.tiktok.com/@h1key_choi",
+    "https://www.youtube.com/@H1KEY_official/releases"
+   ]
   },
   {
    "artist": "TOMORROW X TOGETHER (TXT)",
@@ -5827,7 +5908,7 @@
    "title": "PERFECT STORM",
    "titleTrack": null,
    "date": "2026-11-16T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/2-TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
    "url": "https://kpopofficial.com/album/txt-perfect-storm/",
    "tracklist": [],
    "links": [
