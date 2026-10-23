@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T17:05:18+00:00",
+ "generated": "2026-10-23T21:23:26+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -216,7 +216,7 @@
    "title": "i love you to the moon and back",
    "titleTrack": "to the moon :)",
    "date": "2026-10-23T12:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/MINNIE-i-love-you-to-the-moon-and-back-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-MINNIE-i-love-you-to-the-moon-and-back.webp",
    "url": "https://kpopofficial.com/album/minnie-i-love-you-to-the-moon-and-back/",
    "tracklist": [
     "Title – \"to the moon :)\"",
@@ -255,25 +255,6 @@
    "mv": "https://www.youtube.com/watch?v=FkEiAKgAF2c"
   },
   {
-   "artist": "BABYMONSTER",
-   "type": "Digital Single",
-   "title": "DESERVE",
-   "titleTrack": "DESERVE",
-   "date": "2026-10-23T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/BABYMONSTER-DESERVE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/babymonster-deserve/",
-   "tracklist": [
-    "Title – \"DESERVE\""
-   ],
-   "links": [
-    "https://x.com/YGBABYMONSTER_",
-    "https://www.instagram.com/babymonster_ygofficial",
-    "https://www.youtube.com/@BABYMONSTER",
-    "https://www.tiktok.com/@babymonster_yg_tiktok"
-   ],
-   "mv": "https://www.youtube.com/watch?v=oC6brLXQe4I"
-  },
-  {
    "artist": "LISA",
    "type": "EP",
    "title": "PRESS PLAY",
@@ -301,12 +282,31 @@
    "mv": "https://www.youtube.com/watch?v=-5ZXrO_lYSA"
   },
   {
+   "artist": "BABYMONSTER",
+   "type": "Digital Single",
+   "title": "DESERVE",
+   "titleTrack": "DESERVE",
+   "date": "2026-10-23T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-BABYMONSTER-Members-Group-Photo-2.webp",
+   "url": "https://kpopofficial.com/album/babymonster-deserve/",
+   "tracklist": [
+    "Title – \"DESERVE\""
+   ],
+   "links": [
+    "https://x.com/YGBABYMONSTER_",
+    "https://www.instagram.com/babymonster_ygofficial",
+    "https://www.youtube.com/@BABYMONSTER",
+    "https://www.tiktok.com/@babymonster_yg_tiktok"
+   ],
+   "mv": "https://www.youtube.com/watch?v=oC6brLXQe4I"
+  },
+  {
    "artist": "ATEEZ",
    "type": "15th Mini Album",
    "title": "GOLDEN HOUR : Part.6",
    "titleTrack": null,
    "date": "2026-10-23T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/ATEEZ-Drip-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-ATEEZ-Members.webp",
    "url": "https://kpopofficial.com/album/ateez-drip/",
    "tracklist": [
     "Pre-release – \"Drip\""
@@ -320,33 +320,6 @@
     "https://www.tiktok.com/@ateez_official_"
    ],
    "mv": "https://www.youtube.com/watch?v=iqQWCYMlMw0"
-  },
-  {
-   "artist": "LISA",
-   "type": "EP",
-   "title": "PRESS PLAY",
-   "titleTrack": "Tarantino",
-   "date": "2026-10-23T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-LISA-EP-PRESS-PLAY.webp",
-   "url": "https://kpopofficial.com/album/lisa-press-play/",
-   "tracklist": [
-    "Title – \"Tarantino\"",
-    "SaWaDiKa",
-    "V12",
-    "Cobra",
-    "Tarantino",
-    "Cut U Off",
-    "Sweat"
-   ],
-   "links": [
-    "https://x.com/wearelloud",
-    "https://www.instagram.com/lalalalisa_m/",
-    "https://www.instagram.com/wearelloud/",
-    "https://www.youtube.com/@wearelloud",
-    "https://www.tiktok.com/@lalalalisa_m",
-    "https://www.tiktok.com/@wearelloud"
-   ],
-   "mv": "https://www.youtube.com/watch?v=-5ZXrO_lYSA"
   },
   {
    "artist": "BABYMONSTER",
@@ -387,6 +360,33 @@
     "https://www.tiktok.com/@ateez_official_"
    ],
    "mv": "https://www.youtube.com/watch?v=iqQWCYMlMw0"
+  },
+  {
+   "artist": "LISA",
+   "type": "EP",
+   "title": "PRESS PLAY",
+   "titleTrack": "Tarantino",
+   "date": "2026-10-23T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-LISA-EP-PRESS-PLAY.webp",
+   "url": "https://kpopofficial.com/album/lisa-press-play/",
+   "tracklist": [
+    "Title – \"Tarantino\"",
+    "SaWaDiKa",
+    "V12",
+    "Cobra",
+    "Tarantino",
+    "Cut U Off",
+    "Sweat"
+   ],
+   "links": [
+    "https://x.com/wearelloud",
+    "https://www.instagram.com/lalalalisa_m/",
+    "https://www.instagram.com/wearelloud/",
+    "https://www.youtube.com/@wearelloud",
+    "https://www.tiktok.com/@lalalalisa_m",
+    "https://www.tiktok.com/@wearelloud"
+   ],
+   "mv": "https://www.youtube.com/watch?v=-5ZXrO_lYSA"
   },
   {
    "artist": "RIIZE",
@@ -543,29 +543,6 @@
    ]
   },
   {
-   "artist": "JUSTB",
-   "type": "6th EP",
-   "title": "k-pop",
-   "titleTrack": null,
-   "date": "2026-10-28T12:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-JUSTB-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/justb-kpop/",
-   "tracklist": [
-    "Party Time",
-    "1,2,3&4",
-    "RingRingRing",
-    "My Soft Spot",
-    "Narrow Gate"
-   ],
-   "links": [
-    "https://x.com/justb_official",
-    "https://www.instagram.com/JUSTB_IG_official",
-    "https://www.youtube.com/@JUSTB_Official",
-    "https://www.tiktok.com/@justb_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=tXd_wzk0MJQ"
-  },
-  {
    "artist": "XLOV",
    "type": "3rd Mini Album",
    "title": "i=!",
@@ -633,24 +610,6 @@
    ]
   },
   {
-   "artist": "TWS",
-   "type": "2nd Single Album",
-   "title": "TO US",
-   "titleTrack": null,
-   "date": "2026-11-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-TWS-NO-TRAGEDY-Teaser.webp",
-   "url": "https://kpopofficial.com/album/tws-to-us/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/TWS_PLEDIS",
-    "https://www.instagram.com/tws_pledis",
-    "https://www.youtube.com/@TWS_PLEDIS",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tws_pledis"
-   ],
-   "mv": "https://www.youtube.com/watch?v=5xcEJHC6ufo"
-  },
-  {
    "artist": "xikers",
    "type": "8th Mini Album",
    "title": "ROUTE ZERO : The CALLING",
@@ -669,20 +628,22 @@
    ]
   },
   {
-   "artist": "RESCENE",
-   "type": "4th Mini Album",
-   "title": "PULSE",
+   "artist": "TWS",
+   "type": "2nd Single Album",
+   "title": "TO US",
    "titleTrack": null,
-   "date": "2026-11-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-RESCENE-members-2026-Pulse.webp",
-   "url": "https://kpopofficial.com/album/rescene-pulse/",
+   "date": "2026-11-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-TWS-NO-TRAGEDY-Teaser.webp",
+   "url": "https://kpopofficial.com/album/tws-to-us/",
    "tracklist": [],
    "links": [
-    "https://x.com/RESCENEofficial",
-    "https://www.instagram.com/rescene_official",
-    "https://www.youtube.com/@RESCENE_official",
-    "https://www.tiktok.com/@rescene_official"
-   ]
+    "https://x.com/TWS_PLEDIS",
+    "https://www.instagram.com/tws_pledis",
+    "https://www.youtube.com/@TWS_PLEDIS",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tws_pledis"
+   ],
+   "mv": "https://www.youtube.com/watch?v=5xcEJHC6ufo"
   },
   {
    "artist": "RESCENE",
@@ -698,40 +659,6 @@
     "https://www.instagram.com/rescene_official",
     "https://www.youtube.com/@RESCENE_official",
     "https://www.tiktok.com/@rescene_official"
-   ]
-  },
-  {
-   "artist": "HEART OF WOMAN",
-   "type": "1st Mini Album",
-   "title": "ETERNAL FADE",
-   "titleTrack": null,
-   "date": "2026-11-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/HEART-OF-WOMAN-HOW-Members.webp",
-   "url": "https://kpopofficial.com/album/heart-of-woman-eternal-fade/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/heart_of_woman",
-    "https://www.instagram.com/heartofwoman_officl",
-    "https://www.youtube.com/@heartofwoman_officl",
-    "https://www.tiktok.com/@heartofwoman_officl",
-    "https://www.youtube.com/@heartofwoman_officl/releases"
-   ]
-  },
-  {
-   "artist": "UNCHILD",
-   "type": "2nd Digital Single",
-   "title": "TiNG TiNG",
-   "titleTrack": null,
-   "date": "2026-11-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-UNCHILD-Members.webp",
-   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/officialUNCHILD",
-    "https://www.instagram.com/official_unchild",
-    "https://www.youtube.com/@official_unchild",
-    "https://www.tiktok.com/@official_unchild",
-    "https://www.youtube.com/@official_unchild/releases"
    ]
   },
   {
@@ -916,7 +843,7 @@
    "title": "PERFECT STORM",
    "titleTrack": null,
    "date": "2026-11-16T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/2-TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
    "url": "https://kpopofficial.com/album/txt-perfect-storm/",
    "tracklist": [],
    "links": [
@@ -933,7 +860,7 @@
    "title": "PERFECT STORM",
    "titleTrack": null,
    "date": "2026-11-16T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/2-TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
    "url": "https://kpopofficial.com/album/txt-perfect-storm/",
    "tracklist": [],
    "links": [
