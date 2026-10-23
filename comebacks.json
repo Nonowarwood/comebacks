@@ -1,56 +1,7 @@
 {
- "generated": "2026-10-23T04:47:47+00:00",
+ "generated": "2026-10-23T11:37:03+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "MEOVV",
-   "type": "Single Album",
-   "title": "GO HARD",
-   "titleTrack": "GO HARD",
-   "date": "2026-10-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/MEOVV-GO-HARD-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/meovv-go-hard/",
-   "tracklist": [
-    "Title – \"GO HARD\"",
-    "GO HARD",
-    "Indestructible"
-   ],
-   "links": [
-    "https://x.com/OFFICIAL_MEOVV",
-    "https://www.instagram.com/meovv/",
-    "https://www.youtube.com/@MEOVV_OFFICIAL",
-    "https://www.youtube.com/@THEBLACKLABEL",
-    "https://www.tiktok.com/@meovv_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=8aKR2Ho--5k"
-  },
-  {
-   "artist": "Xdinary Heroes",
-   "type": "9th Mini Album",
-   "title": "IMPULSE",
-   "titleTrack": "Obsessed with Youth",
-   "date": "2026-10-12T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Xdinary-Heroes-IMPULSE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/xdinary-heroes-impulse/",
-   "tracklist": [
-    "Title – \"Obsessed with Youth\"",
-    "Obsessed with Youth",
-    "Give Up The Ghost",
-    "Slashhh!",
-    "u and me in arguments",
-    "You Right There",
-    "Love in dystopia",
-    "Breathe in, Breathe out"
-   ],
-   "links": [
-    "https://x.com/XH_official",
-    "https://www.instagram.com/xdinaryheroes_official",
-    "https://www.youtube.com/c/xdinaryheroesofficial",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@xheroes_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=10_1vuZAeP0"
-  },
   {
    "artist": "A2O LITE",
    "type": "Debut Digital Single",
@@ -72,25 +23,6 @@
     "https://www.tiktok.com/@a2o.lite"
    ],
    "mv": "https://www.youtube.com/watch?v=D968qfUZMUE"
-  },
-  {
-   "artist": "tripleS",
-   "type": "Single",
-   "title": "LOVE&POP pt.2",
-   "titleTrack": "Andless",
-   "date": "2026-10-16T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/tripleS-Andless-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/triples-love-and-pop-pt-2/",
-   "tracklist": [
-    "Title – \"Andless\""
-   ],
-   "links": [
-    "https://x.com/triplescosmos",
-    "https://www.instagram.com/triplescosmos",
-    "https://www.youtube.com/@triplescosmos",
-    "https://www.tiktok.com/@triplescosmos"
-   ],
-   "mv": "https://www.youtube.com/watch?v=uqJ6GDJSyfY"
   },
   {
    "artist": "IVE",
@@ -120,33 +52,6 @@
    "mv": "https://www.youtube.com/watch?v=rsNhWkC4neE"
   },
   {
-   "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
-   "type": "1st Mini Album",
-   "title": "DREAMSCAPE",
-   "titleTrack": "12 o'clock",
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Jeonghan-Joshua-DREAMSCAPE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/jeonghan-joshua-dreamscape/",
-   "tracklist": [
-    "Title – \"12 o’clock\"",
-    "Like you",
-    "12 o’clock",
-    "Outside",
-    "One plus one",
-    "Not personal (JOSHUA Solo)",
-    "컬러링 (JEONGHAN Solo)",
-    "No looking back"
-   ],
-   "links": [
-    "https://x.com/pledis_17",
-    "https://www.instagram.com/saythename_17/",
-    "https://www.youtube.com/@pledis17",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@seventeen17_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=hdwGWGSfABA"
-  },
-  {
    "artist": "NMIXX",
    "type": "6th EP",
    "title": "Strange Muse",
@@ -173,83 +78,31 @@
    "mv": "https://www.youtube.com/watch?v=roHWN9fL2SM"
   },
   {
-   "artist": "EVNNE",
-   "type": "6th Mini Album",
-   "title": "on: our noise",
-   "titleTrack": "LOOK AT MA",
+   "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
+   "type": "1st Mini Album",
+   "title": "DREAMSCAPE",
+   "titleTrack": "12 o'clock",
    "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/EVNNE-on-our-noise-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/evnne-on-our-noise/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Jeonghan-Joshua-DREAMSCAPE-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/jeonghan-joshua-dreamscape/",
    "tracklist": [
-    "Title – \"LOOK AT MA\"",
-    "Bless",
-    "Look At Ma",
-    "Know Wassup",
-    "A-OK",
-    "That’s OMG"
+    "Title – \"12 o’clock\"",
+    "Like you",
+    "12 o’clock",
+    "Outside",
+    "One plus one",
+    "Not personal (JOSHUA Solo)",
+    "컬러링 (JEONGHAN Solo)",
+    "No looking back"
    ],
    "links": [
-    "https://x.com/EVNNE_official",
-    "https://www.instagram.com/evnne_official/",
-    "https://www.youtube.com/@EVNNE",
-    "https://www.tiktok.com/@evnne_official"
+    "https://x.com/pledis_17",
+    "https://www.instagram.com/saythename_17/",
+    "https://www.youtube.com/@pledis17",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@seventeen17_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=xopENTTZby4"
-  },
-  {
-   "artist": "V01D",
-   "type": "2nd Mini Album",
-   "title": "YOUTHQUAKE",
-   "titleTrack": "My Youth",
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/V01D-YOUTHQUAKE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/v01d-youthquake/",
-   "tracklist": [
-    "Title – \"My Youth\"",
-    "Memory",
-    "Ending Credit",
-    "My Youth",
-    "Scream Out Now",
-    "Best Part",
-    "Memory (Instrumental)",
-    "Ending Credit (Instrumental)",
-    "My Youth (Instrumental)",
-    "Scream Out Now (Instrumental)",
-    "Best Part (Instrumental)"
-   ],
-   "links": [
-    "https://x.com/V01D_iX",
-    "https://www.instagram.com/v01d_ix",
-    "https://www.youtube.com/@v01d-ix",
-    "https://www.tiktok.com/@v01d_ix"
-   ],
-   "mv": "https://www.youtube.com/watch?v=LreB87R6RYo"
-  },
-  {
-   "artist": "MAX CHANGMIN (TVXQ)",
-   "type": "3rd Mini Album",
-   "title": "All Of My Life",
-   "titleTrack": "All Of My Life",
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Max-Changmin-TVXQ-All-Of-My-Life.webp",
-   "url": "https://kpopofficial.com/album/max-changmin-all-of-my-life/",
-   "tracklist": [
-    "Title – \"All Of My Life\"",
-    "All Of My Life",
-    "Hot Blood",
-    "The Low",
-    "Yeah We Go",
-    "Sleeping By The Phone",
-    "99 (Boiling Point)"
-   ],
-   "links": [
-    "https://x.com/TVXQ",
-    "https://www.instagram.com/tvxq.official/",
-    "https://www.youtube.com/@TVXQ",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@tvxq_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=7XMkfsmNeNg"
+   "mv": "https://www.youtube.com/watch?v=hdwGWGSfABA"
   },
   {
    "artist": "ONEW",
@@ -344,26 +197,7 @@
    "title": "Talk to me",
    "titleTrack": "Talk to me",
    "date": "2026-10-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-ALPHA-DRIVE-ONE-Members-for-No-School-Tomorrow.webp",
-   "url": "https://kpopofficial.com/album/alpha-drive-one-talk-to-me/",
-   "tracklist": [
-    "Title – \"Talk to me\""
-   ],
-   "links": [
-    "https://x.com/ALD1_official",
-    "https://www.instagram.com/ald1.official",
-    "https://www.youtube.com/@ALD1.official",
-    "https://www.tiktok.com/@ald1_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=videoseries"
-  },
-  {
-   "artist": "ALPHA DRIVE ONE",
-   "type": "Digital Single",
-   "title": "Talk to me",
-   "titleTrack": "Talk to me",
-   "date": "2026-10-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/ALPHA-DRIVE-ONE-members-for-unbreakable-shonen-beast.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/ALPHA-DRIVE-ONE-Talk-To-Me-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/alpha-drive-one-talk-to-me/",
    "tracklist": [
     "Title – \"Talk to me\""
@@ -380,9 +214,9 @@
    "artist": "MINNIE (i-dle)",
    "type": "Digital EP",
    "title": "i love you to the moon and back",
-   "titleTrack": "to the moon",
+   "titleTrack": "to the moon :)",
    "date": "2026-10-23T12:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-MINNIE-i-love-you-to-the-moon-and-back.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/MINNIE-i-love-you-to-the-moon-and-back-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/minnie-i-love-you-to-the-moon-and-back/",
    "tracklist": [
     "Title – \"to the moon :)\"",
@@ -396,13 +230,13 @@
     "https://www.youtube.com/@official_i_dle",
     "https://www.tiktok.com/@official_i_dle"
    ],
-   "mv": "https://www.youtube.com/watch?v=LVTWRMtIzuE"
+   "mv": "https://www.youtube.com/watch?v=FkEiAKgAF2c"
   },
   {
    "artist": "MINNIE (i-dle)",
    "type": "Digital EP",
    "title": "i love you to the moon and back",
-   "titleTrack": "to the moon",
+   "titleTrack": "to the moon :)",
    "date": "2026-10-23T12:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-MINNIE-i-love-you-to-the-moon-and-back.webp",
    "url": "https://kpopofficial.com/album/minnie-i-love-you-to-the-moon-and-back/",
@@ -418,34 +252,26 @@
     "https://www.youtube.com/@official_i_dle",
     "https://www.tiktok.com/@official_i_dle"
    ],
-   "mv": "https://www.youtube.com/watch?v=LVTWRMtIzuE"
+   "mv": "https://www.youtube.com/watch?v=FkEiAKgAF2c"
   },
   {
-   "artist": "LISA",
-   "type": "EP",
-   "title": "PRESS PLAY",
-   "titleTrack": "Tarantino",
+   "artist": "BABYMONSTER",
+   "type": "Digital Single",
+   "title": "DESERVE",
+   "titleTrack": "DESERVE",
    "date": "2026-10-23T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-LISA-EP-PRESS-PLAY.webp",
-   "url": "https://kpopofficial.com/album/lisa-press-play/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/BABYMONSTER-DESERVE-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/babymonster-deserve/",
    "tracklist": [
-    "Title – \"Tarantino\"",
-    "SaWaDiKa",
-    "V12",
-    "Cobra",
-    "Tarantino",
-    "Cut U Off",
-    "Sweat"
+    "Title – \"DESERVE\""
    ],
    "links": [
-    "https://x.com/wearelloud",
-    "https://www.instagram.com/lalalalisa_m/",
-    "https://www.instagram.com/wearelloud/",
-    "https://www.youtube.com/@wearelloud",
-    "https://www.tiktok.com/@lalalalisa_m",
-    "https://www.tiktok.com/@wearelloud"
+    "https://x.com/YGBABYMONSTER_",
+    "https://www.instagram.com/babymonster_ygofficial",
+    "https://www.youtube.com/@BABYMONSTER",
+    "https://www.tiktok.com/@babymonster_yg_tiktok"
    ],
-   "mv": "https://www.youtube.com/watch?v=-5ZXrO_lYSA"
+   "mv": "https://www.youtube.com/watch?v=oC6brLXQe4I"
   },
   {
    "artist": "LISA",
@@ -475,42 +301,25 @@
    "mv": "https://www.youtube.com/watch?v=-5ZXrO_lYSA"
   },
   {
-   "artist": "BABYMONSTER",
-   "type": "Digital Single",
-   "title": "DESERVE",
+   "artist": "ATEEZ",
+   "type": "15th Mini Album",
+   "title": "GOLDEN HOUR : Part.6",
    "titleTrack": null,
    "date": "2026-10-23T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-BABYMONSTER-Members-Group-Photo-2.webp",
-   "url": "https://kpopofficial.com/album/babymonster-deserve/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/ATEEZ-Drip-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/ateez-drip/",
    "tracklist": [
-    "Title – \"DESERVE\""
+    "Pre-release – \"Drip\""
    ],
    "links": [
-    "https://x.com/YGBABYMONSTER_",
-    "https://www.instagram.com/babymonster_ygofficial",
-    "https://www.youtube.com/@BABYMONSTER",
-    "https://www.tiktok.com/@babymonster_yg_tiktok"
+    "https://x.com/ATEEZofficial",
+    "https://x.com/ATEEZofficialjp",
+    "https://www.instagram.com/ateez_official_/",
+    "https://www.youtube.com/@ATEEZofficial",
+    "https://www.youtube.com/@KQENT",
+    "https://www.tiktok.com/@ateez_official_"
    ],
-   "mv": "https://www.youtube.com/watch?v=oC6brLXQe4I"
-  },
-  {
-   "artist": "BABYMONSTER",
-   "type": "Digital Single",
-   "title": "DESERVE",
-   "titleTrack": null,
-   "date": "2026-10-23T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-BABYMONSTER-Members-for-Single-SUGAR-HONEY-ICE-TEA.webp",
-   "url": "https://kpopofficial.com/album/babymonster-deserve/",
-   "tracklist": [
-    "Title – \"DESERVE\""
-   ],
-   "links": [
-    "https://x.com/YGBABYMONSTER_",
-    "https://www.instagram.com/babymonster_ygofficial",
-    "https://www.youtube.com/@BABYMONSTER",
-    "https://www.tiktok.com/@babymonster_yg_tiktok"
-   ],
-   "mv": "https://www.youtube.com/watch?v=oC6brLXQe4I"
+   "mv": "https://www.youtube.com/watch?v=iqQWCYMlMw0"
   },
   {
    "artist": "ATEEZ",
@@ -534,23 +343,50 @@
    "mv": "https://www.youtube.com/watch?v=iqQWCYMlMw0"
   },
   {
-   "artist": "RIIZE",
-   "type": "Digital Single",
-   "title": "Insomnia",
-   "titleTrack": "Insomnia",
-   "date": "2026-10-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/RIIZE-Insomnia.webp",
-   "url": "https://kpopofficial.com/album/riize-insomnia/",
+   "artist": "LISA",
+   "type": "EP",
+   "title": "PRESS PLAY",
+   "titleTrack": "Tarantino",
+   "date": "2026-10-23T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-LISA-EP-PRESS-PLAY.webp",
+   "url": "https://kpopofficial.com/album/lisa-press-play/",
    "tracklist": [
-    "Title – \"Insomnia\""
+    "Title – \"Tarantino\"",
+    "SaWaDiKa",
+    "V12",
+    "Cobra",
+    "Tarantino",
+    "Cut U Off",
+    "Sweat"
    ],
    "links": [
-    "https://x.com/RIIZE_official",
-    "https://www.instagram.com/riize_official/",
-    "https://www.youtube.com/@RIIZE_official",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@riize_official"
-   ]
+    "https://x.com/wearelloud",
+    "https://www.instagram.com/lalalalisa_m/",
+    "https://www.instagram.com/wearelloud/",
+    "https://www.youtube.com/@wearelloud",
+    "https://www.tiktok.com/@lalalalisa_m",
+    "https://www.tiktok.com/@wearelloud"
+   ],
+   "mv": "https://www.youtube.com/watch?v=-5ZXrO_lYSA"
+  },
+  {
+   "artist": "BABYMONSTER",
+   "type": "Digital Single",
+   "title": "DESERVE",
+   "titleTrack": "DESERVE",
+   "date": "2026-10-23T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-BABYMONSTER-Members-for-Single-SUGAR-HONEY-ICE-TEA.webp",
+   "url": "https://kpopofficial.com/album/babymonster-deserve/",
+   "tracklist": [
+    "Title – \"DESERVE\""
+   ],
+   "links": [
+    "https://x.com/YGBABYMONSTER_",
+    "https://www.instagram.com/babymonster_ygofficial",
+    "https://www.youtube.com/@BABYMONSTER",
+    "https://www.tiktok.com/@babymonster_yg_tiktok"
+   ],
+   "mv": "https://www.youtube.com/watch?v=oC6brLXQe4I"
   },
   {
    "artist": "IVE",
@@ -578,6 +414,71 @@
     "https://www.tiktok.com/@ive.official"
    ],
    "mv": "https://www.youtube.com/watch?v=rsNhWkC4neE"
+  },
+  {
+   "artist": "RIIZE",
+   "type": "Digital Single",
+   "title": "Insomnia",
+   "titleTrack": "Insomnia",
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/RIIZE-Insomnia.webp",
+   "url": "https://kpopofficial.com/album/riize-insomnia/",
+   "tracklist": [
+    "Title – \"Insomnia\""
+   ],
+   "links": [
+    "https://x.com/RIIZE_official",
+    "https://www.instagram.com/riize_official/",
+    "https://www.youtube.com/@RIIZE_official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@riize_official"
+   ]
+  },
+  {
+   "artist": "IVE",
+   "type": "EP",
+   "title": "Looks Can Kill",
+   "titleTrack": "Looks Can Kill",
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
+   "url": "https://kpopofficial.com/album/ive-looks-can-kill/",
+   "tracklist": [
+    "Title – \"Looks Can Kill\"",
+    "Looks Can Kill",
+    "Mirror Mirror",
+    "SNAKESKIN",
+    "CRUMBS",
+    "Girls Girls Girls",
+    "Glow Motion"
+   ],
+   "links": [
+    "https://x.com/IVEstarship",
+    "https://x.com/IVEstarship_JP",
+    "https://www.instagram.com/IVEstarship",
+    "https://www.youtube.com/@IVEstarship",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@ive.official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=rsNhWkC4neE"
+  },
+  {
+   "artist": "RIIZE",
+   "type": "Digital Single",
+   "title": "Insomnia",
+   "titleTrack": "Insomnia",
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-RIIZE-Members-group-photo.webp",
+   "url": "https://kpopofficial.com/album/riize-insomnia/",
+   "tracklist": [
+    "Title – \"Insomnia\""
+   ],
+   "links": [
+    "https://x.com/RIIZE_official",
+    "https://www.instagram.com/riize_official/",
+    "https://www.youtube.com/@RIIZE_official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@riize_official"
+   ]
   },
   {
    "artist": "ILLIT",
@@ -640,6 +541,29 @@
     "https://www.youtube.com/@AND2BLE",
     "https://www.tiktok.com/@and2ble"
    ]
+  },
+  {
+   "artist": "JUSTB",
+   "type": "6th EP",
+   "title": "k-pop",
+   "titleTrack": null,
+   "date": "2026-10-28T12:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-JUSTB-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/justb-kpop/",
+   "tracklist": [
+    "Party Time",
+    "1,2,3&4",
+    "RingRingRing",
+    "My Soft Spot",
+    "Narrow Gate"
+   ],
+   "links": [
+    "https://x.com/justb_official",
+    "https://www.instagram.com/JUSTB_IG_official",
+    "https://www.youtube.com/@JUSTB_Official",
+    "https://www.tiktok.com/@justb_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=tXd_wzk0MJQ"
   },
   {
    "artist": "XLOV",
@@ -761,6 +685,40 @@
    ]
   },
   {
+   "artist": "HEART OF WOMAN",
+   "type": "1st Mini Album",
+   "title": "ETERNAL FADE",
+   "titleTrack": null,
+   "date": "2026-11-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/HEART-OF-WOMAN-HOW-Members.webp",
+   "url": "https://kpopofficial.com/album/heart-of-woman-eternal-fade/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/heart_of_woman",
+    "https://www.instagram.com/heartofwoman_officl",
+    "https://www.youtube.com/@heartofwoman_officl",
+    "https://www.tiktok.com/@heartofwoman_officl",
+    "https://www.youtube.com/@heartofwoman_officl/releases"
+   ]
+  },
+  {
+   "artist": "UNCHILD",
+   "type": "2nd Digital Single",
+   "title": "TiNG TiNG",
+   "titleTrack": null,
+   "date": "2026-11-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-UNCHILD-Members.webp",
+   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/officialUNCHILD",
+    "https://www.instagram.com/official_unchild",
+    "https://www.youtube.com/@official_unchild",
+    "https://www.tiktok.com/@official_unchild",
+    "https://www.youtube.com/@official_unchild/releases"
+   ]
+  },
+  {
    "artist": "P1Harmony",
    "type": "10th Mini Album",
    "title": "BLOW UP",
@@ -878,6 +836,25 @@
     "https://www.tiktok.com/@lngshot4sho"
    ],
    "mv": "https://www.youtube.com/watch?v=b_hgDjQrVOE"
+  },
+  {
+   "artist": "ATEEZ",
+   "type": "15th Mini Album",
+   "title": "GOLDEN HOUR : Part.6",
+   "titleTrack": null,
+   "date": "2026-11-13T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-ATEEZ-Members.webp",
+   "url": "https://kpopofficial.com/album/ateez-golden-hour-part-6/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ATEEZofficial",
+    "https://x.com/ATEEZofficialjp",
+    "https://www.instagram.com/ateez_official_/",
+    "https://www.youtube.com/@ATEEZofficial",
+    "https://www.youtube.com/@KQENT",
+    "https://www.tiktok.com/@ateez_official_"
+   ],
+   "mv": "https://www.youtube.com/watch?v=iqQWCYMlMw0"
   },
   {
    "artist": "ATEEZ",
