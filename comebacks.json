@@ -1,29 +1,7 @@
 {
- "generated": "2026-10-24T04:34:40+00:00",
+ "generated": "2026-10-24T10:57:50+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "A2O LITE",
-   "type": "Debut Digital Single",
-   "title": "NEON",
-   "titleTrack": "NEON",
-   "date": "2026-10-13T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/A2O-LITE-Kpop.webp",
-   "url": "https://kpopofficial.com/album/a2o-lite-neon/",
-   "tracklist": [
-    "Title – \"NEON\""
-   ],
-   "links": [
-    "https://x.com/A2OWORLD",
-    "https://x.com/A2O_LITE",
-    "https://www.instagram.com/a2o.world/",
-    "https://www.instagram.com/a2o.lite/",
-    "https://www.youtube.com/@A2OWORLD",
-    "https://www.youtube.com/@A2OLITE",
-    "https://www.tiktok.com/@a2o.lite"
-   ],
-   "mv": "https://www.youtube.com/watch?v=D968qfUZMUE"
-  },
   {
    "artist": "IVE",
    "type": "EP",
@@ -300,6 +278,25 @@
    "mv": "https://www.youtube.com/watch?v=iqQWCYMlMw0"
   },
   {
+   "artist": "RIIZE",
+   "type": "Digital Single",
+   "title": "Insomnia",
+   "titleTrack": "Insomnia",
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/RIIZE-Insomnia.webp",
+   "url": "https://kpopofficial.com/album/riize-insomnia/",
+   "tracklist": [
+    "Title – \"Insomnia\""
+   ],
+   "links": [
+    "https://x.com/RIIZE_official",
+    "https://www.instagram.com/riize_official/",
+    "https://www.youtube.com/@RIIZE_official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@riize_official"
+   ]
+  },
+  {
    "artist": "IVE",
    "type": "EP",
    "title": "Looks Can Kill",
@@ -327,25 +324,6 @@
    "mv": "https://www.youtube.com/watch?v=rsNhWkC4neE"
   },
   {
-   "artist": "RIIZE",
-   "type": "Digital Single",
-   "title": "Insomnia",
-   "titleTrack": "Insomnia",
-   "date": "2026-10-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/RIIZE-Insomnia.webp",
-   "url": "https://kpopofficial.com/album/riize-insomnia/",
-   "tracklist": [
-    "Title – \"Insomnia\""
-   ],
-   "links": [
-    "https://x.com/RIIZE_official",
-    "https://www.instagram.com/riize_official/",
-    "https://www.youtube.com/@RIIZE_official",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@riize_official"
-   ]
-  },
-  {
    "artist": "IVE",
    "type": "EP",
    "title": "Looks Can Kill",
@@ -371,6 +349,25 @@
     "https://www.tiktok.com/@ive.official"
    ],
    "mv": "https://www.youtube.com/watch?v=rsNhWkC4neE"
+  },
+  {
+   "artist": "RIIZE",
+   "type": "Digital Single",
+   "title": "Insomnia",
+   "titleTrack": "Insomnia",
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-RIIZE-Members-group-photo.webp",
+   "url": "https://kpopofficial.com/album/riize-insomnia/",
+   "tracklist": [
+    "Title – \"Insomnia\""
+   ],
+   "links": [
+    "https://x.com/RIIZE_official",
+    "https://www.instagram.com/riize_official/",
+    "https://www.youtube.com/@RIIZE_official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@riize_official"
+   ]
   },
   {
    "artist": "ILLIT",
