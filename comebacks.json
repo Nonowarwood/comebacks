@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T15:55:48+00:00",
+ "generated": "2026-10-24T20:47:39+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -373,25 +373,6 @@
    "mv": "https://www.youtube.com/watch?v=rsNhWkC4neE"
   },
   {
-   "artist": "RIIZE",
-   "type": "Digital Single",
-   "title": "Insomnia",
-   "titleTrack": "Insomnia",
-   "date": "2026-10-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-RIIZE-Members-group-photo.webp",
-   "url": "https://kpopofficial.com/album/riize-insomnia/",
-   "tracklist": [
-    "Title – \"Insomnia\""
-   ],
-   "links": [
-    "https://x.com/RIIZE_official",
-    "https://www.instagram.com/riize_official/",
-    "https://www.youtube.com/@RIIZE_official",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@riize_official"
-   ]
-  },
-  {
    "artist": "ILLIT",
    "type": "5th Mini Album",
    "title": "BREAK EVEN",
@@ -459,6 +440,29 @@
    "title": "k-pop",
    "titleTrack": null,
    "date": "2026-10-28T12:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-JUSTB-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/justb-kpop/",
+   "tracklist": [
+    "Party Time",
+    "1,2,3&4",
+    "RingRingRing",
+    "My Soft Spot",
+    "Narrow Gate"
+   ],
+   "links": [
+    "https://x.com/justb_official",
+    "https://www.instagram.com/JUSTB_IG_official",
+    "https://www.youtube.com/@JUSTB_Official",
+    "https://www.tiktok.com/@justb_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=tXd_wzk0MJQ"
+  },
+  {
+   "artist": "JUSTB",
+   "type": "6th EP",
+   "title": "k-pop",
+   "titleTrack": null,
+   "date": "2026-10-28T12:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-JUSTB-Members-2026.webp",
    "url": "https://kpopofficial.com/album/justb-kpop/",
    "tracklist": [
@@ -475,6 +479,33 @@
     "https://www.tiktok.com/@justb_official"
    ],
    "mv": "https://www.youtube.com/watch?v=tXd_wzk0MJQ"
+  },
+  {
+   "artist": "XLOV",
+   "type": "3rd Mini Album",
+   "title": "i=!",
+   "titleTrack": "HUSH\" \"Tooth Gem Chiwawa",
+   "date": "2026-10-28T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/cover-XLOV-Members.webp",
+   "url": "https://kpopofficial.com/album/xlov-3rd-mini-album/",
+   "tracklist": [
+    "Title – \"HUSH\" \"Tooth Gem Chiwawa\"",
+    "CAT MOVE",
+    "HUSH",
+    "All Tied Up (Rui & Haru)",
+    "Tooth Gem Chiwawa",
+    "Silence (Wumuti & Hyun)",
+    "Tooth Gem Chiwawa (Sped Up)",
+    "HUSH (Inst.)",
+    "Tooth Gem Chiwawa (Inst.)"
+   ],
+   "links": [
+    "https://x.com/XLOV_official",
+    "https://www.instagram.com/xlov_official/",
+    "https://www.youtube.com/@XLOV_official",
+    "https://www.tiktok.com/@xlov_official",
+    "https://www.youtube.com/@XLOV_official/releases"
+   ]
   },
   {
    "artist": "XLOV",
@@ -577,22 +608,6 @@
     "https://www.youtube.com/@KQENT",
     "https://www.tiktok.com/@xikers_official",
     "https://www.youtube.com/@xikers_official/releases"
-   ]
-  },
-  {
-   "artist": "RESCENE",
-   "type": "4th Mini Album",
-   "title": "PULSE",
-   "titleTrack": null,
-   "date": "2026-11-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-RESCENE-members-2026-Pulse.webp",
-   "url": "https://kpopofficial.com/album/rescene-pulse/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/RESCENEofficial",
-    "https://www.instagram.com/rescene_official",
-    "https://www.youtube.com/@RESCENE_official",
-    "https://www.tiktok.com/@rescene_official"
    ]
   },
   {
@@ -716,7 +731,7 @@
    "title": "S.W.I.S.H.",
    "titleTrack": null,
    "date": "2026-11-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Teaser-LNGSHOT-Members-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Teaser-LNGSHOT-Members-2026.webp",
    "url": "https://kpopofficial.com/album/lngshot-swish/",
    "tracklist": [],
    "links": [
@@ -729,23 +744,22 @@
    "mv": "https://www.youtube.com/watch?v=b_hgDjQrVOE"
   },
   {
-   "artist": "ATEEZ",
-   "type": "15th Mini Album",
-   "title": "GOLDEN HOUR : Part.6",
+   "artist": "LNGSHOT",
+   "type": "EP",
+   "title": "S.W.I.S.H.",
    "titleTrack": null,
-   "date": "2026-11-13T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-ATEEZ-Members.webp",
-   "url": "https://kpopofficial.com/album/ateez-golden-hour-part-6/",
+   "date": "2026-11-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Teaser-LNGSHOT-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/lngshot-swish/",
    "tracklist": [],
    "links": [
-    "https://x.com/ATEEZofficial",
-    "https://x.com/ATEEZofficialjp",
-    "https://www.instagram.com/ateez_official_/",
-    "https://www.youtube.com/@ATEEZofficial",
-    "https://www.youtube.com/@KQENT",
-    "https://www.tiktok.com/@ateez_official_"
+    "https://x.com/LNGSHOT4sho",
+    "https://www.instagram.com/lngshot4sho/",
+    "https://www.youtube.com/@LNGSHOT4SHO",
+    "https://www.youtube.com/@MOREVISION",
+    "https://www.tiktok.com/@lngshot4sho"
    ],
-   "mv": "https://www.youtube.com/watch?v=iqQWCYMlMw0"
+   "mv": "https://www.youtube.com/watch?v=b_hgDjQrVOE"
   },
   {
    "artist": "ATEEZ",
