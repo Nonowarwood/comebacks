@@ -1,7 +1,29 @@
 {
- "generated": "2026-10-24T20:47:39+00:00",
+ "generated": "2026-10-25T04:38:57+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
+  {
+   "artist": "MEOVV",
+   "type": "Single Album",
+   "title": "GO HARD",
+   "titleTrack": "GO HARD",
+   "date": "2026-10-12T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/MEOVV-GO-HARD-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/meovv-go-hard/",
+   "tracklist": [
+    "Title – \"GO HARD\"",
+    "GO HARD",
+    "Indestructible"
+   ],
+   "links": [
+    "https://x.com/OFFICIAL_MEOVV",
+    "https://www.instagram.com/meovv/",
+    "https://www.youtube.com/@MEOVV_OFFICIAL",
+    "https://www.youtube.com/@THEBLACKLABEL",
+    "https://www.tiktok.com/@meovv_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=8aKR2Ho--5k"
+  },
   {
    "artist": "A2O LITE",
    "type": "Debut Digital Single",
@@ -373,6 +395,25 @@
    "mv": "https://www.youtube.com/watch?v=rsNhWkC4neE"
   },
   {
+   "artist": "RIIZE",
+   "type": "Digital Single",
+   "title": "Insomnia",
+   "titleTrack": "Insomnia",
+   "date": "2026-10-26T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-RIIZE-Members-group-photo.webp",
+   "url": "https://kpopofficial.com/album/riize-insomnia/",
+   "tracklist": [
+    "Title – \"Insomnia\""
+   ],
+   "links": [
+    "https://x.com/RIIZE_official",
+    "https://www.instagram.com/riize_official/",
+    "https://www.youtube.com/@RIIZE_official",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@riize_official"
+   ]
+  },
+  {
    "artist": "ILLIT",
    "type": "5th Mini Album",
    "title": "BREAK EVEN",
@@ -433,29 +474,6 @@
     "https://www.youtube.com/@AND2BLE",
     "https://www.tiktok.com/@and2ble"
    ]
-  },
-  {
-   "artist": "JUSTB",
-   "type": "6th EP",
-   "title": "k-pop",
-   "titleTrack": null,
-   "date": "2026-10-28T12:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-JUSTB-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/justb-kpop/",
-   "tracklist": [
-    "Party Time",
-    "1,2,3&4",
-    "RingRingRing",
-    "My Soft Spot",
-    "Narrow Gate"
-   ],
-   "links": [
-    "https://x.com/justb_official",
-    "https://www.instagram.com/JUSTB_IG_official",
-    "https://www.youtube.com/@JUSTB_Official",
-    "https://www.tiktok.com/@justb_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=tXd_wzk0MJQ"
   },
   {
    "artist": "JUSTB",
