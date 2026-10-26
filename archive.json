@@ -5641,7 +5641,7 @@
    "title": "Insomnia",
    "titleTrack": "Insomnia",
    "date": "2026-10-26T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover-RIIZE-Members-group-photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/RIIZE-Insomnia-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/riize-insomnia/",
    "tracklist": [
     "Title – \"Insomnia\""
@@ -5652,7 +5652,8 @@
     "https://www.youtube.com/@RIIZE_official",
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@riize_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=RgkoXU4BlOE"
   },
   {
    "artist": "ILLIT",
@@ -5675,7 +5676,35 @@
     "https://www.youtube.com/@ILLIT_official",
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@illit_official"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=V2V9-9VhYJo"
+  },
+  {
+   "artist": "IVE",
+   "type": "EP",
+   "title": "Looks Can Kill",
+   "titleTrack": "Looks Can Kill",
+   "date": "2026-10-26T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/IVE-Members-Photo.webp",
+   "url": "https://kpopofficial.com/album/ive-looks-can-kill/",
+   "tracklist": [
+    "Title – \"Looks Can Kill\"",
+    "Looks Can Kill",
+    "Mirror Mirror",
+    "SNAKESKIN",
+    "CRUMBS",
+    "Girls Girls Girls",
+    "Glow Motion"
+   ],
+   "links": [
+    "https://x.com/IVEstarship",
+    "https://x.com/IVEstarship_JP",
+    "https://www.instagram.com/IVEstarship",
+    "https://www.youtube.com/@IVEstarship",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@ive.official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=rsNhWkC4neE"
   },
   {
    "artist": "AND2BLE",
@@ -6035,6 +6064,26 @@
     "https://www.tiktok.com/@yves___official",
     "https://www.youtube.com/@YVES_OFFICIAL/releases"
    ]
+  },
+  {
+   "artist": "NAYEON (TWICE)",
+   "type": "Single Album",
+   "title": "NA-sty",
+   "titleTrack": null,
+   "date": "2026-11-20T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Nayeon-Twice.webp",
+   "url": "https://kpopofficial.com/album/nayeon-na-sty/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/JYPETWICE",
+    "https://www.instagram.com/twicetagram",
+    "https://www.instagram.com/nayeonyny/",
+    "https://www.youtube.com/@TWICE",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.youtube.com/@IM_NAYEON_0922",
+    "https://www.tiktok.com/@twice_tiktok_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=z7afHJ5I0Ws"
   }
  ]
 }
