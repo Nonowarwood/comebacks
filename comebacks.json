@@ -1,7 +1,29 @@
 {
- "generated": "2026-10-25T20:49:18+00:00",
+ "generated": "2026-10-26T04:44:43+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
+  {
+   "artist": "A2O LITE",
+   "type": "Debut Digital Single",
+   "title": "NEON",
+   "titleTrack": "NEON",
+   "date": "2026-10-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/A2O-LITE-Kpop.webp",
+   "url": "https://kpopofficial.com/album/a2o-lite-neon/",
+   "tracklist": [
+    "Title – \"NEON\""
+   ],
+   "links": [
+    "https://x.com/A2OWORLD",
+    "https://x.com/A2O_LITE",
+    "https://www.instagram.com/a2o.world/",
+    "https://www.instagram.com/a2o.lite/",
+    "https://www.youtube.com/@A2OWORLD",
+    "https://www.youtube.com/@A2OLITE",
+    "https://www.tiktok.com/@a2o.lite"
+   ],
+   "mv": "https://www.youtube.com/watch?v=D968qfUZMUE"
+  },
   {
    "artist": "IVE",
    "type": "EP",
@@ -54,33 +76,6 @@
     "https://www.tiktok.com/@nmixx_official"
    ],
    "mv": "https://www.youtube.com/watch?v=roHWN9fL2SM"
-  },
-  {
-   "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
-   "type": "1st Mini Album",
-   "title": "DREAMSCAPE",
-   "titleTrack": "12 o'clock",
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Jeonghan-Joshua-DREAMSCAPE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/jeonghan-joshua-dreamscape/",
-   "tracklist": [
-    "Title – \"12 o’clock\"",
-    "Like you",
-    "12 o’clock",
-    "Outside",
-    "One plus one",
-    "Not personal (JOSHUA Solo)",
-    "컬러링 (JEONGHAN Solo)",
-    "No looking back"
-   ],
-   "links": [
-    "https://x.com/pledis_17",
-    "https://www.instagram.com/saythename_17/",
-    "https://www.youtube.com/@pledis17",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@seventeen17_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=hdwGWGSfABA"
   },
   {
    "artist": "ONEW",
@@ -421,6 +416,22 @@
    "title": "Sequence 02: Attraction",
    "titleTrack": null,
    "date": "2026-10-27T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-AND2BLE-Members.webp",
+   "url": "https://kpopofficial.com/album/and2ble-sequence-02-attraction/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/AND2BLE",
+    "https://www.instagram.com/and2ble/",
+    "https://www.youtube.com/@AND2BLE",
+    "https://www.tiktok.com/@and2ble"
+   ]
+  },
+  {
+   "artist": "AND2BLE",
+   "type": "2nd Mini Album",
+   "title": "Sequence 02: Attraction",
+   "titleTrack": null,
+   "date": "2026-10-27T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/04/AND2BLE-Members.webp",
    "url": "https://kpopofficial.com/album/and2ble-sequence-02-attraction/",
    "tracklist": [],
@@ -574,6 +585,23 @@
    ]
   },
   {
+   "artist": "UNCHILD",
+   "type": "2nd Digital Single",
+   "title": "TiNG TiNG",
+   "titleTrack": null,
+   "date": "2026-11-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover2-UNCHILD-Members.webp",
+   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/officialUNCHILD",
+    "https://www.instagram.com/official_unchild",
+    "https://www.youtube.com/@official_unchild",
+    "https://www.tiktok.com/@official_unchild",
+    "https://www.youtube.com/@official_unchild/releases"
+   ]
+  },
+  {
    "artist": "HEART OF WOMAN",
    "type": "1st Mini Album",
    "title": "ETERNAL FADE",
@@ -606,6 +634,24 @@
     "https://www.tiktok.com/@official_unchild",
     "https://www.youtube.com/@official_unchild/releases"
    ]
+  },
+  {
+   "artist": "P1Harmony",
+   "type": "10th Mini Album",
+   "title": "BLOW UP",
+   "titleTrack": null,
+   "date": "2026-11-06T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/cover-P1Harmony-members-for-UNIQUE-Album.webp",
+   "url": "https://kpopofficial.com/album/p1harmony-blow-up/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/P1H_official",
+    "https://x.com/P1H_official_jp",
+    "https://www.instagram.com/p1h_official",
+    "https://www.youtube.com/@P1Harmonyofficial",
+    "https://www.tiktok.com/@p1harmony"
+   ],
+   "mv": "https://www.youtube.com/watch?v=OOK6K33SlT8"
   },
   {
    "artist": "P1Harmony",
@@ -696,6 +742,25 @@
    "title": "GOLDEN HOUR : Part.6",
    "titleTrack": null,
    "date": "2026-11-13T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-ATEEZ-Members.webp",
+   "url": "https://kpopofficial.com/album/ateez-golden-hour-part-6/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ATEEZofficial",
+    "https://x.com/ATEEZofficialjp",
+    "https://www.instagram.com/ateez_official_/",
+    "https://www.youtube.com/@ATEEZofficial",
+    "https://www.youtube.com/@KQENT",
+    "https://www.tiktok.com/@ateez_official_"
+   ],
+   "mv": "https://www.youtube.com/watch?v=iqQWCYMlMw0"
+  },
+  {
+   "artist": "ATEEZ",
+   "type": "15th Mini Album",
+   "title": "GOLDEN HOUR : Part.6",
+   "titleTrack": null,
+   "date": "2026-11-13T14:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ATEEZ-Members-for-Mini-Album-GOLDEN-HOUR-Part-6.webp",
    "url": "https://kpopofficial.com/album/ateez-golden-hour-part-6/",
    "tracklist": [],
@@ -735,6 +800,23 @@
    "titleTrack": null,
    "date": "2026-11-16T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/03/2-TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
+   "url": "https://kpopofficial.com/album/txt-perfect-storm/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/TXT_bighit",
+    "https://www.instagram.com/txt_bighit",
+    "https://www.youtube.com/@TXT_bighit",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@txt.bighitent"
+   ]
+  },
+  {
+   "artist": "TOMORROW X TOGETHER (TXT)",
+   "type": "9th Mini Album",
+   "title": "PERFECT STORM",
+   "titleTrack": null,
+   "date": "2026-11-16T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
    "url": "https://kpopofficial.com/album/txt-perfect-storm/",
    "tracklist": [],
    "links": [
