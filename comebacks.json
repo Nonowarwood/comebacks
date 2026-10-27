@@ -1,34 +1,7 @@
 {
- "generated": "2026-10-27T17:59:27+00:00",
+ "generated": "2026-10-27T22:12:27+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
-   "type": "1st Mini Album",
-   "title": "DREAMSCAPE",
-   "titleTrack": "12 o'clock",
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Jeonghan-Joshua-DREAMSCAPE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/jeonghan-joshua-dreamscape/",
-   "tracklist": [
-    "Title – \"12 o’clock\"",
-    "Like you",
-    "12 o’clock",
-    "Outside",
-    "One plus one",
-    "Not personal (JOSHUA Solo)",
-    "컬러링 (JEONGHAN Solo)",
-    "No looking back"
-   ],
-   "links": [
-    "https://x.com/pledis_17",
-    "https://www.instagram.com/saythename_17/",
-    "https://www.youtube.com/@pledis17",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@seventeen17_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=hdwGWGSfABA"
-  },
   {
    "artist": "ONEW",
    "type": "1st Single Album",
@@ -299,30 +272,6 @@
    "mv": "https://www.youtube.com/watch?v=WbNnbiB_Wt8"
   },
   {
-   "artist": "AND2BLE",
-   "type": "2nd Mini Album",
-   "title": "Sequence 02: Attraction",
-   "titleTrack": "French Kissing",
-   "date": "2026-10-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/AND2BLE-Sequence-02-Attraction.webp",
-   "url": "https://kpopofficial.com/album/and2ble-sequence-02-attraction/",
-   "tracklist": [
-    "Title – \"French Kissing\"",
-    "Haunted",
-    "French Kissing",
-    "Potion",
-    "Beautiful",
-    "Worth It"
-   ],
-   "links": [
-    "https://x.com/AND2BLE",
-    "https://www.instagram.com/and2ble/",
-    "https://www.youtube.com/@AND2BLE",
-    "https://www.tiktok.com/@and2ble"
-   ],
-   "mv": "https://www.youtube.com/watch?v=WbNnbiB_Wt8"
-  },
-  {
    "artist": "JUSTB",
    "type": "6th EP",
    "title": "k-pop",
@@ -544,7 +493,7 @@
    "title": "PULSE",
    "titleTrack": null,
    "date": "2026-11-03T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/RESCENE-members-2026-Pulse.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-RESCENE-members-2026-Pulse.webp",
    "url": "https://kpopofficial.com/album/rescene-pulse/",
    "tracklist": [],
    "links": [
@@ -555,21 +504,19 @@
    ]
   },
   {
-   "artist": "ZEROBASEONE EMP",
-   "type": "Digital Single",
-   "title": "RUN (with Dynamicduo)",
-   "titleTrack": "RUN (with Dynamicduo)",
-   "date": "2026-11-04T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ZEROBASEONE-EMP-𝙍𝙐𝙉-𝙬𝙞𝙩𝙝-𝘿𝙮𝙣𝙖𝙢𝙞𝙘𝙙𝙪𝙤.webp",
-   "url": "https://kpopofficial.com/album/zerobaseone-emp-run-dynamicduo/",
-   "tracklist": [
-    "Title – \"RUN (with Dynamicduo)\""
-   ],
+   "artist": "RESCENE",
+   "type": "4th Mini Album",
+   "title": "PULSE",
+   "titleTrack": null,
+   "date": "2026-11-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/RESCENE-members-2026-Pulse.webp",
+   "url": "https://kpopofficial.com/album/rescene-pulse/",
+   "tracklist": [],
    "links": [
-    "https://x.com/ZB1_official",
-    "https://www.instagram.com/zb1official/",
-    "https://www.youtube.com/@ZB1_official",
-    "https://www.tiktok.com/@zb1_official"
+    "https://x.com/RESCENEofficial",
+    "https://www.instagram.com/rescene_official",
+    "https://www.youtube.com/@RESCENE_official",
+    "https://www.tiktok.com/@rescene_official"
    ]
   },
   {
@@ -589,6 +536,24 @@
     "https://www.youtube.com/@BabyDONTCry.official",
     "https://www.tiktok.com/@babydontcry.official",
     "https://www.youtube.com/@BabyDONTCry.official/releases"
+   ]
+  },
+  {
+   "artist": "ZEROBASEONE EMP",
+   "type": "Digital Single",
+   "title": "RUN (with Dynamicduo)",
+   "titleTrack": "RUN (with Dynamicduo)",
+   "date": "2026-11-04T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ZEROBASEONE-EMP-𝙍𝙐𝙉-𝙬𝙞𝙩𝙝-𝘿𝙮𝙣𝙖𝙢𝙞𝙘𝙙𝙪𝙤.webp",
+   "url": "https://kpopofficial.com/album/zerobaseone-emp-run-dynamicduo/",
+   "tracklist": [
+    "Title – \"RUN (with Dynamicduo)\""
+   ],
+   "links": [
+    "https://x.com/ZB1_official",
+    "https://www.instagram.com/zb1official/",
+    "https://www.youtube.com/@ZB1_official",
+    "https://www.tiktok.com/@zb1_official"
    ]
   },
   {
@@ -624,24 +589,6 @@
     "https://www.tiktok.com/@heartofwoman_officl",
     "https://www.youtube.com/@heartofwoman_officl/releases"
    ]
-  },
-  {
-   "artist": "P1Harmony",
-   "type": "10th Mini Album",
-   "title": "BLOW UP",
-   "titleTrack": null,
-   "date": "2026-11-06T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/cover-P1Harmony-members-for-UNIQUE-Album.webp",
-   "url": "https://kpopofficial.com/album/p1harmony-blow-up/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/P1H_official",
-    "https://x.com/P1H_official_jp",
-    "https://www.instagram.com/p1h_official",
-    "https://www.youtube.com/@P1Harmonyofficial",
-    "https://www.tiktok.com/@p1harmony"
-   ],
-   "mv": "https://www.youtube.com/watch?v=OOK6K33SlT8"
   },
   {
    "artist": "P1Harmony",
@@ -727,6 +674,22 @@
    "mv": "https://www.youtube.com/watch?v=b_hgDjQrVOE"
   },
   {
+   "artist": "ZEROBASEONE EMP",
+   "type": "Digital Single",
+   "title": "OFF script",
+   "titleTrack": null,
+   "date": "2026-11-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ZEROBASEONE-EMP-OFF-script.webp",
+   "url": "https://kpopofficial.com/album/zerobaseone-emp-off-script/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ZB1_official",
+    "https://www.instagram.com/zb1official/",
+    "https://www.youtube.com/@ZB1_official",
+    "https://www.tiktok.com/@zb1_official"
+   ]
+  },
+  {
    "artist": "LNGSHOT",
    "type": "EP",
    "title": "S.W.I.S.H.",
@@ -743,22 +706,6 @@
     "https://www.tiktok.com/@lngshot4sho"
    ],
    "mv": "https://www.youtube.com/watch?v=b_hgDjQrVOE"
-  },
-  {
-   "artist": "ZEROBASEONE EMP",
-   "type": "Digital Single",
-   "title": "OFF script",
-   "titleTrack": null,
-   "date": "2026-11-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ZEROBASEONE-EMP-OFF-script.webp",
-   "url": "https://kpopofficial.com/album/zerobaseone-emp-off-script/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ZB1_official",
-    "https://www.instagram.com/zb1official/",
-    "https://www.youtube.com/@ZB1_official",
-    "https://www.tiktok.com/@zb1_official"
-   ]
   },
   {
    "artist": "ATEEZ",
@@ -821,7 +768,7 @@
    "title": "Cute & Anxiety",
    "titleTrack": null,
    "date": "2026-11-20T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Yves-kpop-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-Yves-kpop-2026.webp",
    "url": "https://kpopofficial.com/album/yves-cute-and-anxiety/",
    "tracklist": [],
    "links": [
@@ -836,24 +783,24 @@
    ]
   },
   {
-   "artist": "NAYEON (TWICE)",
-   "type": "Single Album",
-   "title": "NA-sty",
+   "artist": "YVES",
+   "type": "5th EP",
+   "title": "Cute & Anxiety",
    "titleTrack": null,
-   "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-Nayeon-Twice.webp",
-   "url": "https://kpopofficial.com/album/nayeon-na-sty/",
+   "date": "2026-11-20T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Yves-kpop-2026.webp",
+   "url": "https://kpopofficial.com/album/yves-cute-and-anxiety/",
    "tracklist": [],
    "links": [
-    "https://x.com/JYPETWICE",
-    "https://www.instagram.com/twicetagram",
-    "https://www.instagram.com/nayeonyny/",
-    "https://www.youtube.com/@TWICE",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.youtube.com/@IM_NAYEON_0922",
-    "https://www.tiktok.com/@twice_tiktok_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=z7afHJ5I0Ws"
+    "https://x.com/Yves___official",
+    "https://x.com/_PAIXPERMIL",
+    "https://www.instagram.com/yvesntual/",
+    "https://www.instagram.com/paixpermil/",
+    "https://www.youtube.com/@yves_official",
+    "https://www.youtube.com/@PAIXPERMIL",
+    "https://www.tiktok.com/@yves___official",
+    "https://www.youtube.com/@YVES_OFFICIAL/releases"
+   ]
   },
   {
    "artist": "NAYEON (TWICE)",
