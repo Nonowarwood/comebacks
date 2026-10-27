@@ -5714,13 +5714,21 @@
    "date": "2026-10-27T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/04/AND2BLE-Members.webp",
    "url": "https://kpopofficial.com/album/and2ble-sequence-02-attraction/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"French Kissing\"",
+    "Haunted",
+    "French Kissing",
+    "Potion",
+    "Beautiful",
+    "Worth It"
+   ],
    "links": [
     "https://x.com/AND2BLE",
     "https://www.instagram.com/and2ble/",
     "https://www.youtube.com/@AND2BLE",
     "https://www.tiktok.com/@and2ble"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=NBq8hS46Sqk"
   },
   {
    "artist": "JUSTB",
@@ -5768,9 +5776,9 @@
     "https://x.com/XLOV_official",
     "https://www.instagram.com/xlov_official/",
     "https://www.youtube.com/@XLOV_official",
-    "https://www.tiktok.com/@xlov_official",
-    "https://www.youtube.com/@XLOV_official/releases"
-   ]
+    "https://www.tiktok.com/@xlov_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=7q7LcVzI9jo"
   },
   {
    "artist": "AM8IC",
