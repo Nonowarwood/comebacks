@@ -5710,9 +5710,9 @@
    "artist": "AND2BLE",
    "type": "2nd Mini Album",
    "title": "Sequence 02: Attraction",
-   "titleTrack": null,
+   "titleTrack": "French Kissing",
    "date": "2026-10-27T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/AND2BLE-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/AND2BLE-Sequence-02-Attraction.webp",
    "url": "https://kpopofficial.com/album/and2ble-sequence-02-attraction/",
    "tracklist": [
     "Title – \"French Kissing\"",
@@ -5759,7 +5759,7 @@
    "title": "i=!",
    "titleTrack": "HUSH\" \"Tooth Gem Chiwawa",
    "date": "2026-10-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/05/XLOV-Members-Group-Photo.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/XLOV-members-2026.webp",
    "url": "https://kpopofficial.com/album/xlov-3rd-mini-album/",
    "tracklist": [
     "Title – \"HUSH\" \"Tooth Gem Chiwawa\"",
@@ -5893,6 +5893,43 @@
    ]
   },
   {
+   "artist": "ZEROBASEONE EMP",
+   "type": "Digital Single",
+   "title": "RUN (with Dynamicduo)",
+   "titleTrack": "RUN (with Dynamicduo)",
+   "date": "2026-11-04T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ZEROBASEONE-EMP-𝙍𝙐𝙉-𝙬𝙞𝙩𝙝-𝘿𝙮𝙣𝙖𝙢𝙞𝙘𝙙𝙪𝙤.webp",
+   "url": "https://kpopofficial.com/album/zerobaseone-emp-run-dynamicduo/",
+   "tracklist": [
+    "Title – \"RUN (with Dynamicduo)\""
+   ],
+   "links": [
+    "https://x.com/ZB1_official",
+    "https://www.instagram.com/zb1official/",
+    "https://www.youtube.com/@ZB1_official",
+    "https://www.tiktok.com/@zb1_official"
+   ]
+  },
+  {
+   "artist": "Baby DONT Cry",
+   "type": "Digital Single",
+   "title": "Replay",
+   "titleTrack": "Replay",
+   "date": "2026-11-04T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Baby-DONT-Cry-Replay.webp",
+   "url": "https://kpopofficial.com/album/baby-dont-cry-replay/",
+   "tracklist": [
+    "Title – \"Replay\""
+   ],
+   "links": [
+    "https://x.com/BabyDONTCry_BDC",
+    "https://www.instagram.com/babydontcry.offcl",
+    "https://www.youtube.com/@BabyDONTCry.official",
+    "https://www.tiktok.com/@babydontcry.official",
+    "https://www.youtube.com/@BabyDONTCry.official/releases"
+   ]
+  },
+  {
    "artist": "HEART OF WOMAN",
    "type": "1st Mini Album",
    "title": "ETERNAL FADE",
@@ -6008,6 +6045,22 @@
     "https://www.tiktok.com/@lngshot4sho"
    ],
    "mv": "https://www.youtube.com/watch?v=b_hgDjQrVOE"
+  },
+  {
+   "artist": "ZEROBASEONE EMP",
+   "type": "Digital Single",
+   "title": "OFF script",
+   "titleTrack": null,
+   "date": "2026-11-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ZEROBASEONE-EMP-OFF-script.webp",
+   "url": "https://kpopofficial.com/album/zerobaseone-emp-off-script/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ZB1_official",
+    "https://www.instagram.com/zb1official/",
+    "https://www.youtube.com/@ZB1_official",
+    "https://www.tiktok.com/@zb1_official"
+   ]
   },
   {
    "artist": "ATEEZ",
