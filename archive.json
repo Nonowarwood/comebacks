@@ -5736,7 +5736,7 @@
    "title": "k-pop",
    "titleTrack": "Party Time",
    "date": "2026-10-28T12:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-JUSTB-Members-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/JUSTB-kpop-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/justb-kpop/",
    "tracklist": [
     "Title – \"Party Time\"",
@@ -5752,15 +5752,15 @@
     "https://www.youtube.com/@JUSTB_Official",
     "https://www.tiktok.com/@justb_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=BEAPmFHxpNE"
+   "mv": "https://www.youtube.com/watch?v=WOHLMwJhM6Y"
   },
   {
    "artist": "XLOV",
    "type": "3rd Mini Album",
    "title": "i=!",
-   "titleTrack": "HUSH\" \"Tooth Gem Chiwawa",
+   "titleTrack": "Hush\" \"Tooth Gem Chiwawa",
    "date": "2026-10-28T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/XLOV-members-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/XLOV-3rd-Mini-Album-cover.webp",
    "url": "https://kpopofficial.com/album/xlov-3rd-mini-album/",
    "tracklist": [
     "Title – \"Hush\" \"Tooth Gem Chiwawa\"",
@@ -5802,7 +5802,7 @@
     "https://www.youtube.com/@AM8IC_TOV",
     "https://www.tiktok.com/@am8ic_tov"
    ],
-   "mv": "https://www.youtube.com/watch?v=OkSMwR-_dNM"
+   "mv": "https://www.youtube.com/watch?v=8dkSfci2PAY"
   },
   {
    "artist": "JISOO",
@@ -6159,7 +6159,7 @@
    "title": "PERFECT STORM",
    "titleTrack": null,
    "date": "2026-11-16T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/2-TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
    "url": "https://kpopofficial.com/album/txt-perfect-storm/",
    "tracklist": [],
    "links": [
@@ -6185,7 +6185,7 @@
    "title": "Cute & Anxiety",
    "titleTrack": null,
    "date": "2026-11-20T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-Yves-kpop-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Yves-kpop-2026.webp",
    "url": "https://kpopofficial.com/album/yves-cute-and-anxiety/",
    "tracklist": [],
    "links": [
@@ -6206,7 +6206,18 @@
    "titleTrack": null,
    "date": "2026-11-20T14:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Nayeon-Twice.webp",
-   "url": "https://kpopofficial.com/album/nayeon-na-sty/"
+   "url": "https://kpopofficial.com/album/nayeon-na-sty/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/JYPETWICE",
+    "https://www.instagram.com/twicetagram",
+    "https://www.instagram.com/nayeonyny/",
+    "https://www.youtube.com/@TWICE",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.youtube.com/@IM_NAYEON_0922",
+    "https://www.tiktok.com/@twice_tiktok_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=z7afHJ5I0Ws"
   },
   {
    "artist": "ENHYPEN",
