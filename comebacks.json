@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T05:45:58+00:00",
+ "generated": "2026-10-29T12:58:29+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -277,7 +277,7 @@
     "https://www.youtube.com/@AM8IC_TOV",
     "https://www.tiktok.com/@am8ic_tov"
    ],
-   "mv": "https://www.youtube.com/watch?v=8dkSfci2PAY"
+   "mv": "https://www.youtube.com/watch?v=jHhbQhlwWes"
   },
   {
    "artist": "AM8IC",
@@ -300,7 +300,7 @@
     "https://www.youtube.com/@AM8IC_TOV",
     "https://www.tiktok.com/@am8ic_tov"
    ],
-   "mv": "https://www.youtube.com/watch?v=8dkSfci2PAY"
+   "mv": "https://www.youtube.com/watch?v=jHhbQhlwWes"
   },
   {
    "artist": "JISOO",
@@ -616,6 +616,24 @@
    "mv": "https://www.youtube.com/watch?v=Cu6JU-kNmOU"
   },
   {
+   "artist": "LNGSHOT",
+   "type": "EP",
+   "title": "S.W.I.S.H.",
+   "titleTrack": null,
+   "date": "2026-11-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Teaser-LNGSHOT-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/lngshot-swish/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/LNGSHOT4sho",
+    "https://www.instagram.com/lngshot4sho/",
+    "https://www.youtube.com/@LNGSHOT4SHO",
+    "https://www.youtube.com/@MOREVISION",
+    "https://www.tiktok.com/@lngshot4sho"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Cu6JU-kNmOU"
+  },
+  {
    "artist": "ZEROBASEONE EMP",
    "type": "Digital Single",
    "title": "OFF script",
@@ -635,24 +653,6 @@
     "https://www.youtube.com/@ZB1_official",
     "https://www.tiktok.com/@zb1_official"
    ]
-  },
-  {
-   "artist": "LNGSHOT",
-   "type": "EP",
-   "title": "S.W.I.S.H.",
-   "titleTrack": null,
-   "date": "2026-11-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Teaser-LNGSHOT-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/lngshot-swish/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/LNGSHOT4sho",
-    "https://www.instagram.com/lngshot4sho/",
-    "https://www.youtube.com/@LNGSHOT4SHO",
-    "https://www.youtube.com/@MOREVISION",
-    "https://www.tiktok.com/@lngshot4sho"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Cu6JU-kNmOU"
   },
   {
    "artist": "ATEEZ",
@@ -798,6 +798,24 @@
    ]
   },
   {
+   "artist": "ENHYPEN",
+   "type": "Spinoff Single",
+   "title": "THE SIN : PARALLEL WORLD",
+   "titleTrack": null,
+   "date": "2026-11-20T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS.webp",
+   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ENHYPEN",
+    "https://x.com/ENHYPEN_JP",
+    "https://www.instagram.com/enhypen/",
+    "https://www.youtube.com/@ENHYPENOFFICIAL",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@enhypen"
+   ]
+  },
+  {
    "artist": "NAYEON (TWICE)",
    "type": "Single Album",
    "title": "NA-sty",
@@ -816,24 +834,6 @@
     "https://www.tiktok.com/@twice_tiktok_official"
    ],
    "mv": "https://www.youtube.com/watch?v=z7afHJ5I0Ws"
-  },
-  {
-   "artist": "ENHYPEN",
-   "type": "Spinoff Single",
-   "title": "THE SIN : PARALLEL WORLD",
-   "titleTrack": null,
-   "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS.webp",
-   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ENHYPEN",
-    "https://x.com/ENHYPEN_JP",
-    "https://www.instagram.com/enhypen/",
-    "https://www.youtube.com/@ENHYPENOFFICIAL",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@enhypen"
-   ]
   }
  ]
 }
