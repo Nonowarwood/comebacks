@@ -1,27 +1,7 @@
 {
- "generated": "2026-10-28T22:33:54+00:00",
+ "generated": "2026-10-29T05:45:58+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "Crush, IU",
-   "type": "Digital Single",
-   "title": "seesaw (feat. IU)",
-   "titleTrack": "seesaw (feat. IU)",
-   "date": "2026-10-21T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Crush-seesaw-IU-album-cover.webp",
-   "url": "https://kpopofficial.com/album/crush-iu-seesaw/",
-   "tracklist": [
-    "Title – \"seesaw (feat. IU)\""
-   ],
-   "links": [
-    "https://x.com/OfficialPnation",
-    "https://x.com/crush9244",
-    "https://www.instagram.com/crush9244",
-    "https://www.youtube.com/@crushofficial",
-    "https://www.tiktok.com/@crush9244"
-   ],
-   "mv": "https://www.youtube.com/watch?v=bSs1gepe_cY"
-  },
   {
    "artist": "ALPHA DRIVE ONE",
    "type": "Digital Single",
@@ -282,6 +262,29 @@
    "title": "RASCALS (Find The Pearl)",
    "titleTrack": "Rascals (Find The Pearl)",
    "date": "2026-10-29T12:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-AM8IC-RASCALS-Find-The-Pearl.webp",
+   "url": "https://kpopofficial.com/album/am8ic-rascals-find-the-pearl/",
+   "tracklist": [
+    "Title – \"Rascals (Find The Pearl)\"",
+    "Rascals (Find The Pearl)",
+    "Diamonds",
+    "Rascals (Find The Pearl) (Pop Punk Remix)"
+   ],
+   "links": [
+    "https://x.com/AM8IC_TOV",
+    "https://www.instagram.com/am8ic_tov/",
+    "https://www.youtube.com/@toventertainment",
+    "https://www.youtube.com/@AM8IC_TOV",
+    "https://www.tiktok.com/@am8ic_tov"
+   ],
+   "mv": "https://www.youtube.com/watch?v=8dkSfci2PAY"
+  },
+  {
+   "artist": "AM8IC",
+   "type": "1st Single Album",
+   "title": "RASCALS (Find The Pearl)",
+   "titleTrack": "Rascals (Find The Pearl)",
+   "date": "2026-10-29T12:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-AM8IC-RASCALS-Find-The-Pearl.webp",
    "url": "https://kpopofficial.com/album/am8ic-rascals-find-the-pearl/",
    "tracklist": [
@@ -338,46 +341,6 @@
     "https://www.tiktok.com/@jisoo"
    ],
    "mv": "https://www.youtube.com/watch?v=ZKupyV0lgqg"
-  },
-  {
-   "artist": "TWS",
-   "type": "2nd Single Album",
-   "title": "TO US",
-   "titleTrack": "Call My Name",
-   "date": "2026-11-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-TWS-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/tws-to-us/",
-   "tracklist": [
-    "Title – \"Call My Name\"",
-    "WE UP",
-    "Call My Name",
-    "heavy"
-   ],
-   "links": [
-    "https://x.com/TWS_PLEDIS",
-    "https://www.instagram.com/tws_pledis",
-    "https://www.youtube.com/@TWS_PLEDIS",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tws_pledis"
-   ],
-   "mv": "https://www.youtube.com/watch?v=tXvopPZFY8Y"
-  },
-  {
-   "artist": "TREASURE",
-   "type": "Digital Single",
-   "title": "SHOCK",
-   "titleTrack": null,
-   "date": "2026-11-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-TREASURE-Members.webp",
-   "url": "https://kpopofficial.com/album/treasure-shock/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ygtreasuremaker",
-    "https://x.com/ygent_official/status/2110059084435316871",
-    "https://www.instagram.com/yg_treasure_official",
-    "https://www.youtube.com/@TREASURE",
-    "https://www.tiktok.com/@yg_treasure_tiktok"
-   ]
   },
   {
    "artist": "TREASURE",
@@ -512,6 +475,25 @@
    "title": "TiNG TiNG",
    "titleTrack": "TiNG TiNG",
    "date": "2026-11-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-UNCHILD-Members-2026-Ting-Ting.webp",
+   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
+   "tracklist": [
+    "Title – \"TiNG TiNG\""
+   ],
+   "links": [
+    "https://x.com/officialUNCHILD",
+    "https://www.instagram.com/official_unchild",
+    "https://www.youtube.com/@official_unchild",
+    "https://www.tiktok.com/@official_unchild"
+   ],
+   "mv": "https://www.youtube.com/watch?v=RjZSoMTsKko"
+  },
+  {
+   "artist": "UNCHILD",
+   "type": "2nd Digital Single",
+   "title": "TiNG TiNG",
+   "titleTrack": "TiNG TiNG",
+   "date": "2026-11-05T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-UNCHILD-Members-2026-Ting-Ting.webp",
    "url": "https://kpopofficial.com/album/unchild-ting-ting/",
    "tracklist": [
@@ -529,18 +511,26 @@
    "artist": "HEART OF WOMAN",
    "type": "1st Mini Album",
    "title": "ETERNAL FADE",
-   "titleTrack": null,
+   "titleTrack": "Melt\", \"Lit It",
    "date": "2026-11-05T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-HEART-OF-WOMAN-Members-2026.webp",
    "url": "https://kpopofficial.com/album/heart-of-woman-eternal-fade/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"Melt\", \"Lit It\"",
+    "Footsteps",
+    "Melt",
+    "Blue",
+    "Glow",
+    "Lit It",
+    "Find U"
+   ],
    "links": [
     "https://x.com/heart_of_woman",
     "https://www.instagram.com/heartofwoman_officl",
     "https://www.youtube.com/@heartofwoman_officl",
     "https://www.tiktok.com/@heartofwoman_officl"
    ],
-   "mv": "https://www.youtube.com/watch?v=-_-X3NxXb7U"
+   "mv": "https://www.youtube.com/watch?v=HzEfplROhyI"
   },
   {
    "artist": "P1Harmony",
@@ -608,25 +598,22 @@
    ]
   },
   {
-   "artist": "ZEROBASEONE EMP",
-   "type": "Digital Single",
-   "title": "OFF script",
-   "titleTrack": "RUN (with Dynamicduo)",
+   "artist": "LNGSHOT",
+   "type": "EP",
+   "title": "S.W.I.S.H.",
+   "titleTrack": null,
    "date": "2026-11-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-ZEROBASEONE-EMP-OFF-script.webp",
-   "url": "https://kpopofficial.com/album/zerobaseone-emp-off-script/",
-   "tracklist": [
-    "Title – \"RUN (with Dynamicduo)\"",
-    "RUN (with Dynamicduo)",
-    "AFTERTASTE (with JUNNY)",
-    "MADE YOU LOOK"
-   ],
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Teaser-LNGSHOT-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/lngshot-swish/",
+   "tracklist": [],
    "links": [
-    "https://x.com/ZB1_official",
-    "https://www.instagram.com/zb1official/",
-    "https://www.youtube.com/@ZB1_official",
-    "https://www.tiktok.com/@zb1_official"
-   ]
+    "https://x.com/LNGSHOT4sho",
+    "https://www.instagram.com/lngshot4sho/",
+    "https://www.youtube.com/@LNGSHOT4SHO",
+    "https://www.youtube.com/@MOREVISION",
+    "https://www.tiktok.com/@lngshot4sho"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Cu6JU-kNmOU"
   },
   {
    "artist": "ZEROBASEONE EMP",
@@ -666,6 +653,32 @@
     "https://www.tiktok.com/@lngshot4sho"
    ],
    "mv": "https://www.youtube.com/watch?v=Cu6JU-kNmOU"
+  },
+  {
+   "artist": "ATEEZ",
+   "type": "15th Mini Album",
+   "title": "GOLDEN HOUR : Part.6",
+   "titleTrack": "Up",
+   "date": "2026-11-13T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/cover2-ATEEZ-Members.webp",
+   "url": "https://kpopofficial.com/album/ateez-golden-hour-part-6/",
+   "tracklist": [
+    "Title – \"Up\"",
+    "ANEMIA",
+    "Drip",
+    "Up",
+    "FAITH",
+    "Hollow Victory"
+   ],
+   "links": [
+    "https://x.com/ATEEZofficial",
+    "https://x.com/ATEEZofficialjp",
+    "https://www.instagram.com/ateez_official_/",
+    "https://www.youtube.com/@ATEEZofficial",
+    "https://www.youtube.com/@KQENT",
+    "https://www.tiktok.com/@ateez_official_"
+   ],
+   "mv": "https://www.youtube.com/watch?v=iqQWCYMlMw0"
   },
   {
    "artist": "ATEEZ",
