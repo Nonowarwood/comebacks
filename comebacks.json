@@ -1,25 +1,59 @@
 {
- "generated": "2026-10-30T12:53:01+00:00",
+ "generated": "2026-10-30T22:17:38+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
-   "artist": "ALPHA DRIVE ONE",
-   "type": "Digital Single",
-   "title": "Talk to me",
-   "titleTrack": "Talk to me",
-   "date": "2026-10-22T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/ALPHA-DRIVE-ONE-Talk-To-Me-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/alpha-drive-one-talk-to-me/",
+   "artist": "IVE",
+   "type": "EP",
+   "title": "Looks Can Kill",
+   "titleTrack": null,
+   "date": "2026-10-19T00:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/IVE-Looks-Can-Kill-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/ive-pre-release-looks-can-kill/",
    "tracklist": [
-    "Title – \"Talk to me\""
+    "Pre-release – \"Looks Can Kill\"",
+    "Looks Can Kill",
+    "Mirror Mirror",
+    "SNAKESKIN",
+    "CRUMBS",
+    "Girls Girls Girls",
+    "Glow Motion"
    ],
    "links": [
-    "https://x.com/ALD1_official",
-    "https://www.instagram.com/ald1.official",
-    "https://www.youtube.com/@ALD1.official",
-    "https://www.tiktok.com/@ald1_official"
+    "https://x.com/IVEstarship",
+    "https://x.com/IVEstarship_JP",
+    "https://www.instagram.com/IVEstarship",
+    "https://www.youtube.com/@IVEstarship",
+    "https://www.youtube.com/@STARSHIP_official",
+    "https://www.tiktok.com/@ive.official"
    ],
-   "mv": "https://www.youtube.com/watch?v=videoseries"
+   "mv": "https://www.youtube.com/watch?v=rsNhWkC4neE"
+  },
+  {
+   "artist": "NMIXX",
+   "type": "6th EP",
+   "title": "Strange Muse",
+   "titleTrack": "Birthday Wish",
+   "date": "2026-10-19T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/NMIXX-Strange-Muse-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/nmixx-strange-muse/",
+   "tracklist": [
+    "Title – \"Birthday Wish\"",
+    "Birthday Wish",
+    "Kerosene",
+    "RudE TaLK",
+    "Sing to the Moon (LILY, HAEWON)",
+    "Hot ‘n Unbothered (SULLYOON, BAE)",
+    "WHIP (JIWOO, KYUJIN)"
+   ],
+   "links": [
+    "https://x.com/NMIXX_official",
+    "https://www.instagram.com/nmixx_official",
+    "https://www.youtube.com/@NMIXXOfficial",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@nmixx_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=roHWN9fL2SM"
   },
   {
    "artist": "MINNIE (i-dle)",
@@ -285,7 +319,7 @@
    "title": "ADDICTED",
    "titleTrack": "ADDICTED",
    "date": "2026-10-30T08:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-JISOO-ADDICTED.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/JISOO-ADDICTED-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/jisoo-addicted/",
    "tracklist": [
     "Title – \"ADDICTED\""
@@ -300,24 +334,27 @@
    "mv": "https://www.youtube.com/watch?v=Pksr9T8m_aA"
   },
   {
-   "artist": "JISOO",
-   "type": "Digital Single",
-   "title": "ADDICTED",
-   "titleTrack": "ADDICTED",
-   "date": "2026-10-30T08:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-JISOO-ADDICTED-Teaser.webp",
-   "url": "https://kpopofficial.com/album/jisoo-addicted/",
+   "artist": "TWS",
+   "type": "2nd Single Album",
+   "title": "TO US",
+   "titleTrack": "Call My Name",
+   "date": "2026-11-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/TWS-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/tws-to-us/",
    "tracklist": [
-    "Title – \"ADDICTED\""
+    "Title – \"Call My Name\"",
+    "WE UP",
+    "Call My Name",
+    "heavy"
    ],
    "links": [
-    "https://x.com/officialBLISSOO",
-    "https://www.instagram.com/sooyaaa__/",
-    "https://www.instagram.com/blissoo_official/",
-    "https://www.youtube.com/@sooyaaa__",
-    "https://www.tiktok.com/@jisoo"
+    "https://x.com/TWS_PLEDIS",
+    "https://www.instagram.com/tws_pledis",
+    "https://www.youtube.com/@TWS_PLEDIS",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tws_pledis"
    ],
-   "mv": "https://www.youtube.com/watch?v=Pksr9T8m_aA"
+   "mv": "https://www.youtube.com/watch?v=tXvopPZFY8Y"
   },
   {
    "artist": "TREASURE",
@@ -363,29 +400,6 @@
    "mv": "https://www.youtube.com/watch?v=-cLxuUyfEvg"
   },
   {
-   "artist": "TWS",
-   "type": "2nd Single Album",
-   "title": "TO US",
-   "titleTrack": "Call My Name",
-   "date": "2026-11-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/TWS-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/tws-to-us/",
-   "tracklist": [
-    "Title – \"Call My Name\"",
-    "WE UP",
-    "Call My Name",
-    "heavy"
-   ],
-   "links": [
-    "https://x.com/TWS_PLEDIS",
-    "https://www.instagram.com/tws_pledis",
-    "https://www.youtube.com/@TWS_PLEDIS",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tws_pledis"
-   ],
-   "mv": "https://www.youtube.com/watch?v=tXvopPZFY8Y"
-  },
-  {
    "artist": "RESCENE",
    "type": "4th Mini Album",
    "title": "PULSE",
@@ -415,7 +429,7 @@
    "title": "RUN (with Dynamicduo)",
    "titleTrack": "RUN (with Dynamicduo)",
    "date": "2026-11-04T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-ZEROBASEONE-EMP-𝙍𝙐𝙉-𝙬𝙞𝙩𝙝-𝘿𝙮𝙣𝙖𝙢𝙞𝙘𝙙𝙪𝙤.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ZEROBASEONE-EMP-𝙍𝙐𝙉-𝙬𝙞𝙩𝙝-𝘿𝙮𝙣𝙖𝙢𝙞𝙘𝙙𝙪𝙤.webp",
    "url": "https://kpopofficial.com/album/zerobaseone-emp-run-dynamicduo/",
    "tracklist": [
     "Title – \"RUN (with Dynamicduo)\""
@@ -447,30 +461,12 @@
    ]
   },
   {
-   "artist": "ZEROBASEONE EMP",
-   "type": "Digital Single",
-   "title": "RUN (with Dynamicduo)",
-   "titleTrack": "RUN (with Dynamicduo)",
-   "date": "2026-11-04T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ZEROBASEONE-EMP-𝙍𝙐𝙉-𝙬𝙞𝙩𝙝-𝘿𝙮𝙣𝙖𝙢𝙞𝙘𝙙𝙪𝙤.webp",
-   "url": "https://kpopofficial.com/album/zerobaseone-emp-run-dynamicduo/",
-   "tracklist": [
-    "Title – \"RUN (with Dynamicduo)\""
-   ],
-   "links": [
-    "https://x.com/ZB1_official",
-    "https://www.instagram.com/zb1official/",
-    "https://www.youtube.com/@ZB1_official",
-    "https://www.tiktok.com/@zb1_official"
-   ]
-  },
-  {
    "artist": "UNCHILD",
    "type": "2nd Digital Single",
    "title": "TiNG TiNG",
    "titleTrack": "TiNG TiNG",
    "date": "2026-11-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-UNCHILD-Members-2026-Ting-Ting.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-UNCHILD-Members-2026-Ting-Ting.webp",
    "url": "https://kpopofficial.com/album/unchild-ting-ting/",
    "tracklist": [
     "Title – \"TiNG TiNG\""
@@ -487,7 +483,7 @@
    "artist": "HEART OF WOMAN",
    "type": "1st Mini Album",
    "title": "ETERNAL FADE",
-   "titleTrack": "Melt\", \"Lit It",
+   "titleTrack": "Melt\", \"LIT IT",
    "date": "2026-11-05T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-HEART-OF-WOMAN-Members-2026.webp",
    "url": "https://kpopofficial.com/album/heart-of-woman-eternal-fade/",
@@ -507,6 +503,25 @@
     "https://www.tiktok.com/@heartofwoman_officl"
    ],
    "mv": "https://www.youtube.com/watch?v=HzEfplROhyI"
+  },
+  {
+   "artist": "UNCHILD",
+   "type": "2nd Digital Single",
+   "title": "TiNG TiNG",
+   "titleTrack": "TiNG TiNG",
+   "date": "2026-11-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-UNCHILD-Members-2026-Ting-Ting.webp",
+   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
+   "tracklist": [
+    "Title – \"TiNG TiNG\""
+   ],
+   "links": [
+    "https://x.com/officialUNCHILD",
+    "https://www.instagram.com/official_unchild",
+    "https://www.youtube.com/@official_unchild",
+    "https://www.tiktok.com/@official_unchild"
+   ],
+   "mv": "https://www.youtube.com/watch?v=RjZSoMTsKko"
   },
   {
    "artist": "P1Harmony",
@@ -592,24 +607,6 @@
    "mv": "https://www.youtube.com/watch?v=Cu6JU-kNmOU"
   },
   {
-   "artist": "LNGSHOT",
-   "type": "EP",
-   "title": "S.W.I.S.H.",
-   "titleTrack": null,
-   "date": "2026-11-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Teaser-LNGSHOT-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/lngshot-swish/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/LNGSHOT4sho",
-    "https://www.instagram.com/lngshot4sho/",
-    "https://www.youtube.com/@LNGSHOT4SHO",
-    "https://www.youtube.com/@MOREVISION",
-    "https://www.tiktok.com/@lngshot4sho"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Cu6JU-kNmOU"
-  },
-  {
    "artist": "ZEROBASEONE EMP",
    "type": "Digital Single",
    "title": "OFF script",
@@ -629,6 +626,24 @@
     "https://www.youtube.com/@ZB1_official",
     "https://www.tiktok.com/@zb1_official"
    ]
+  },
+  {
+   "artist": "LNGSHOT",
+   "type": "EP",
+   "title": "S.W.I.S.H.",
+   "titleTrack": null,
+   "date": "2026-11-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Teaser-LNGSHOT-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/lngshot-swish/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/LNGSHOT4sho",
+    "https://www.instagram.com/lngshot4sho/",
+    "https://www.youtube.com/@LNGSHOT4SHO",
+    "https://www.youtube.com/@MOREVISION",
+    "https://www.tiktok.com/@lngshot4sho"
+   ],
+   "mv": "https://www.youtube.com/watch?v=Cu6JU-kNmOU"
   },
   {
    "artist": "ATEEZ",
@@ -713,42 +728,6 @@
    ]
   },
   {
-   "artist": "ENHYPEN",
-   "type": "Spinoff Single",
-   "title": "THE SIN : PARALLEL WORLD",
-   "titleTrack": null,
-   "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-ENHYPEN-Members.webp",
-   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ENHYPEN",
-    "https://x.com/ENHYPEN_JP",
-    "https://www.instagram.com/enhypen/",
-    "https://www.youtube.com/@ENHYPENOFFICIAL",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@enhypen"
-   ]
-  },
-  {
-   "artist": "ENHYPEN",
-   "type": "Spinoff Single",
-   "title": "THE SIN : PARALLEL WORLD",
-   "titleTrack": null,
-   "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS.webp",
-   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ENHYPEN",
-    "https://x.com/ENHYPEN_JP",
-    "https://www.instagram.com/enhypen/",
-    "https://www.youtube.com/@ENHYPENOFFICIAL",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@enhypen"
-   ]
-  },
-  {
    "artist": "NAYEON (TWICE)",
    "type": "Single Album",
    "title": "NA-sty",
@@ -767,6 +746,24 @@
     "https://www.tiktok.com/@twice_tiktok_official"
    ],
    "mv": "https://www.youtube.com/watch?v=z7afHJ5I0Ws"
+  },
+  {
+   "artist": "ENHYPEN",
+   "type": "Spinoff Single",
+   "title": "THE SIN : PARALLEL WORLD",
+   "titleTrack": null,
+   "date": "2026-11-20T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS.webp",
+   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ENHYPEN",
+    "https://x.com/ENHYPEN_JP",
+    "https://www.instagram.com/enhypen/",
+    "https://www.youtube.com/@ENHYPENOFFICIAL",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@enhypen"
+   ]
   }
  ]
 }
