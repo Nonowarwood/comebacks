@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T05:38:19+00:00",
+ "generated": "2026-10-31T12:26:24+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -52,25 +52,6 @@
    "mv": "https://www.youtube.com/watch?v=-5ZXrO_lYSA"
   },
   {
-   "artist": "BABYMONSTER",
-   "type": "Digital Single",
-   "title": "DESERVE",
-   "titleTrack": "DESERVE",
-   "date": "2026-10-23T13:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/BABYMONSTER-DESERVE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/babymonster-deserve/",
-   "tracklist": [
-    "Title – \"DESERVE\""
-   ],
-   "links": [
-    "https://x.com/YGBABYMONSTER_",
-    "https://www.instagram.com/babymonster_ygofficial",
-    "https://www.youtube.com/@BABYMONSTER",
-    "https://www.tiktok.com/@babymonster_yg_tiktok"
-   ],
-   "mv": "https://www.youtube.com/watch?v=oC6brLXQe4I"
-  },
-  {
    "artist": "ATEEZ",
    "type": "15th Mini Album",
    "title": "GOLDEN HOUR : Part.6",
@@ -90,6 +71,25 @@
     "https://www.tiktok.com/@ateez_official_"
    ],
    "mv": "https://www.youtube.com/watch?v=iqQWCYMlMw0"
+  },
+  {
+   "artist": "BABYMONSTER",
+   "type": "Digital Single",
+   "title": "DESERVE",
+   "titleTrack": "DESERVE",
+   "date": "2026-10-23T13:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/BABYMONSTER-DESERVE-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/babymonster-deserve/",
+   "tracklist": [
+    "Title – \"DESERVE\""
+   ],
+   "links": [
+    "https://x.com/YGBABYMONSTER_",
+    "https://www.instagram.com/babymonster_ygofficial",
+    "https://www.youtube.com/@BABYMONSTER",
+    "https://www.tiktok.com/@babymonster_yg_tiktok"
+   ],
+   "mv": "https://www.youtube.com/watch?v=oC6brLXQe4I"
   },
   {
    "artist": "RIIZE",
@@ -281,50 +281,21 @@
    "mv": "https://www.youtube.com/watch?v=Pksr9T8m_aA"
   },
   {
-   "artist": "JISOO",
+   "artist": "TREASURE",
    "type": "Digital Single",
-   "title": "ADDICTED",
-   "titleTrack": "ADDICTED",
-   "date": "2026-10-30T08:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-JISOO-ADDICTED-Teaser.webp",
-   "url": "https://kpopofficial.com/album/jisoo-addicted/",
-   "tracklist": [
-    "Title – \"ADDICTED\""
-   ],
-   "links": [
-    "https://x.com/officialBLISSOO",
-    "https://www.instagram.com/sooyaaa__/",
-    "https://www.instagram.com/blissoo_official/",
-    "https://www.youtube.com/@sooyaaa__",
-    "https://www.tiktok.com/@jisoo"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Pksr9T8m_aA"
-  },
-  {
-   "artist": "xikers",
-   "type": "8th Mini Album",
-   "title": "ROUTE ZERO : The CALLING",
-   "titleTrack": "DIENAMITE",
+   "title": "SHOCK",
+   "titleTrack": null,
    "date": "2026-11-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/xikers-ROUTE-ZERO-The-CALLING.webp",
-   "url": "https://kpopofficial.com/album/xikers-route-zero-the-calling/",
-   "tracklist": [
-    "Title – \"DIENAMITE\"",
-    "DIENAMITE",
-    "Go",
-    "Mask Off",
-    "One",
-    "DUMB",
-    "Sanctuary"
-   ],
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/cover2-TREASURE-Members.webp",
+   "url": "https://kpopofficial.com/album/treasure-shock/",
+   "tracklist": [],
    "links": [
-    "https://x.com/xikers_official",
-    "https://www.instagram.com/xikers_official/",
-    "https://www.youtube.com/@xikers_official",
-    "https://www.youtube.com/@KQENT",
-    "https://www.tiktok.com/@xikers_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=-cLxuUyfEvg"
+    "https://x.com/ygtreasuremaker",
+    "https://x.com/ygent_official/status/2110059084435316871",
+    "https://www.instagram.com/yg_treasure_official",
+    "https://www.youtube.com/@TREASURE",
+    "https://www.tiktok.com/@yg_treasure_tiktok"
+   ]
   },
   {
    "artist": "TWS",
@@ -367,6 +338,56 @@
    ]
   },
   {
+   "artist": "xikers",
+   "type": "8th Mini Album",
+   "title": "ROUTE ZERO : The CALLING",
+   "titleTrack": "DIENAMITE",
+   "date": "2026-11-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/xikers-ROUTE-ZERO-The-CALLING.webp",
+   "url": "https://kpopofficial.com/album/xikers-route-zero-the-calling/",
+   "tracklist": [
+    "Title – \"DIENAMITE\"",
+    "DIENAMITE",
+    "Go",
+    "Mask Off",
+    "One",
+    "DUMB",
+    "Sanctuary"
+   ],
+   "links": [
+    "https://x.com/xikers_official",
+    "https://www.instagram.com/xikers_official/",
+    "https://www.youtube.com/@xikers_official",
+    "https://www.youtube.com/@KQENT",
+    "https://www.tiktok.com/@xikers_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=-cLxuUyfEvg"
+  },
+  {
+   "artist": "RESCENE",
+   "type": "4th Mini Album",
+   "title": "PULSE",
+   "titleTrack": "With",
+   "date": "2026-11-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-RESCENE-members-2026-Pulse.webp",
+   "url": "https://kpopofficial.com/album/rescene-pulse/",
+   "tracklist": [
+    "Title – \"With\"",
+    "Finest Thing",
+    "With",
+    "Inside Out",
+    "Meme",
+    "Dragon"
+   ],
+   "links": [
+    "https://x.com/RESCENEofficial",
+    "https://www.instagram.com/rescene_official",
+    "https://www.youtube.com/@RESCENE_official",
+    "https://www.tiktok.com/@rescene_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=kmDGZd1mv7I"
+  },
+  {
    "artist": "RESCENE",
    "type": "4th Mini Album",
    "title": "PULSE",
@@ -389,24 +410,6 @@
     "https://www.tiktok.com/@rescene_official"
    ],
    "mv": "https://www.youtube.com/watch?v=kmDGZd1mv7I"
-  },
-  {
-   "artist": "ZEROBASEONE EMP",
-   "type": "Digital Single",
-   "title": "RUN (with Dynamicduo)",
-   "titleTrack": "RUN (with Dynamicduo)",
-   "date": "2026-11-04T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-ZEROBASEONE-EMP-𝙍𝙐𝙉-𝙬𝙞𝙩𝙝-𝘿𝙮𝙣𝙖𝙢𝙞𝙘𝙙𝙪𝙤.webp",
-   "url": "https://kpopofficial.com/album/zerobaseone-emp-run-dynamicduo/",
-   "tracklist": [
-    "Title – \"RUN (with Dynamicduo)\""
-   ],
-   "links": [
-    "https://x.com/ZB1_official",
-    "https://www.instagram.com/zb1official/",
-    "https://www.youtube.com/@ZB1_official",
-    "https://www.tiktok.com/@zb1_official"
-   ]
   },
   {
    "artist": "ZEROBASEONE EMP",
@@ -446,25 +449,6 @@
    ]
   },
   {
-   "artist": "UNCHILD",
-   "type": "2nd Digital Single",
-   "title": "TiNG TiNG",
-   "titleTrack": "TiNG TiNG",
-   "date": "2026-11-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-UNCHILD-Members-2026-Ting-Ting.webp",
-   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
-   "tracklist": [
-    "Title – \"TiNG TiNG\""
-   ],
-   "links": [
-    "https://x.com/officialUNCHILD",
-    "https://www.instagram.com/official_unchild",
-    "https://www.youtube.com/@official_unchild",
-    "https://www.tiktok.com/@official_unchild"
-   ],
-   "mv": "https://www.youtube.com/watch?v=RjZSoMTsKko"
-  },
-  {
    "artist": "HEART OF WOMAN",
    "type": "1st Mini Album",
    "title": "ETERNAL FADE",
@@ -490,22 +474,23 @@
    "mv": "https://www.youtube.com/watch?v=HzEfplROhyI"
   },
   {
-   "artist": "P1Harmony",
-   "type": "10th Mini Album",
-   "title": "BLOW UP",
-   "titleTrack": null,
-   "date": "2026-11-06T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/02/cover-P1Harmony-members-for-UNIQUE-Album.webp",
-   "url": "https://kpopofficial.com/album/p1harmony-blow-up/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/P1H_official",
-    "https://x.com/P1H_official_jp",
-    "https://www.instagram.com/p1h_official",
-    "https://www.youtube.com/@P1Harmonyofficial",
-    "https://www.tiktok.com/@p1harmony"
+   "artist": "UNCHILD",
+   "type": "2nd Digital Single",
+   "title": "TiNG TiNG",
+   "titleTrack": "TiNG TiNG",
+   "date": "2026-11-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-UNCHILD-Members-2026-Ting-Ting.webp",
+   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
+   "tracklist": [
+    "Title – \"TiNG TiNG\""
    ],
-   "mv": "https://www.youtube.com/watch?v=OOK6K33SlT8"
+   "links": [
+    "https://x.com/officialUNCHILD",
+    "https://www.instagram.com/official_unchild",
+    "https://www.youtube.com/@official_unchild",
+    "https://www.tiktok.com/@official_unchild"
+   ],
+   "mv": "https://www.youtube.com/watch?v=RjZSoMTsKko"
   },
   {
    "artist": "P1Harmony",
@@ -524,29 +509,6 @@
     "https://www.tiktok.com/@p1harmony"
    ],
    "mv": "https://www.youtube.com/watch?v=OOK6K33SlT8"
-  },
-  {
-   "artist": "NCT DREAM",
-   "type": "6th Full Album",
-   "title": "DREAM AFTER DREAM",
-   "titleTrack": "Boogie Woogie",
-   "date": "2026-11-09T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NCT-DREAM-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/nct-dream-album-dream-after-dream/",
-   "tracklist": [
-    "Title – \"Boogie Woogie\""
-   ],
-   "links": [
-    "https://x.com/NCTsmtown",
-    "https://x.com/NCTsmtown_DREAM",
-    "https://www.instagram.com/nct",
-    "https://www.instagram.com/nct_dream",
-    "https://www.youtube.com/@NCTsmtown",
-    "https://www.youtube.com/@NCTDREAM",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct",
-    "https://www.youtube.com/@NCTDREAM/releases"
-   ]
   },
   {
    "artist": "CHAERYEONG (ITZY)",
@@ -571,6 +533,29 @@
     "https://www.tiktok.com/@itzyofficial"
    ],
    "mv": "https://www.youtube.com/watch?v=UIwWaChgPno"
+  },
+  {
+   "artist": "NCT DREAM",
+   "type": "6th Full Album",
+   "title": "DREAM AFTER DREAM",
+   "titleTrack": "Boogie Woogie",
+   "date": "2026-11-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NCT-DREAM-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/nct-dream-album-dream-after-dream/",
+   "tracklist": [
+    "Title – \"Boogie Woogie\""
+   ],
+   "links": [
+    "https://x.com/NCTsmtown",
+    "https://x.com/NCTsmtown_DREAM",
+    "https://www.instagram.com/nct",
+    "https://www.instagram.com/nct_dream",
+    "https://www.youtube.com/@NCTsmtown",
+    "https://www.youtube.com/@NCTDREAM",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct",
+    "https://www.youtube.com/@NCTDREAM/releases"
+   ]
   },
   {
    "artist": "LNGSHOT",
