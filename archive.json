@@ -5894,7 +5894,7 @@
    "artist": "TREASURE",
    "type": "Digital Single",
    "title": "SHOCK",
-   "titleTrack": null,
+   "titleTrack": "SHOCK",
    "date": "2026-11-02T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2025/09/TREASURE-Members-Group-Photo-for-album-love-pulse.webp",
    "url": "https://kpopofficial.com/album/treasure-shock/",
@@ -6170,7 +6170,7 @@
    "title": "PERFECT STORM",
    "titleTrack": null,
    "date": "2026-11-16T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/2-TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
    "url": "https://kpopofficial.com/album/txt-perfect-storm/",
    "tracklist": [],
    "links": [
@@ -6189,6 +6189,23 @@
    "date": "2026-11-16T00:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/03/2-TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
    "url": "https://kpopofficial.com/album/txt-perfect-storm/"
+  },
+  {
+   "artist": "AMPERS&ONE",
+   "type": "1st Full Album",
+   "title": "PATHFINDER",
+   "titleTrack": null,
+   "date": "2026-11-17T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/Cover-AMPERSANDONE-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/ampersandone-pathfinder/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/_AMPERSANDONE_",
+    "https://www.instagram.com/ampersandone_official",
+    "https://www.youtube.com/@AMPERSANDONE",
+    "https://www.tiktok.com/@ampersandone"
+   ],
+   "mv": "https://www.youtube.com/watch?v=-eEhN48NR7U"
   },
   {
    "artist": "YVES",
