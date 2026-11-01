@@ -1,34 +1,7 @@
 {
- "generated": "2026-11-01T06:00:16+00:00",
+ "generated": "2026-11-01T13:20:57+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "Jeonghan x Joshua (SEVENTEEN JxJ)",
-   "type": "1st Mini Album",
-   "title": "DREAMSCAPE",
-   "titleTrack": "12 o'clock",
-   "date": "2026-10-19T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/09/Jeonghan-Joshua-DREAMSCAPE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/jeonghan-joshua-dreamscape/",
-   "tracklist": [
-    "Title – \"12 o’clock\"",
-    "Like you",
-    "12 o’clock",
-    "Outside",
-    "One plus one",
-    "Not personal (JOSHUA Solo)",
-    "컬러링 (JEONGHAN Solo)",
-    "No looking back"
-   ],
-   "links": [
-    "https://x.com/pledis_17",
-    "https://www.instagram.com/saythename_17/",
-    "https://www.youtube.com/@pledis17",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@seventeen17_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=hdwGWGSfABA"
-  },
   {
    "artist": "MINNIE (i-dle)",
    "type": "Digital EP",
@@ -308,29 +281,6 @@
    "mv": "https://www.youtube.com/watch?v=Pksr9T8m_aA"
   },
   {
-   "artist": "TWS",
-   "type": "2nd Single Album",
-   "title": "TO US",
-   "titleTrack": "Call My Name",
-   "date": "2026-11-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-TWS-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/tws-to-us/",
-   "tracklist": [
-    "Title – \"Call My Name\"",
-    "WE UP",
-    "Call My Name",
-    "heavy"
-   ],
-   "links": [
-    "https://x.com/TWS_PLEDIS",
-    "https://www.instagram.com/tws_pledis",
-    "https://www.youtube.com/@TWS_PLEDIS",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@tws_pledis"
-   ],
-   "mv": "https://www.youtube.com/watch?v=NDbVhrWOzkU"
-  },
-  {
    "artist": "TREASURE",
    "type": "Digital Single",
    "title": "SHOCK",
@@ -356,7 +306,7 @@
    "title": "TO US",
    "titleTrack": "Call My Name",
    "date": "2026-11-02T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/TWS-Members-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-TWS-Members-2026.webp",
    "url": "https://kpopofficial.com/album/tws-to-us/",
    "tracklist": [
     "Title – \"Call My Name\"",
@@ -420,6 +370,53 @@
    "mv": "https://www.youtube.com/watch?v=CCTbFaJZKTg"
   },
   {
+   "artist": "TWS",
+   "type": "2nd Single Album",
+   "title": "TO US",
+   "titleTrack": "Call My Name",
+   "date": "2026-11-02T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/TWS-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/tws-to-us/",
+   "tracklist": [
+    "Title – \"Call My Name\"",
+    "WE UP",
+    "Call My Name",
+    "heavy"
+   ],
+   "links": [
+    "https://x.com/TWS_PLEDIS",
+    "https://www.instagram.com/tws_pledis",
+    "https://www.youtube.com/@TWS_PLEDIS",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@tws_pledis"
+   ],
+   "mv": "https://www.youtube.com/watch?v=NDbVhrWOzkU"
+  },
+  {
+   "artist": "RESCENE",
+   "type": "4th Mini Album",
+   "title": "PULSE",
+   "titleTrack": "With",
+   "date": "2026-11-03T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover2-RESCENE-members-2026-Pulse.webp",
+   "url": "https://kpopofficial.com/album/rescene-pulse/",
+   "tracklist": [
+    "Title – \"With\"",
+    "Finest Thing",
+    "With",
+    "Inside Out",
+    "Meme",
+    "Dragon"
+   ],
+   "links": [
+    "https://x.com/RESCENEofficial",
+    "https://www.instagram.com/rescene_official",
+    "https://www.youtube.com/@RESCENE_official",
+    "https://www.tiktok.com/@rescene_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=CQXZp8vTiTU"
+  },
+  {
    "artist": "RESCENE",
    "type": "4th Mini Album",
    "title": "PULSE",
@@ -481,6 +478,25 @@
    ]
   },
   {
+   "artist": "UNCHILD",
+   "type": "2nd Digital Single",
+   "title": "TiNG TiNG",
+   "titleTrack": "TiNG TiNG",
+   "date": "2026-11-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-UNCHILD-Members-2026-Ting-Ting.webp",
+   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
+   "tracklist": [
+    "Title – \"TiNG TiNG\""
+   ],
+   "links": [
+    "https://x.com/officialUNCHILD",
+    "https://www.instagram.com/official_unchild",
+    "https://www.youtube.com/@official_unchild",
+    "https://www.tiktok.com/@official_unchild"
+   ],
+   "mv": "https://www.youtube.com/watch?v=RjZSoMTsKko"
+  },
+  {
    "artist": "HEART OF WOMAN",
    "type": "1st Mini Album",
    "title": "ETERNAL FADE",
@@ -504,25 +520,6 @@
     "https://www.tiktok.com/@heartofwoman_officl"
    ],
    "mv": "https://www.youtube.com/watch?v=HzEfplROhyI"
-  },
-  {
-   "artist": "UNCHILD",
-   "type": "2nd Digital Single",
-   "title": "TiNG TiNG",
-   "titleTrack": "TiNG TiNG",
-   "date": "2026-11-05T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-UNCHILD-Members-2026-Ting-Ting.webp",
-   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
-   "tracklist": [
-    "Title – \"TiNG TiNG\""
-   ],
-   "links": [
-    "https://x.com/officialUNCHILD",
-    "https://www.instagram.com/official_unchild",
-    "https://www.youtube.com/@official_unchild",
-    "https://www.tiktok.com/@official_unchild"
-   ],
-   "mv": "https://www.youtube.com/watch?v=RjZSoMTsKko"
   },
   {
    "artist": "P1Harmony",
@@ -799,6 +796,24 @@
    ]
   },
   {
+   "artist": "ENHYPEN",
+   "type": "Spinoff Single",
+   "title": "THE SIN : PARALLEL WORLD",
+   "titleTrack": null,
+   "date": "2026-11-20T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS.webp",
+   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/ENHYPEN",
+    "https://x.com/ENHYPEN_JP",
+    "https://www.instagram.com/enhypen/",
+    "https://www.youtube.com/@ENHYPENOFFICIAL",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@enhypen"
+   ]
+  },
+  {
    "artist": "NAYEON (TWICE)",
    "type": "Single Album",
    "title": "NA-sty",
@@ -817,24 +832,6 @@
     "https://www.tiktok.com/@twice_tiktok_official"
    ],
    "mv": "https://www.youtube.com/watch?v=z7afHJ5I0Ws"
-  },
-  {
-   "artist": "ENHYPEN",
-   "type": "Spinoff Single",
-   "title": "THE SIN : PARALLEL WORLD",
-   "titleTrack": null,
-   "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS.webp",
-   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/ENHYPEN",
-    "https://x.com/ENHYPEN_JP",
-    "https://www.instagram.com/enhypen/",
-    "https://www.youtube.com/@ENHYPENOFFICIAL",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@enhypen"
-   ]
   }
  ]
 }
