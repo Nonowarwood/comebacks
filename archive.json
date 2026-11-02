@@ -5888,7 +5888,7 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@tws_pledis"
    ],
-   "mv": "https://www.youtube.com/watch?v=NDbVhrWOzkU"
+   "mv": "https://www.youtube.com/watch?v=3MPUCncZBR0"
   },
   {
    "artist": "TREASURE",
@@ -6020,7 +6020,7 @@
    "artist": "P1Harmony",
    "type": "10th Mini Album",
    "title": "BLOW UP",
-   "titleTrack": null,
+   "titleTrack": "BLOW UP",
    "date": "2026-11-06T14:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-P1Harmony-Members-2026.webp",
    "url": "https://kpopofficial.com/album/p1harmony-blow-up/",
@@ -6103,7 +6103,7 @@
    "artist": "LNGSHOT",
    "type": "EP",
    "title": "S.W.I.S.H.",
-   "titleTrack": null,
+   "titleTrack": "Bananas",
    "date": "2026-11-10T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Teaser-LNGSHOT-Members-2026.webp",
    "url": "https://kpopofficial.com/album/lngshot-swish/",
@@ -6130,7 +6130,7 @@
    "title": "OFF script",
    "titleTrack": "RUN (with Dynamicduo)",
    "date": "2026-11-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-ZEROBASEONE-EMP-OFF-script.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover1-ZEROBASEONE-EMP-Members.webp",
    "url": "https://kpopofficial.com/album/zerobaseone-emp-off-script/",
    "tracklist": [
     "Title – \"RUN (with Dynamicduo)\"",
@@ -6195,9 +6195,9 @@
    "artist": "TOMORROW X TOGETHER (TXT)",
    "type": "9th Mini Album",
    "title": "PERFECT STORM",
-   "titleTrack": null,
+   "titleTrack": "Angel Bite",
    "date": "2026-11-16T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/2-TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
    "url": "https://kpopofficial.com/album/txt-perfect-storm/",
    "tracklist": [
     "Title – \"Angel Bite\"",
@@ -6259,9 +6259,9 @@
     "https://www.instagram.com/paixpermil/",
     "https://www.youtube.com/@yves_official",
     "https://www.youtube.com/@PAIXPERMIL",
-    "https://www.tiktok.com/@yves___official",
-    "https://www.youtube.com/@YVES_OFFICIAL/releases"
-   ]
+    "https://www.tiktok.com/@yves___official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=5jvmNm73q5U"
   },
   {
    "artist": "NAYEON (TWICE)",
@@ -6287,11 +6287,16 @@
    "artist": "ENHYPEN",
    "type": "Spinoff Single",
    "title": "THE SIN : PARALLEL WORLD",
-   "titleTrack": null,
+   "titleTrack": "I Want You",
    "date": "2026-11-20T14:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS.webp",
    "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"I Want You\"",
+    "I Want You",
+    "Don’t Stop",
+    "ILY Season"
+   ],
    "links": [
     "https://x.com/ENHYPEN",
     "https://x.com/ENHYPEN_JP",
@@ -6299,7 +6304,8 @@
     "https://www.youtube.com/@ENHYPENOFFICIAL",
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@enhypen"
-   ]
+   ],
+   "mv": "https://www.youtube.com/watch?v=desp5LJxijw"
   }
  ]
 }
