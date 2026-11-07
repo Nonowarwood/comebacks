@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T05:56:37+00:00",
+ "generated": "2026-11-07T12:58:18+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -312,6 +312,25 @@
    "mv": "https://www.youtube.com/watch?v=j9snkpeNJ7k"
   },
   {
+   "artist": "JENNIE",
+   "type": "Single",
+   "title": "Someone to Hold (Netflix Film “Steps” OST)",
+   "titleTrack": "Someone to Hold",
+   "date": "2026-11-06T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-JENNIE-Someone-to-Hold-Netflix-Steps.webp",
+   "url": "https://kpopofficial.com/album/jennie-someone-to-hold/",
+   "tracklist": [
+    "Title – Someone to Hold"
+   ],
+   "links": [
+    "https://x.com/jennierubyjane",
+    "https://www.instagram.com/jennierubyjane",
+    "https://www.youtube.com/@jennierubyjane",
+    "https://www.tiktok.com/@jennierubyjane"
+   ],
+   "mv": "https://www.youtube.com/watch?v=qbr271qnviI"
+  },
+  {
    "artist": "P1Harmony",
    "type": "10th Mini Album",
    "title": "BLOW UP",
@@ -336,25 +355,6 @@
     "https://www.tiktok.com/@p1harmony"
    ],
    "mv": "https://www.youtube.com/watch?v=pdqij5LE7Hc"
-  },
-  {
-   "artist": "JENNIE",
-   "type": "Single",
-   "title": "Someone to Hold (Netflix Film “Steps” OST)",
-   "titleTrack": "Someone to Hold",
-   "date": "2026-11-06T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-JENNIE-Someone-to-Hold-Netflix-Steps.webp",
-   "url": "https://kpopofficial.com/album/jennie-someone-to-hold/",
-   "tracklist": [
-    "Title – Someone to Hold"
-   ],
-   "links": [
-    "https://x.com/jennierubyjane",
-    "https://www.instagram.com/jennierubyjane",
-    "https://www.youtube.com/@jennierubyjane",
-    "https://www.tiktok.com/@jennierubyjane"
-   ],
-   "mv": "https://www.youtube.com/watch?v=qbr271qnviI"
   },
   {
    "artist": "Mark Lee",
@@ -504,6 +504,33 @@
    "title": "SUPERSTAR",
    "titleTrack": "Superstar\", \"Dancing in the Dark",
    "date": "2026-11-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-A2O-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/a2o-soul-album-superstar/",
+   "tracklist": [
+    "Title – \"Superstar\", \"Dancing in the Dark\"",
+    "Superstar",
+    "Dancing in the Dark",
+    "While We’re Young",
+    "Very First Love",
+    "Moonlight Shadow"
+   ],
+   "links": [
+    "https://x.com/A2OWORLD",
+    "https://x.com/A2O_SOUL",
+    "https://www.instagram.com/a2o.world/",
+    "https://www.instagram.com/a2o.soul/",
+    "https://www.youtube.com/@A2OWORLD",
+    "https://www.youtube.com/@A2OSOUL",
+    "https://www.tiktok.com/@a2o.soul"
+   ],
+   "mv": "https://www.youtube.com/watch?v=3km2rkEASWI"
+  },
+  {
+   "artist": "A2O SOUL",
+   "type": "Debut EP",
+   "title": "SUPERSTAR",
+   "titleTrack": "Superstar\", \"Dancing in the Dark",
+   "date": "2026-11-09T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/A2O-Members-2026.webp",
    "url": "https://kpopofficial.com/album/a2o-soul-album-superstar/",
    "tracklist": [
@@ -581,6 +608,31 @@
     "https://www.tiktok.com/@official_nct",
     "https://www.youtube.com/@NCTDREAM/releases"
    ]
+  },
+  {
+   "artist": "LNGSHOT",
+   "type": "EP",
+   "title": "S.W.I.S.H.",
+   "titleTrack": "Bananas",
+   "date": "2026-11-10T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Teaser-LNGSHOT-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/lngshot-swish/",
+   "tracklist": [
+    "Title – \"Bananas\"",
+    "Masterpiece",
+    "Bananas",
+    "Wanna Go",
+    "Up & Away",
+    "Beep Beep"
+   ],
+   "links": [
+    "https://x.com/LNGSHOT4sho",
+    "https://www.instagram.com/lngshot4sho/",
+    "https://www.youtube.com/@LNGSHOT4SHO",
+    "https://www.youtube.com/@MOREVISION",
+    "https://www.tiktok.com/@lngshot4sho"
+   ],
+   "mv": "https://www.youtube.com/watch?v=UDeqY4zTZ84"
   },
   {
    "artist": "ZEROBASEONE EMP",
