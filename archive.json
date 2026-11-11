@@ -6045,7 +6045,7 @@
    "title": "BLOW UP",
    "titleTrack": "BLOW UP",
    "date": "2026-11-06T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/P1Harmony-BLOW-UP-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-P1Harmony-Members-2026.webp",
    "url": "https://kpopofficial.com/album/p1harmony-blow-up/",
    "tracklist": [
     "Title – \"BLOW UP\"",
@@ -6071,7 +6071,7 @@
    "title": "Someone to Hold (Netflix Film “Steps” OST)",
    "titleTrack": "Someone to Hold",
    "date": "2026-11-06T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-JENNIE-Someone-to-Hold-Netflix-Steps.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-JENNIE-Someone-to-Hold-Netflix-Steps.webp",
    "url": "https://kpopofficial.com/album/jennie-someone-to-hold/",
    "tracklist": [
     "Title – Someone to Hold"
@@ -6090,7 +6090,7 @@
    "title": "Happiest",
    "titleTrack": "Happiest",
    "date": "2026-11-06T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-Mark-Lee-Happiest.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/Mark-Lee-Happiest-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/mark-lee-happiest/",
    "tracklist": [
     "Title – \"Happiest\""
@@ -6241,7 +6241,7 @@
    "title": "Darling",
    "titleTrack": "Darling",
    "date": "2026-11-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/08/cover-DO-Album-DOPAMINE.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/EXO-DO-Darling-1.webp",
    "url": "https://kpopofficial.com/album/do-darling/",
    "tracklist": [
     "Title – \"Darling\""
@@ -6250,9 +6250,35 @@
     "https://x.com/DOHKYUNGSOO_X",
     "https://www.instagram.com/dohkyungsoo_offcl/",
     "https://www.instagram.com/d.o.hkyungsoo/",
-    "https://www.youtube.com/@DOHKYUNGSOO_offcl",
-    "https://www.youtube.com/@DOHKYUNGSOO_offcl/releases"
-   ]
+    "https://www.youtube.com/@DOHKYUNGSOO_offcl"
+   ],
+   "mv": "https://www.youtube.com/watch?v=AxTSWoMTAEM"
+  },
+  {
+   "artist": "KYUHYUN",
+   "type": "EP",
+   "title": "CONTINUE",
+   "titleTrack": "I'll Be Here",
+   "date": "2026-11-11T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-KYUHYUN-CONTINUE.webp",
+   "url": "https://kpopofficial.com/album/kyuhyun-continue/",
+   "tracklist": [
+    "Title – \"I’ll Be Here\"",
+    "약속",
+    "끝나지 않는 계절",
+    "Filament",
+    "괜찮은 줄 알았는데",
+    "돛단배"
+   ],
+   "links": [
+    "https://x.com/GaemGyu",
+    "https://www.instagram.com/gyuram88",
+    "https://www.instagram.com/kyuhyun_official",
+    "https://www.youtube.com/@kyuhyuntv",
+    "https://www.youtube.com/@Antenna",
+    "https://www.tiktok.com/@kyuhyun_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=rFhvRNkxljA"
   },
   {
    "artist": "ATEEZ",
@@ -6278,7 +6304,7 @@
     "https://www.youtube.com/@KQENT",
     "https://www.tiktok.com/@ateez_official_"
    ],
-   "mv": "https://www.youtube.com/watch?v=iqQWCYMlMw0"
+   "mv": "https://www.youtube.com/watch?v=lYH1OEsyhaQ"
   },
   {
    "artist": "H1-KEY",
@@ -6305,7 +6331,7 @@
    "title": "PERFECT STORM",
    "titleTrack": "Angel Bite",
    "date": "2026-11-16T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/03/TXT-Album-7TH-YEAR-A-Moment-of-Stillness-in-the-Thorns.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-TXT-Members-2026.webp",
    "url": "https://kpopofficial.com/album/txt-perfect-storm/",
    "tracklist": [
     "Title – \"Angel Bite\"",
@@ -6366,11 +6392,18 @@
    "artist": "YVES",
    "type": "5th EP",
    "title": "Cute & Anxiety",
-   "titleTrack": null,
+   "titleTrack": "Too Much",
    "date": "2026-11-20T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-Yves-Cute-and-Anxiety.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-Yves-Cute-and-Anxiety.webp",
    "url": "https://kpopofficial.com/album/yves-cute-and-anxiety/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"Too Much\"",
+    "Too Much (feat. Akriila)",
+    "Polaroid",
+    "Hysteric",
+    "Bat",
+    "Adam"
+   ],
    "links": [
     "https://x.com/Yves___official",
     "https://x.com/_PAIXPERMIL",
@@ -6388,7 +6421,7 @@
    "title": "NA-sty",
    "titleTrack": "BABY ANGEL",
    "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Nayeon-Twice.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-Nayeon-Na-sty-Album.webp",
    "url": "https://kpopofficial.com/album/nayeon-na-sty/",
    "tracklist": [
     "Title – \"BABY ANGEL\"",
@@ -6413,7 +6446,7 @@
    "title": "THE SIN : PARALLEL WORLD",
    "titleTrack": "I Want You",
    "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/06/ENHYPEN-THE-SIN-BLISS.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-ENHYPEN-Members-2026-teaser.webp",
    "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
    "tracklist": [
     "Title – \"I Want You\"",
@@ -6437,7 +6470,7 @@
    "title": "Gleam Hour",
    "titleTrack": "Before Sunrise",
    "date": "2026-11-23T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-WENDY-Gleam-Hour.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/WENDY-Gleam-Hour-1.webp",
    "url": "https://kpopofficial.com/album/wendy-gleam-hour/",
    "tracklist": [
     "Title – \"Before Sunrise\"",
@@ -6452,9 +6485,9 @@
     "https://x.com/WENDY_offcl",
     "https://www.instagram.com/wendy_offcl/",
     "https://www.instagram.com/todayis_wendy/",
-    "https://www.youtube.com/@WENDY_offcl",
-    "https://www.youtube.com/@WENDY_offcl/releases"
-   ]
+    "https://www.youtube.com/@WENDY_offcl"
+   ],
+   "mv": "https://www.youtube.com/watch?v=HQdQRzYJvmc"
   },
   {
    "artist": "TAEYEON",
