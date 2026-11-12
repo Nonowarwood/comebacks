@@ -1,27 +1,7 @@
 {
- "generated": "2026-11-12T00:41:00+00:00",
+ "generated": "2026-11-12T15:12:05+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "JISOO",
-   "type": "Digital Single",
-   "title": "ADDICTED",
-   "titleTrack": "ADDICTED",
-   "date": "2026-10-30T08:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/JISOO-ADDICTED-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/jisoo-addicted/",
-   "tracklist": [
-    "Title – \"ADDICTED\""
-   ],
-   "links": [
-    "https://x.com/officialBLISSOO",
-    "https://www.instagram.com/sooyaaa__/",
-    "https://www.instagram.com/blissoo_official/",
-    "https://www.youtube.com/@sooyaaa__",
-    "https://www.tiktok.com/@jisoo"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Pksr9T8m_aA"
-  },
   {
    "artist": "UNCHILD",
    "type": "2nd Digital Single",
@@ -69,6 +49,25 @@
    "mv": "https://www.youtube.com/watch?v=h9iE_o_Jgjo"
   },
   {
+   "artist": "JENNIE",
+   "type": "Single",
+   "title": "Someone to Hold (Netflix Film “Steps” OST)",
+   "titleTrack": "Someone to Hold",
+   "date": "2026-11-06T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-JENNIE-Someone-to-Hold-Netflix-Steps.webp",
+   "url": "https://kpopofficial.com/album/jennie-someone-to-hold/",
+   "tracklist": [
+    "Title – Someone to Hold"
+   ],
+   "links": [
+    "https://x.com/jennierubyjane",
+    "https://www.instagram.com/jennierubyjane",
+    "https://www.youtube.com/@jennierubyjane",
+    "https://www.tiktok.com/@jennierubyjane"
+   ],
+   "mv": "https://www.youtube.com/watch?v=qbr271qnviI"
+  },
+  {
    "artist": "P1Harmony",
    "type": "10th Mini Album",
    "title": "BLOW UP",
@@ -93,25 +92,6 @@
     "https://www.tiktok.com/@p1harmony"
    ],
    "mv": "https://www.youtube.com/watch?v=pdqij5LE7Hc"
-  },
-  {
-   "artist": "JENNIE",
-   "type": "Single",
-   "title": "Someone to Hold (Netflix Film “Steps” OST)",
-   "titleTrack": "Someone to Hold",
-   "date": "2026-11-06T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-JENNIE-Someone-to-Hold-Netflix-Steps.webp",
-   "url": "https://kpopofficial.com/album/jennie-someone-to-hold/",
-   "tracklist": [
-    "Title – Someone to Hold"
-   ],
-   "links": [
-    "https://x.com/jennierubyjane",
-    "https://www.instagram.com/jennierubyjane",
-    "https://www.youtube.com/@jennierubyjane",
-    "https://www.tiktok.com/@jennierubyjane"
-   ],
-   "mv": "https://www.youtube.com/watch?v=qbr271qnviI"
   },
   {
    "artist": "Mark Lee",
@@ -244,39 +224,6 @@
    "mv": "https://www.youtube.com/watch?v=JPJokqIoIJI"
   },
   {
-   "artist": "NCT DREAM",
-   "type": "6th Full Album",
-   "title": "DREAM AFTER DREAM",
-   "titleTrack": "Boogie Woogie",
-   "date": "2026-11-09T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NCT-DREAM-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/nct-dream-album-dream-after-dream/",
-   "tracklist": [
-    "Title – \"Boogie Woogie\"",
-    "The Sun",
-    "Boogie Woogie",
-    "Dream After Dream",
-    "Skydive",
-    "Pressure",
-    "Watch U Watch Me",
-    "Cool For Me",
-    "Tumbler",
-    "Smile For U",
-    "This Is Your World"
-   ],
-   "links": [
-    "https://x.com/NCTsmtown",
-    "https://x.com/NCTsmtown_DREAM",
-    "https://www.instagram.com/nct",
-    "https://www.instagram.com/nct_dream",
-    "https://www.youtube.com/@NCTsmtown",
-    "https://www.youtube.com/@NCTDREAM",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@official_nct"
-   ],
-   "mv": "https://www.youtube.com/watch?v=wG7pnZttup8"
-  },
-  {
    "artist": "A2O SOUL",
    "type": "Debut EP",
    "title": "SUPERSTAR",
@@ -326,6 +273,39 @@
     "https://www.tiktok.com/@itzyofficial"
    ],
    "mv": "https://www.youtube.com/watch?v=pe-rk1ekb4w"
+  },
+  {
+   "artist": "NCT DREAM",
+   "type": "6th Full Album",
+   "title": "DREAM AFTER DREAM",
+   "titleTrack": "Boogie Woogie",
+   "date": "2026-11-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NCT-DREAM-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/nct-dream-album-dream-after-dream/",
+   "tracklist": [
+    "Title – \"Boogie Woogie\"",
+    "The Sun",
+    "Boogie Woogie",
+    "Dream After Dream",
+    "Skydive",
+    "Pressure",
+    "Watch U Watch Me",
+    "Cool For Me",
+    "Tumbler",
+    "Smile For U",
+    "This Is Your World"
+   ],
+   "links": [
+    "https://x.com/NCTsmtown",
+    "https://x.com/NCTsmtown_DREAM",
+    "https://www.instagram.com/nct",
+    "https://www.instagram.com/nct_dream",
+    "https://www.youtube.com/@NCTsmtown",
+    "https://www.youtube.com/@NCTDREAM",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@official_nct"
+   ],
+   "mv": "https://www.youtube.com/watch?v=wG7pnZttup8"
   },
   {
    "artist": "LNGSHOT",
@@ -422,25 +402,6 @@
    "mv": "https://www.youtube.com/watch?v=xWNIrOTJ6VA"
   },
   {
-   "artist": "D.O. (EXO)",
-   "type": "Single",
-   "title": "Darling",
-   "titleTrack": "Darling",
-   "date": "2026-11-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-EXO-DO-Darling.webp",
-   "url": "https://kpopofficial.com/album/do-darling/",
-   "tracklist": [
-    "Title – \"Darling\""
-   ],
-   "links": [
-    "https://x.com/DOHKYUNGSOO_X",
-    "https://www.instagram.com/dohkyungsoo_offcl/",
-    "https://www.instagram.com/d.o.hkyungsoo/",
-    "https://www.youtube.com/@DOHKYUNGSOO_offcl"
-   ],
-   "mv": "https://www.youtube.com/watch?v=AxTSWoMTAEM"
-  },
-  {
    "artist": "KYUHYUN",
    "type": "EP",
    "title": "CONTINUE",
@@ -465,6 +426,25 @@
     "https://www.tiktok.com/@kyuhyun_official"
    ],
    "mv": "https://www.youtube.com/watch?v=rFhvRNkxljA"
+  },
+  {
+   "artist": "D.O. (EXO)",
+   "type": "Single",
+   "title": "Darling",
+   "titleTrack": "Darling",
+   "date": "2026-11-11T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-EXO-DO-Darling.webp",
+   "url": "https://kpopofficial.com/album/do-darling/",
+   "tracklist": [
+    "Title – \"Darling\""
+   ],
+   "links": [
+    "https://x.com/DOHKYUNGSOO_X",
+    "https://www.instagram.com/dohkyungsoo_offcl/",
+    "https://www.instagram.com/d.o.hkyungsoo/",
+    "https://www.youtube.com/@DOHKYUNGSOO_offcl"
+   ],
+   "mv": "https://www.youtube.com/watch?v=AxTSWoMTAEM"
   },
   {
    "artist": "D.O. (EXO)",
@@ -562,6 +542,25 @@
     "https://www.tiktok.com/@ateez_official_"
    ],
    "mv": "https://www.youtube.com/watch?v=lYH1OEsyhaQ"
+  },
+  {
+   "artist": "H1-KEY",
+   "type": "Digital Single",
+   "title": "Unbelievable",
+   "titleTrack": "Unbelievable",
+   "date": "2026-11-13T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-H1-KEY-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/h1-key-unbelievable/",
+   "tracklist": [
+    "Title – \"Unbelievable\""
+   ],
+   "links": [
+    "https://x.com/H1KEY_official",
+    "https://www.instagram.com/h1key_official",
+    "https://www.youtube.com/@H1KEY_official",
+    "https://www.tiktok.com/@h1key_choi"
+   ],
+   "mv": "https://www.youtube.com/watch?v=hi3PoPNOLnU"
   },
   {
    "artist": "H1-KEY",
@@ -713,6 +712,30 @@
     "https://www.tiktok.com/@twice_tiktok_official"
    ],
    "mv": "https://www.youtube.com/watch?v=Aphwo0AkTTI"
+  },
+  {
+   "artist": "ENHYPEN",
+   "type": "Spinoff Single",
+   "title": "THE SIN : PARALLEL WORLD",
+   "titleTrack": "I Want You",
+   "date": "2026-11-20T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-ENHYPEN-Members-2026-teaser.webp",
+   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
+   "tracklist": [
+    "Title – \"I Want You\"",
+    "I Want You",
+    "Don’t Stop",
+    "ILY Season"
+   ],
+   "links": [
+    "https://x.com/ENHYPEN",
+    "https://x.com/ENHYPEN_JP",
+    "https://www.instagram.com/enhypen/",
+    "https://www.youtube.com/@ENHYPENOFFICIAL",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@enhypen"
+   ],
+   "mv": "https://www.youtube.com/watch?v=desp5LJxijw"
   },
   {
    "artist": "ENHYPEN",
