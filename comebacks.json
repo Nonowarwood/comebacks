@@ -1,7 +1,47 @@
 {
- "generated": "2026-11-14T06:20:12+00:00",
+ "generated": "2026-11-14T17:59:54+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
+  {
+   "artist": "Baby DONT Cry",
+   "type": "Digital Single",
+   "title": "Replay",
+   "titleTrack": "Replay",
+   "date": "2026-11-04T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/Baby-DONT-Cry-Replay-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/baby-dont-cry-replay/",
+   "tracklist": [
+    "Title – \"Replay\""
+   ],
+   "links": [
+    "https://x.com/BabyDONTCry_BDC",
+    "https://www.instagram.com/babydontcry.offcl",
+    "https://www.youtube.com/@BabyDONTCry.official",
+    "https://www.tiktok.com/@babydontcry.official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=ZjLYzzPbdkM"
+  },
+  {
+   "artist": "UNCHILD",
+   "type": "2nd Digital Single",
+   "title": "TiNG TiNG",
+   "titleTrack": "TiNG TiNG",
+   "date": "2026-11-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/UNCHILD-TiNG-TiNG-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
+   "tracklist": [
+    "Title – \"TiNG TiNG\"",
+    "TRICKY GRLS",
+    "TiNG TiNG"
+   ],
+   "links": [
+    "https://x.com/officialUNCHILD",
+    "https://www.instagram.com/official_unchild",
+    "https://www.youtube.com/@official_unchild",
+    "https://www.tiktok.com/@official_unchild"
+   ],
+   "mv": "https://www.youtube.com/watch?v=zPkhs5qxpnU"
+  },
   {
    "artist": "P1Harmony",
    "type": "10th Mini Album",
@@ -68,30 +108,23 @@
    "mv": "https://www.youtube.com/watch?v=7aIOY0UZXTA"
   },
   {
-   "artist": "P1Harmony",
-   "type": "10th Mini Album",
-   "title": "BLOW UP",
-   "titleTrack": "BLOW UP",
+   "artist": "JENNIE",
+   "type": "Single",
+   "title": "Someone to Hold (Netflix Film “Steps” OST)",
+   "titleTrack": "Someone to Hold",
    "date": "2026-11-06T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-P1Harmony-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/p1harmony-blow-up/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-JENNIE-Someone-to-Hold-Netflix-Steps.webp",
+   "url": "https://kpopofficial.com/album/jennie-someone-to-hold/",
    "tracklist": [
-    "Title – \"BLOW UP\"",
-    "Blow Up",
-    "Element",
-    "How To",
-    "Momentum",
-    "T.O.T.Y",
-    "Talk That"
+    "Title – Someone to Hold"
    ],
    "links": [
-    "https://x.com/P1H_official",
-    "https://x.com/P1H_official_jp",
-    "https://www.instagram.com/p1h_official",
-    "https://www.youtube.com/@P1Harmonyofficial",
-    "https://www.tiktok.com/@p1harmony"
+    "https://x.com/jennierubyjane",
+    "https://www.instagram.com/jennierubyjane",
+    "https://www.youtube.com/@jennierubyjane",
+    "https://www.tiktok.com/@jennierubyjane"
    ],
-   "mv": "https://www.youtube.com/watch?v=pdqij5LE7Hc"
+   "mv": "https://www.youtube.com/watch?v=qbr271qnviI"
   },
   {
    "artist": "CHAERYEONG (ITZY)",
@@ -593,34 +626,6 @@
    "title": "PATHFINDER",
    "titleTrack": null,
    "date": "2026-11-17T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-AMPERSANDONE-Members-2026-Group-Photo.webp",
-   "url": "https://kpopofficial.com/album/ampersandone-pathfinder/",
-   "tracklist": [
-    "King’s Way",
-    "Splish Splash",
-    "Full of You",
-    "Cautious",
-    "Fairytales",
-    "Sorry Not Sorry",
-    "Big Shot",
-    "NOM!",
-    "It’s Been a Year",
-    "AURORA"
-   ],
-   "links": [
-    "https://x.com/_AMPERSANDONE_",
-    "https://www.instagram.com/ampersandone_official",
-    "https://www.youtube.com/@AMPERSANDONE",
-    "https://www.tiktok.com/@ampersandone"
-   ],
-   "mv": "https://www.youtube.com/watch?v=-eEhN48NR7U"
-  },
-  {
-   "artist": "AMPERS&ONE",
-   "type": "1st Full Album",
-   "title": "PATHFINDER",
-   "titleTrack": null,
-   "date": "2026-11-17T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-AMPERSANDONE-Members-2026-Group-Photo.webp",
    "url": "https://kpopofficial.com/album/ampersandone-pathfinder/",
    "tracklist": [
@@ -669,55 +674,6 @@
     "https://www.tiktok.com/@yves___official"
    ],
    "mv": "https://www.youtube.com/watch?v=5jvmNm73q5U"
-  },
-  {
-   "artist": "ENHYPEN",
-   "type": "Spinoff Single",
-   "title": "THE SIN : PARALLEL WORLD",
-   "titleTrack": "I Want You",
-   "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-ENHYPEN-Members-2026-teaser.webp",
-   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
-   "tracklist": [
-    "Title – \"I Want You\"",
-    "I Want You",
-    "Don’t Stop",
-    "ILY Season"
-   ],
-   "links": [
-    "https://x.com/ENHYPEN",
-    "https://x.com/ENHYPEN_JP",
-    "https://www.instagram.com/enhypen/",
-    "https://www.youtube.com/@ENHYPENOFFICIAL",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@enhypen"
-   ],
-   "mv": "https://www.youtube.com/watch?v=desp5LJxijw"
-  },
-  {
-   "artist": "NAYEON (TWICE)",
-   "type": "Single Album",
-   "title": "NA-sty",
-   "titleTrack": "BABY ANGEL",
-   "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-Nayeon-Na-sty-Album.webp",
-   "url": "https://kpopofficial.com/album/nayeon-na-sty/",
-   "tracklist": [
-    "Title – \"BABY ANGEL\"",
-    "BABY ANGEL",
-    "SHiVER",
-    "BOY"
-   ],
-   "links": [
-    "https://x.com/JYPETWICE",
-    "https://www.instagram.com/twicetagram",
-    "https://www.instagram.com/nayeonyny/",
-    "https://www.youtube.com/@TWICE",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.youtube.com/@IM_NAYEON_0922",
-    "https://www.tiktok.com/@twice_tiktok_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=Aphwo0AkTTI"
   },
   {
    "artist": "NAYEON (TWICE)",
@@ -792,25 +748,6 @@
     "https://www.youtube.com/@WENDY_offcl"
    ],
    "mv": "https://www.youtube.com/watch?v=HQdQRzYJvmc"
-  },
-  {
-   "artist": "TAEYEON",
-   "type": "4th Album",
-   "title": "Unspecial",
-   "titleTrack": null,
-   "date": "2026-11-30T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-TAEYEON-SNSD.jpg",
-   "url": "https://kpopofficial.com/album/taeyeon-unspecial/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/TAEYEONsmtown",
-    "https://www.instagram.com/taeyeon.smofficial/",
-    "https://www.instagram.com/taeyeon_ss/",
-    "https://www.youtube.com/@taeyeonofficial",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@taeyeon_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=VNsCNLcmnn4"
   },
   {
    "artist": "TAEYEON",
