@@ -6110,7 +6110,7 @@
    "title": "Lovesick",
    "titleTrack": "Lovesick",
    "date": "2026-11-09T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/ITZY-CHAERYEONG-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/ITZY-CHAERYEONG-Lovesick-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/chaeryeong-lovesick/",
    "tracklist": [
     "Title – \"Lovesick\"",
@@ -6134,7 +6134,7 @@
    "title": "DREAM AFTER DREAM",
    "titleTrack": "Boogie Woogie",
    "date": "2026-11-09T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/NCT-DREAM-Members-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/NCT-DREAM-Album-DREAM-AFTER-DREAM.webp",
    "url": "https://kpopofficial.com/album/nct-dream-album-dream-after-dream/",
    "tracklist": [
     "Title – \"Boogie Woogie\"",
@@ -6244,7 +6244,9 @@
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/EXO-DO-Darling-1.webp",
    "url": "https://kpopofficial.com/album/do-darling/",
    "tracklist": [
-    "Title – \"Darling\""
+    "Title – \"Darling\"",
+    "Darling",
+    "Darling (English Ver.)"
    ],
    "links": [
     "https://x.com/DOHKYUNGSOO_X",
@@ -6252,7 +6254,7 @@
     "https://www.instagram.com/d.o.hkyungsoo/",
     "https://www.youtube.com/@DOHKYUNGSOO_offcl"
    ],
-   "mv": "https://www.youtube.com/watch?v=AxTSWoMTAEM"
+   "mv": "https://www.youtube.com/watch?v=KSeciQOgsWM"
   },
   {
    "artist": "KYUHYUN",
@@ -6264,11 +6266,11 @@
    "url": "https://kpopofficial.com/album/kyuhyun-continue/",
    "tracklist": [
     "Title – \"I’ll Be Here\"",
-    "약속",
-    "끝나지 않는 계절",
-    "Filament",
-    "괜찮은 줄 알았는데",
-    "돛단배"
+    "I’ll Be Here",
+    "Endless Season",
+    "FILAMENT",
+    "Thought I Was Fine",
+    "Voyage"
    ],
    "links": [
     "https://x.com/GaemGyu",
@@ -6278,7 +6280,7 @@
     "https://www.youtube.com/@Antenna",
     "https://www.tiktok.com/@kyuhyun_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=rFhvRNkxljA"
+   "mv": "https://www.youtube.com/watch?v=5aiDwMOIRQE"
   },
   {
    "artist": "ATEEZ",
@@ -6304,7 +6306,7 @@
     "https://www.youtube.com/@KQENT",
     "https://www.tiktok.com/@ateez_official_"
    ],
-   "mv": "https://www.youtube.com/watch?v=lYH1OEsyhaQ"
+   "mv": "https://www.youtube.com/watch?v=SGovymtCzvA"
   },
   {
    "artist": "H1-KEY",
@@ -6323,7 +6325,7 @@
     "https://www.youtube.com/@H1KEY_official",
     "https://www.tiktok.com/@h1key_choi"
    ],
-   "mv": "https://www.youtube.com/watch?v=C3e8m34YSks"
+   "mv": "https://www.youtube.com/watch?v=18X8ClyLIaI"
   },
   {
    "artist": "TOMORROW X TOGETHER (TXT)",
@@ -6349,7 +6351,7 @@
     "https://www.youtube.com/@HYBELABELS",
     "https://www.tiktok.com/@txt.bighitent"
    ],
-   "mv": "https://www.youtube.com/watch?v=0kKD3b2nwfQ"
+   "mv": "https://www.youtube.com/watch?v=M9G4guYg-i8"
   },
   {
    "artist": "TXT",
@@ -6361,10 +6363,30 @@
    "url": "https://kpopofficial.com/album/txt-perfect-storm/"
   },
   {
+   "artist": "Keyveatz",
+   "type": "Digital Single",
+   "title": "HAH!",
+   "titleTrack": "HAH!",
+   "date": "2026-11-16T12:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-Keyveatz-members-2026.webp",
+   "url": "https://kpopofficial.com/album/keyveatz-hah/",
+   "tracklist": [
+    "Title – \"HAH!\""
+   ],
+   "links": [
+    "https://x.com/Keyveatz",
+    "https://www.instagram.com/keyveatz/",
+    "https://www.youtube.com/@Keyveatz",
+    "https://www.youtube.com/@AOMGOFFICIAL",
+    "https://www.tiktok.com/@keyveatz"
+   ],
+   "mv": "https://www.youtube.com/watch?v=jNi1L76DFus"
+  },
+  {
    "artist": "AMPERS&ONE",
    "type": "1st Full Album",
    "title": "PATHFINDER",
-   "titleTrack": null,
+   "titleTrack": "King's Way",
    "date": "2026-11-17T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-AMPERSANDONE-Members-2026-Group-Photo.webp",
    "url": "https://kpopofficial.com/album/ampersandone-pathfinder/",
@@ -6466,6 +6488,23 @@
    "mv": "https://www.youtube.com/watch?v=dE_Ro8Sac2M"
   },
   {
+   "artist": "CL",
+   "type": "Digital Single",
+   "title": "ICONIC",
+   "titleTrack": null,
+   "date": "2026-11-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/CL-Photo-2026.webp",
+   "url": "https://kpopofficial.com/album/cl-iconic/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/chaelinCL",
+    "https://www.instagram.com/chaelincl/",
+    "https://www.youtube.com/@chaelincl",
+    "https://www.tiktok.com/@chaelincl",
+    "https://www.youtube.com/@chaelincl/releases"
+   ]
+  },
+  {
    "artist": "WENDY (Red Velvet)",
    "type": "4th Mini Album",
    "title": "Gleam Hour",
@@ -6491,10 +6530,29 @@
    "mv": "https://www.youtube.com/watch?v=HQdQRzYJvmc"
   },
   {
+   "artist": "KISS OF LIFE",
+   "type": "Winter Digital Single",
+   "title": "Greedy",
+   "titleTrack": "Greedy",
+   "date": "2026-11-25T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/KISS-OF-LIFE-Greedy-Teaser.webp",
+   "url": "https://kpopofficial.com/album/kiss-of-life-greedy/",
+   "tracklist": [
+    "Title – \"Greedy\""
+   ],
+   "links": [
+    "https://x.com/KISSOFLIFE_S2",
+    "https://www.instagram.com/kissoflife_s2",
+    "https://www.youtube.com/@KISSOFLIFE_official",
+    "https://www.tiktok.com/@kissoflife_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=w-FQ_Iw7fDs"
+  },
+  {
    "artist": "TAEYEON",
    "type": "4th Album",
    "title": "Unspecial",
-   "titleTrack": null,
+   "titleTrack": "Unspecial",
    "date": "2026-11-30T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-TAEYEON-SNSD.jpg",
    "url": "https://kpopofficial.com/album/taeyeon-unspecial/",
