@@ -6071,7 +6071,7 @@
    "title": "Someone to Hold (Netflix Film “Steps” OST)",
    "titleTrack": "Someone to Hold",
    "date": "2026-11-06T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-JENNIE-Someone-to-Hold-Netflix-Steps.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-JENNIE-Someone-to-Hold-Netflix-Steps.webp",
    "url": "https://kpopofficial.com/album/jennie-someone-to-hold/",
    "tracklist": [
     "Title – Someone to Hold"
@@ -6219,7 +6219,7 @@
    "title": "OFF script",
    "titleTrack": "RUN (with Dynamicduo)",
    "date": "2026-11-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover1-ZEROBASEONE-EMP-Members.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/ZEROBASEONE-EMP-OFF-script-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/zerobaseone-emp-off-script/",
    "tracklist": [
     "Title – \"RUN (with Dynamicduo)\"",
@@ -6262,7 +6262,7 @@
    "title": "CONTINUE",
    "titleTrack": "I'll Be Here",
    "date": "2026-11-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-KYUHYUN-CONTINUE.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/KYUHYUN-CONTINUE-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/kyuhyun-continue/",
    "tracklist": [
     "Title – \"I’ll Be Here\"",
@@ -6437,7 +6437,7 @@
    "title": "Cute & Anxiety",
    "titleTrack": "Too Much",
    "date": "2026-11-20T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-Yves-Cute-and-Anxiety.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-Yves-Cute-and-Anxiety.webp",
    "url": "https://kpopofficial.com/album/yves-cute-and-anxiety/",
    "tracklist": [
     "Title – \"Too Much\"",
@@ -6550,6 +6550,25 @@
    "mv": "https://www.youtube.com/watch?v=HQdQRzYJvmc"
   },
   {
+   "artist": "1VERSE",
+   "type": "1st EP",
+   "title": "UNCHARTED",
+   "titleTrack": null,
+   "date": "2026-11-24T12:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/01/cover-1VERSE-Digital-Single-WABIF.webp",
+   "url": "https://kpopofficial.com/album/1verse-dancing-in-the-rain/",
+   "tracklist": [
+    "Pre-release – Dancing in the Rain"
+   ],
+   "links": [
+    "https://x.com/1VERSE_official",
+    "https://www.instagram.com/official1verse/",
+    "https://www.youtube.com/@1VERSE_official",
+    "https://www.tiktok.com/@1verse_official",
+    "https://www.youtube.com/@1VERSE_official/releases"
+   ]
+  },
+  {
    "artist": "KISS OF LIFE",
    "type": "Winter Digital Single",
    "title": "Greedy",
@@ -6567,6 +6586,23 @@
     "https://www.tiktok.com/@kissoflife_official"
    ],
    "mv": "https://www.youtube.com/watch?v=w-FQ_Iw7fDs"
+  },
+  {
+   "artist": "KIIRAS",
+   "type": "2nd Digital Single Album",
+   "title": "OVER U",
+   "titleTrack": null,
+   "date": "2026-11-26T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-KIIRAS-Members-for-2nd-Single-Album-TA-TA-2026.webp",
+   "url": "https://kpopofficial.com/album/kiiras-over-u/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_KIIRAS",
+    "https://www.instagram.com/kiiras__official/",
+    "https://www.youtube.com/@KIIRASofficial",
+    "https://www.tiktok.com/@official_kiiras",
+    "https://www.youtube.com/@KIIRASofficial/releases"
+   ]
   },
   {
    "artist": "TAEYEON",
