@@ -1,30 +1,27 @@
 {
- "generated": "2026-11-17T20:53:50+00:00",
+ "generated": "2026-11-18T07:26:28+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
-   "artist": "CHAERYEONG (ITZY)",
-   "type": "1st Mini Album",
-   "title": "Lovesick",
-   "titleTrack": "Lovesick",
-   "date": "2026-11-09T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/ITZY-CHAERYEONG-Lovesick-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/chaeryeong-lovesick/",
+   "artist": "UNCHILD",
+   "type": "2nd Digital Single",
+   "title": "TiNG TiNG",
+   "titleTrack": "TiNG TiNG",
+   "date": "2026-11-05T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/UNCHILD-TiNG-TiNG-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/unchild-ting-ting/",
    "tracklist": [
-    "Title – \"Lovesick\"",
-    "Lovesick",
-    "Moonlit Club",
-    "Scent",
-    "Favorite Reason"
+    "Title – \"TiNG TiNG\"",
+    "TRICKY GRLS",
+    "TiNG TiNG"
    ],
    "links": [
-    "https://x.com/ITZYofficial",
-    "https://www.instagram.com/itzy.all.in.us",
-    "https://www.youtube.com/@ITZY",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@itzyofficial"
+    "https://x.com/officialUNCHILD",
+    "https://www.instagram.com/official_unchild",
+    "https://www.youtube.com/@official_unchild",
+    "https://www.tiktok.com/@official_unchild"
    ],
-   "mv": "https://www.youtube.com/watch?v=pe-rk1ekb4w"
+   "mv": "https://www.youtube.com/watch?v=zPkhs5qxpnU"
   },
   {
    "artist": "NCT DREAM",
@@ -58,6 +55,30 @@
     "https://www.tiktok.com/@official_nct"
    ],
    "mv": "https://www.youtube.com/watch?v=wG7pnZttup8"
+  },
+  {
+   "artist": "CHAERYEONG (ITZY)",
+   "type": "1st Mini Album",
+   "title": "Lovesick",
+   "titleTrack": "Lovesick",
+   "date": "2026-11-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/ITZY-CHAERYEONG-Lovesick-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/chaeryeong-lovesick/",
+   "tracklist": [
+    "Title – \"Lovesick\"",
+    "Lovesick",
+    "Moonlit Club",
+    "Scent",
+    "Favorite Reason"
+   ],
+   "links": [
+    "https://x.com/ITZYofficial",
+    "https://www.instagram.com/itzy.all.in.us",
+    "https://www.youtube.com/@ITZY",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@itzyofficial"
+   ],
+   "mv": "https://www.youtube.com/watch?v=pe-rk1ekb4w"
   },
   {
    "artist": "LNGSHOT",
@@ -127,31 +148,6 @@
     "https://www.tiktok.com/@zb1_official"
    ],
    "mv": "https://www.youtube.com/watch?v=sMazlfiJN_w"
-  },
-  {
-   "artist": "LNGSHOT",
-   "type": "EP",
-   "title": "S.W.I.S.H.",
-   "titleTrack": "Bananas",
-   "date": "2026-11-10T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/10/cover-Teaser-LNGSHOT-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/lngshot-swish/",
-   "tracklist": [
-    "Title – \"Bananas\"",
-    "Masterpiece",
-    "Bananas",
-    "Wanna Go",
-    "Up & Away",
-    "Beep Beep"
-   ],
-   "links": [
-    "https://x.com/LNGSHOT4sho",
-    "https://www.instagram.com/lngshot4sho/",
-    "https://www.youtube.com/@LNGSHOT4SHO",
-    "https://www.youtube.com/@MOREVISION",
-    "https://www.tiktok.com/@lngshot4sho"
-   ],
-   "mv": "https://www.youtube.com/watch?v=xWNIrOTJ6VA"
   },
   {
    "artist": "D.O. (EXO)",
@@ -658,6 +654,23 @@
    "title": "ICONIC",
    "titleTrack": null,
    "date": "2026-11-20T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-CL-Photo-2026.webp",
+   "url": "https://kpopofficial.com/album/cl-iconic/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/chaelinCL",
+    "https://www.instagram.com/chaelincl/",
+    "https://www.youtube.com/@chaelincl",
+    "https://www.tiktok.com/@chaelincl",
+    "https://www.youtube.com/@chaelincl/releases"
+   ]
+  },
+  {
+   "artist": "CL",
+   "type": "Digital Single",
+   "title": "ICONIC",
+   "titleTrack": null,
+   "date": "2026-11-20T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/CL-Photo-2026.webp",
    "url": "https://kpopofficial.com/album/cl-iconic/",
    "tracklist": [],
@@ -761,7 +774,7 @@
    "title": "Waking Up The City",
    "titleTrack": null,
    "date": "2026-12-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-EXO-KASE-Members-2026.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-EXO-KASE-Members-2026.webp",
    "url": "https://kpopofficial.com/album/exo-kase-waking-up-the-city/",
    "tracklist": [],
    "links": [
@@ -774,21 +787,20 @@
    ]
   },
   {
-   "artist": "EXO-KASE",
-   "type": "1st Mini Album",
-   "title": "Waking Up The City",
+   "artist": "1VERSE",
+   "type": "1st EP",
+   "title": "UNCHARTED",
    "titleTrack": null,
-   "date": "2026-12-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-EXO-KASE-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/exo-kase-waking-up-the-city/",
+   "date": "2026-12-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/01/cover-1VERSE-Digital-Single-WABIF.webp",
+   "url": "https://kpopofficial.com/album/1verse-uncharted/",
    "tracklist": [],
    "links": [
-    "https://x.com/weareoneEXO",
-    "https://www.instagram.com/weareone.exo/",
-    "https://www.youtube.com/@weareoneEXO",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@weareone.exo_official",
-    "https://www.youtube.com/@weareoneEXO/releases"
+    "https://x.com/1VERSE_official",
+    "https://www.instagram.com/official1verse/",
+    "https://www.youtube.com/@1VERSE_official",
+    "https://www.tiktok.com/@1verse_official",
+    "https://www.youtube.com/@1VERSE_official/releases"
    ]
   }
  ]
