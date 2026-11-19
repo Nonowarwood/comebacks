@@ -6241,7 +6241,7 @@
    "title": "Darling",
    "titleTrack": "Darling",
    "date": "2026-11-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/EXO-DO-Darling-1.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/EXO-DO-Darling-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/do-darling/",
    "tracklist": [
     "Title – \"Darling\"",
@@ -6262,7 +6262,7 @@
    "title": "CONTINUE",
    "titleTrack": "I'll Be Here",
    "date": "2026-11-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/KYUHYUN-CONTINUE-Album-Cover.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-KYUHYUN-CONTINUE.webp",
    "url": "https://kpopofficial.com/album/kyuhyun-continue/",
    "tracklist": [
     "Title – \"I’ll Be Here\"",
@@ -6440,7 +6440,7 @@
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-Yves-Cute-and-Anxiety.webp",
    "url": "https://kpopofficial.com/album/yves-cute-and-anxiety/",
    "tracklist": [
-    "Title – \"Too Much\"",
+    "Title – \"Polaroid\"",
     "Too Much (feat. Akriila)",
     "Polaroid",
     "Hysteric",
@@ -6456,7 +6456,7 @@
     "https://www.youtube.com/@PAIXPERMIL",
     "https://www.tiktok.com/@yves___official"
    ],
-   "mv": "https://www.youtube.com/watch?v=5jvmNm73q5U"
+   "mv": "https://www.youtube.com/watch?v=55I31QFlPJE"
   },
   {
    "artist": "NAYEON (TWICE)",
@@ -6481,7 +6481,7 @@
     "https://www.youtube.com/@IM_NAYEON_0922",
     "https://www.tiktok.com/@twice_tiktok_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=x64Vby_D3Ps"
+   "mv": "https://www.youtube.com/watch?v=KOZ_7ZSO470"
   },
   {
    "artist": "ENHYPEN",
@@ -6515,14 +6515,18 @@
    "date": "2026-11-20T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/CL-Photo-2026.webp",
    "url": "https://kpopofficial.com/album/cl-iconic/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"ICONIC\"",
+    "SAY IT TO MY FACE",
+    "ICONIC"
+   ],
    "links": [
     "https://x.com/chaelinCL",
     "https://www.instagram.com/chaelincl/",
     "https://www.youtube.com/@chaelincl",
-    "https://www.tiktok.com/@chaelincl",
-    "https://www.youtube.com/@chaelincl/releases"
-   ]
+    "https://www.tiktok.com/@chaelincl"
+   ],
+   "mv": "https://www.youtube.com/watch?v=znwIxkF7nZQ"
   },
   {
    "artist": "WENDY (Red Velvet)",
