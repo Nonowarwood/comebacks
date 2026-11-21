@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T07:04:04+00:00",
+ "generated": "2026-11-21T19:13:45+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -381,7 +381,7 @@
    "title": "Cute & Anxiety",
    "titleTrack": "Polaroid",
    "date": "2026-11-20T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-Yves-Cute-and-Anxiety.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-Yves-Cute-and-Anxiety.webp",
    "url": "https://kpopofficial.com/album/yves-cute-and-anxiety/",
    "tracklist": [
     "Title – \"Polaroid\"",
@@ -408,7 +408,7 @@
    "title": "Cute & Anxiety",
    "titleTrack": "Polaroid",
    "date": "2026-11-20T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-Yves-Cute-and-Anxiety.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-Yves-Cute-and-Anxiety.webp",
    "url": "https://kpopofficial.com/album/yves-cute-and-anxiety/",
    "tracklist": [
     "Title – \"Polaroid\"",
@@ -479,30 +479,6 @@
    "mv": "https://www.youtube.com/watch?v=dE_Ro8Sac2M"
   },
   {
-   "artist": "ENHYPEN",
-   "type": "Spinoff Single",
-   "title": "THE SIN : PARALLEL WORLD",
-   "titleTrack": "I Want You",
-   "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-ENHYPEN-Members-2026-teaser.webp",
-   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
-   "tracklist": [
-    "Title – \"I Want You\"",
-    "I Want You",
-    "Don’t Stop",
-    "ILY Season"
-   ],
-   "links": [
-    "https://x.com/ENHYPEN",
-    "https://x.com/ENHYPEN_JP",
-    "https://www.instagram.com/enhypen/",
-    "https://www.youtube.com/@ENHYPENOFFICIAL",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@enhypen"
-   ],
-   "mv": "https://www.youtube.com/watch?v=dE_Ro8Sac2M"
-  },
-  {
    "artist": "NAYEON (TWICE)",
    "type": "Single Album",
    "title": "NA-sty",
@@ -526,6 +502,30 @@
     "https://www.tiktok.com/@twice_tiktok_official"
    ],
    "mv": "https://www.youtube.com/watch?v=KOZ_7ZSO470"
+  },
+  {
+   "artist": "ENHYPEN",
+   "type": "Spinoff Single",
+   "title": "THE SIN : PARALLEL WORLD",
+   "titleTrack": "I Want You",
+   "date": "2026-11-20T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-ENHYPEN-Members-2026-teaser.webp",
+   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
+   "tracklist": [
+    "Title – \"I Want You\"",
+    "I Want You",
+    "Don’t Stop",
+    "ILY Season"
+   ],
+   "links": [
+    "https://x.com/ENHYPEN",
+    "https://x.com/ENHYPEN_JP",
+    "https://www.instagram.com/enhypen/",
+    "https://www.youtube.com/@ENHYPENOFFICIAL",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@enhypen"
+   ],
+   "mv": "https://www.youtube.com/watch?v=dE_Ro8Sac2M"
   },
   {
    "artist": "CL",
@@ -568,6 +568,31 @@
     "https://www.tiktok.com/@chaelincl"
    ],
    "mv": "https://www.youtube.com/watch?v=znwIxkF7nZQ"
+  },
+  {
+   "artist": "WENDY (Red Velvet)",
+   "type": "4th Mini Album",
+   "title": "Gleam Hour",
+   "titleTrack": "Before Sunrise",
+   "date": "2026-11-23T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-WENDY-Gleam-Hour-1.webp",
+   "url": "https://kpopofficial.com/album/wendy-gleam-hour/",
+   "tracklist": [
+    "Title – \"Before Sunrise\"",
+    "Special Dust",
+    "Before Sunrise",
+    "Timeline",
+    "WORST",
+    "Shadows",
+    "Golden Hour"
+   ],
+   "links": [
+    "https://x.com/WENDY_offcl",
+    "https://www.instagram.com/wendy_offcl/",
+    "https://www.instagram.com/todayis_wendy/",
+    "https://www.youtube.com/@WENDY_offcl"
+   ],
+   "mv": "https://www.youtube.com/watch?v=HQdQRzYJvmc"
   },
   {
    "artist": "WENDY (Red Velvet)",
