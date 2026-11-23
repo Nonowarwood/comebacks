@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T07:34:37+00:00",
+ "generated": "2026-11-23T23:51:39+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -24,56 +24,25 @@
    "mv": "https://www.youtube.com/watch?v=KSeciQOgsWM"
   },
   {
-   "artist": "KYUHYUN",
-   "type": "EP",
-   "title": "CONTINUE",
-   "titleTrack": "I'll Be Here",
+   "artist": "D.O. (EXO)",
+   "type": "Single",
+   "title": "Darling",
+   "titleTrack": "Darling",
    "date": "2026-11-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/KYUHYUN-CONTINUE-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/kyuhyun-continue/",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/EXO-DO-Darling-1.webp",
+   "url": "https://kpopofficial.com/album/do-darling/",
    "tracklist": [
-    "Title – \"I’ll Be Here\"",
-    "I’ll Be Here",
-    "Endless Season",
-    "FILAMENT",
-    "Thought I Was Fine",
-    "Voyage"
+    "Title – \"Darling\"",
+    "Darling",
+    "Darling (English Ver.)"
    ],
    "links": [
-    "https://x.com/GaemGyu",
-    "https://www.instagram.com/gyuram88",
-    "https://www.instagram.com/kyuhyun_official",
-    "https://www.youtube.com/@kyuhyuntv",
-    "https://www.youtube.com/@Antenna",
-    "https://www.tiktok.com/@kyuhyun_official"
+    "https://x.com/DOHKYUNGSOO_X",
+    "https://www.instagram.com/dohkyungsoo_offcl/",
+    "https://www.instagram.com/d.o.hkyungsoo/",
+    "https://www.youtube.com/@DOHKYUNGSOO_offcl"
    ],
-   "mv": "https://www.youtube.com/watch?v=5aiDwMOIRQE"
-  },
-  {
-   "artist": "KYUHYUN",
-   "type": "EP",
-   "title": "CONTINUE",
-   "titleTrack": "I'll Be Here",
-   "date": "2026-11-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-KYUHYUN-CONTINUE.webp",
-   "url": "https://kpopofficial.com/album/kyuhyun-continue/",
-   "tracklist": [
-    "Title – \"I’ll Be Here\"",
-    "I’ll Be Here",
-    "Endless Season",
-    "FILAMENT",
-    "Thought I Was Fine",
-    "Voyage"
-   ],
-   "links": [
-    "https://x.com/GaemGyu",
-    "https://www.instagram.com/gyuram88",
-    "https://www.instagram.com/kyuhyun_official",
-    "https://www.youtube.com/@kyuhyuntv",
-    "https://www.youtube.com/@Antenna",
-    "https://www.tiktok.com/@kyuhyun_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=5aiDwMOIRQE"
+   "mv": "https://www.youtube.com/watch?v=KSeciQOgsWM"
   },
   {
    "artist": "ATEEZ",
@@ -605,6 +574,25 @@
    "title": "UNCHARTED",
    "titleTrack": null,
    "date": "2026-11-24T12:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/01/cover2-1VERSE-Digital-Single-WABIF.webp",
+   "url": "https://kpopofficial.com/album/1verse-dancing-in-the-rain/",
+   "tracklist": [
+    "Pre-release – Dancing in the Rain"
+   ],
+   "links": [
+    "https://x.com/1VERSE_official",
+    "https://www.instagram.com/official1verse/",
+    "https://www.youtube.com/@1VERSE_official",
+    "https://www.tiktok.com/@1verse_official",
+    "https://www.youtube.com/@1VERSE_official/releases"
+   ]
+  },
+  {
+   "artist": "1VERSE",
+   "type": "1st EP",
+   "title": "UNCHARTED",
+   "titleTrack": null,
+   "date": "2026-11-24T12:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/01/cover-1VERSE-Digital-Single-WABIF.webp",
    "url": "https://kpopofficial.com/album/1verse-dancing-in-the-rain/",
    "tracklist": [
@@ -617,6 +605,25 @@
     "https://www.tiktok.com/@1verse_official",
     "https://www.youtube.com/@1VERSE_official/releases"
    ]
+  },
+  {
+   "artist": "KISS OF LIFE",
+   "type": "Winter Digital Single",
+   "title": "Greedy",
+   "titleTrack": "Greedy",
+   "date": "2026-11-25T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-KISS-OF-LIFE-Greedy-Teaser.webp",
+   "url": "https://kpopofficial.com/album/kiss-of-life-greedy/",
+   "tracklist": [
+    "Title – \"Greedy\""
+   ],
+   "links": [
+    "https://x.com/KISSOFLIFE_S2",
+    "https://www.instagram.com/kissoflife_s2",
+    "https://www.youtube.com/@KISSOFLIFE_official",
+    "https://www.tiktok.com/@kissoflife_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=w-FQ_Iw7fDs"
   },
   {
    "artist": "KISS OF LIFE",
@@ -695,6 +702,24 @@
     "https://www.tiktok.com/@taeyeon_official"
    ],
    "mv": "https://www.youtube.com/watch?v=VNsCNLcmnn4"
+  },
+  {
+   "artist": "EXO-KASE",
+   "type": "1st Mini Album",
+   "title": "Waking Up The City",
+   "titleTrack": null,
+   "date": "2026-12-01T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-EXO-KASE-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/exo-kase-waking-up-the-city/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/weareoneEXO",
+    "https://www.instagram.com/weareone.exo/",
+    "https://www.youtube.com/@weareoneEXO",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@weareone.exo_official",
+    "https://www.youtube.com/@weareoneEXO/releases"
+   ]
   },
   {
    "artist": "EXO-KASE",
