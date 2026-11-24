@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T09:52:29+00:00",
+ "generated": "2026-11-24T22:24:45+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -255,6 +255,26 @@
    "mv": "https://www.youtube.com/watch?v=masFBnN7jsA"
   },
   {
+   "artist": "I.N (Stray Kids)",
+   "type": "Digital Single",
+   "title": "NO RETURN",
+   "titleTrack": "NO RETURN",
+   "date": "2026-11-17T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-IN-NO-RETURN-Album-Cover.webp",
+   "url": "https://kpopofficial.com/album/in-no-return/",
+   "tracklist": [
+    "Title – \"NO RETURN\""
+   ],
+   "links": [
+    "https://x.com/Stray_Kids",
+    "https://www.instagram.com/realstraykids/",
+    "https://www.youtube.com/@StrayKids",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@jypestraykids"
+   ],
+   "mv": "https://www.youtube.com/watch?v=masFBnN7jsA"
+  },
+  {
    "artist": "AMPERS&ONE",
    "type": "1st Full Album",
    "title": "PATHFINDER",
@@ -284,32 +304,12 @@
    "mv": "https://www.youtube.com/watch?v=oy1ePVqmvJ4"
   },
   {
-   "artist": "I.N (Stray Kids)",
-   "type": "Digital Single",
-   "title": "NO RETURN",
-   "titleTrack": "NO RETURN",
-   "date": "2026-11-17T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-IN-NO-RETURN-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/in-no-return/",
-   "tracklist": [
-    "Title – \"NO RETURN\""
-   ],
-   "links": [
-    "https://x.com/Stray_Kids",
-    "https://www.instagram.com/realstraykids/",
-    "https://www.youtube.com/@StrayKids",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@jypestraykids"
-   ],
-   "mv": "https://www.youtube.com/watch?v=masFBnN7jsA"
-  },
-  {
    "artist": "YVES",
    "type": "5th EP",
    "title": "Cute & Anxiety",
    "titleTrack": "Polaroid",
    "date": "2026-11-20T00:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-Yves-Cute-and-Anxiety.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/Yves-Cute-and-Anxiety-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/yves-cute-and-anxiety/",
    "tracklist": [
     "Title – \"Polaroid\"",
@@ -363,7 +363,7 @@
    "title": "NA-sty",
    "titleTrack": "BABY ANGEL",
    "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-Nayeon-Na-sty-Album.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/NAYEON-NA-sty-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/nayeon-na-sty/",
    "tracklist": [
     "Title – \"BABY ANGEL\"",
@@ -407,30 +407,6 @@
    "mv": "https://www.youtube.com/watch?v=dE_Ro8Sac2M"
   },
   {
-   "artist": "ENHYPEN",
-   "type": "Spinoff Single",
-   "title": "THE SIN : PARALLEL WORLD",
-   "titleTrack": "I Want You",
-   "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-ENHYPEN-Members-2026-teaser.webp",
-   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
-   "tracklist": [
-    "Title – \"I Want You\"",
-    "I Want You",
-    "Don’t Stop",
-    "ILY Season"
-   ],
-   "links": [
-    "https://x.com/ENHYPEN",
-    "https://x.com/ENHYPEN_JP",
-    "https://www.instagram.com/enhypen/",
-    "https://www.youtube.com/@ENHYPENOFFICIAL",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@enhypen"
-   ],
-   "mv": "https://www.youtube.com/watch?v=dE_Ro8Sac2M"
-  },
-  {
    "artist": "NAYEON (TWICE)",
    "type": "Single Album",
    "title": "NA-sty",
@@ -454,6 +430,30 @@
     "https://www.tiktok.com/@twice_tiktok_official"
    ],
    "mv": "https://www.youtube.com/watch?v=0JQ9k6kcKVs"
+  },
+  {
+   "artist": "ENHYPEN",
+   "type": "Spinoff Single",
+   "title": "THE SIN : PARALLEL WORLD",
+   "titleTrack": "I Want You",
+   "date": "2026-11-20T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-ENHYPEN-Members-2026-teaser.webp",
+   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
+   "tracklist": [
+    "Title – \"I Want You\"",
+    "I Want You",
+    "Don’t Stop",
+    "ILY Season"
+   ],
+   "links": [
+    "https://x.com/ENHYPEN",
+    "https://x.com/ENHYPEN_JP",
+    "https://www.instagram.com/enhypen/",
+    "https://www.youtube.com/@ENHYPENOFFICIAL",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@enhypen"
+   ],
+   "mv": "https://www.youtube.com/watch?v=dE_Ro8Sac2M"
   },
   {
    "artist": "CL",
@@ -503,7 +503,7 @@
    "title": "Gleam Hour",
    "titleTrack": "Before Sunrise",
    "date": "2026-11-23T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-WENDY-Gleam-Hour-1.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/WENDY-Gleam-Hour-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/wendy-gleam-hour/",
    "tracklist": [
     "Title – \"Before Sunrise\"",
@@ -591,25 +591,6 @@
    "title": "Greedy",
    "titleTrack": "Greedy",
    "date": "2026-11-25T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-KISS-OF-LIFE-Greedy-Teaser.webp",
-   "url": "https://kpopofficial.com/album/kiss-of-life-greedy/",
-   "tracklist": [
-    "Title – \"Greedy\""
-   ],
-   "links": [
-    "https://x.com/KISSOFLIFE_S2",
-    "https://www.instagram.com/kissoflife_s2",
-    "https://www.youtube.com/@KISSOFLIFE_official",
-    "https://www.tiktok.com/@kissoflife_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=w-FQ_Iw7fDs"
-  },
-  {
-   "artist": "KISS OF LIFE",
-   "type": "Winter Digital Single",
-   "title": "Greedy",
-   "titleTrack": "Greedy",
-   "date": "2026-11-25T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/KISS-OF-LIFE-Greedy-Teaser.webp",
    "url": "https://kpopofficial.com/album/kiss-of-life-greedy/",
    "tracklist": [
@@ -621,7 +602,7 @@
     "https://www.youtube.com/@KISSOFLIFE_official",
     "https://www.tiktok.com/@kissoflife_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=w-FQ_Iw7fDs"
+   "mv": "https://www.youtube.com/watch?v=V3Wor2AQRN4"
   },
   {
    "artist": "KIIRAS",
@@ -646,27 +627,6 @@
    "title": "Unspecial",
    "titleTrack": "Unspecial",
    "date": "2026-11-30T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-TAEYEON-SNSD.jpg",
-   "url": "https://kpopofficial.com/album/taeyeon-unspecial/",
-   "tracklist": [
-    "Title – \"Unspecial\""
-   ],
-   "links": [
-    "https://x.com/TAEYEONsmtown",
-    "https://www.instagram.com/taeyeon.smofficial/",
-    "https://www.instagram.com/taeyeon_ss/",
-    "https://www.youtube.com/@taeyeonofficial",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@taeyeon_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=VNsCNLcmnn4"
-  },
-  {
-   "artist": "TAEYEON",
-   "type": "4th Album",
-   "title": "Unspecial",
-   "titleTrack": "Unspecial",
-   "date": "2026-11-30T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-TAEYEON-SNSD.jpg",
    "url": "https://kpopofficial.com/album/taeyeon-unspecial/",
    "tracklist": [
@@ -681,24 +641,6 @@
     "https://www.tiktok.com/@taeyeon_official"
    ],
    "mv": "https://www.youtube.com/watch?v=VNsCNLcmnn4"
-  },
-  {
-   "artist": "EXO-KASE",
-   "type": "1st Mini Album",
-   "title": "Waking Up The City",
-   "titleTrack": null,
-   "date": "2026-12-01T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-EXO-KASE-Members-2026.webp",
-   "url": "https://kpopofficial.com/album/exo-kase-waking-up-the-city/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/weareoneEXO",
-    "https://www.instagram.com/weareone.exo/",
-    "https://www.youtube.com/@weareoneEXO",
-    "https://www.youtube.com/@SMTOWN",
-    "https://www.tiktok.com/@weareone.exo_official",
-    "https://www.youtube.com/@weareoneEXO/releases"
-   ]
   },
   {
    "artist": "EXO-KASE",
