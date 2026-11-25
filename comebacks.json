@@ -1,28 +1,7 @@
 {
- "generated": "2026-11-25T08:30:30+00:00",
+ "generated": "2026-11-25T21:40:33+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
-  {
-   "artist": "D.O. (EXO)",
-   "type": "Single",
-   "title": "Darling",
-   "titleTrack": "Darling",
-   "date": "2026-11-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/EXO-DO-Darling-1.webp",
-   "url": "https://kpopofficial.com/album/do-darling/",
-   "tracklist": [
-    "Title – \"Darling\"",
-    "Darling",
-    "Darling (English Ver.)"
-   ],
-   "links": [
-    "https://x.com/DOHKYUNGSOO_X",
-    "https://www.instagram.com/dohkyungsoo_offcl/",
-    "https://www.instagram.com/d.o.hkyungsoo/",
-    "https://www.youtube.com/@DOHKYUNGSOO_offcl"
-   ],
-   "mv": "https://www.youtube.com/watch?v=KSeciQOgsWM"
-  },
   {
    "artist": "ATEEZ",
    "type": "15th Mini Album",
@@ -369,7 +348,7 @@
    "title": "THE SIN : PARALLEL WORLD",
    "titleTrack": "I Want You",
    "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-ENHYPEN-Members-2026-teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/ENHYPEN-THE-SIN-PARALLEL-WORLD-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
    "tracklist": [
     "Title – \"I Want You\"",
@@ -442,7 +421,7 @@
    "title": "ICONIC",
    "titleTrack": "ICONIC",
    "date": "2026-11-20T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-CL-ICONIC.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/CL-ICONIC-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/cl-iconic/",
    "tracklist": [
     "Title – \"ICONIC\"",
@@ -455,7 +434,7 @@
     "https://www.youtube.com/@chaelincl",
     "https://www.tiktok.com/@chaelincl"
    ],
-   "mv": "https://www.youtube.com/watch?v=znwIxkF7nZQ"
+   "mv": "https://www.youtube.com/watch?v=A_H1EH6p4A0"
   },
   {
    "artist": "CL",
@@ -476,7 +455,7 @@
     "https://www.youtube.com/@chaelincl",
     "https://www.tiktok.com/@chaelincl"
    ],
-   "mv": "https://www.youtube.com/watch?v=znwIxkF7nZQ"
+   "mv": "https://www.youtube.com/watch?v=A_H1EH6p4A0"
   },
   {
    "artist": "WENDY (Red Velvet)",
@@ -572,10 +551,13 @@
    "title": "Greedy",
    "titleTrack": "Greedy",
    "date": "2026-11-25T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-KISS-OF-LIFE-Greedy-Teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/KISS-OF-LIFE-Greedy-Album-Cover.webp",
    "url": "https://kpopofficial.com/album/kiss-of-life-greedy/",
    "tracklist": [
-    "Title – \"Greedy\""
+    "Title – \"Greedy\"",
+    "Greedy",
+    "December Glow",
+    "Imperfect Christmas"
    ],
    "links": [
     "https://x.com/KISSOFLIFE_S2",
@@ -583,7 +565,7 @@
     "https://www.youtube.com/@KISSOFLIFE_official",
     "https://www.tiktok.com/@kissoflife_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=V3Wor2AQRN4"
+   "mv": "https://www.youtube.com/watch?v=9AzCkUyVmdE"
   },
   {
    "artist": "KISS OF LIFE",
@@ -591,10 +573,13 @@
    "title": "Greedy",
    "titleTrack": "Greedy",
    "date": "2026-11-25T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/KISS-OF-LIFE-Greedy-Teaser.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-KISS-OF-LIFE-Members-GREEDY.webp",
    "url": "https://kpopofficial.com/album/kiss-of-life-greedy/",
    "tracklist": [
-    "Title – \"Greedy\""
+    "Title – \"Greedy\"",
+    "Greedy",
+    "December Glow",
+    "Imperfect Christmas"
    ],
    "links": [
     "https://x.com/KISSOFLIFE_S2",
@@ -602,41 +587,45 @@
     "https://www.youtube.com/@KISSOFLIFE_official",
     "https://www.tiktok.com/@kissoflife_official"
    ],
-   "mv": "https://www.youtube.com/watch?v=V3Wor2AQRN4"
+   "mv": "https://www.youtube.com/watch?v=9AzCkUyVmdE"
   },
   {
    "artist": "KIIRAS",
    "type": "2nd Digital Single Album",
    "title": "OVER U",
-   "titleTrack": null,
+   "titleTrack": "OVER U",
    "date": "2026-11-26T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-KIIRAS-OVER-U-Members.webp",
    "url": "https://kpopofficial.com/album/kiiras-over-u/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"OVER U\""
+   ],
    "links": [
     "https://x.com/official_KIIRAS",
     "https://www.instagram.com/kiiras__official/",
     "https://www.youtube.com/@KIIRASofficial",
-    "https://www.tiktok.com/@official_kiiras",
-    "https://www.youtube.com/@KIIRASofficial/releases"
-   ]
+    "https://www.tiktok.com/@official_kiiras"
+   ],
+   "mv": "https://www.youtube.com/watch?v=faCNJsjfNpo"
   },
   {
    "artist": "KIIRAS",
    "type": "2nd Digital Single Album",
    "title": "OVER U",
-   "titleTrack": null,
+   "titleTrack": "OVER U",
    "date": "2026-11-26T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-KIIRAS-Members-for-2nd-Single-Album-TA-TA-2026.webp",
    "url": "https://kpopofficial.com/album/kiiras-over-u/",
-   "tracklist": [],
+   "tracklist": [
+    "Title – \"OVER U\""
+   ],
    "links": [
     "https://x.com/official_KIIRAS",
     "https://www.instagram.com/kiiras__official/",
     "https://www.youtube.com/@KIIRASofficial",
-    "https://www.tiktok.com/@official_kiiras",
-    "https://www.youtube.com/@KIIRASofficial/releases"
-   ]
+    "https://www.tiktok.com/@official_kiiras"
+   ],
+   "mv": "https://www.youtube.com/watch?v=faCNJsjfNpo"
   },
   {
    "artist": "TAEYEON",
@@ -704,7 +693,7 @@
    "title": "UNCHARTED",
    "titleTrack": null,
    "date": "2026-12-09T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/01/cover2-1VERSE-Digital-Single-WABIF.webp",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/01/cover-1VERSE-Digital-Single-WABIF.webp",
    "url": "https://kpopofficial.com/album/1verse-uncharted/",
    "tracklist": [],
    "links": [
@@ -716,21 +705,22 @@
    ]
   },
   {
-   "artist": "1VERSE",
-   "type": "1st EP",
-   "title": "UNCHARTED",
+   "artist": "oftheblue",
+   "type": "1st Mini Album",
+   "title": "out of the blue",
    "titleTrack": null,
-   "date": "2026-12-09T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/01/cover-1VERSE-Digital-Single-WABIF.webp",
-   "url": "https://kpopofficial.com/album/1verse-uncharted/",
+   "date": "2027-01-11T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/oftheblue-members.webp",
+   "url": "https://kpopofficial.com/album/oftheblue-out-of-the-blue/",
    "tracklist": [],
    "links": [
-    "https://x.com/1VERSE_official",
-    "https://www.instagram.com/official1verse/",
-    "https://www.youtube.com/@1VERSE_official",
-    "https://www.tiktok.com/@1verse_official",
-    "https://www.youtube.com/@1VERSE_official/releases"
-   ]
+    "https://x.com/oblu_official",
+    "https://www.instagram.com/oftheblue_official/",
+    "https://www.youtube.com/@oblu_official",
+    "https://www.youtube.com/@JYPEntertainment",
+    "https://www.tiktok.com/@oftheblue_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=d1AknDUMAE0"
   }
  ]
 }
