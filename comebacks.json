@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T22:24:45+00:00",
+ "generated": "2026-11-25T08:30:30+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -74,25 +74,6 @@
     "https://www.tiktok.com/@ateez_official_"
    ],
    "mv": "https://www.youtube.com/watch?v=SGovymtCzvA"
-  },
-  {
-   "artist": "H1-KEY",
-   "type": "Digital Single",
-   "title": "Unbelievable",
-   "titleTrack": "Unbelievable",
-   "date": "2026-11-13T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/H1-KEY-Unbelievable-Album-Cover.webp",
-   "url": "https://kpopofficial.com/album/h1-key-unbelievable/",
-   "tracklist": [
-    "Title – \"Unbelievable\""
-   ],
-   "links": [
-    "https://x.com/H1KEY_official",
-    "https://www.instagram.com/h1key_official",
-    "https://www.youtube.com/@H1KEY_official",
-    "https://www.tiktok.com/@h1key_choi"
-   ],
-   "mv": "https://www.youtube.com/watch?v=18X8ClyLIaI"
   },
   {
    "artist": "H1-KEY",
@@ -591,6 +572,25 @@
    "title": "Greedy",
    "titleTrack": "Greedy",
    "date": "2026-11-25T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-KISS-OF-LIFE-Greedy-Teaser.webp",
+   "url": "https://kpopofficial.com/album/kiss-of-life-greedy/",
+   "tracklist": [
+    "Title – \"Greedy\""
+   ],
+   "links": [
+    "https://x.com/KISSOFLIFE_S2",
+    "https://www.instagram.com/kissoflife_s2",
+    "https://www.youtube.com/@KISSOFLIFE_official",
+    "https://www.tiktok.com/@kissoflife_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=V3Wor2AQRN4"
+  },
+  {
+   "artist": "KISS OF LIFE",
+   "type": "Winter Digital Single",
+   "title": "Greedy",
+   "titleTrack": "Greedy",
+   "date": "2026-11-25T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/KISS-OF-LIFE-Greedy-Teaser.webp",
    "url": "https://kpopofficial.com/album/kiss-of-life-greedy/",
    "tracklist": [
@@ -610,6 +610,23 @@
    "title": "OVER U",
    "titleTrack": null,
    "date": "2026-11-26T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-KIIRAS-OVER-U-Members.webp",
+   "url": "https://kpopofficial.com/album/kiiras-over-u/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/official_KIIRAS",
+    "https://www.instagram.com/kiiras__official/",
+    "https://www.youtube.com/@KIIRASofficial",
+    "https://www.tiktok.com/@official_kiiras",
+    "https://www.youtube.com/@KIIRASofficial/releases"
+   ]
+  },
+  {
+   "artist": "KIIRAS",
+   "type": "2nd Digital Single Album",
+   "title": "OVER U",
+   "titleTrack": null,
+   "date": "2026-11-26T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/04/cover-KIIRAS-Members-for-2nd-Single-Album-TA-TA-2026.webp",
    "url": "https://kpopofficial.com/album/kiiras-over-u/",
    "tracklist": [],
@@ -620,6 +637,27 @@
     "https://www.tiktok.com/@official_kiiras",
     "https://www.youtube.com/@KIIRASofficial/releases"
    ]
+  },
+  {
+   "artist": "TAEYEON",
+   "type": "4th Album",
+   "title": "Unspecial",
+   "titleTrack": "Unspecial",
+   "date": "2026-11-30T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-TAEYEON-SNSD.jpg",
+   "url": "https://kpopofficial.com/album/taeyeon-unspecial/",
+   "tracklist": [
+    "Title – \"Unspecial\""
+   ],
+   "links": [
+    "https://x.com/TAEYEONsmtown",
+    "https://www.instagram.com/taeyeon.smofficial/",
+    "https://www.instagram.com/taeyeon_ss/",
+    "https://www.youtube.com/@taeyeonofficial",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@taeyeon_official"
+   ],
+   "mv": "https://www.youtube.com/watch?v=VNsCNLcmnn4"
   },
   {
    "artist": "TAEYEON",
@@ -658,6 +696,23 @@
     "https://www.youtube.com/@SMTOWN",
     "https://www.tiktok.com/@weareone.exo_official",
     "https://www.youtube.com/@weareoneEXO/releases"
+   ]
+  },
+  {
+   "artist": "1VERSE",
+   "type": "1st EP",
+   "title": "UNCHARTED",
+   "titleTrack": null,
+   "date": "2026-12-09T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/01/cover2-1VERSE-Digital-Single-WABIF.webp",
+   "url": "https://kpopofficial.com/album/1verse-uncharted/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/1VERSE_official",
+    "https://www.instagram.com/official1verse/",
+    "https://www.youtube.com/@1VERSE_official",
+    "https://www.tiktok.com/@1verse_official",
+    "https://www.youtube.com/@1VERSE_official/releases"
    ]
   },
   {
