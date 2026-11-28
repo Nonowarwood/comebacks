@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T21:14:46+00:00",
+ "generated": "2026-11-28T07:45:24+00:00",
  "source": "https://kpopofficial.com/kpop-comebacks/",
  "entries": [
   {
@@ -296,6 +296,30 @@
    "mv": "https://www.youtube.com/watch?v=dE_Ro8Sac2M"
   },
   {
+   "artist": "ENHYPEN",
+   "type": "Spinoff Single",
+   "title": "THE SIN : PARALLEL WORLD",
+   "titleTrack": "I Want You",
+   "date": "2026-11-20T14:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-ENHYPEN-Members-2026-teaser.webp",
+   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
+   "tracklist": [
+    "Title – \"I Want You\"",
+    "I Want You",
+    "Don’t Stop",
+    "ILY Season"
+   ],
+   "links": [
+    "https://x.com/ENHYPEN",
+    "https://x.com/ENHYPEN_JP",
+    "https://www.instagram.com/enhypen/",
+    "https://www.youtube.com/@ENHYPENOFFICIAL",
+    "https://www.youtube.com/@HYBELABELS",
+    "https://www.tiktok.com/@enhypen"
+   ],
+   "mv": "https://www.youtube.com/watch?v=dE_Ro8Sac2M"
+  },
+  {
    "artist": "NAYEON (TWICE)",
    "type": "Single Album",
    "title": "NA-sty",
@@ -319,30 +343,6 @@
     "https://www.tiktok.com/@twice_tiktok_official"
    ],
    "mv": "https://www.youtube.com/watch?v=0JQ9k6kcKVs"
-  },
-  {
-   "artist": "ENHYPEN",
-   "type": "Spinoff Single",
-   "title": "THE SIN : PARALLEL WORLD",
-   "titleTrack": "I Want You",
-   "date": "2026-11-20T14:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-ENHYPEN-Members-2026-teaser.webp",
-   "url": "https://kpopofficial.com/album/enhypen-the-sin-parallel-world/",
-   "tracklist": [
-    "Title – \"I Want You\"",
-    "I Want You",
-    "Don’t Stop",
-    "ILY Season"
-   ],
-   "links": [
-    "https://x.com/ENHYPEN",
-    "https://x.com/ENHYPEN_JP",
-    "https://www.instagram.com/enhypen/",
-    "https://www.youtube.com/@ENHYPENOFFICIAL",
-    "https://www.youtube.com/@HYBELABELS",
-    "https://www.tiktok.com/@enhypen"
-   ],
-   "mv": "https://www.youtube.com/watch?v=dE_Ro8Sac2M"
   },
   {
    "artist": "CL",
@@ -610,6 +610,24 @@
    "title": "Waking Up The City",
    "titleTrack": null,
    "date": "2026-12-01T18:00:00+09:00",
+   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-EXO-KASE-Members-2026.webp",
+   "url": "https://kpopofficial.com/album/exo-kase-waking-up-the-city/",
+   "tracklist": [],
+   "links": [
+    "https://x.com/weareoneEXO",
+    "https://www.instagram.com/weareone.exo/",
+    "https://www.youtube.com/@weareoneEXO",
+    "https://www.youtube.com/@SMTOWN",
+    "https://www.tiktok.com/@weareone.exo_official",
+    "https://www.youtube.com/@weareoneEXO/releases"
+   ]
+  },
+  {
+   "artist": "EXO-KASE",
+   "type": "1st Mini Album",
+   "title": "Waking Up The City",
+   "titleTrack": null,
+   "date": "2026-12-01T18:00:00+09:00",
    "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover-EXO-KASE-Members-2026.webp",
    "url": "https://kpopofficial.com/album/exo-kase-waking-up-the-city/",
    "tracklist": [],
@@ -655,24 +673,6 @@
     "https://www.tiktok.com/@1verse_official",
     "https://www.youtube.com/@1VERSE_official/releases"
    ]
-  },
-  {
-   "artist": "oftheblue",
-   "type": "1st Mini Album",
-   "title": "out of the blue",
-   "titleTrack": null,
-   "date": "2027-01-11T18:00:00+09:00",
-   "img": "https://kpopofficial.com/wp-content/uploads/2026/11/cover2-oftheblue-members.webp",
-   "url": "https://kpopofficial.com/album/oftheblue-out-of-the-blue/",
-   "tracklist": [],
-   "links": [
-    "https://x.com/oblu_official",
-    "https://www.instagram.com/oftheblue_official/",
-    "https://www.youtube.com/@oblu_official",
-    "https://www.youtube.com/@JYPEntertainment",
-    "https://www.tiktok.com/@oftheblue_official"
-   ],
-   "mv": "https://www.youtube.com/watch?v=d1AknDUMAE0"
   },
   {
    "artist": "oftheblue",
